@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_metadata_system",
+  "info": {
+    "displayName": "System Metadata",
+    "icon": "server",
+    "description": "Metadatos del sistema, como versiones, IDs de integración, etc."
+  },
+  "options": {},
+  "attributes": {
+    "key": {
+      "type": "string",
+      "required": false,
+      "description": "Clave del metadato del sistema"
+    },
+    "value": {
+      "type": "text",
+      "required": false,
+      "description": "Valor del metadato del sistema"
+    },
+    "source": {
+      "type": "string",
+      "description": "Fuente o sistema que generó este metadato"
+    },
+    "timestamp": {
+      "type": "datetime",
+      "description": "Momento en que se generó este metadato"
+    }
+  }
+}

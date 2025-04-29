@@ -1,0 +1,129 @@
+{
+  "kind": "collectionType",
+  "collectionName": "membershipperiods",
+  "info": {
+    "singularName": "membershipperiod",
+    "pluralName": "membershipperiods",
+    "displayName": "MembershipPeriod",
+    "description": "Períodos de membresía para miembros",
+    "collectionName": "membershipperiods"
+  },
+  "options": {
+    "draftAndPublish": true,
+    "comment": "Tabla que almacena información de membershipperiod"
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "startDate": {
+      "type": "date",
+      "required": true,
+      "description": "Fecha de inicio del período de membresía"
+    },
+    "endDate": {
+      "type": "date",
+      "required": true,
+      "description": "Fecha de finalización del período de membresía"
+    },
+    "periodStatus": {
+      "type": "enumeration",
+      "enum": [
+        "active",
+        "expired",
+        "cancelled",
+        "suspended",
+        "pending_payment"
+      ],
+      "default": "pending_payment",
+      "required": true,
+      "description": "Estado actual del período de membresía"
+    },
+    "notes": {
+      "type": "text",
+      "description": "Notas adicionales sobre este período de membresía"
+    },
+    "systemMetadata": {
+      "type": "component",
+      "component": "metadata.system",
+      "repeatable": true,
+      "description": "Metadatos del sistema relacionados con el período de membresía"
+    },
+    "analyticsMetadata": {
+      "type": "component",
+      "component": "metadata.analytics",
+      "repeatable": true,
+      "description": "Metadatos para análisis relacionados con el período de membresía"
+    },
+    "metadata": {
+      "type": "component",
+      "component": "common.metadata",
+      "repeatable": true,
+      "description": "Metadatos adicionales (formato legacy)"
+    },
+    "statusChangedAt": {
+      "type": "datetime",
+      "description": "Fecha y hora del último cambio de estado"
+    },
+    "previousStatus": {
+      "type": "string",
+      "description": "Estado anterior del período de membresía"
+    },
+    "statusHistory": {
+      "type": "json",
+      "description": "Historial completo de cambios de estado con fechas y razones"
+    },
+    "member": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member",
+      "description": "Miembro al que pertenece este período de membresía"
+    },
+    "membership": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::membership.membership",
+      "description": "Tipo de membresía de este período"
+    },
+    "payments": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::payment.payment",
+      "description": "Pagos asociados a este período de membresía"
+    },
+    "isRenewal": {
+      "type": "boolean",
+      "default": false,
+      "description": "Indica si este período es una renovación de un período anterior"
+    },
+    "previousPeriodId": {
+      "type": "integer",
+      "description": "ID del período anterior si es una renovación"
+    },
+    "actualPrice": {
+      "type": "decimal",
+      "description": "Precio real pagado por este período (puede diferir del precio base)"
+    },
+    "discountApplied": {
+      "type": "decimal",
+      "description": "Descuento aplicado a este período"
+    },
+    "discountReason": {
+      "type": "string",
+      "description": "Razón o código del descuento aplicado"
+    },
+    "renewalReminders": {
+      "type": "json",
+      "description": "Registro de recordatorios de renovación enviados"
+    },
+    "isActive": {
+      "type": "boolean",
+      "default": true,
+      "description": "Indica si este período está activo (para facilitar consultas)"
+    },
+    "deletedAt": {
+      "type": "datetime",
+      "configurable": false,
+      "visible": false,
+      "description": "Fecha de eliminación para soft delete"
+    }
+  }
+}

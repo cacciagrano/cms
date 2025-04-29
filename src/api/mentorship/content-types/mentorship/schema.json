@@ -1,0 +1,113 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mentorship",
+  "info": {
+    "singularName": "mentorship",
+    "pluralName": "mentorships",
+    "displayName": "Mentorship",
+    "description": "Relaciones de mentoría entre miembros",
+    "collectionName": "mentorships"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text",
+      "required": true
+    },
+    "mentorshipStatus": {
+      "type": "enumeration",
+      "enum": [
+        "proposed",
+        "active",
+        "completed",
+        "cancelled"
+      ],
+      "default": "proposed"
+    },
+    "startDate": {
+      "type": "date"
+    },
+    "endDate": {
+      "type": "date"
+    },
+    "frequency": {
+      "type": "enumeration",
+      "enum": [
+        "weekly",
+        "biweekly",
+        "monthly",
+        "ad_hoc"
+      ],
+      "default": "biweekly"
+    },
+    "sessionDuration": {
+      "type": "integer",
+      "min": 15,
+      "default": 60,
+      "description": "Duración típica de sesión en minutos"
+    },
+    "goal": {
+      "type": "component",
+      "repeatable": true,
+      "component": "collaboration.goal"
+    },
+    "format": {
+      "type": "enumeration",
+      "enum": [
+        "in_person",
+        "online",
+        "hybrid"
+      ],
+      "default": "hybrid"
+    },
+    "isPublic": {
+      "type": "boolean",
+      "default": false,
+      "description": "Si la mentoría es visible públicamente"
+    },
+    "mentor": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member",
+      "inversedBy": "mentorship"
+    },
+    "mentee": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member",
+      "inversedBy": "menteeship"
+    },
+    "focusSkill": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::skill.skill",
+      "inversedBy": "mentorship"
+    },
+    "session": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::mentorshipsession.mentorshipsession",
+      "mappedBy": "mentorship"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    },
+    "deletedAt": {
+      "type": "datetime"
+    }
+  }
+}

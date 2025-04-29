@@ -1,0 +1,32 @@
+{
+    "collectionName": "components_asset_tracking",
+    "info": {
+      "displayName": "Status Tracking",
+      "icon": "chart-line",
+      "description": "Seguimiento de estados con historial"
+    },
+    "options": {},
+    "attributes": {
+      "current": {
+        "type": "enumeration",
+        "enum": [
+          "available",
+          "in_use",
+          "reserved",
+          "maintenance",
+          "out_of_order"
+        ],
+        "default": "available",
+        "required": true,
+        "description": "Estado actual"
+      },
+      "reason": {
+        "type": "string",
+        "description": "Motivo del cambio (opcional)"
+      },
+      "history": {
+        "type": "json",
+        "description": "Historial de cambios de estado con fechas, usuarios y motivos"
+      }
+    }
+  }

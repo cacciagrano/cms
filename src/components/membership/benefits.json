@@ -1,0 +1,50 @@
+{
+    "collectionName": "components_membership_benefits",
+    "info": {
+      "displayName": "Benefits",
+      "icon": "gift",
+      "description": "Beneficios incluidos en una membresía"
+    },
+    "options": {},
+    "attributes": {
+      "name": {
+        "type": "string",
+        "required": true,
+        "description": "Nombre del beneficio"
+      },
+      "description": {
+        "type": "text",
+        "description": "Descripción detallada"
+      },
+      "icon": {
+        "type": "string",
+        "description": "Nombre del icono representativo"
+      },
+      "isHighlighted": {
+        "type": "boolean",
+        "default": false,
+        "description": "Si debe destacarse en la presentación"
+      },
+      "category": {
+        "type": "enumeration",
+        "enum": [
+          "access",
+          "discount",
+          "service",
+          "resource",
+          "event",
+          "other"
+        ],
+        "default": "access",
+        "description": "Categoría del beneficio"
+      },
+      "value": {
+        "type": "string",
+        "description": "Valor o cantidad del beneficio (ej: '10 horas', '20% descuento')"
+      },
+      "conditions": {
+        "type": "text",
+        "description": "Condiciones o restricciones aplicables"
+      }
+    }
+  }

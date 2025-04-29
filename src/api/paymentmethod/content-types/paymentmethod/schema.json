@@ -1,0 +1,90 @@
+{
+  "kind": "collectionType",
+  "collectionName": "paymentmethods",
+  "info": {
+    "singularName": "paymentmethod",
+    "pluralName": "paymentmethods",
+    "displayName": "Payment Method",
+    "description": "Métodos de pago disponibles",
+    "collectionName": "paymentmethods"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "code": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "isActive": {
+      "type": "boolean",
+      "default": true
+    },
+    "icon": {
+      "type": "string"
+    },
+    "methodType": {
+      "type": "enumeration",
+      "enum": [
+        "credit_card",
+        "debit_card",
+        "bank_transfer",
+        "paypal",
+        "cash",
+        "mobile_payment",
+        "other"
+      ],
+      "required": true
+    },
+    "processingFee": {
+      "type": "decimal",
+      "min": 0,
+      "default": 0
+    },
+    "processingFeeType": {
+      "type": "enumeration",
+      "enum": [
+        "fixed",
+        "percentage"
+      ],
+      "default": "percentage"
+    },
+    "instructions": {
+      "type": "text"
+    },
+    "paymentgateway": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::paymentgateway.paymentgateway",
+      "inversedBy": "paymentmethod"
+    },
+    "payment": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::payment.payment",
+      "mappedBy": "paymentmethod"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    },
+    "deletedAt": {
+      "type": "datetime"
+    }
+  }
+}

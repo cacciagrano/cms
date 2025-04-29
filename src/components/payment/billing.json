@@ -1,0 +1,66 @@
+{
+    "collectionName": "components_payment_billing",
+    "info": {
+      "displayName": "Billing Info",
+      "icon": "file-invoice",
+      "description": "Información de facturación"
+    },
+    "options": {},
+    "attributes": {
+      "fullName": {
+        "type": "string",
+        "description": "Nombre completo o razón social"
+      },
+      "taxId": {
+        "type": "string",
+        "description": "Identificación fiscal (NIF, CIF, VAT, etc.)"
+      },
+      "taxIdType": {
+        "type": "enumeration",
+        "enum": [
+          "nif",
+          "cif",
+          "vat",
+          "other"
+        ],
+        "description": "Tipo de identificación fiscal"
+      },
+      "address": {
+        "type": "text",
+        "description": "Dirección postal completa"
+      },
+      "city": {
+        "type": "string",
+        "description": "Ciudad"
+      },
+      "state": {
+        "type": "string",
+        "description": "Estado o provincia"
+      },
+      "postalCode": {
+        "type": "string",
+        "description": "Código postal"
+      },
+      "country": {
+        "type": "string",
+        "description": "País"
+      },
+      "email": {
+        "type": "email",
+        "description": "Email para facturación"
+      },
+      "phone": {
+        "type": "string",
+        "description": "Teléfono de contacto"
+      },
+      "additionalInfo": {
+        "type": "text",
+        "description": "Información adicional para facturación"
+      },
+      "isCompany": {
+        "type": "boolean",
+        "default": false,
+        "description": "Indica si es una empresa o persona física"
+      }
+    }
+  }

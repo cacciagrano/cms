@@ -1,0 +1,53 @@
+{
+  "kind": "collectionType",
+  "collectionName": "areaskill",
+  "info": {
+    "singularName": "areaskill",
+    "pluralName": "areaskills",
+    "displayName": "Area Required Skill",
+    "description": "Habilidades requeridas para acceder a áreas",
+    "collectionName": "areaskills"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "area": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::area.area"
+    },
+    "skill": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::skill.skill",
+      "inversedBy": "areaRequirements"
+    },
+    "requiredLevel": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::skilllevel.skilllevel",
+      "inversedBy": "areaRequirements"
+    },
+    "isStrict": {
+      "type": "boolean",
+      "default": true,
+      "description": "Si el requisito es estricto o puede ser supervisado"
+    },
+    "alternativeRequirements": {
+      "type": "text",
+      "description": "Requisitos alternativos o excepciones"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    }
+  }
+}

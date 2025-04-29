@@ -1,0 +1,31 @@
+{
+    "collectionName": "components_tool_operational",
+    "info": {
+      "displayName": "Operational Specs",
+      "icon": "cog",
+      "description": "Especificaciones operativas y de rendimiento"
+    },
+    "options": {},
+    "attributes": {
+      "maxSpeed": {
+        "type": "string",
+        "description": "Velocidad máxima",
+        "example": "1500 RPM"
+      },
+      "precision": {
+        "type": "string",
+        "description": "Precisión nominal",
+        "example": "±0.1mm"
+      },
+      "noiseLevel": {
+        "type": "string",
+        "description": "Nivel de ruido en dB",
+        "example": "65 dB"
+      },
+      "throughput": {
+        "type": "string",
+        "description": "Capacidad de producción",
+        "example": "100 unidades/hora"
+      }
+    }
+  }

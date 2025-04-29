@@ -1,0 +1,42 @@
+{
+  "collectionName": "components_asset_inventory",
+  "info": {
+    "displayName": "Inventory",
+    "icon": "package",
+    "description": "Información de inventario para activos y consumibles"
+  },
+  "options": {},
+  "attributes": {
+    "inventoryNumber": {
+      "type": "string",
+      "required": true,
+      "description": "Número de inventario único"
+    },
+    "location": {
+      "type": "string"
+    },
+    "quantity": {
+      "type": "integer",
+      "min": 0,
+      "required": true
+    },
+    "minQuantity": {
+      "type": "integer",
+      "min": 0
+    },
+    "status": {
+      "type": "enumeration",
+      "enum": ["ok", "needs_review", "expired", "damaged"],
+      "default": "ok"
+    },
+    "lastRestocked": {
+      "type": "datetime"
+    },
+    "nextRestockDate": {
+      "type": "date"
+    },
+    "supplier": {
+      "type": "string"
+    }
+  }
+}

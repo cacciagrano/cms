@@ -1,0 +1,68 @@
+{
+    "collectionName": "components_payment_seller",
+    "info": {
+      "displayName": "Seller Info",
+      "icon": "store",
+      "description": "Información del vendedor para facturas"
+    },
+    "options": {},
+    "attributes": {
+      "name": {
+        "type": "string",
+        "description": "Nombre o razón social"
+      },
+      "taxId": {
+        "type": "string",
+        "description": "Identificación fiscal"
+      },
+      "address": {
+        "type": "text",
+        "description": "Dirección postal completa"
+      },
+      "city": {
+        "type": "string",
+        "description": "Ciudad"
+      },
+      "state": {
+        "type": "string",
+        "description": "Estado o provincia"
+      },
+      "postalCode": {
+        "type": "string",
+        "description": "Código postal"
+      },
+      "country": {
+        "type": "string",
+        "description": "País"
+      },
+      "email": {
+        "type": "email",
+        "description": "Email de contacto"
+      },
+      "phone": {
+        "type": "string",
+        "description": "Teléfono de contacto"
+      },
+      "website": {
+        "type": "string",
+        "description": "Sitio web"
+      },
+      "logo": {
+        "type": "media",
+        "multiple": false,
+        "required": false,
+        "allowedTypes": [
+          "images"
+        ],
+        "description": "Logo para facturas"
+      },
+      "bankInfo": {
+        "type": "text",
+        "description": "Información bancaria"
+      },
+      "legalInfo": {
+        "type": "text",
+        "description": "Información legal adicional"
+      }
+    }
+  }

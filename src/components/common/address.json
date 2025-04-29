@@ -1,0 +1,61 @@
+{
+  "collectionName": "components_common_addresses",
+  "info": {
+    "displayName": "Address",
+    "icon": "map-pin",
+    "description": "Dirección completa con validación mejorada"
+  },
+  "options": {},
+  "attributes": {
+    "street": {
+      "type": "string",
+      "required": true,
+      "description": "Calle y número de la dirección",
+      "minLength": 3,
+      "maxLength": 100
+    },
+    "city": {
+      "type": "string",
+      "required": true,
+      "description": "Ciudad de la dirección",
+      "minLength": 2,
+      "maxLength": 50
+    },
+    "state": {
+      "type": "string",
+      "description": "Estado o provincia de la dirección",
+      "maxLength": 50
+    },
+    "postalCode": {
+      "type": "string",
+      "description": "Código postal de la dirección",
+      "regex": "^[0-9]{4,10}$"
+    },
+    "country": {
+      "type": "string",
+      "description": "País de la dirección",
+      "maxLength": 50
+    },
+    "isDefault": {
+      "type": "boolean",
+      "default": false,
+      "description": "Indica si esta es la dirección principal"
+    },
+    "addressType": {
+      "type": "enumeration",
+      "enum": [
+        "home",
+        "work",
+        "billing",
+        "shipping",
+        "other"
+      ],
+      "default": "home",
+      "description": "Tipo de dirección"
+    },
+    "coordinates": {
+      "type": "json",
+      "description": "Coordenadas geográficas (latitud, longitud) para mapas"
+    }
+  }
+}

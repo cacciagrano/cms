@@ -1,0 +1,88 @@
+{
+  "kind": "collectionType",
+  "collectionName": "memberskill",
+  "info": {
+    "singularName": "memberskill",
+    "pluralName": "memberskills",
+    "displayName": "Member Skill",
+    "description": "Habilidades asociadas a miembros",
+    "collectionName": "memberskills"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "member": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "skill": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::skill.skill",
+      "inversedBy": "memberSkills"
+    },
+    "level": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::skilllevel.skilllevel",
+      "inversedBy": "memberSkills"
+    },
+    "isVerified": {
+      "type": "boolean",
+      "default": false
+    },
+    "verifiedBy": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "verifiedAt": {
+      "type": "datetime"
+    },
+    "yearsExperience": {
+      "type": "decimal",
+      "min": 0
+    },
+    "isPublic": {
+      "type": "boolean",
+      "default": true,
+      "description": "Si esta habilidad es visible en el perfil público"
+    },
+    "isAvailableForProjects": {
+      "type": "boolean",
+      "default": false,
+      "description": "Si el miembro está disponible para colaborar con esta habilidad"
+    },
+    "notes": {
+      "type": "text"
+    },
+    "endorsements": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::skillendorsement.skillendorsement",
+      "mappedBy": "memberSkill"
+    },
+    "verifications": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::skillverification.skillverification",
+      "mappedBy": "memberSkill"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    },
+    "deletedAt": {
+      "type": "datetime"
+    }
+  }
+}

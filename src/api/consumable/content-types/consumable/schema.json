@@ -1,0 +1,110 @@
+{
+  "kind": "collectionType",
+  "collectionName": "consumable",
+  "info": {
+    "singularName": "consumable",
+    "pluralName": "consumables",
+    "displayName": "Consumable",
+    "description": "Insumos y materiales que se consumen",
+    "collectionName": "consumables"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "deletedAt": {
+      "type": "datetime",
+      "configurable": false,
+      "visible": false,
+      "description": "Fecha de eliminación para soft delete"
+    },
+    "name": {
+      "type": "string",
+      "required": true,
+      "minLength": 2,
+      "maxLength": 50,
+      "description": "Nombre del consumible"
+    },
+    "description": {
+      "type": "text",
+      "description": "Descripción detallada del consumible"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "office_supply",
+        "material",
+        "food",
+        "beverage",
+        "cleaning",
+        "chemical",
+        "other"
+      ],
+      "description": "Tipo de consumible"
+    },
+    "unit": {
+      "type": "string",
+      "description": "Unidad de medida (ej: unidades, kg, litros)"
+    },
+    "expirationDate": {
+      "type": "date",
+      "description": "Fecha de vencimiento (si aplica)"
+    },
+    "storageInstructions": {
+      "type": "text",
+      "description": "Instrucciones de almacenamiento"
+    },
+    "assetInfo": {
+      "type": "component",
+      "component": "asset.info",
+      "repeatable": false,
+      "description": "Información unificada del activo: imagen, instrucciones, inventario, etc."
+    },
+    "isReusable": {
+      "type": "boolean",
+      "default": false,
+      "description": "Indica si este consumible puede ser reutilizado"
+    },
+    "supplierCode": {
+      "type": "string",
+      "description": "Código del proveedor (si aplica)"
+    },
+    "area": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::area.area",
+      "inversedBy": "consumables"
+    },
+    "tags": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::tag.tag",
+      "description": "Etiquetas asociadas para clasificación y búsqueda"
+    },
+    "metadata": {
+      "type": "component",
+      "component": "common.metadata",
+      "repeatable": true,
+      "description": "Metadatos unificados para el consumible"
+    },
+    "audit": {
+      "type": "component",
+      "component": "audit.tracking",
+      "repeatable": false,
+      "description": "Sistema unificado de auditoría y seguimiento de cambios"
+    },
+    "consumableStatus": {
+      "type": "enumeration",
+      "enum": [
+        "available",
+        "low_stock",
+        "out_of_stock",
+        "expired",
+        "discontinued"
+      ],
+      "default": "available",
+      "description": "Estado actual del consumible"
+    }
+  }
+}

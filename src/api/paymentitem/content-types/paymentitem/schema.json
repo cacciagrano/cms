@@ -1,0 +1,114 @@
+{
+  "kind": "collectionType",
+  "collectionName": "paymentitem",
+  "info": {
+    "singularName": "paymentitem",
+    "pluralName": "paymentitems",
+    "displayName": "Payment Item",
+    "description": "Ítems individuales dentro de un pago",
+    "collectionName": "paymentitems"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "quantity": {
+      "type": "integer",
+      "required": true,
+      "min": 1,
+      "default": 1
+    },
+    "unitPrice": {
+      "type": "decimal",
+      "required": true,
+      "min": 0
+    },
+    "totalPrice": {
+      "type": "decimal",
+      "required": true,
+      "min": 0
+    },
+    "taxRate": {
+      "type": "decimal",
+      "min": 0,
+      "default": 0
+    },
+    "taxAmount": {
+      "type": "decimal",
+      "min": 0,
+      "default": 0
+    },
+    "discountAmount": {
+      "type": "decimal",
+      "min": 0,
+      "default": 0
+    },
+    "currency": {
+      "type": "string",
+      "default": "EUR"
+    },
+    "itemType": {
+      "type": "enumeration",
+      "enum": [
+        "membership",
+        "resource_usage",
+        "reservation",
+        "event",
+        "consumable",
+        "service",
+        "other"
+      ],
+      "default": "membership"
+    },
+    "periodStart": {
+      "type": "date"
+    },
+    "periodEnd": {
+      "type": "date"
+    },
+    "payment": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::payment.payment",
+      "inversedBy": "item"
+    },
+    "membership": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::membership.membership"
+    },
+    "space": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::space.space"
+    },
+    "area": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::area.area"
+    },
+    "equipment": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::equipment.equipment"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "collectionName": "components_member_personal_infos",
+  "info": {
+    "displayName": "Personal Info",
+    "icon": "user",
+    "description": "Información personal del miembro con validación mejorada"
+  },
+  "options": {},
+  "attributes": {
+    "birthDate": {
+      "type": "date",
+      "description": "Fecha de nacimiento"
+    },
+    "gender": {
+      "type": "enumeration",
+      "enum": [
+        "male",
+        "female",
+        "other",
+        "prefer_not_to_say"
+      ],
+      "description": "Género"
+    },
+    "nationality": {
+      "type": "string",
+      "description": "Nacionalidad",
+      "maxLength": 50
+    },
+    "idNumber": {
+      "type": "string",
+      "description": "Número de identificación personal",
+      "maxLength": 30
+    },
+    "idType": {
+      "type": "enumeration",
+      "enum": [
+        "passport",
+        "national_id",
+        "drivers_license",
+        "other"
+      ],
+      "description": "Tipo de documento de identidad"
+    },
+    "maritalStatus": {
+      "type": "enumeration",
+      "enum": [
+        "single",
+        "married",
+        "divorced",
+        "widowed",
+        "other"
+      ],
+      "description": "Estado civil"
+    },
+    "occupation": {
+      "type": "string",
+      "description": "Ocupación o profesión",
+      "maxLength": 100
+    },
+    "education": {
+      "type": "enumeration",
+      "enum": [
+        "primary",
+        "secondary",
+        "bachelor",
+        "master",
+        "doctorate",
+        "other"
+      ],
+      "description": "Nivel educativo más alto alcanzado"
+    }
+  }
+}

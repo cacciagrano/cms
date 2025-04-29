@@ -1,0 +1,192 @@
+{
+  "kind": "collectionType",
+  "collectionName": "member",
+  "info": {
+    "singularName": "member",
+    "pluralName": "members",
+    "displayName": "Member",
+    "description": "Miembros registrados en el sistema",
+    "collectionName": "members"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "firstName": {
+      "type": "string",
+      "required": true
+    },
+    "lastName": {
+      "type": "string",
+      "required": true
+    },
+    "displayName": {
+      "type": "string"
+    },
+    "memberCode": {
+      "type": "string",
+      "unique": true
+    },
+    "joinDate": {
+      "type": "date"
+    },
+    "memberStatus": {
+      "type": "enumeration",
+      "enum": [
+        "active",
+        "inactive",
+        "suspended",
+        "pending",
+        "alumni"
+      ],
+      "default": "pending"
+    },
+    "profileInfo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "member.profileinfo"
+    },
+    "contactInfo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "member.contactinfo"
+    },
+    "preferences": {
+      "type": "component",
+      "repeatable": false,
+      "component": "member.preferences"
+    },
+    "emergencyContact": {
+      "type": "component",
+      "repeatable": false,
+      "component": "member.emergencycontact"
+    },
+    "bio": {
+      "type": "text"
+    },
+    "avatar": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "interests": {
+      "type": "json"
+    },
+    "isPublicProfile": {
+      "type": "boolean",
+      "default": false
+    },
+    "currentSubscription": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::membershipsubscription.membershipsubscription"
+    },
+    "subscriptions": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::membershipsubscription.membershipsubscription",
+      "mappedBy": "member"
+    },
+    "skills": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::memberskill.memberskill",
+      "mappedBy": "member"
+    },
+    "attendances": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::attendance.attendance",
+      "mappedBy": "member"
+    },
+    "accessLogs": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::accesslog.accesslog",
+      "mappedBy": "member"
+    },
+    "primarySupervisorOf": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::area.area",
+      "mappedBy": "primarySupervisor"
+    },
+    "additionalSupervisorOf": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::area.area",
+      "mappedBy": "additionalSupervisors"
+    },
+    "payment": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::payment.payment",
+      "mappedBy": "member"
+    },
+    "collaborationrequest": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::collaborationrequest.collaborationrequest",
+      "mappedBy": "member"
+    },
+    "collaborationoffer": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::collaborationoffer.collaborationoffer",
+      "mappedBy": "member"
+    },
+    "collaborationagreement": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::collaborationagreement.collaborationagreement",
+      "mappedBy": "member"
+    },
+    "mentorship": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::mentorship.mentorship",
+      "mappedBy": "mentor"
+    },
+    "menteeship": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::mentorship.mentorship",
+      "mappedBy": "mentee"
+    },
+    "ownedproject": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::project.project",
+      "mappedBy": "owner"
+    },
+    "projects": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::project.project",
+      "mappedBy": "members"
+    },
+    "skillExchanges": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::skillexchange.skillexchange",
+      "mappedBy": "participants"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    },
+    "deletedAt": {
+      "type": "datetime"
+    }
+  }
+}

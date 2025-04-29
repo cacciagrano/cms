@@ -1,0 +1,54 @@
+{
+  "collectionName": "components_member_preferences",
+  "info": {
+    "displayName": "Preferences",
+    "icon": "sliders-h",
+    "description": "Preferencias del miembro"
+  },
+  "options": {},
+  "attributes": {
+    "language": {
+      "type": "enumeration",
+      "enum": [
+        "es",
+        "en",
+        "fr",
+        "pt",
+        "de",
+        "other"
+      ],
+      "default": "es",
+      "description": "Idioma preferido para comunicaciones"
+    },
+    "notifications": {
+      "type": "json",
+      "description": "Preferencias de notificaciones"
+    },
+    "privacy": {
+      "type": "json",
+      "description": "Preferencias de privacidad"
+    },
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "light",
+        "dark",
+        "system"
+      ],
+      "default": "system",
+      "description": "Tema preferido para la interfaz"
+    },
+    "timezone": {
+      "type": "string",
+      "description": "Zona horaria preferida"
+    },
+    "workingHours": {
+      "type": "json",
+      "description": "Horario habitual de trabajo"
+    },
+    "availabilityCalendar": {
+      "type": "string",
+      "description": "URL de calendario de disponibilidad"
+    }
+  }
+}

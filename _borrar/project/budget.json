@@ -1,0 +1,51 @@
+{
+  "collectionName": "components_project_budget",
+  "info": {
+    "displayName": "Project Budget",
+    "icon": "dollar-sign",
+    "description": "Información presupuestaria del proyecto"
+  },
+  "options": {},
+  "attributes": {
+    "category": {
+      "type": "string",
+      "required": true,
+      "description": "Categoría del ítem presupuestario"
+    },
+    "description": {
+      "type": "text",
+      "description": "Descripción detallada del ítem"
+    },
+    "estimatedAmount": {
+      "type": "decimal",
+      "description": "Monto estimado"
+    },
+    "actualAmount": {
+      "type": "decimal",
+      "description": "Monto real gastado"
+    },
+    "currency": {
+      "type": "string",
+      "default": "USD",
+      "description": "Moneda del presupuesto"
+    },
+    "notes": {
+      "type": "text",
+      "description": "Notas adicionales sobre este ítem presupuestario"
+    },
+    "date": {
+      "type": "date",
+      "description": "Fecha del gasto o ingreso"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "income",
+        "expense",
+        "investment"
+      ],
+      "default": "expense",
+      "description": "Tipo de transacción"
+    }
+  }
+}

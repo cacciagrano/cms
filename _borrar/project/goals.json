@@ -1,0 +1,58 @@
+{
+  "collectionName": "components_project_goals",
+  "info": {
+    "displayName": "Project Goals",
+    "icon": "target",
+    "description": "Objetivos y metas del proyecto"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "description": "Título del objetivo"
+    },
+    "description": {
+      "type": "text",
+      "description": "Descripción detallada del objetivo"
+    },
+    "targetDate": {
+      "type": "date",
+      "description": "Fecha objetivo para completar esta meta"
+    },
+    "priority": {
+      "type": "enumeration",
+      "enum": [
+        "low",
+        "medium",
+        "high",
+        "critical"
+      ],
+      "default": "medium",
+      "description": "Nivel de prioridad de este objetivo"
+    },
+    "status": {
+      "type": "enumeration",
+      "enum": [
+        "not_started",
+        "in_progress",
+        "completed",
+        "delayed",
+        "cancelled"
+      ],
+      "default": "not_started",
+      "description": "Estado actual de este objetivo"
+    },
+    "completionPercentage": {
+      "type": "integer",
+      "min": 0,
+      "max": 100,
+      "default": 0,
+      "description": "Porcentaje de completitud (0-100)"
+    },
+    "metrics": {
+      "type": "json",
+      "description": "Métricas o KPIs para medir el éxito de este objetivo"
+    }
+  }
+}

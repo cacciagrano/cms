@@ -1,0 +1,121 @@
+{
+  "kind": "collectionType",
+  "collectionName": "invoice",
+  "info": {
+    "singularName": "invoice",
+    "pluralName": "invoices",
+    "displayName": "Invoice",
+    "description": "Facturas generadas en el sistema",
+    "collectionName": "invoices"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "invoiceNumber": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    },
+    "issueDate": {
+      "type": "date",
+      "required": true
+    },
+    "dueDate": {
+      "type": "date"
+    },
+    "invoiceStatus": {
+      "type": "enumeration",
+      "enum": [
+        "draft",
+        "issued",
+        "paid",
+        "partially_paid",
+        "overdue",
+        "cancelled",
+        "refunded"
+      ],
+      "default": "draft"
+    },
+    "totalAmount": {
+      "type": "decimal",
+      "required": true,
+      "min": 0
+    },
+    "taxAmount": {
+      "type": "decimal",
+      "min": 0,
+      "default": 0
+    },
+    "currency": {
+      "type": "string",
+      "default": "EUR"
+    },
+    "notes": {
+      "type": "text"
+    },
+    "paymentTerms": {
+      "type": "text"
+    },
+    "member": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "billingInfo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "payment.billing"
+    },
+    "sellerInfo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "payment.seller"
+    },
+    "payment": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::payment.payment",
+      "inversedBy": "invoice"
+    },
+    "items": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::invoiceitem.invoiceitem",
+      "mappedBy": "invoice"
+    },
+    "pdfDocument": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "files"
+      ]
+    },
+    "sentAt": {
+      "type": "datetime"
+    },
+    "paidAt": {
+      "type": "datetime"
+    },
+    "remindersSent": {
+      "type": "integer",
+      "default": 0,
+      "min": 0
+    },
+    "lastReminderSent": {
+      "type": "datetime"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    }
+  }
+}

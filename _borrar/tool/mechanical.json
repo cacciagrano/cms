@@ -1,0 +1,36 @@
+{
+    "collectionName": "components_tool_mechanical",
+    "info": {
+      "displayName": "Mechanical Specifications",
+      "icon": "cube",
+      "description": "Especificaciones mecánicas y físicas"
+    },
+    "options": {},
+    "attributes": {
+      "weight": {
+        "type": "decimal",
+        "description": "Peso en kilogramos",
+        "min": 0
+      },
+      "dimensions": {
+        "type": "string",
+        "description": "Dimensiones (LxAxH)",
+        "example": "49x49x61 cm"
+      },
+      "material": {
+        "type": "string",
+        "description": "Material principal de construcción",
+        "example": "Acero inoxidable + ABS"
+      },
+      "operatingTemperature": {
+        "type": "string",
+        "description": "Rango de temperatura operativa",
+        "example": "5°C a 40°C"
+      },
+      "ipRating": {
+        "type": "string",
+        "description": "Grado de protección IP",
+        "example": "IP54"
+      }
+    }
+  }

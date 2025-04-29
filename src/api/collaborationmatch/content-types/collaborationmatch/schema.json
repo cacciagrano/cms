@@ -1,0 +1,90 @@
+{
+  "kind": "collectionType",
+  "collectionName": "collaborationmatch",
+  "info": {
+    "singularName": "collaborationmatch",
+    "pluralName": "collaborationmatches",
+    "displayName": "Collaboration Match",
+    "description": "Coincidencias entre ofertas y necesidades de proyectos",
+    "collectionName": "collaborationmatches"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "matchScore": {
+      "type": "decimal",
+      "min": 0,
+      "max": 100,
+      "description": "Puntuación de compatibilidad (0-100)"
+    },
+    "matchStatus": {
+      "type": "enumeration",
+      "enum": [
+        "proposed",
+        "accepted",
+        "rejected",
+        "expired"
+      ],
+      "default": "proposed"
+    },
+    "proposedAt": {
+      "type": "datetime",
+      "required": true
+    },
+    "respondedAt": {
+      "type": "datetime"
+    },
+    "expiresAt": {
+      "type": "datetime"
+    },
+    "notes": {
+      "type": "text",
+      "description": "Notas sobre la compatibilidad o recomendaciones"
+    },
+    "matchType": {
+      "type": "enumeration",
+      "enum": [
+        "automatic",
+        "manual",
+        "recommended"
+      ],
+      "default": "automatic",
+      "description": "Cómo se generó este match"
+    },
+    "projectneed": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::projectneed.projectneed",
+      "inversedBy": "match"
+    },
+    "collaborationoffer": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::collaborationoffer.collaborationoffer",
+      "inversedBy": "collaborationMatches"
+    },
+    "agreement": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::collaborationagreement.collaborationagreement",
+      "mappedBy": "match"
+    },
+    "proposedBy": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    }
+  }
+}

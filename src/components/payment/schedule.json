@@ -1,0 +1,72 @@
+{
+    "collectionName": "components_payment_schedule",
+    "info": {
+      "displayName": "Payment Schedule",
+      "icon": "calendar-alt",
+      "description": "Programación de pagos recurrentes"
+    },
+    "options": {},
+    "attributes": {
+      "frequency": {
+        "type": "enumeration",
+        "enum": [
+          "weekly",
+          "monthly",
+          "quarterly",
+          "biannual",
+          "annual"
+        ],
+        "default": "monthly",
+        "description": "Frecuencia de pago"
+      },
+      "startDate": {
+        "type": "date",
+        "required": true,
+        "description": "Fecha de inicio"
+      },
+      "endDate": {
+        "type": "date",
+        "description": "Fecha de finalización (opcional)"
+      },
+      "dayOfMonth": {
+        "type": "integer",
+        "min": 1,
+        "max": 31,
+        "description": "Día del mes para pagos mensuales"
+      },
+      "dayOfWeek": {
+        "type": "enumeration",
+        "enum": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday",
+          "sunday"
+        ],
+        "description": "Día de la semana para pagos semanales"
+      },
+      "isActive": {
+        "type": "boolean",
+        "default": true,
+        "description": "Estado activo de la programación"
+      },
+      "reminderDaysBefore": {
+        "type": "integer",
+        "min": 0,
+        "default": 3,
+        "description": "Días de antelación para enviar recordatorio"
+      },
+      "gracePeriodDays": {
+        "type": "integer",
+        "min": 0,
+        "default": 0,
+        "description": "Días de gracia después del vencimiento"
+      },
+      "nextExecutionDate": {
+        "type": "date",
+        "description": "Próxima fecha de ejecución calculada"
+      }
+    }
+  }

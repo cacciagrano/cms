@@ -1,0 +1,64 @@
+{
+    "collectionName": "components_member_profile_info",
+    "info": {
+      "displayName": "Profile Info",
+      "icon": "user-circle",
+      "description": "Información de perfil del miembro"
+    },
+    "options": {},
+    "attributes": {
+      "birthDate": {
+        "type": "date",
+        "description": "Fecha de nacimiento"
+      },
+      "gender": {
+        "type": "enumeration",
+        "enum": [
+          "male",
+          "female",
+          "non_binary",
+          "other",
+          "prefer_not_to_say"
+        ],
+        "description": "Género"
+      },
+      "occupation": {
+        "type": "string",
+        "description": "Ocupación o profesión"
+      },
+      "company": {
+        "type": "string",
+        "description": "Empresa o institución"
+      },
+      "education": {
+        "type": "string",
+        "description": "Nivel educativo"
+      },
+      "languages": {
+        "type": "json",
+        "description": "Idiomas que habla"
+      },
+      "website": {
+        "type": "string",
+        "description": "Sitio web personal"
+      },
+      "portfolio": {
+        "type": "string",
+        "description": "URL de portfolio"
+      },
+      "identificationNumber": {
+        "type": "string",
+        "description": "Número de identificación (DNI, pasaporte, etc.)"
+      },
+      "identificationType": {
+        "type": "enumeration",
+        "enum": [
+          "national_id",
+          "passport",
+          "drivers_license",
+          "other"
+        ],
+        "description": "Tipo de identificación"
+      }
+    }
+  }

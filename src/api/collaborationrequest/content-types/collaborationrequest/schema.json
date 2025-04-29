@@ -1,0 +1,96 @@
+{
+  "kind": "collectionType",
+  "collectionName": "collaborationrequest",
+  "info": {
+    "singularName": "collaborationrequest",
+    "pluralName": "collaborationrequests",
+    "displayName": "Collaboration Request",
+    "description": "Solicitudes directas a miembros para colaborar en proyectos",
+    "collectionName": "collaborationrequests"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "message": {
+      "type": "text",
+      "required": true,
+      "description": "Mensaje de invitación y descripción de la colaboración"
+    },
+    "requestStatus": {
+      "type": "enumeration",
+      "enum": [
+        "pending",
+        "accepted",
+        "rejected",
+        "expired",
+        "withdrawn"
+      ],
+      "default": "pending"
+    },
+    "requiredHours": {
+      "type": "integer",
+      "min": 1,
+      "description": "Horas semanales requeridas"
+    },
+    "startDate": {
+      "type": "date",
+      "description": "Fecha de inicio propuesta"
+    },
+    "endDate": {
+      "type": "date",
+      "description": "Fecha de finalización propuesta"
+    },
+    "compensation": {
+      "type": "enumeration",
+      "enum": [
+        "unpaid",
+        "paid",
+        "exchange",
+        "credit",
+        "other"
+      ],
+      "default": "unpaid"
+    },
+    "compensationDetails": {
+      "type": "text"
+    },
+    "expirationDate": {
+      "type": "date",
+      "description": "Fecha límite para responder a la solicitud"
+    },
+    "project": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::project.project",
+      "inversedBy": "collaborationrequest"
+    },
+    "member": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member",
+      "inversedBy": "collaborationrequest"
+    },
+    "requestedskill": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::skill.skill"
+    },
+    "requestedBy": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "kind": "collectionType",
+  "collectionName": "training",
+  "info": {
+    "singularName": "training",
+    "pluralName": "trainings",
+    "displayName": "Training",
+    "description": "Formaciones y cursos para desarrollar habilidades",
+    "collectionName": "trainings"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title",
+      "required": true
+    },
+    "trainingType": {
+      "type": "enumeration",
+      "enum": [
+        "workshop",
+        "course",
+        "seminar",
+        "certification",
+        "tutorial",
+        "other"
+      ],
+      "default": "workshop"
+    },
+    "duration": {
+      "type": "integer",
+      "min": 0,
+      "description": "Duración en minutos"
+    },
+    "difficulty": {
+      "type": "enumeration",
+      "enum": [
+        "beginner",
+        "intermediate",
+        "advanced",
+        "expert"
+      ],
+      "default": "beginner"
+    },
+    "isActive": {
+      "type": "boolean",
+      "default": true
+    },
+    "materials": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ]
+    },
+    "instructor": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "trainingSkills": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::trainingskill.trainingskill",
+      "mappedBy": "training"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    },
+    "deletedAt": {
+      "type": "datetime"
+    }
+  }
+}

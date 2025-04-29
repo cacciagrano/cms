@@ -1,0 +1,171 @@
+{
+  "kind": "collectionType",
+  "collectionName": "space",
+  "info": {
+    "singularName": "space",
+    "pluralName": "spaces",
+    "displayName": "Space",
+    "description": "Espacios físicos disponibles",
+    "collectionName": "spaces"
+  },
+  "options": {
+    "draftAndPublish": true,
+    "comment": "Tabla que almacena información de space"
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "description": "Nombre del espacio",
+      "minLength": 2,
+      "maxLength": 50
+    },
+    "description": {
+      "type": "text",
+      "description": "Descripción detallada del espacio"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "meeting_room",
+        "classroom",
+        "coworking",
+        "office",
+        "lab",
+        "workshop",
+        "other"
+      ],
+      "description": "Tipo de espacio"
+    },
+    "capacity": {
+      "type": "integer",
+      "description": "Capacidad máxima de personas",
+      "min": 1
+    },
+    "size": {
+      "type": "decimal",
+      "description": "Tamaño en metros cuadrados"
+    },
+    "floor": {
+      "type": "string",
+      "description": "Piso o nivel donde se encuentra el espacio"
+    },
+    "building": {
+      "type": "string",
+      "description": "Edificio donde se encuentra el espacio"
+    },
+    "features": {
+      "type": "component",
+      "component": "space.features",
+      "repeatable": false,
+      "description": "Características y equipamiento disponible en el espacio"
+    },
+    "geoLocation": {
+      "type": "component",
+      "component": "location.geo",
+      "repeatable": false,
+      "description": "Coordenadas y dirección física del espacio"
+    },
+    "isActive": {
+      "type": "boolean",
+      "default": true,
+      "description": "Indica si el espacio está disponible para su uso"
+    },
+    "openingHours": {
+      "type": "json",
+      "description": "Horario de apertura del espacio"
+    },
+    "image": {
+      "type": "media",
+      "allowedTypes": [
+        "images"
+      ],
+      "multiple": false,
+      "description": "Imagen principal del espacio"
+    },
+    "gallery": {
+      "type": "media",
+      "allowedTypes": [
+        "images"
+      ],
+      "multiple": true,
+      "description": "Galería de imágenes del espacio"
+    },
+    "spaceStatus": {
+      "type": "enumeration",
+      "enum": [
+        "available",
+        "occupied",
+        "maintenance",
+        "reserved",
+        "closed"
+      ],
+      "default": "available",
+      "description": "Estado actual del espacio"
+    },
+    "metadata": {
+      "type": "component",
+      "component": "common.metadata",
+      "repeatable": true,
+      "description": "Metadatos unificados para el espacio"
+    },
+    "allowedMemberships": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::membership.membership",
+      "description": "Tipos de membresía que tienen acceso a este espacio"
+    },
+    "tags": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::tag.tag",
+      "description": "Etiquetas asociadas para clasificación y búsqueda"
+    },
+    "deletedAt": {
+      "type": "datetime",
+      "configurable": false,
+      "visible": false,
+      "description": "Fecha de eliminación para soft delete"
+    },
+    "statusChangedAt": {
+      "type": "datetime",
+      "description": "Fecha del último cambio de estado"
+    },
+    "previousStatus": {
+      "type": "string",
+      "description": "Estado anterior antes del cambio actual"
+    },
+    "statusHistory": {
+      "type": "json",
+      "description": "Historial de cambios de estado con fechas"
+    },
+    "audit": {
+      "type": "component",
+      "component": "audit.tracking",
+      "repeatable": false,
+      "description": "Sistema unificado de auditoría y seguimiento de cambios"
+    },
+    "areas": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::area.area",
+      "mappedBy": "space"
+    },
+    "requiredMembershipLevel": {
+      "type": "enumeration",
+      "enum": [
+        "basic",
+        "standard",
+        "premium",
+        "all"
+      ],
+      "default": "all",
+      "description": "Nivel de membresía requerido para acceder a este espacio"
+    },
+    "accessRestrictions": {
+      "type": "json",
+      "description": "Restricciones adicionales de acceso basadas en membresía"
+    }
+  }
+}

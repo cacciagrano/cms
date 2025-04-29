@@ -1,0 +1,50 @@
+{
+  "collectionName": "components_common_social_medias",
+  "info": {
+    "displayName": "Social Media",
+    "icon": "share-2",
+    "description": "Enlaces a redes sociales con validación mejorada"
+  },
+  "options": {},
+  "attributes": {
+    "platform": {
+      "type": "enumeration",
+      "enum": [
+        "facebook",
+        "twitter",
+        "instagram",
+        "linkedin",
+        "youtube",
+        "tiktok",
+        "other"
+      ],
+      "required": true,
+      "description": "Plataforma de red social"
+    },
+    "username": {
+      "type": "string",
+      "description": "Nombre de usuario en la plataforma",
+      "minLength": 2,
+      "maxLength": 50
+    },
+    "url": {
+      "type": "string",
+      "required": true,
+      "description": "URL completa del perfil en la red social",
+      "regex": "^(https?:\\/\\/)?([\\da-z.-]+)\\.([a-z.]{2,6})([\\/\\w .-]*)*\\/?$"
+    },
+    "followers": {
+      "type": "integer",
+      "description": "Número aproximado de seguidores"
+    },
+    "isVerified": {
+      "type": "boolean",
+      "default": false,
+      "description": "Indica si el perfil está verificado en la plataforma"
+    },
+    "lastUpdated": {
+      "type": "datetime",
+      "description": "Última actualización de esta información"
+    }
+  }
+}

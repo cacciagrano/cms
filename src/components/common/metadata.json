@@ -1,0 +1,58 @@
+{
+  "collectionName": "components_common_metadata",
+  "info": {
+    "displayName": "Unified Metadata",
+    "icon": "info",
+    "description": "Sistema unificado de metadatos"
+  },
+  "options": {},
+  "attributes": {
+    "key": {
+      "type": "string",
+      "required": true,
+      "description": "Clave del metadato",
+      "minLength": 1,
+      "maxLength": 50
+    },
+    "value": {
+      "type": "text",
+      "required": true,
+      "description": "Valor del metadato"
+    },
+    "description": {
+      "type": "string",
+      "description": "Descripción o propósito de este metadato"
+    },
+    "category": {
+      "type": "enumeration",
+      "enum": [
+        "system",
+        "analytics",
+        "integration",
+        "custom"
+      ],
+      "default": "custom",
+      "description": "Categoría del metadato"
+    },
+    "dataType": {
+      "type": "enumeration",
+      "enum": [
+        "text",
+        "number",
+        "date",
+        "boolean",
+        "json"
+      ],
+      "default": "text",
+      "description": "Tipo de dato para interpretación correcta"
+    },
+    "source": {
+      "type": "string",
+      "description": "Fuente o sistema que generó este metadato"
+    },
+    "timestamp": {
+      "type": "datetime",
+      "description": "Momento en que se creó o actualizó este metadato"
+    }
+  }
+}

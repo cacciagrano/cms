@@ -1,0 +1,68 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tag",
+  "info": {
+    "singularName": "tag",
+    "pluralName": "tags",
+    "displayName": "Tag",
+    "description": "Tags for classification and search",
+    "collectionName": "tags"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "unique": true,
+      "minLength": 2,
+      "maxLength": 50
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "name"
+    },
+    "color": {
+      "type": "string",
+      "default": "#cccccc"
+    },
+    "description": {
+      "type": "text"
+    },
+    "category": {
+      "type": "enumeration",
+      "enum": [
+        "general",
+        "technical",
+        "administrative",
+        "educational",
+        "other"
+      ],
+      "default": "general"
+    },
+    "isActive": {
+      "type": "boolean",
+      "default": true,
+      "description": "Indica si este tag está activo para su uso"
+    },
+    "deletedAt": {
+      "type": "datetime",
+      "configurable": false,
+      "visible": false,
+      "description": "Fecha de eliminación para soft delete"
+    },
+    "metadata": {
+      "type": "component",
+      "component": "common.metadata",
+      "repeatable": true,
+      "description": "Metadatos unificados para el tag"
+    },
+    "audit": {
+      "type": "component",
+      "component": "audit.tracking",
+      "repeatable": false,
+      "description": "Sistema unificado de auditoría y seguimiento de cambios"
+    }
+  }
+}

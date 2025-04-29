@@ -1,0 +1,38 @@
+{
+    "collectionName": "components_asset_statuses",
+    "info": {
+      "displayName": "statuses",
+      "icon": "chart-line",
+      "description": "Sistema de estados con historial y metadatos"
+    },
+    "options": {},
+    "attributes": {
+      "current": {
+        "type": "enumeration",
+        "enum": [
+          "available",
+          "in_use",
+          "reserved",
+          "maintenance",
+          "out_of_service",
+          "lost"
+        ],
+        "default": "available",
+        "required": true
+      },
+      "reason": {
+        "type": "string",
+        "description": "Motivo del cambio (opcional)"
+      },
+      "changedBy": {
+        "type": "relation",
+        "relation": "oneToOne",
+        "target": "plugin::users-permissions.user"
+      },
+      "history": {
+        "type": "component",
+        "repeatable": true,
+        "component": "asset.status-change"
+      }
+    }
+  }

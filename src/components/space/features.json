@@ -1,0 +1,24 @@
+{
+    "collectionName": "components_space_features",
+    "info": {
+      "displayName": "Features",
+      "icon": "list-ul",
+      "description": "Características disponibles en un espacio"
+    },
+    "options": {},
+    "attributes": {
+      "hasAC": { "type": "boolean" },
+      "hasProjector": { "type": "boolean" },
+      "hasWhiteboard": { "type": "boolean" },
+      "powerSockets": {
+        "type": "enumeration",
+        "enum": ["none", "few", "many"],
+        "default": "many"
+      },
+      "network": {
+        "type": "enumeration",
+        "enum": ["none", "ethernet", "wifi", "ethernet_wifi"],
+        "default": "ethernet_wifi"
+      }
+    }
+  }

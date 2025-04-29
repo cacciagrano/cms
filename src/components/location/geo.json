@@ -1,0 +1,51 @@
+{
+    "collectionName": "components_location_geo",
+    "info": {
+      "displayName": "Unified Location",
+      "icon": "map-marker-alt",
+      "description": "Información unificada de ubicación"
+    },
+    "options": {},
+    "attributes": {
+      "latitude": {
+        "type": "decimal",
+        "description": "Latitud geográfica"
+      },
+      "longitude": {
+        "type": "decimal",
+        "description": "Longitud geográfica"
+      },
+      "address": {
+        "type": "string",
+        "description": "Dirección física"
+      },
+      "city": {
+        "type": "string",
+        "description": "Ciudad"
+      },
+      "province": {
+        "type": "string",
+        "description": "Provincia o estado"
+      },
+      "country": {
+        "type": "string",
+        "description": "País"
+      },
+      "zone": {
+        "type": "string",
+        "description": "Zona dentro del espacio"
+      },
+      "container": {
+        "type": "string",
+        "description": "Cajón, estante o gabinete"
+      },
+      "position": {
+        "type": "string",
+        "description": "Posición específica"
+      },
+      "notes": {
+        "type": "text",
+        "description": "Notas adicionales sobre la ubicación"
+      }
+    }
+  }

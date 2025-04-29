@@ -1,0 +1,64 @@
+{
+    "collectionName": "components_collaboration_deliverable",
+    "info": {
+      "displayName": "Deliverable",
+      "icon": "box",
+      "description": "Entregables específicos dentro de un acuerdo de colaboración"
+    },
+    "options": {},
+    "attributes": {
+      "title": {
+        "type": "string",
+        "required": true,
+        "description": "Título del entregable"
+      },
+      "description": {
+        "type": "text",
+        "description": "Descripción detallada"
+      },
+      "dueDate": {
+        "type": "date",
+        "description": "Fecha de entrega prevista"
+      },
+      "status": {
+        "type": "enumeration",
+        "enum": [
+          "pending",
+          "in_progress",
+          "review",
+          "completed",
+          "delayed"
+        ],
+        "default": "pending",
+        "description": "Estado actual del entregable"
+      },
+      "acceptanceCriteria": {
+        "type": "text",
+        "description": "Criterios para considerar el entregable como completado"
+      },
+      "priority": {
+        "type": "enumeration",
+        "enum": [
+          "low",
+          "medium",
+          "high",
+          "critical"
+        ],
+        "default": "medium",
+        "description": "Prioridad del entregable"
+      },
+      "completedAt": {
+        "type": "date",
+        "description": "Fecha real de finalización"
+      },
+      "attachments": {
+        "type": "media",
+        "multiple": true,
+        "required": false,
+        "allowedTypes": [
+          "files"
+        ],
+        "description": "Archivos relacionados con el entregable"
+      }
+    }
+  }

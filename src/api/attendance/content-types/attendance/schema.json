@@ -1,0 +1,92 @@
+{
+  "kind": "collectionType",
+  "collectionName": "attendance",
+  "info": {
+    "singularName": "attendance",
+    "pluralName": "attendances",
+    "displayName": "Attendance",
+    "description": "Registro de asistencia de miembros",
+    "collectionName": "attendances"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "member": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member",
+      "inversedBy": "attendances"
+    },
+    "space": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::space.space"
+    },
+    "checkInTime": {
+      "type": "datetime",
+      "required": true
+    },
+    "checkOutTime": {
+      "type": "datetime"
+    },
+    "duration": {
+      "type": "integer",
+      "min": 0
+    },
+    "isComplete": {
+      "type": "boolean",
+      "default": false
+    },
+    "checkInMethod": {
+      "type": "enumeration",
+      "enum": [
+        "qr_code",
+        "rfid",
+        "manual",
+        "app",
+        "other"
+      ]
+    },
+    "checkOutMethod": {
+      "type": "enumeration",
+      "enum": [
+        "qr_code",
+        "rfid",
+        "manual",
+        "app",
+        "automatic",
+        "other"
+      ]
+    },
+    "purpose": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "text"
+    },
+    "checkInLocation": {
+      "type": "json"
+    },
+    "checkOutLocation": {
+      "type": "json"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    },
+    "event": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::event.event",
+      "inversedBy": "attendances"
+    }
+  }
+}

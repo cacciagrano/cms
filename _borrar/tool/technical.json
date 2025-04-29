@@ -1,0 +1,13 @@
+{
+    "collectionName": "components_tool_technical_specs",
+    "info": { "displayName": "Technical Specs" },
+    "options": {},
+    "attributes": {
+      "manufacturer": { "type": "string" },
+      "model": { "type": "string" },
+      "electrical": { "type": "component", "component": "tool.electrical" },
+      "mechanical": { "type": "component", "component": "tool.mechanical" },
+      "compatibility": { "type": "component", "component": "tool.compatibility" },
+      "purchaseInfo": { "type": "component", "component": "tool.purchase" }
+    }
+  }

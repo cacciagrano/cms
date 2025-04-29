@@ -1,0 +1,111 @@
+{
+    "collectionName": "components_asset_info",
+    "info": {
+      "displayName": "Unified Asset Info",
+      "icon": "cubes",
+      "description": "Información unificada para activos físicos y digitales"
+    },
+    "options": {},
+    "attributes": {
+      "image": {
+        "type": "media",
+        "multiple": false,
+        "required": false,
+        "allowedTypes": ["images"],
+        "description": "Imagen principal del recurso"
+      },
+      "attachments": {
+        "type": "media",
+        "multiple": true,
+        "required": false,
+        "description": "Archivos adicionales (manuales, fichas técnicas, etc.)"
+      },
+      "usageInstructions": {
+        "type": "text",
+        "description": "Instrucciones de uso del recurso"
+      },
+      "safetyInstructions": {
+        "type": "text",
+        "description": "Indicaciones de seguridad"
+      },
+      "lastUsedAt": {
+        "type": "datetime",
+        "description": "Última vez que fue usado"
+      },
+      "useCount": {
+        "type": "integer",
+        "default": 0,
+        "description": "Número de veces utilizado"
+      },
+      "qrCode": {
+        "type": "string",
+        "description": "Código QR o identificador asociado al recurso"
+      },
+      "inventoryNumber": {
+        "type": "string",
+        "description": "Número de inventario único"
+      },
+      "quantity": {
+        "type": "integer",
+        "min": 0,
+        "description": "Cantidad disponible"
+      },
+      "minQuantity": {
+        "type": "integer",
+        "min": 0,
+        "description": "Cantidad mínima requerida"
+      },
+      "inventoryStatus": {
+        "type": "enumeration",
+        "enum": ["ok", "needs_review", "expired", "damaged"],
+        "default": "ok",
+        "description": "Estado del inventario"
+      },
+      "lastRestocked": {
+        "type": "datetime",
+        "description": "Última fecha de reposición"
+      },
+      "supplier": {
+        "type": "string",
+        "description": "Proveedor del activo"
+      },
+      "lastMaintenanceDate": {
+        "type": "date",
+        "description": "Fecha del último mantenimiento"
+      },
+      "nextMaintenanceDate": {
+        "type": "date",
+        "description": "Fecha programada para el próximo mantenimiento"
+      },
+      "maintenanceInterval": {
+        "type": "integer",
+        "description": "Intervalo de mantenimiento en días"
+      },
+      "maintenanceNotes": {
+        "type": "text",
+        "description": "Notas sobre el mantenimiento"
+      },
+      "maintenanceHistory": {
+        "type": "json",
+        "description": "Historial de mantenimientos realizados"
+      },
+      "technicalSpecs": {
+        "type": "json",
+        "description": "Especificaciones técnicas del activo"
+      },
+      "manufacturer": {
+        "type": "string",
+        "description": "Fabricante del activo"
+      },
+      "model": {
+        "type": "string",
+        "description": "Modelo del activo"
+      },
+      "statusTracking": {
+        "type": "component",
+        "component": "asset.tracking",
+        "repeatable": false,
+        "description": "Seguimiento del estado actual e historial"
+      }
+    }
+  }

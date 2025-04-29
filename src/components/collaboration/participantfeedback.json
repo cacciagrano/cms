@@ -1,0 +1,43 @@
+{
+    "collectionName": "components_collaboration_participantfeedback",
+    "info": {
+      "displayName": "Participant Feedback",
+      "icon": "comment",
+      "description": "Feedback de participantes en intercambios de habilidades"
+    },
+    "options": {},
+    "attributes": {
+      "member": {
+        "type": "relation",
+        "relation": "oneToOne",
+        "target": "api::member.member",
+        "description": "Miembro que proporciona el feedback"
+      },
+      "comment": {
+        "type": "text",
+        "description": "Comentarios sobre la sesión"
+      },
+      "rating": {
+        "type": "integer",
+        "min": 1,
+        "max": 5,
+        "description": "Valoración general (1-5)"
+      },
+      "knowledgeGained": {
+        "type": "enumeration",
+        "enum": [
+          "none",
+          "little",
+          "moderate",
+          "significant",
+          "extensive"
+        ],
+        "default": "moderate",
+        "description": "Nivel de conocimiento adquirido"
+      },
+      "submittedAt": {
+        "type": "datetime",
+        "description": "Fecha y hora de envío del feedback"
+      }
+    }
+  }

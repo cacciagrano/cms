@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_tool_purchase",
+  "info": {
+    "displayName": "Purchase Info",
+    "icon": "shopping-cart",
+    "description": "Información de compra y garantía"
+  },
+  "options": {},
+  "attributes": {
+    "purchaseDate": {
+      "type": "date",
+      "description": "Fecha de adquisición del equipo"
+    },
+    "warrantyExpiration": {
+      "type": "date",
+      "description": "Fecha de vencimiento de la garantía"
+    },
+    "supplier": {
+      "type": "string",
+      "description": "Proveedor o distribuidor",
+      "maxLength": 100
+    },
+    "purchasePrice": {
+      "type": "decimal",
+      "description": "Precio de compra (sin IVA)",
+      "min": 0
+    },
+    "invoiceNumber": {
+      "type": "string",
+      "description": "Número de factura",
+      "private": true
+    }
+  }
+}

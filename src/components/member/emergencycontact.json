@@ -1,0 +1,43 @@
+{
+    "collectionName": "components_member_emergency_contact",
+    "info": {
+      "displayName": "Emergency Contact",
+      "icon": "ambulance",
+      "description": "Contacto de emergencia del miembro"
+    },
+    "options": {},
+    "attributes": {
+      "name": {
+        "type": "string",
+        "description": "Nombre completo del contacto"
+      },
+      "relationship": {
+        "type": "string",
+        "description": "Relación con el miembro"
+      },
+      "phone": {
+        "type": "string",
+        "description": "Teléfono principal"
+      },
+      "alternativePhone": {
+        "type": "string",
+        "description": "Teléfono alternativo"
+      },
+      "email": {
+        "type": "email",
+        "description": "Correo electrónico"
+      },
+      "address": {
+        "type": "text",
+        "description": "Dirección"
+      },
+      "notes": {
+        "type": "text",
+        "description": "Notas adicionales"
+      },
+      "medicalInfo": {
+        "type": "text",
+        "description": "Información médica relevante (alergias, condiciones, etc.)"
+      }
+    }
+  }

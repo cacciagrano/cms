@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_metadata_integration",
+  "info": {
+    "displayName": "Integration Metadata",
+    "icon": "link",
+    "description": "Metadatos para integraciones con sistemas externos"
+  },
+  "options": {},
+  "attributes": {
+    "key": {
+      "type": "string",
+      "required": false,
+      "description": "Clave del metadato de integración"
+    },
+    "value": {
+      "type": "text",
+      "required": false,
+      "description": "Valor del metadato de integración"
+    },
+    "system": {
+      "type": "string",
+      "description": "Sistema externo al que se refiere este metadato"
+    },
+    "externalId": {
+      "type": "string",
+      "description": "ID en el sistema externo"
+    },
+    "lastSynced": {
+      "type": "datetime",
+      "description": "Última vez que se sincronizó con el sistema externo"
+    }
+  }
+}

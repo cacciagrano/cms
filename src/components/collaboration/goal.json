@@ -1,0 +1,53 @@
+{
+    "collectionName": "components_collaboration_goal",
+    "info": {
+      "displayName": "Goal",
+      "icon": "bullseye",
+      "description": "Objetivos específicos dentro de una mentoría"
+    },
+    "options": {},
+    "attributes": {
+      "title": {
+        "type": "string",
+        "required": true,
+        "description": "Título del objetivo"
+      },
+      "description": {
+        "type": "text",
+        "description": "Descripción detallada"
+      },
+      "targetDate": {
+        "type": "date",
+        "description": "Fecha objetivo para alcanzarlo"
+      },
+      "status": {
+        "type": "enumeration",
+        "enum": [
+          "not_started",
+          "in_progress",
+          "achieved",
+          "revised"
+        ],
+        "default": "not_started",
+        "description": "Estado actual del objetivo"
+      },
+      "priority": {
+        "type": "enumeration",
+        "enum": [
+          "low",
+          "medium",
+          "high"
+        ],
+        "default": "medium",
+        "description": "Prioridad del objetivo"
+      },
+      "measurableOutcome": {
+        "type": "text",
+        "description": "Resultado medible que indica la consecución del objetivo"
+      },
+      "achievedAt": {
+        "type": "date",
+        "description": "Fecha real de consecución"
+      }
+    }
+  }

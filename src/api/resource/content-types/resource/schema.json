@@ -1,0 +1,165 @@
+{
+  "kind": "collectionType",
+  "collectionName": "resource",
+  "info": {
+    "singularName": "resource",
+    "pluralName": "resources",
+    "displayName": "Resource",
+    "description": "Recursos educativos, técnicos o documentales",
+    "collectionName": "resources"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "deletedAt": {
+      "type": "datetime",
+      "configurable": false,
+      "visible": false
+    },
+    "name": {
+      "type": "string",
+      "required": true,
+      "minLength": 2,
+      "maxLength": 100,
+      "description": "Nombre del recurso"
+    },
+    "description": {
+      "type": "text",
+      "description": "Descripción detallada"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "document",
+        "book",
+        "video",
+        "audio",
+        "course",
+        "template",
+        "other"
+      ],
+      "description": "Tipo de recurso"
+    },
+    "format": {
+      "type": "enumeration",
+      "enum": [
+        "physical",
+        "digital",
+        "both"
+      ],
+      "default": "digital",
+      "description": "Formato del recurso"
+    },
+    "url": {
+      "type": "string",
+      "description": "Enlace al recurso digital (si aplica)"
+    },
+    "file": {
+      "type": "media",
+      "multiple": false,
+      "required": false
+    },
+    "author": {
+      "type": "string"
+    },
+    "publisher": {
+      "type": "string"
+    },
+    "publicationDate": {
+      "type": "date"
+    },
+    "language": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::tag.tag",
+      "description": "Etiquetas asociadas para clasificación y búsqueda"
+    },
+    "licenseType": {
+      "type": "enumeration",
+      "enum": [
+        "CC-BY",
+        "CC-BY-SA",
+        "CC0",
+        "open-source",
+        "proprietary",
+        "unknown"
+      ],
+      "default": "unknown",
+      "description": "Tipo de licencia del recurso"
+    },
+    "accessLevel": {
+      "type": "enumeration",
+      "enum": [
+        "public",
+        "internal",
+        "restricted"
+      ],
+      "default": "public",
+      "description": "Nivel de acceso recomendado"
+    },
+    "resourceTopic": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::topic.topic",
+      "description": "Tema general del recurso"
+    },
+    "isAvailable": {
+      "type": "boolean",
+      "default": true
+    },
+    "assetInfo": {
+      "type": "component",
+      "component": "asset.info",
+      "repeatable": false,
+      "description": "Información unificada del activo: imagen, instrucciones, inventario, etc."
+    },
+    "currentUser": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "relatedSkills": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::skill.skill"
+    },
+    "area": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::area.area",
+      "inversedBy": "resources"
+    },
+    "metadata": {
+      "type": "component",
+      "component": "common.metadata",
+      "repeatable": true,
+      "description": "Metadatos unificados para el recurso"
+    },
+    "audit": {
+      "type": "component",
+      "component": "audit.tracking",
+      "repeatable": false,
+      "description": "Sistema unificado de auditoría y audit.tracking"
+    },
+    "resourceStatus": {
+      "type": "enumeration",
+      "enum": [
+        "available",
+        "in_use",
+        "unavailable",
+        "archived"
+      ],
+      "default": "available",
+      "description": "Estado actual del recurso"
+    },
+    "version": {
+      "type": "string",
+      "description": "Versión del recurso (ej. 1.0, 2.1)"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+    "collectionName": "components_collaboration_sessionfeedback",
+    "info": {
+      "displayName": "Session Feedback",
+      "icon": "comment-dots",
+      "description": "Feedback sobre sesiones de mentoría"
+    },
+    "options": {},
+    "attributes": {
+      "mentorFeedback": {
+        "type": "text",
+        "description": "Comentarios del mentor sobre la sesión"
+      },
+      "menteeFeedback": {
+        "type": "text",
+        "description": "Comentarios del aprendiz sobre la sesión"
+      },
+      "mentorRating": {
+        "type": "integer",
+        "min": 1,
+        "max": 5,
+        "description": "Valoración del mentor (1-5)"
+      },
+      "menteeRating": {
+        "type": "integer",
+        "min": 1,
+        "max": 5,
+        "description": "Valoración del aprendiz (1-5)"
+      },
+      "progressAssessment": {
+        "type": "enumeration",
+        "enum": [
+          "no_progress",
+          "slight_progress",
+          "moderate_progress",
+          "significant_progress",
+          "goal_achieved"
+        ],
+        "default": "moderate_progress",
+        "description": "Evaluación del progreso realizado"
+      },
+      "areasForImprovement": {
+        "type": "text",
+        "description": "Áreas identificadas para mejorar"
+      },
+      "submittedAt": {
+        "type": "datetime",
+        "description": "Fecha y hora de envío del feedback"
+      }
+    }
+  }

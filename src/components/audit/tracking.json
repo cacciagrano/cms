@@ -1,0 +1,45 @@
+{
+  "collectionName": "components_audit_tracking",
+  "info": {
+    "displayName": "Audit Tracking",
+    "icon": "user-edit",
+    "description": "Sistema unificado de auditoría y seguimiento de cambios"
+  },
+  "options": {},
+  "attributes": {
+    "createdByUser": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "plugin::users-permissions.user",
+      "description": "Usuario que creó el registro"
+    },
+    "updatedByUser": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "plugin::users-permissions.user",
+      "description": "Usuario que actualizó por última vez el registro"
+    },
+    "logs": {
+      "type": "json",
+      "description": "Registro detallado de cambios con acción, usuario, fecha, detalles y dirección IP"
+    },
+    "lastAction": {
+      "type": "enumeration",
+      "enum": [
+        "create",
+        "update",
+        "delete",
+        "publish",
+        "unpublish",
+        "approve",
+        "reject",
+        "other"
+      ],
+      "description": "Última acción realizada"
+    },
+    "lastActionTimestamp": {
+      "type": "datetime",
+      "description": "Fecha y hora de la última acción"
+    }
+  }
+}

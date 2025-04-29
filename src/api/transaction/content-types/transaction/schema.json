@@ -1,0 +1,102 @@
+{
+  "kind": "collectionType",
+  "collectionName": "transaction",
+  "info": {
+    "singularName": "transaction",
+    "pluralName": "transactions",
+    "displayName": "Transaction",
+    "description": "Transacciones procesadas por pasarelas de pago",
+    "collectionName": "transactions"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "transactionId": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    },
+    "amount": {
+      "type": "decimal",
+      "required": true,
+      "min": 0
+    },
+    "currency": {
+      "type": "string",
+      "default": "EUR"
+    },
+    "transactionStatus": {
+      "type": "enumeration",
+      "enum": [
+        "pending",
+        "processing",
+        "completed",
+        "failed",
+        "refunded",
+        "cancelled"
+      ],
+      "default": "pending"
+    },
+    "timestamp": {
+      "type": "datetime",
+      "required": true
+    },
+    "gatewayResponse": {
+      "type": "json"
+    },
+    "errorMessage": {
+      "type": "text"
+    },
+    "gatewayTransactionId": {
+      "type": "string"
+    },
+    "paymentMethod": {
+      "type": "string"
+    },
+    "cardType": {
+      "type": "string"
+    },
+    "cardLast4": {
+      "type": "string"
+    },
+    "authorizationCode": {
+      "type": "string"
+    },
+    "refundReason": {
+      "type": "text"
+    },
+    "refundedAt": {
+      "type": "datetime"
+    },
+    "ipAddress": {
+      "type": "string"
+    },
+    "userAgent": {
+      "type": "string"
+    },
+    "payment": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::payment.payment",
+      "inversedBy": "transaction"
+    },
+    "paymentgateway": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::paymentgateway.paymentgateway",
+      "inversedBy": "transaction"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    }
+  }
+}

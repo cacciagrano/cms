@@ -1,0 +1,37 @@
+{
+  "collectionName": "components_metadata_analytics",
+  "info": {
+    "displayName": "Analytics Metadata",
+    "icon": "bar-chart",
+    "description": "Metadatos para análisis y estadísticas"
+  },
+  "options": {},
+  "attributes": {
+    "key": {
+      "type": "string",
+      "required": false,
+      "description": "Clave del metadato de análisis"
+    },
+    "value": {
+      "type": "text",
+      "required": false,
+      "description": "Valor del metadato de análisis"
+    },
+    "dataType": {
+      "type": "enumeration",
+      "enum": [
+        "numeric",
+        "percentage",
+        "currency",
+        "date",
+        "text"
+      ],
+      "default": "numeric",
+      "description": "Tipo de dato para interpretación correcta en análisis"
+    },
+    "period": {
+      "type": "string",
+      "description": "Período al que se refiere este dato (ej: '2023-Q1', 'January 2023')"
+    }
+  }
+}

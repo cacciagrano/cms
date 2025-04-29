@@ -1,0 +1,72 @@
+{
+  "kind": "collectionType",
+  "collectionName": "skillverification",
+  "info": {
+    "singularName": "skillverification",
+    "pluralName": "skillverifications",
+    "displayName": "Skill Verification",
+    "description": "Verificaciones formales de habilidades",
+    "collectionName": "skillverifications"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "memberSkill": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::memberskill.memberskill",
+      "inversedBy": "verifications"
+    },
+    "verifiedBy": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "verifiedAt": {
+      "type": "datetime",
+      "required": true
+    },
+    "verificationMethod": {
+      "type": "enumeration",
+      "enum": [
+        "demonstration",
+        "interview",
+        "certificate",
+        "project_review",
+        "test",
+        "other"
+      ],
+      "default": "demonstration"
+    },
+    "notes": {
+      "type": "text"
+    },
+    "expiresAt": {
+      "type": "datetime",
+      "description": "Fecha de caducidad de la verificación (si aplica)"
+    },
+    "attachments": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "description": "Documentos o evidencias de la verificación"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "kind": "collectionType",
+  "collectionName": "area",
+  "info": {
+    "singularName": "area",
+    "pluralName": "areas",
+    "displayName": "Area",
+    "description": "Zona especializada del laboratorio con flujo de trabajo integrado",
+    "collectionName": "areas"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "deletedAt": {
+      "type": "datetime",
+      "configurable": false,
+      "visible": false
+    },
+    "name": {
+      "type": "string",
+      "required": true,
+      "minLength": 2,
+      "maxLength": 50
+    },
+    "description": {
+      "type": "text"
+    },
+    "isActive": {
+      "type": "boolean",
+      "default": true
+    },
+    "code": {
+      "type": "string",
+      "maxLength": 20,
+      "unique": true
+    },
+    "color": {
+      "type": "enumeration",
+      "enum": [
+        "rojo",
+        "blanco",
+        "verde",
+        "azul",
+        "amarillo",
+        "morado",
+        "naranja",
+        "gris",
+        "negro",
+        "celeste"
+      ],
+      "description": "Color para visualización en planos o interfaz"
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "name",
+      "description": "Para URLs y referencias"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images"
+      ],
+      "description": "Imagen o plano del área"
+    },
+    "geoLocation": {
+      "type": "component",
+      "component": "location.geo",
+      "repeatable": false,
+      "description": "Ubicación específica dentro del espacio"
+    },
+    "openingHours": {
+      "type": "json",
+      "description": "Horario de uso específico del área"
+    },
+    "isReservable": {
+      "type": "boolean",
+      "default": true,
+      "description": "Indica si esta área puede ser reservada"
+    },
+    "primarySupervisor": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member",
+      "description": "Miembro responsable principal del área"
+    },
+    "space": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::space.space",
+      "inversedBy": "areas"
+    },
+    "equipment": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::equipment.equipment",
+      "mappedBy": "area"
+    },
+    "tools": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::tool.tool",
+      "mappedBy": "area"
+    },
+    "consumables": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::consumable.consumable",
+      "mappedBy": "area"
+    },
+    "resources": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::resource.resource",
+      "mappedBy": "area"
+    },
+    "tags": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::tag.tag",
+      "description": "Etiquetas asociadas para clasificación y búsqueda"
+    },
+    "metadata": {
+      "type": "component",
+      "component": "common.metadata",
+      "repeatable": true,
+      "description": "Metadatos unificados para el área"
+    },
+    "audit": {
+      "type": "component",
+      "component": "audit.tracking",
+      "repeatable": false,
+      "description": "Sistema unificado de auditoría y seguimiento de cambios"
+    },
+    "areaStatus": {
+      "type": "enumeration",
+      "enum": [
+        "available",
+        "occupied",
+        "maintenance",
+        "reserved",
+        "closed"
+      ],
+      "default": "available",
+      "description": "Estado actual del área"
+    },
+    "statusChangedAt": {
+      "type": "datetime",
+      "description": "Fecha del último cambio de estado"
+    },
+    "previousStatus": {
+      "type": "string",
+      "description": "Estado anterior antes del cambio actual"
+    },
+    "statusHistory": {
+      "type": "json",
+      "description": "Historial de cambios de estado con fechas"
+    },
+    "requiredSkillLevel": {
+      "type": "enumeration",
+      "enum": [
+        "none",
+        "beginner",
+        "intermediate",
+        "advanced",
+        "expert"
+      ],
+      "default": "none",
+      "description": "Nivel de habilidad requerido para acceder a esta área"
+    },
+    "additionalSupervisors": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::member.member",
+      "description": "Miembros adicionales que supervisan esta área"
+    }
+  }
+}

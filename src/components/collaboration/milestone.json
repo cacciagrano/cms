@@ -1,0 +1,45 @@
+
+{
+"collectionName": "components_collaboration_milestone",
+"info": {
+  "displayName": "Milestone",
+  "icon": "flag",
+  "description": "Hitos importantes dentro de un acuerdo de colaboración"
+},
+"options": {},
+"attributes": {
+  "title": {
+    "type": "string",
+    "required": true,
+    "description": "Título del hito"
+  },
+  "description": {
+    "type": "text",
+    "description": "Descripción detallada"
+  },
+  "dueDate": {
+    "type": "date",
+    "description": "Fecha prevista para alcanzar el hito"
+  },
+  "status": {
+    "type": "enumeration",
+    "enum": [
+      "pending",
+      "in_progress",
+      "achieved",
+      "delayed",
+      "cancelled"
+    ],
+    "default": "pending",
+    "description": "Estado actual del hito"
+  },
+  "completedAt": {
+    "type": "date",
+    "description": "Fecha real de consecución"
+  },
+  "notes": {
+    "type": "text",
+    "description": "Notas adicionales sobre el hito"
+  }
+}
+}

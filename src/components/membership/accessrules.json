@@ -1,0 +1,81 @@
+{
+    "collectionName": "components_membership_access_rules",
+    "info": {
+      "displayName": "Access Rules",
+      "icon": "key",
+      "description": "Reglas de acceso para una membresía"
+    },
+    "options": {},
+    "attributes": {
+      "resourceType": {
+        "type": "enumeration",
+        "enum": [
+          "space",
+          "area",
+          "equipment",
+          "tool",
+          "consumable",
+          "resource",
+          "event",
+          "other"
+        ],
+        "required": true,
+        "description": "Tipo de recurso al que aplica la regla"
+      },
+      "accessType": {
+        "type": "enumeration",
+        "enum": [
+          "unlimited",
+          "limited_time",
+          "limited_quantity",
+          "scheduled",
+          "supervised",
+          "no_access"
+        ],
+        "default": "unlimited",
+        "description": "Tipo de acceso permitido"
+      },
+      "timeLimit": {
+        "type": "integer",
+        "min": 0,
+        "description": "Límite de tiempo en horas (0 = sin límite)"
+      },
+      "quantityLimit": {
+        "type": "integer",
+        "min": 0,
+        "description": "Límite de cantidad (0 = sin límite)"
+      },
+      "timeUnit": {
+        "type": "enumeration",
+        "enum": [
+          "hour",
+          "day",
+          "week",
+          "month",
+          "year"
+        ],
+        "default": "month",
+        "description": "Unidad de tiempo para el límite"
+      },
+      "allowedTimeRanges": {
+        "type": "json",
+        "description": "Rangos horarios permitidos"
+      },
+      "discountPercentage": {
+        "type": "integer",
+        "min": 0,
+        "max": 100,
+        "default": 0,
+        "description": "Porcentaje de descuento aplicable"
+      },
+      "priority": {
+        "type": "integer",
+        "default": 0,
+        "description": "Prioridad en reservas (mayor número = mayor prioridad)"
+      },
+      "conditions": {
+        "type": "text",
+        "description": "Condiciones o restricciones adicionales"
+      }
+    }
+  }

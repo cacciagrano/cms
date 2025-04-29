@@ -1,0 +1,60 @@
+{
+    "collectionName": "components_member_contact_info",
+    "info": {
+      "displayName": "Contact Info",
+      "icon": "address-book",
+      "description": "Información de contacto del miembro"
+    },
+    "options": {},
+    "attributes": {
+      "email": {
+        "type": "email",
+        "description": "Correo electrónico principal"
+      },
+      "alternativeEmail": {
+        "type": "email",
+        "description": "Correo electrónico alternativo"
+      },
+      "phone": {
+        "type": "string",
+        "description": "Teléfono principal"
+      },
+      "mobilePhone": {
+        "type": "string",
+        "description": "Teléfono móvil"
+      },
+      "address": {
+        "type": "text",
+        "description": "Dirección postal"
+      },
+      "city": {
+        "type": "string",
+        "description": "Ciudad"
+      },
+      "state": {
+        "type": "string",
+        "description": "Estado o provincia"
+      },
+      "country": {
+        "type": "string",
+        "description": "País"
+      },
+      "postalCode": {
+        "type": "string",
+        "description": "Código postal"
+      },
+      "preferredContactMethod": {
+        "type": "enumeration",
+        "enum": [
+          "email",
+          "phone",
+          "sms",
+          "whatsapp",
+          "telegram",
+          "other"
+        ],
+        "default": "email",
+        "description": "Método de contacto preferido"
+      }
+    }
+  }
