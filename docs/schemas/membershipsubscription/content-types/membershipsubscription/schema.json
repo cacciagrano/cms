@@ -1,0 +1,83 @@
+{
+  "kind": "collectionType",
+  "collectionName": "membershipsubscriptions",
+  "info": {
+    "singularName": "membershipsubscription",
+    "pluralName": "membershipsubscriptions",
+    "displayName": "Membership Subscription",
+    "description": "Suscripciones de membresía de los miembros",
+    "collectionName": "membershipsubscriptions"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "member": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member",
+      "inversedBy": "subscriptions"
+    },
+    "membership": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::membership.membership",
+      "inversedBy": "subscribers"
+    },
+    "startDate": {
+      "type": "date",
+      "required": true
+    },
+    "endDate": {
+      "type": "date"
+    },
+    "subscriptionStatus": {
+      "type": "enumeration",
+      "enum": ["active", "expired", "pending_payment", "cancelled", "trial"],
+      "default": "active"
+    },
+    "price": {
+      "type": "decimal"
+    },
+    "currency": {
+      "type": "string",
+      "default": "EUR"
+    },
+    "paymentMethod": {
+      "type": "string"
+    },
+    "autoRenew": {
+      "type": "boolean",
+      "default": false
+    },
+    "nextRenewalDate": {
+      "type": "date"
+    },
+    "cancellationReason": {
+      "type": "text"
+    },
+    "cancellationDate": {
+      "type": "datetime"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    },
+    "deletedAt": {
+      "type": "datetime"
+    },
+    "payment": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::payment.payment",
+      "mappedBy": "membershipSubscription"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "kind": "collectionType",
+  "collectionName": "exchangesessions",
+  "info": {
+    "singularName": "exchangesession",
+    "pluralName": "exchangesessions",
+    "displayName": "Exchange Session",
+    "description": "Sesiones individuales de intercambio de habilidades",
+    "collectionName": "exchangesessions"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "date": {
+      "type": "datetime",
+      "required": true
+    },
+    "duration": {
+      "type": "integer",
+      "min": 1,
+      "description": "Duración en minutos"
+    },
+    "sessionStatus": {
+      "type": "enumeration",
+      "enum": ["scheduled", "completed", "cancelled", "rescheduled"],
+      "default": "scheduled"
+    },
+    "format": {
+      "type": "enumeration",
+      "enum": ["in_person", "online", "hybrid"],
+      "default": "online"
+    },
+    "locationString": {
+      "type": "string",
+      "description": "Ubicación física o URL de reunión virtual"
+    },
+    "agenda": {
+      "type": "text",
+      "description": "Temas a tratar en la sesión"
+    },
+    "notes": {
+      "type": "richtext",
+      "description": "Notas y conclusiones de la sesión"
+    },
+    "resources": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": ["files"],
+      "description": "Archivos compartidos durante la sesión"
+    },
+    "feedback": {
+      "type": "component",
+      "repeatable": true,
+      "component": "collaboration.participantfeedback"
+    },
+    "skillExchange": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::skillexchange.skillexchange",
+      "inversedBy": "exchangeSessions"
+    },
+    "attendees": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::member.member"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    }
+  }
+}

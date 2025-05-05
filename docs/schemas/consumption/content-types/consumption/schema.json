@@ -1,0 +1,78 @@
+{
+  "kind": "collectionType",
+  "collectionName": "consumption",
+  "info": {
+    "singularName": "consumption",
+    "pluralName": "consumptions",
+    "displayName": "Consumption",
+    "description": "Registro de consumo de consumibles",
+    "collectionName": "consumptions"
+  },
+  "options": {
+    "draftAndPublish": true,
+    "comment": "Tabla que almacena información de consumption"
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "date": {
+      "type": "datetime",
+      "required": true,
+      "description": "Fecha y hora del consumo"
+    },
+    "quantity": {
+      "type": "decimal",
+      "required": true,
+      "description": "Cantidad consumida"
+    },
+    "purpose": {
+      "type": "text",
+      "description": "Propósito o motivo del consumo"
+    },
+    "notes": {
+      "type": "text",
+      "description": "Notas adicionales sobre el consumo"
+    },
+    "systemMetadata": {
+      "type": "component",
+      "component": "metadata.system",
+      "repeatable": true,
+      "description": "Metadatos del sistema relacionados con el consumo"
+    },
+    "metadata": {
+      "type": "component",
+      "component": "common.metadata",
+      "repeatable": true,
+      "description": "Metadatos adicionales (formato legacy)"
+    },
+    "member": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member",
+      "description": "Miembro que realizó el consumo"
+    },
+    "consumable": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::consumable.consumable",
+      "description": "Consumible utilizado"
+    },
+    "event": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::event.event",
+      "description": "Evento asociado a este consumo"
+    },
+    "area": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::area.area",
+      "description": "Área donde se realizó el consumo"
+    },
+    "deletedAt": {
+      "type": "datetime",
+      "configurable": false,
+      "visible": false,
+      "description": "Fecha de eliminación para soft delete"
+    }
+  }
+}

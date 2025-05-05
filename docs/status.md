@@ -149,7 +149,7 @@ Nuestro sistema está compuesto por cuatro pilares fundamentales:
 
 ## 6. Diagrama de Estado del Sistema
 
-```mermaid title="Estado Actual del Sistema Maker Space" type="diagram"
+\`\`\`mermaid title="Estado Actual del Sistema Maker Space" type="diagram"
 graph TD
     subgraph "Componentes Principales"
         A["Espacios (90%)"] -.-> F["Sistema de Reservas (0%)"]
@@ -183,4 +183,4 @@ graph TD
     
     class A,B,C,D completed
     class E,F,G,H,I,J,K,L pending
-```
+\`\`\`

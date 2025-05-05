@@ -1,0 +1,100 @@
+{
+  "kind": "collectionType",
+  "collectionName": "equipment",
+  "info": {
+    "singularName": "equipment",
+    "pluralName": "equipments",
+    "displayName": "Equipment",
+    "description": "Equipos disponibles",
+    "collectionName": "equipment"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "deletedAt": {
+      "type": "datetime",
+      "configurable": false,
+      "visible": false,
+      "description": "Fecha de eliminación para soft delete"
+    },
+    "name": {
+      "type": "string",
+      "required": true,
+      "minLength": 2,
+      "maxLength": 50,
+      "description": "Nombre del equipo"
+    },
+    "description": {
+      "type": "text",
+      "description": "Descripción detallada del equipo"
+    },
+    "assetInfo": {
+      "type": "component",
+      "component": "asset.info",
+      "repeatable": false,
+      "description": "Información unificada del activo: imagen, instrucciones, mantenimiento, inventario, etc."
+    },
+    "internalCode": {
+      "type": "string",
+      "unique": true,
+      "maxLength": 100,
+      "minLength": 2,
+      "description": "Código interno de identificación"
+    },
+    "locationType": {
+      "type": "enumeration",
+      "enum": ["fixed", "mobile", "shared"],
+      "default": "fixed"
+    },
+    "currentUser": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member",
+      "description": "Miembro que está usando actualmente este equipo"
+    },
+    "requiredSkills": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::equipmentskill.equipmentskill",
+      "mappedBy": "equipment"
+    },
+    "area": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::area.area",
+      "inversedBy": "equipment"
+    },
+    "tools": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::tool.tool",
+      "mappedBy": "compatibleEquipment"
+    },
+    "tags": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::tag.tag",
+      "description": "Etiquetas asociadas para clasificación y búsqueda"
+    },
+    "metadata": {
+      "type": "component",
+      "component": "common.metadata",
+      "repeatable": true,
+      "description": "Metadatos unificados para el equipo"
+    },
+    "audit": {
+      "type": "component",
+      "component": "audit.tracking",
+      "repeatable": false,
+      "description": "Sistema unificado de auditoría y seguimiento de cambios"
+    },
+    "requiredTraining": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::training.training",
+      "description": "Capacitaciones requeridas para usar este equipo"
+    }
+  }
+}

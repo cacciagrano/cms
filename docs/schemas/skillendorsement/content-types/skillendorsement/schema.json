@@ -1,0 +1,54 @@
+{
+  "kind": "collectionType",
+  "collectionName": "skillendorsement",
+  "info": {
+    "singularName": "skillendorsement",
+    "pluralName": "skillendorsements",
+    "displayName": "Skill Endorsement",
+    "description": "Respaldos de habilidades entre miembros",
+    "collectionName": "skillendorsements"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "memberSkill": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::memberskill.memberskill",
+      "inversedBy": "endorsements"
+    },
+    "endorsedBy": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "endorsedAt": {
+      "type": "datetime",
+      "required": true
+    },
+    "comment": {
+      "type": "text"
+    },
+    "rating": {
+      "type": "integer",
+      "min": 1,
+      "max": 5
+    },
+    "isPublic": {
+      "type": "boolean",
+      "default": true
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    }
+  }
+}

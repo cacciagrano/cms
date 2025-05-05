@@ -1,0 +1,112 @@
+{
+  "kind": "collectionType",
+  "collectionName": "collaborationagreement",
+  "info": {
+    "singularName": "collaborationagreement",
+    "pluralName": "collaborationagreements",
+    "displayName": "Collaboration Agreement",
+    "description": "Acuerdos formales de colaboración entre miembros y proyectos",
+    "collectionName": "collaborationagreements"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text",
+      "required": true
+    },
+    "agreementStatus": {
+      "type": "enumeration",
+      "enum": ["draft", "active", "completed", "terminated", "cancelled"],
+      "default": "draft"
+    },
+    "startDate": {
+      "type": "date",
+      "required": true
+    },
+    "endDate": {
+      "type": "date"
+    },
+    "commitmentHours": {
+      "type": "integer",
+      "min": 1,
+      "description": "Horas semanales comprometidas"
+    },
+    "deliverable": {
+      "type": "component",
+      "repeatable": true,
+      "component": "collaboration.deliverable"
+    },
+    "milestone": {
+      "type": "component",
+      "repeatable": true,
+      "component": "collaboration.milestone"
+    },
+    "compensation": {
+      "type": "enumeration",
+      "enum": ["unpaid", "paid", "exchange", "credit", "other"],
+      "default": "unpaid"
+    },
+    "compensationDetails": {
+      "type": "text"
+    },
+    "termsAndConditions": {
+      "type": "richtext"
+    },
+    "intellectualProperty": {
+      "type": "richtext",
+      "description": "Acuerdos sobre propiedad intelectual"
+    },
+    "confidentiality": {
+      "type": "boolean",
+      "default": false,
+      "description": "Si incluye acuerdo de confidencialidad"
+    },
+    "terminationClauses": {
+      "type": "text",
+      "description": "Condiciones para la terminación anticipada"
+    },
+    "project": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::project.project",
+      "inversedBy": "collaborationagreement"
+    },
+    "member": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member",
+      "inversedBy": "collaborationagreement"
+    },
+    "match": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::collaborationmatch.collaborationmatch",
+      "inversedBy": "agreement"
+    },
+    "skill": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::skill.skill"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    },
+    "deletedAt": {
+      "type": "datetime"
+    }
+  }
+}

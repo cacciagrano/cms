@@ -1,0 +1,101 @@
+{
+  "kind": "collectionType",
+  "collectionName": "discount",
+  "info": {
+    "singularName": "discount",
+    "pluralName": "discounts",
+    "displayName": "Discount",
+    "description": "Descuentos y promociones aplicables",
+    "collectionName": "discounts"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "code": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "discountType": {
+      "type": "enumeration",
+      "enum": ["percentage", "fixed_amount", "free_months"],
+      "default": "percentage",
+      "required": true
+    },
+    "value": {
+      "type": "decimal",
+      "required": true,
+      "min": 0
+    },
+    "isActive": {
+      "type": "boolean",
+      "default": true
+    },
+    "startDate": {
+      "type": "date"
+    },
+    "endDate": {
+      "type": "date"
+    },
+    "maxUses": {
+      "type": "integer",
+      "min": 0
+    },
+    "usedCount": {
+      "type": "integer",
+      "min": 0,
+      "default": 0
+    },
+    "minPurchaseAmount": {
+      "type": "decimal",
+      "min": 0,
+      "default": 0
+    },
+    "applicableFor": {
+      "type": "enumeration",
+      "enum": ["all", "membership", "resource_usage", "reservation", "event", "service"],
+      "default": "all"
+    },
+    "applicableMemberships": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::membership.membership"
+    },
+    "isFirstTimeOnly": {
+      "type": "boolean",
+      "default": false
+    },
+    "isReferralDiscount": {
+      "type": "boolean",
+      "default": false
+    },
+    "payment": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::payment.payment",
+      "mappedBy": "discount"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.metadata"
+    },
+    "audit": {
+      "type": "component",
+      "repeatable": false,
+      "component": "audit.tracking"
+    },
+    "deletedAt": {
+      "type": "datetime"
+    }
+  }
+}

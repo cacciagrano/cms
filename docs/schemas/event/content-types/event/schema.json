@@ -1,0 +1,149 @@
+{
+  "kind": "collectionType",
+  "collectionName": "event",
+  "info": {
+    "singularName": "event",
+    "pluralName": "events",
+    "displayName": "Event",
+    "description": "Eventos organizados",
+    "collectionName": "events"
+  },
+  "options": {
+    "draftAndPublish": true,
+    "comment": "Tabla que almacena información de event"
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "description": "Título del evento",
+      "minLength": 3,
+      "maxLength": 100
+    },
+    "description": {
+      "type": "text",
+      "description": "Descripción detallada del evento"
+    },
+    "startDate": {
+      "type": "datetime",
+      "required": true,
+      "description": "Fecha y hora de inicio del evento"
+    },
+    "endDate": {
+      "type": "datetime",
+      "required": true,
+      "description": "Fecha y hora de finalización del evento"
+    },
+    "location": {
+      "type": "string",
+      "description": "Ubicación o lugar del evento"
+    },
+    "address": {
+      "type": "component",
+      "component": "common.address",
+      "repeatable": false,
+      "description": "Dirección completa del evento"
+    },
+    "capacity": {
+      "type": "integer",
+      "description": "Capacidad máxima de asistentes",
+      "min": 0
+    },
+    "isPublic": {
+      "type": "boolean",
+      "default": true,
+      "description": "Indica si el evento es público o privado"
+    },
+    "systemMetadata": {
+      "type": "component",
+      "component": "metadata.system",
+      "repeatable": true,
+      "description": "Metadatos del sistema relacionados con el evento"
+    },
+    "analyticsMetadata": {
+      "type": "component",
+      "component": "metadata.analytics",
+      "repeatable": true,
+      "description": "Metadatos para análisis relacionados con el evento"
+    },
+    "metadata": {
+      "type": "component",
+      "component": "common.metadata",
+      "repeatable": true,
+      "description": "Metadatos adicionales (formato legacy)"
+    },
+    "attendances": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::attendance.attendance",
+      "mappedBy": "event",
+      "description": "Registros de asistencia a este evento"
+    },
+    "eventType": {
+      "type": "enumeration",
+      "enum": ["workshop", "conference", "meeting", "social", "other"],
+      "description": "Tipo de evento"
+    },
+    "registrationDeadline": {
+      "type": "datetime",
+      "description": "Fecha límite para registrarse al evento"
+    },
+    "cost": {
+      "type": "decimal",
+      "default": 0,
+      "description": "Costo de asistencia al evento (0 = gratis)"
+    },
+    "eventStatus": {
+      "type": "enumeration",
+      "enum": ["scheduled", "cancelled", "postponed", "completed"],
+      "default": "scheduled",
+      "description": "Estado actual del evento"
+    },
+    "organizer": {
+      "type": "string",
+      "description": "Organizador o responsable del evento"
+    },
+    "image": {
+      "type": "media",
+      "allowedTypes": ["images"],
+      "multiple": false,
+      "description": "Imagen principal del evento"
+    },
+    "attachments": {
+      "type": "media",
+      "multiple": true,
+      "description": "Archivos adjuntos relacionados con el evento"
+    },
+    "requiredMemberships": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::membership.membership",
+      "description": "Tipos de membresía requeridos para asistir a este evento"
+    },
+    "relatedAreas": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::area.area",
+      "description": "Áreas relacionadas con este evento"
+    },
+    "deletedAt": {
+      "type": "datetime",
+      "configurable": false,
+      "visible": false,
+      "description": "Fecha de eliminación para soft delete"
+    },
+    "statusChangedAt": {
+      "type": "datetime",
+      "description": "Fecha del último cambio de estado"
+    },
+    "previousStatus": {
+      "type": "string",
+      "description": "Estado anterior antes del cambio actual"
+    },
+    "statusHistory": {
+      "type": "json",
+      "description": "Historial de cambios de estado con fechas"
+    }
+  }
+}
