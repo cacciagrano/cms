@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Especializado 1",
+    "category": "Equipamiento",
+    "description": "Adamo talis cur sumo delectatio statua.",
+    "color": "#cdea88",
+    "publishedAt": "2025-05-06T15:29:51.606Z"
+  },
+  {
+    "id": 2,
+    "name": "Centro 2",
+    "category": "Ubicación",
+    "description": "Blanditiis commodo auditor vestigium adstringo atqui.",
+    "color": "#f8aa68",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 3,
+    "name": "Workshop 3",
+    "category": "Evento",
+    "description": "Adipisci cilicium auxilium audax bellum dedecor aveho careo cotidie.",
+    "color": "#3b5a71",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 4,
+    "name": "Multimedia 4",
+    "category": "Equipamiento",
+    "description": "Anser asperiores tenuis vesper.",
+    "color": "#0cb27b",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 5,
+    "name": "Básico 5",
+    "category": "Equipamiento",
+    "description": "Viriliter angulus tabula voluptates tamen sponte comminor cunae necessitatibus deprimo.",
+    "color": "#10c9b9",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 6,
+    "name": "24h 6",
+    "category": "Accesibilidad",
+    "description": "Calco adsidue ipsam summisse cunctatio demoror vulpes sortitus.",
+    "color": "#f673f7",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 7,
+    "name": "Silencioso 7",
+    "category": "Tipo",
+    "description": "Tum adflicto solio tabgo copiose tibi culpo.",
+    "color": "#f6d0c3",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 8,
+    "name": "Digital 8",
+    "category": "Tecnología",
+    "description": "Iure contabesco cuppedia calculus nesciunt beatus ager cresco.",
+    "color": "#2aec9b",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 9,
+    "name": "Sur 9",
+    "category": "Ubicación",
+    "description": "Vorax accusantium aveho cursim denique sustineo demo taceo.",
+    "color": "#0ec2ec",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 10,
+    "name": "Digital 10",
+    "category": "Tecnología",
+    "description": "Pel trans ambulo deputo tutamen culpa.",
+    "color": "#fbc24f",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 11,
+    "name": "Papel 11",
+    "category": "Material",
+    "description": "Acsi totidem pariatur odio.",
+    "color": "#65c3ba",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 12,
+    "name": "Multimedia 12",
+    "category": "Equipamiento",
+    "description": "Ater blandior voluptates demoror.",
+    "color": "#39d5be",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 13,
+    "name": "Completo 13",
+    "category": "Equipamiento",
+    "description": "Totam balbus sol confugo sortitus templum.",
+    "color": "#ab92e8",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 14,
+    "name": "IA 14",
+    "category": "Tecnología",
+    "description": "Sumo spoliatio careo cotidie aliqua audentia surculus triduana tumultus.",
+    "color": "#fee5b1",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 15,
+    "name": "Especializado 15",
+    "category": "Equipamiento",
+    "description": "Antepono caritas audeo tyrannus tredecim quos caterva voluptate dolores.",
+    "color": "#01ae26",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 16,
+    "name": "Básico 16",
+    "category": "Equipamiento",
+    "description": "Angulus comes vestigium adsidue sustineo arca.",
+    "color": "#4b9e69",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 17,
+    "name": "Networking 17",
+    "category": "Uso",
+    "description": "Cursus adinventitias quidem theca esse bardus sub dolorem sufficio comparo.",
+    "color": "#c75fad",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 18,
+    "name": "Hackathon 18",
+    "category": "Evento",
+    "description": "Sublime cubicularis summisse maxime officia adnuo amoveo sed vitium.",
+    "color": "#d412e6",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 19,
+    "name": "Interior 19",
+    "category": "Ubicación",
+    "description": "Laudantium tego considero ducimus artificiose.",
+    "color": "#23baa1",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 20,
+    "name": "Este 20",
+    "category": "Ubicación",
+    "description": "Pel ulciscor odio.",
+    "color": "#ef2c45",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 21,
+    "name": "IA 21",
+    "category": "Tecnología",
+    "description": "Aeneus tabernus coniecto curiositas conitor subnecto.",
+    "color": "#a2fb5c",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 22,
+    "name": "Alta tecnología 22",
+    "category": "Equipamiento",
+    "description": "Atqui curiositas usitas ut.",
+    "color": "#4b04bf",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 23,
+    "name": "Especializado 23",
+    "category": "Equipamiento",
+    "description": "Nihil numquam surculus combibo accommodo conservo defaeco universe solutio.",
+    "color": "#e2ab9e",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 24,
+    "name": "Producción 24",
+    "category": "Uso",
+    "description": "Accedo velum velociter nam vindico.",
+    "color": "#0055af",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 25,
+    "name": "Producción 25",
+    "category": "Uso",
+    "description": "Aveho vito adeptio adstringo carmen audentia debitis.",
+    "color": "#4b19d8",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 26,
+    "name": "Digital 26",
+    "category": "Tecnología",
+    "description": "Vociferor velut alo coniecto adimpleo beneficium caries ut videlicet.",
+    "color": "#cba8ae",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 27,
+    "name": "Multimedia 27",
+    "category": "Equipamiento",
+    "description": "Claudeo delectatio pax canis vicinus utrum tenax absum defero beneficium.",
+    "color": "#b56e56",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 28,
+    "name": "Especializado 28",
+    "category": "Equipamiento",
+    "description": "Sodalitas solio consequuntur venustas tempora caute sumo cotidie.",
+    "color": "#8e5f9f",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 29,
+    "name": "Robótica 29",
+    "category": "Tecnología",
+    "description": "Usque totus curriculum talus confero aperiam ultra.",
+    "color": "#dfec60",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  },
+  {
+    "id": 30,
+    "name": "Informal 30",
+    "category": "Tipo",
+    "description": "Quo enim nemo curvo crustulum tricesimus.",
+    "color": "#ffc62d",
+    "publishedAt": "2025-05-06T15:29:51.607Z"
+  }
+]

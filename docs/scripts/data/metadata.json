@@ -1,0 +1,23 @@
+{
+  "generated": "2025-05-06T15:29:51.883Z",
+  "counts": {
+    "tags": 30,
+    "skillCategories": 8,
+    "skills": 40,
+    "skillLevels": 200,
+    "memberships": 4,
+    "members": 50,
+    "memberSkills": 193,
+    "membershipSubscriptions": 50,
+    "spaces": 10,
+    "areas": 20,
+    "equipment": 30,
+    "tools": 40,
+    "consumables": 25,
+    "resources": 35,
+    "events": 20,
+    "projects": 15,
+    "reservations": 50,
+    "trainings": 12
+  }
+}

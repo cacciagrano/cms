@@ -1,0 +1,2237 @@
+[
+  {
+    "id": 1,
+    "name": "Segueta 1",
+    "description": "Dolorum molestias vir vinculum altus spargo. Tenetur viduo quia apparatus cupio decumbo. Solio sollicito ago suspendo arca cilicium caelestis ambitus tamen.",
+    "assetInfo": {
+      "inventoryNumber": "INV-4VPQZEFZ",
+      "acquisitionDate": "2024-04-12",
+      "acquisitionCost": 2836.1002000155477,
+      "currentValue": 1318.3004873570646,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-09-17",
+        "provider": "Rice - Senger"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": null,
+      "safetyGuidelines": null
+    },
+    "toolType": "cutting",
+    "internalCode": "TL-0001",
+    "location": {
+      "latitude": -30.6434,
+      "longitude": 120.5984,
+      "address": "965 Maurice Ramp",
+      "city": "South Kendraland",
+      "state": "Vermont",
+      "postalCode": "49389",
+      "country": "Afghanistan",
+      "formattedAddress": "5612 The Paddocks, Schoenboro, Delaware 57308-3653"
+    },
+    "area": 1,
+    "compatibleEquipment": [],
+    "tags": [
+      4,
+      6,
+      28
+    ],
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "dignissimos cunctatio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-05-16T05:37:20.192Z",
+      "updatedAt": "2023-05-28T07:32:23.367Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.788Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Calibre 2",
+    "description": "Damnatio templum vulnero velociter ars vir agnosco adfero candidus. Quas vulgus veritas vulticulus volaticus adimpleo adeo. Sint vitiosus provident aequitas verbera defessus.",
+    "assetInfo": {
+      "inventoryNumber": "INV-4KO6RNA8",
+      "acquisitionDate": "2024-06-24",
+      "acquisitionCost": 5398.686103362464,
+      "currentValue": 3438.5435899516788,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-05-14",
+        "provider": "Zieme, Kilback and Stoltenberg"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Spiculum aranea coma. Attollo torqueo tenax vapulus vos. Accusantium conforto capitulus tergum velum supra."
+    },
+    "toolType": "measuring",
+    "internalCode": "TL-0002",
+    "location": {
+      "latitude": 37.9388,
+      "longitude": 163.7925,
+      "address": "2781 Dahlia Forge",
+      "city": "Kirlinport",
+      "state": "Connecticut",
+      "postalCode": "53578-5276",
+      "country": "Turkmenistan",
+      "formattedAddress": "375 Ladarius Haven, Port Sandraborough, Maryland 16744-5122"
+    },
+    "area": 19,
+    "compatibleEquipment": [
+      28,
+      10
+    ],
+    "tags": [
+      8
+    ],
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "cur cruciamentum"
+      },
+      {
+        "key": "source",
+        "value": "sonitus alveus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-02-09T00:49:29.850Z",
+      "updatedAt": "2025-02-19T18:30:18.019Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.789Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Llave inglesa 3",
+    "description": "Tabula vesco tamdiu clarus nulla canonicus. Damno adsum templum. Solum sophismata cursus alioqui nostrum viriliter.",
+    "assetInfo": {
+      "inventoryNumber": "INV-CBKYNRRB",
+      "acquisitionDate": "2021-05-08",
+      "acquisitionCost": 1372.4671876134632,
+      "currentValue": 6408.525430049248,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-04-12",
+        "provider": "Little - Schulist"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Tenetur communis placeat necessitatibus audacia crux depromo inflammatio. Speculum peior constans dolor crudelis cognatus. Cognatus volva est dolorem aegrotatio libero dedico eos uter.\nCrudelis verto capitulus ipsum illum. Utrimque deleniti repellat nesciunt cito totam beatae. Capio peccatus allatus suffragium claustrum cubo vulgo nisi cohors.",
+      "safetyGuidelines": null
+    },
+    "toolType": "hand_tool",
+    "internalCode": "TL-0003",
+    "location": {
+      "latitude": 86.1053,
+      "longitude": 179.8684,
+      "address": "3280 Washington Street",
+      "city": "San Ramon",
+      "state": "Wisconsin",
+      "postalCode": "80296",
+      "country": "El Salvador",
+      "formattedAddress": "443 Bogisich Wall, Port Beaulah, Florida 10988"
+    },
+    "area": 15,
+    "compatibleEquipment": [
+      17,
+      22,
+      30
+    ],
+    "tags": [
+      21,
+      28,
+      19
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "denego pariatur"
+      },
+      {
+        "key": "source",
+        "value": "amissio stips"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-01-13T03:06:12.682Z",
+      "updatedAt": "2025-03-31T21:13:48.615Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.789Z",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "name": "Crimpeadora 4",
+    "description": "Dolorum textus turba aeternus demoror delibero cibus expedita demoror dedico. Vomica vitiosus eligendi. Uberrime utrimque cilicium.",
+    "assetInfo": {
+      "inventoryNumber": "INV-Q95NZFRD",
+      "acquisitionDate": "2021-10-15",
+      "acquisitionCost": 1864.0302174960786,
+      "currentValue": 7236.37633446668,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-11-07",
+        "provider": "Farrell - O'Hara"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Autem inflammatio considero doloremque stultus. Accusator trepide ullus adsidue amita supplanto attero cui. Comburo trans iste volup facere."
+    },
+    "toolType": "electrical",
+    "internalCode": "TL-0004",
+    "location": {
+      "latitude": 62.7033,
+      "longitude": 114.723,
+      "address": "2108 Kaylah Courts",
+      "city": "East Larry",
+      "state": "Pennsylvania",
+      "postalCode": "37545",
+      "country": "Botswana",
+      "formattedAddress": "71565 Altenwerth Roads, North Alexandreaport, Idaho 50990-6027"
+    },
+    "area": 1,
+    "compatibleEquipment": [
+      10,
+      7,
+      23
+    ],
+    "tags": [
+      24,
+      1
+    ],
+    "metadata": [
+      {
+        "key": "department",
+        "value": "aufero tergiversatio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-04T14:34:48.262Z",
+      "updatedAt": "2023-10-01T03:58:47.006Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.790Z",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "name": "Crimpeadora 5",
+    "description": "Sufficio delego somniculosus. Celebrer varius bellicus comitatus minus amor. Tepidus articulus demitto allatus accendo cedo agnosco.",
+    "assetInfo": {
+      "inventoryNumber": "INV-OJFQCC0T",
+      "acquisitionDate": "2023-05-26",
+      "acquisitionCost": 2144.892859635127,
+      "currentValue": 5501.051463242083,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2025-12-24",
+        "provider": "Mitchell, Rice and Rath"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Voco accendo spiculum thesis solio absorbeo teres vilis stultus. Tricesimus audentia usus sto tutamen vulgaris curatio dedico. Defaeco acquiro cerno modi apto crapula."
+    },
+    "toolType": "electrical",
+    "internalCode": "TL-0005",
+    "location": {
+      "latitude": 3.8812,
+      "longitude": -160.2426,
+      "address": "8875 Fritsch Expressway",
+      "city": "Bogisichville",
+      "state": "Nevada",
+      "postalCode": "64923-4811",
+      "country": "Kyrgyz Republic",
+      "formattedAddress": "8200 Jordon Glens, Hintzfort, North Carolina 98026-9765"
+    },
+    "area": 14,
+    "compatibleEquipment": [
+      1,
+      16
+    ],
+    "tags": [
+      9,
+      19
+    ],
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "capitulus una"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-04T09:05:16.050Z",
+      "updatedAt": "2025-01-25T02:24:28.188Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.790Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Cinta métrica 6",
+    "description": "Antiquus absum fugiat confugo. Coerceo compello deprimo cibus tametsi illo amitto considero. Ceno beatae ambulo vetus cumque.",
+    "assetInfo": {
+      "inventoryNumber": "INV-IUVSGA7I",
+      "acquisitionDate": "2022-11-05",
+      "acquisitionCost": 7732.904838521251,
+      "currentValue": 7140.91739856183,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-11-05",
+        "provider": "Steuber, Kerluke and Weissnat"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Stella nam accusator sono illum uterque reiciendis tamdiu commodi. Asper curiositas carmen. Abduco calculus vesper stabilis tamquam solium.\nVestrum voluptatibus iure sono communis cohaero venio deputo conicio caritas. Absum tepidus ulterius exercitationem conturbo votum sperno cubo. Verumtamen socius aureus ager.",
+      "safetyGuidelines": "Quod vitium voluptatum quaerat termes confugo. Aspicio tepesco appello sodalitas delicate. Paens decet victus calco aegrus a."
+    },
+    "toolType": "measuring",
+    "internalCode": "TL-0006",
+    "location": {
+      "latitude": -57.5435,
+      "longitude": 128.6778,
+      "address": "13743 Bartell Meadows",
+      "city": "Lynchtown",
+      "state": "Connecticut",
+      "postalCode": "64777",
+      "country": "Malawi",
+      "formattedAddress": "708 N Broad Street, Rolfsonfort, Michigan 22270-4604"
+    },
+    "area": 6,
+    "compatibleEquipment": [
+      2
+    ],
+    "tags": [
+      23
+    ],
+    "metadata": [
+      {
+        "key": "department",
+        "value": "textilis casso"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-30T03:45:19.522Z",
+      "updatedAt": "2024-06-01T09:58:34.539Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.790Z",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "name": "Cincel 7",
+    "description": "Certus bellicus cubicularis vorax cattus vinculum celer curso. Adficio cimentarius amita dedecor solutio ventus conicio audacia celebrer varius. Adfectus spiritus nemo in bis vos acer socius.",
+    "assetInfo": {
+      "inventoryNumber": "INV-B7EXKOXR",
+      "acquisitionDate": "2024-07-20",
+      "acquisitionCost": 3474.9659161965837,
+      "currentValue": 4437.1410756223095,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-07-03",
+        "provider": "Abernathy - Wehner"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Cito defleo taceo verecundia. Aut aqua viduo cilicium tametsi ver arbitro synagoga attollo. Tamdiu ambitus earum succurro aduro cilicium aestivus via cuppedia attonbitus.\nVulgus cicuta toties vobis depereo accendo armarium natus adhaero. Catena advoco victus acervus theatrum. Caterva apto asper placeat cenaculum agnosco.",
+      "safetyGuidelines": null
+    },
+    "toolType": "hand_tool",
+    "internalCode": "TL-0007",
+    "location": {
+      "latitude": 75.5154,
+      "longitude": 159.8536,
+      "address": "9364 Isaac Locks",
+      "city": "Casa Grande",
+      "state": "Vermont",
+      "postalCode": "36273",
+      "country": "Denmark",
+      "formattedAddress": "35933 Domenic Neck, Ciaraburgh, Kentucky 52601-1614"
+    },
+    "area": 18,
+    "compatibleEquipment": [
+      21,
+      1
+    ],
+    "tags": [
+      2,
+      3,
+      27
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-06-10T05:38:45.076Z",
+      "updatedAt": "2025-01-04T11:05:19.434Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.790Z",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "name": "Protector auditivo 8",
+    "description": "Callide aduro alias xiphias aliquid desidero tam cotidie animus absorbeo. Sopor conservo animadverto. Creo adsidue facere voluntarius libero dicta.",
+    "assetInfo": {
+      "inventoryNumber": "INV-QARZY6FQ",
+      "acquisitionDate": "2022-06-08",
+      "acquisitionCost": 5912.272557084891,
+      "currentValue": 1146.6134124846208,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-12-25",
+        "provider": "Russel Group"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Velociter antiquus utor. Valens civitas umbra optio aggero verecundia. Advoco subnecto truculenter textus."
+    },
+    "toolType": "safety",
+    "internalCode": "TL-0008",
+    "location": {
+      "latitude": 83.0075,
+      "longitude": 33.8294,
+      "address": "8779 Market Place",
+      "city": "Schoenton",
+      "state": "Alaska",
+      "postalCode": "27332-3817",
+      "country": "Pakistan",
+      "formattedAddress": "2984 Elaina Unions, New Vena, California 85850"
+    },
+    "area": 9,
+    "compatibleEquipment": [
+      20
+    ],
+    "tags": [
+      20,
+      17
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-05-07T16:38:57.038Z",
+      "updatedAt": "2024-05-03T20:04:26.630Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.790Z",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "name": "Aerógrafo 9",
+    "description": "Vitium vulariter aestas officia. Ocer cupio audax decimus uxor cupiditate abduco considero derideo tondeo. Carpo artificiose ratione suus audacia.",
+    "assetInfo": {
+      "inventoryNumber": "INV-EOUKIK5Z",
+      "acquisitionDate": "2024-04-20",
+      "acquisitionCost": 3120.7111204071457,
+      "currentValue": 4590.932809853372,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-01-07",
+        "provider": "Hilll and Sons"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Cohaero benigne tergeo cribro vulgo subiungo temperantia coniecto. Spargo unus cumque vigor vitiosus vereor. Venustas certus urbanus."
+    },
+    "toolType": "pneumatic",
+    "internalCode": "TL-0009",
+    "location": {
+      "latitude": -58.0925,
+      "longitude": 67.5645,
+      "address": "1877 Beahan Alley",
+      "city": "North Shanna",
+      "state": "Washington",
+      "postalCode": "80392",
+      "country": "Israel",
+      "formattedAddress": "89295 Stanley Street, Bayerborough, Alabama 13303-7243"
+    },
+    "area": 18,
+    "compatibleEquipment": [
+      17,
+      22
+    ],
+    "tags": [
+      14,
+      19,
+      21
+    ],
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "complectus sublime"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-06-20T20:07:13.453Z",
+      "updatedAt": "2024-11-24T09:44:18.119Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.790Z",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "name": "Organizador 10",
+    "description": "Dens adipisci quam abutor celebrer vereor calamitas. Suadeo arca tempus somnus ab suscipit. Aedificium terreo curiositas.",
+    "assetInfo": {
+      "inventoryNumber": "INV-LQP9XZNG",
+      "acquisitionDate": "2023-06-16",
+      "acquisitionCost": 8028.367286534183,
+      "currentValue": 6330.802335710649,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-11-02",
+        "provider": "Johnston - Zemlak"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": null
+    },
+    "toolType": "other",
+    "internalCode": "TL-0010",
+    "location": {
+      "latitude": 48.3616,
+      "longitude": -18.5767,
+      "address": "341 Clarendon Road",
+      "city": "Feilville",
+      "state": "Wyoming",
+      "postalCode": "86256",
+      "country": "El Salvador",
+      "formattedAddress": "9520 The Hawthorns, Lake Cameron, Illinois 03057"
+    },
+    "area": 8,
+    "compatibleEquipment": [],
+    "tags": [
+      19,
+      22,
+      16
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-03-12T10:45:02.958Z",
+      "updatedAt": "2025-03-25T06:57:02.144Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.790Z",
+    "deletedAt": null
+  },
+  {
+    "id": 11,
+    "name": "Set de brocas 11",
+    "description": "Tactus calamitas alius non surculus dolore textus defero. Curis animus solum. Arca commodi totus architecto cuppedia delectus.",
+    "assetInfo": {
+      "inventoryNumber": "INV-XPHSKX0V",
+      "acquisitionDate": "2023-04-08",
+      "acquisitionCost": 9104.491614733735,
+      "currentValue": 199.5348634230084,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-04-18",
+        "provider": "Kuvalis - Conroy"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Cotidie vere deprecator aer depulso claro calcar aeternus. Textilis defungo numquam cilicium. Adsuesco peior aequitas arcus arcus voluptas possimus terror.\nAddo armarium cervus aegrus accusamus suffragium termes admoneo. Volva asper arbitro amissio vado abduco ad cena. Infit culpo verecundia contego eligendi caveo.",
+      "safetyGuidelines": "Valde adimpleo ultio alius arx utrum agnosco. Fugiat cresco non vulgo amor patrocinor adopto. Advenio cibo comis thesaurus utroque creta vae condico."
+    },
+    "toolType": "other",
+    "internalCode": "TL-0011",
+    "location": {
+      "latitude": -29.6036,
+      "longitude": 76.8309,
+      "address": "955 Hertha Shoal",
+      "city": "Fayworth",
+      "state": "Kentucky",
+      "postalCode": "34504",
+      "country": "New Caledonia",
+      "formattedAddress": "57142 Streich Neck, Maryjanechester, Oregon 78921"
+    },
+    "area": 9,
+    "compatibleEquipment": [
+      22,
+      18,
+      2
+    ],
+    "tags": [
+      18
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-12-25T03:51:00.104Z",
+      "updatedAt": "2024-12-31T05:42:49.993Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.790Z",
+    "deletedAt": null
+  },
+  {
+    "id": 12,
+    "name": "Transportador 12",
+    "description": "Color tam omnis curiositas modi umquam. Ambulo solio tondeo ab vomica caecus sophismata vinculum dens ultra. Convoco derideo cunabula accendo ater repudiandae ocer adstringo stella sint.",
+    "assetInfo": {
+      "inventoryNumber": "INV-JFOWLDWJ",
+      "acquisitionDate": "2022-12-30",
+      "acquisitionCost": 1409.0385362840018,
+      "currentValue": 3589.9613311096014,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2025-11-21",
+        "provider": "Kutch, Kautzer and Hyatt"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Coruscus agnitio depono amor decretum aequitas amoveo. Apto molestias tumultus suppellex ratione. Aequitas tabula dolor vallum amoveo conventus credo benevolentia auctor."
+    },
+    "toolType": "measuring",
+    "internalCode": "TL-0012",
+    "location": {
+      "latitude": 13.9785,
+      "longitude": 83.2334,
+      "address": "42087 Laney Mountain",
+      "city": "Skilesmouth",
+      "state": "Pennsylvania",
+      "postalCode": "30194",
+      "country": "Curacao",
+      "formattedAddress": "49814 Kellen Villages, South Deliafurt, Alaska 09918-0448"
+    },
+    "area": 7,
+    "compatibleEquipment": [
+      27
+    ],
+    "tags": [
+      27
+    ],
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "bardus abutor"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-21T00:29:05.462Z",
+      "updatedAt": "2024-02-17T00:36:30.480Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.790Z",
+    "deletedAt": null
+  },
+  {
+    "id": 13,
+    "name": "Sierra manual 13",
+    "description": "Adeo spero ultra triduana complectus. Ademptio repellendus cattus sumo. Voluptas dolorem ipsam vinum valeo esse aut aegre angustus.",
+    "assetInfo": {
+      "inventoryNumber": "INV-90F5ZBP7",
+      "acquisitionDate": "2022-12-14",
+      "acquisitionCost": 9582.243102590155,
+      "currentValue": 5776.732845554481,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-10-03",
+        "provider": "Jenkins, Schuster and Franey"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Adeo volo aspernatur volubilis cicuta tamen velociter arcesso clementia aliqua. Tero cuppedia adversus sit valeo porro error velociter. Curiositas amet complectus.\nAssentator artificiose adipisci succurro adfero depereo conitor admoneo aer copiose. Error capto desidero admiratio. Speciosus depulso velociter caritas tametsi.",
+      "safetyGuidelines": null
+    },
+    "toolType": "cutting",
+    "internalCode": "TL-0013",
+    "location": {
+      "latitude": -6.3136,
+      "longitude": -163.0619,
+      "address": "62609 Dach Common",
+      "city": "Kilbackport",
+      "state": "Nebraska",
+      "postalCode": "68550-8225",
+      "country": "Panama",
+      "formattedAddress": "19008 Kirlin Viaduct, Aracelycester, Iowa 26605"
+    },
+    "area": 20,
+    "compatibleEquipment": [
+      10
+    ],
+    "tags": [
+      15,
+      15
+    ],
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "vestigium crebro"
+      },
+      {
+        "key": "relevance",
+        "value": "desolo defero"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-02T12:02:55.557Z",
+      "updatedAt": "2025-05-02T08:36:34.560Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.791Z",
+    "deletedAt": null
+  },
+  {
+    "id": 14,
+    "name": "Cizalla 14",
+    "description": "Turbo undique adsum circumvenio dens. Tredecim dapifer defleo ventito aufero alioqui volva vulticulus. Sodalitas commodi tepesco aestus candidus vallum vesper cribro.",
+    "assetInfo": {
+      "inventoryNumber": "INV-QL3B1C6D",
+      "acquisitionDate": "2023-05-24",
+      "acquisitionCost": 333.603838675449,
+      "currentValue": 3578.879618751373,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-01-17",
+        "provider": "Nikolaus, Jakubowski and Leannon"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Crapula alo vapulus ab terreo. Tabernus decipio officiis. Dicta amplitudo victoria supellex acervus quasi."
+    },
+    "toolType": "cutting",
+    "internalCode": "TL-0014",
+    "location": {
+      "latitude": 3.2632,
+      "longitude": -17.9908,
+      "address": "9423 The Meadows",
+      "city": "West Jeffry",
+      "state": "Massachusetts",
+      "postalCode": "22525-0401",
+      "country": "Kuwait",
+      "formattedAddress": "3937 Bayer Common, Fort Palma, Arizona 71436"
+    },
+    "area": 10,
+    "compatibleEquipment": [
+      28,
+      23
+    ],
+    "tags": [
+      9,
+      4
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-09-21T03:00:21.245Z",
+      "updatedAt": "2025-02-12T22:54:31.571Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.791Z",
+    "deletedAt": null
+  },
+  {
+    "id": 15,
+    "name": "Remachadora 15",
+    "description": "Amo nostrum repellendus condico campana nisi sortitus. Decet absconditus derelinquo quas facilis sumo benevolentia deludo. Conventus summopere audax culpo cariosus curvo attollo.",
+    "assetInfo": {
+      "inventoryNumber": "INV-LZXNPRVS",
+      "acquisitionDate": "2023-02-22",
+      "acquisitionCost": 5226.9762810056045,
+      "currentValue": 7136.924093247702,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-10-23",
+        "provider": "Schaefer, Brekke and Tromp"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Curtus carmen vulgivagus varius vigor ascit cogito uberrime degenero. Aptus audentia ademptio tamisium. Anser quo ultio casus averto vesica absum mollitia voveo."
+    },
+    "toolType": "fastening",
+    "internalCode": "TL-0015",
+    "location": {
+      "latitude": 46.6701,
+      "longitude": 74.7228,
+      "address": "6486 Wilkinson Meadow",
+      "city": "Vista",
+      "state": "Minnesota",
+      "postalCode": "62711",
+      "country": "Bhutan",
+      "formattedAddress": "48844 Bruen Locks, Manleyville, Montana 36523-6688"
+    },
+    "area": 9,
+    "compatibleEquipment": [
+      11,
+      1
+    ],
+    "tags": [
+      16,
+      3
+    ],
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "suppono tergiversatio"
+      },
+      {
+        "key": "department",
+        "value": "crepusculum aegrotatio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-06-27T20:34:11.618Z",
+      "updatedAt": "2024-08-15T08:53:58.863Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.791Z",
+    "deletedAt": null
+  },
+  {
+    "id": 16,
+    "name": "Pistola de aire 16",
+    "description": "Suggero tabgo thymbra. Defleo tempora textus ter vespillo tenetur tempore demulceo sint conicio. Usque calcar temptatio deleo tertius eos.",
+    "assetInfo": {
+      "inventoryNumber": "INV-PEW0KJPH",
+      "acquisitionDate": "2021-03-26",
+      "acquisitionCost": 8392.719933639783,
+      "currentValue": 1906.7628322567955,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-09-12",
+        "provider": "Bruen - Harber"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Cetera veritatis tempus animus. Apto aperiam cuppedia uberrime vetus minima comburo. Agnitio paulatim vulgo adsuesco vinco qui rerum vulgaris territo pax."
+    },
+    "toolType": "pneumatic",
+    "internalCode": "TL-0016",
+    "location": {
+      "latitude": 31.6006,
+      "longitude": 145.5201,
+      "address": "9196 Bins Corner",
+      "city": "Myrtisbury",
+      "state": "Nevada",
+      "postalCode": "43729",
+      "country": "Australia",
+      "formattedAddress": "295 McKenzie Meadows, West Tracycester, Connecticut 28071-7319"
+    },
+    "area": 15,
+    "compatibleEquipment": [
+      2,
+      13
+    ],
+    "tags": [
+      2,
+      11,
+      12
+    ],
+    "metadata": [
+      {
+        "key": "department",
+        "value": "patria laudantium"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-17T11:09:17.549Z",
+      "updatedAt": "2024-01-11T09:22:43.376Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.791Z",
+    "deletedAt": null
+  },
+  {
+    "id": 17,
+    "name": "Calibre 17",
+    "description": "Video auditor minus trepide cetera auctus cornu supra. Atrocitas iure amitto esse credo tendo casus cetera alo. Baiulus ara sollers corona.",
+    "assetInfo": {
+      "inventoryNumber": "INV-3YOEJAHH",
+      "acquisitionDate": "2022-11-06",
+      "acquisitionCost": 9754.096499790483,
+      "currentValue": 5774.476385920945,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-09-26",
+        "provider": "Barrows and Sons"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Molestias ancilla decipio cicuta. Adipisci valetudo valens tactus undique. Caute tutamen delicate claudeo arcus confido adfectus totus adstringo.\nVulticulus vulgaris adeptio dignissimos victus. Uxor adsuesco valde. Abbas beneficium succedo bellum summisse caelestis tenetur.",
+      "safetyGuidelines": "Asperiores curo volva tactus laudantium dedico suasoria creber. Curto aliquid conservo solutio magni. Crastinus delectatio carcer vigor teneo."
+    },
+    "toolType": "measuring",
+    "internalCode": "TL-0017",
+    "location": {
+      "latitude": 54.1922,
+      "longitude": 88.2055,
+      "address": "7173 N Main Avenue",
+      "city": "Fort Renee",
+      "state": "North Dakota",
+      "postalCode": "16506-5075",
+      "country": "Germany",
+      "formattedAddress": "72460 Casper Mall, West Cassandre, West Virginia 84229"
+    },
+    "area": 8,
+    "compatibleEquipment": [],
+    "tags": [
+      22
+    ],
+    "metadata": [
+      {
+        "key": "department",
+        "value": "summisse adeptio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-01-29T20:09:12.943Z",
+      "updatedAt": "2025-01-30T06:17:21.035Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.791Z",
+    "deletedAt": null
+  },
+  {
+    "id": 18,
+    "name": "Gafas protectoras 18",
+    "description": "Cedo odit valde tandem autem. Terra unus dolore vicissitudo cotidie calculus voluptatum pariatur caute. Tribuo amita tibi voco caput curriculum canto.",
+    "assetInfo": {
+      "inventoryNumber": "INV-WOJOEOYY",
+      "acquisitionDate": "2025-01-31",
+      "acquisitionCost": 8719.519216879427,
+      "currentValue": 1964.5545655547278,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-04-09",
+        "provider": "Labadie - Johnson"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Stella vorago contra victoria tremo contra quia terror vere. Tenus arma subvenio. Credo spoliatio combibo comis condico alii taedium alveus sunt audax."
+    },
+    "toolType": "safety",
+    "internalCode": "TL-0018",
+    "location": {
+      "latitude": 57.0446,
+      "longitude": -40.9323,
+      "address": "6329 The Paddocks",
+      "city": "West Covina",
+      "state": "Arizona",
+      "postalCode": "81431",
+      "country": "Albania",
+      "formattedAddress": "855 Streich Squares, Littelburgh, Alabama 90147"
+    },
+    "area": 18,
+    "compatibleEquipment": [],
+    "tags": [
+      26,
+      24,
+      9
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "modi officia"
+      },
+      {
+        "key": "priority",
+        "value": "succurro volo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-06-14T06:45:26.313Z",
+      "updatedAt": "2025-03-02T20:19:48.098Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.791Z",
+    "deletedAt": null
+  },
+  {
+    "id": 19,
+    "name": "Multímetro 19",
+    "description": "Deleo ter coaegresco dicta victus arcesso usus. Amet volva tametsi crur. Adsum neque dolorem est pauper perferendis sequi.",
+    "assetInfo": {
+      "inventoryNumber": "INV-XMAWVF3W",
+      "acquisitionDate": "2023-08-30",
+      "acquisitionCost": 2887.736359259925,
+      "currentValue": 1867.468429723711,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-12-18",
+        "provider": "Greenfelder, Torphy and Barton"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": null,
+      "safetyGuidelines": "Abeo vulgo uberrime teneo vivo. Dolore abeo thalassinus thorax vociferor volaticus curia cresco timidus. Architecto alienus dedecor villa desidero tumultus ventito."
+    },
+    "toolType": "electrical",
+    "internalCode": "TL-0019",
+    "location": {
+      "latitude": 45.5725,
+      "longitude": -81.2674,
+      "address": "710 Bode Mall",
+      "city": "Parisianhaven",
+      "state": "Mississippi",
+      "postalCode": "41393",
+      "country": "Faroe Islands",
+      "formattedAddress": "736 Grove Road, New Nelleton, Mississippi 00165"
+    },
+    "area": 16,
+    "compatibleEquipment": [
+      28,
+      19,
+      1
+    ],
+    "tags": [
+      17
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-03-07T16:35:55.207Z",
+      "updatedAt": "2025-03-13T02:25:05.407Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.791Z",
+    "deletedAt": null
+  },
+  {
+    "id": 20,
+    "name": "Pistola de clavos 20",
+    "description": "Compono quaerat somniculosus maiores. Sordeo totidem amita. Denuncio crastinus suscipit clamo cupiditate necessitatibus.",
+    "assetInfo": {
+      "inventoryNumber": "INV-Y9NYWT8J",
+      "acquisitionDate": "2023-10-23",
+      "acquisitionCost": 132.43634049571784,
+      "currentValue": 5752.49687186162,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-06-23",
+        "provider": "Connelly - Kirlin"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Censura necessitatibus depereo tribuo. Rem volo torrens attero contigo decipio accedo decerno vesica spiritus. Tredecim depopulo quasi totidem animi repudiandae conor aro bonus.\nConfero angulus fuga bellum armarium subseco. Uterque addo stabilis. Cunctatio asperiores bos tripudio degusto.",
+      "safetyGuidelines": null
+    },
+    "toolType": "fastening",
+    "internalCode": "TL-0020",
+    "location": {
+      "latitude": 30.5842,
+      "longitude": 105.906,
+      "address": "8082 Tevin Ferry",
+      "city": "Rickyhaven",
+      "state": "Wisconsin",
+      "postalCode": "53523",
+      "country": "Finland",
+      "formattedAddress": "15654 Hilpert Crossing, Lake Josiahstad, Mississippi 78687-6741"
+    },
+    "area": 20,
+    "compatibleEquipment": [
+      25,
+      9,
+      19
+    ],
+    "tags": [
+      20,
+      23,
+      8
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "aufero magnam"
+      },
+      {
+        "key": "popularity",
+        "value": "arcus atrox"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-24T09:30:48.763Z",
+      "updatedAt": "2025-04-23T13:40:48.944Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.791Z",
+    "deletedAt": null
+  },
+  {
+    "id": 21,
+    "name": "Extintor 21",
+    "description": "Alius convoco nam clibanus admoveo dicta. Ultra cernuus autem trepide admiratio. Canto sumptus ipsa possimus terror vulgus adficio solitudo velut aranea.",
+    "assetInfo": {
+      "inventoryNumber": "INV-ZWKIIMDC",
+      "acquisitionDate": "2024-05-23",
+      "acquisitionCost": 8654.75411946413,
+      "currentValue": 1777.009452119006,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-11-05",
+        "provider": "Jaskolski, Haley and McDermott"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Tot campana vulgo concido decretum crur. Vomito eaque ab vulgaris copia sit non. Caelum amplus tricesimus vulgivagus.\nCuratio vulpes pax. Soleo suscipio tergiversatio sulum cras cur deserunt comburo vitium alienus. Delicate ascit adnuo tyrannus acceptus dolores cultellus.",
+      "safetyGuidelines": "Abduco demulceo velum universe venustas adnuo suus temeritas. Subiungo caecus creta autem ait officiis velociter statim derelinquo. Valens defessus speciosus universe clamo tardus."
+    },
+    "toolType": "safety",
+    "internalCode": "TL-0021",
+    "location": {
+      "latitude": -3.5018,
+      "longitude": -54.4632,
+      "address": "204 Carmelo Club",
+      "city": "Fort Julien",
+      "state": "Georgia",
+      "postalCode": "96712-7598",
+      "country": "Cuba",
+      "formattedAddress": "46669 Della Groves, Abshirefort, Alaska 34915-0429"
+    },
+    "area": 13,
+    "compatibleEquipment": [
+      1,
+      21
+    ],
+    "tags": [
+      11
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-09-22T08:44:00.377Z",
+      "updatedAt": "2024-10-01T11:26:19.490Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.791Z",
+    "deletedAt": null
+  },
+  {
+    "id": 22,
+    "name": "Probador de tensión 22",
+    "description": "Barba certus undique magnam adipisci astrum. Vulariter capto usque nisi. Subiungo ipsa sumptus vulariter atrox.",
+    "assetInfo": {
+      "inventoryNumber": "INV-SO4100QQ",
+      "acquisitionDate": "2023-01-23",
+      "acquisitionCost": 3996.422193463486,
+      "currentValue": 5809.340757389789,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-10-07",
+        "provider": "Rutherford, Boyer and Langworth"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Voro turba demergo capto talus nemo harum comparo patruus cubitum. Expedita ipsa basium labore nulla ventus. Arx aurum sophismata confero magni campana atque pax sumptus.\nAlioqui tergum deputo. Peccatus tego corroboro incidunt voveo tenetur coaegresco vallum conduco ascit. Facilis testimonium sophismata adstringo atavus.",
+      "safetyGuidelines": "Tunc cruciamentum dolor vitium patria theatrum tredecim concedo. Adsum somniculosus contigo assentator crux coerceo cresco consequuntur. Ater vigilo aurum pecco amor."
+    },
+    "toolType": "electrical",
+    "internalCode": "TL-0022",
+    "location": {
+      "latitude": 86.7123,
+      "longitude": -91.7104,
+      "address": "17819 Claremont Road",
+      "city": "North Renee",
+      "state": "Nebraska",
+      "postalCode": "50169",
+      "country": "Switzerland",
+      "formattedAddress": "4454 Janessa Pines, West Jarret, South Dakota 45539-7445"
+    },
+    "area": 7,
+    "compatibleEquipment": [],
+    "tags": [
+      15
+    ],
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "exercitationem vesica"
+      },
+      {
+        "key": "tag",
+        "value": "cedo terror"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-06-18T22:59:36.330Z",
+      "updatedAt": "2025-04-11T22:32:15.372Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.792Z",
+    "deletedAt": "2025-05-06T10:14:47.222Z"
+  },
+  {
+    "id": 23,
+    "name": "Pistola de aire 23",
+    "description": "Curso vester terreo praesentium desidero minima ulciscor degenero sollers cognomen. Assumenda vinco vinco cilicium adsuesco temperantia quisquam. Vulgus incidunt utrimque vigilo.",
+    "assetInfo": {
+      "inventoryNumber": "INV-SVKWKLAV",
+      "acquisitionDate": "2024-10-10",
+      "acquisitionCost": 2568.104999792533,
+      "currentValue": 5780.767747984693,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-01-26",
+        "provider": "Kreiger and Sons"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Tametsi adversus degero tabella coaegresco terror succedo umbra vigor. Defleo cogo bestia fuga pecto. A adhaero congregatio ullam acer vos non talis.\nChirographum calcar patrocinor villa. Super ullus virgo depopulo ascit cinis aureus tertius amoveo. Usque appello victus temptatio vilitas.",
+      "safetyGuidelines": null
+    },
+    "toolType": "pneumatic",
+    "internalCode": "TL-0023",
+    "location": {
+      "latitude": -60.6714,
+      "longitude": -58.953,
+      "address": "867 Rectory Lane",
+      "city": "New Nettiestad",
+      "state": "New Hampshire",
+      "postalCode": "28198-7968",
+      "country": "North Macedonia",
+      "formattedAddress": "355 Avenue Road, North Margueriteton, West Virginia 75762-9725"
+    },
+    "area": 9,
+    "compatibleEquipment": [
+      24,
+      7
+    ],
+    "tags": [
+      29,
+      16
+    ],
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "dapifer tabgo"
+      },
+      {
+        "key": "relevance",
+        "value": "aveho volutabrum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-24T10:24:22.374Z",
+      "updatedAt": "2025-02-05T15:48:03.514Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.792Z",
+    "deletedAt": null
+  },
+  {
+    "id": 24,
+    "name": "Lima 24",
+    "description": "Bibo vorax ciminatio venustas conservo viridis abscido. Sperno censura tracto odio adstringo. Conspergo bellicus voluptatibus clarus debeo eveniet ceno ter aut canto.",
+    "assetInfo": {
+      "inventoryNumber": "INV-MGVDAHRI",
+      "acquisitionDate": "2024-01-05",
+      "acquisitionCost": 9914.911533415832,
+      "currentValue": 2147.5215392079735,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2027-02-24",
+        "provider": "Yundt, Turner and Grant"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Spoliatio vulpes abutor adstringo uter tandem expedita auxilium calcar. Circumvenio aliquid degero. Patruus curso denego termes tenus.\nAgnitio sopor videlicet vergo cena vulpes depromo ciminatio verbum triduana. Bellicus aliquam tonsor curatio utrum titulus charisma vix. Votum utrimque denego consequuntur dolores avarus.",
+      "safetyGuidelines": null
+    },
+    "toolType": "hand_tool",
+    "internalCode": "TL-0024",
+    "location": {
+      "latitude": 85.7459,
+      "longitude": -77.1945,
+      "address": "6903 N Cedar Street",
+      "city": "Conroyfurt",
+      "state": "North Dakota",
+      "postalCode": "10357-4756",
+      "country": "Uruguay",
+      "formattedAddress": "87954 Lincoln Road, Hillarybury, West Virginia 60765-0139"
+    },
+    "area": 2,
+    "compatibleEquipment": [
+      20
+    ],
+    "tags": [
+      23
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-06-25T19:32:02.862Z",
+      "updatedAt": "2024-08-29T05:30:20.915Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.792Z",
+    "deletedAt": null
+  },
+  {
+    "id": 25,
+    "name": "Pelacables 25",
+    "description": "Cui virgo basium alias substantia umquam complectus casso agnitio tergo. Absque adeptio tutis cito appono. Atque apostolus ocer necessitatibus blanditiis.",
+    "assetInfo": {
+      "inventoryNumber": "INV-XCPHAU3V",
+      "acquisitionDate": "2023-04-19",
+      "acquisitionCost": 3525.1631109900027,
+      "currentValue": 70.33745179027551,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-12-16",
+        "provider": "Glover, Block and Ruecker"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": null,
+      "safetyGuidelines": null
+    },
+    "toolType": "electrical",
+    "internalCode": "TL-0025",
+    "location": {
+      "latitude": 75.8909,
+      "longitude": -60.707,
+      "address": "921 Farrell Streets",
+      "city": "Jessycaview",
+      "state": "Alabama",
+      "postalCode": "11531",
+      "country": "Switzerland",
+      "formattedAddress": "4098 E Pine Street, North Kiara, Virginia 72058"
+    },
+    "area": 16,
+    "compatibleEquipment": [
+      29,
+      17,
+      12
+    ],
+    "tags": [
+      22,
+      28
+    ],
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "absens adhaero"
+      },
+      {
+        "key": "difficulty",
+        "value": "non thermae"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-11-21T18:50:18.996Z",
+      "updatedAt": "2025-04-02T07:13:24.603Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.792Z",
+    "deletedAt": null
+  },
+  {
+    "id": 26,
+    "name": "Pistola de aire 26",
+    "description": "Synagoga decretum voluptas terga cura commodo. Terga veritatis trepide caecus. Porro sumptus officiis vociferor summa numquam quam atque aeternus texo.",
+    "assetInfo": {
+      "inventoryNumber": "INV-L78HMYES",
+      "acquisitionDate": "2021-05-15",
+      "acquisitionCost": 4431.444183129667,
+      "currentValue": 7782.915089055673,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-09-24",
+        "provider": "Hegmann - Ondricka"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Cognomen tergiversatio urbs compono. Adfero denego adinventitias clarus infit aeger blanditiis. Alius acidus armarium turpis tergeo cubicularis."
+    },
+    "toolType": "pneumatic",
+    "internalCode": "TL-0026",
+    "location": {
+      "latitude": -3.8138,
+      "longitude": 129.7921,
+      "address": "21192 Beahan Parkways",
+      "city": "South Toy",
+      "state": "Arizona",
+      "postalCode": "27072-0643",
+      "country": "Tonga",
+      "formattedAddress": "56340 Michelle Isle, Schmidtton, Minnesota 14831"
+    },
+    "area": 14,
+    "compatibleEquipment": [],
+    "tags": [
+      2,
+      21
+    ],
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "appono pecto"
+      },
+      {
+        "key": "difficulty",
+        "value": "tabesco facilis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-11-15T05:31:25.056Z",
+      "updatedAt": "2025-04-10T03:09:55.485Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.792Z",
+    "deletedAt": null
+  },
+  {
+    "id": 27,
+    "name": "Crimpeadora 27",
+    "description": "Thymum derideo quidem tum contego tabgo vae celer facere solutio. Corroboro vix templum cresco taedium aspicio audacia corpus uberrime uter. Iste eum celo carcer cattus velociter iure facilis sub approbo.",
+    "assetInfo": {
+      "inventoryNumber": "INV-XPJRQZPL",
+      "acquisitionDate": "2024-10-16",
+      "acquisitionCost": 1278.0239036955513,
+      "currentValue": 7061.616703468635,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-07-07",
+        "provider": "Lang - Wisozk"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Subvenio infit degenero adduco aegre. Degenero cicuta creta derelinquo spectaculum collum aggero demoror caste. Caterva cresco vaco.\nBenigne conculco aliquam eaque. Cupiditas commemoro alter commodo. Video voluptate aspernatur stipes verecundia adnuo chirographum ver capillus amita.",
+      "safetyGuidelines": "Alius conqueror paens. Aptus sordeo claudeo solus aperio anser tergiversatio thema. Autus thorax perspiciatis crapula adhaero quaerat adhaero ad."
+    },
+    "toolType": "electrical",
+    "internalCode": "TL-0027",
+    "location": {
+      "latitude": 47.1227,
+      "longitude": -33.529,
+      "address": "87769 Martin Luther King Drive",
+      "city": "Wildermantown",
+      "state": "South Carolina",
+      "postalCode": "03772-9688",
+      "country": "Saudi Arabia",
+      "formattedAddress": "88440 Gage Club, South Sanfordborough, Nevada 74591"
+    },
+    "area": 12,
+    "compatibleEquipment": [
+      29
+    ],
+    "tags": [
+      21,
+      1
+    ],
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "in sto"
+      },
+      {
+        "key": "tag",
+        "value": "vae sortitus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-25T01:49:22.026Z",
+      "updatedAt": "2024-09-10T20:52:33.559Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.792Z",
+    "deletedAt": null
+  },
+  {
+    "id": 28,
+    "name": "Cincel 28",
+    "description": "Cito tergo apud usque decerno stipes vigilo derideo. Hic adficio cursim avarus itaque confugo reprehenderit animi aspicio tamisium. Curiositas itaque pecus.",
+    "assetInfo": {
+      "inventoryNumber": "INV-M11BKGPY",
+      "acquisitionDate": "2025-02-13",
+      "acquisitionCost": 5233.170783940918,
+      "currentValue": 3535.136039787788,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-10-01",
+        "provider": "Dickens - Sporer"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Vinum ipsam tubineus stella utilis vindico viduo thalassinus. Laborum comburo qui aranea ea vix advenio via. Ait demoror aggredior crastinus alveus tego.\nVester deleo adsidue arcesso tener placeat suffoco pax conforto ut. Correptius subiungo subiungo. Desparatus congregatio porro.",
+      "safetyGuidelines": "Altus ulciscor ulterius vinco texo cuius. Depulso congregatio apto. Carcer vaco bellicus."
+    },
+    "toolType": "hand_tool",
+    "internalCode": "TL-0028",
+    "location": {
+      "latitude": 28.9444,
+      "longitude": 39.6083,
+      "address": "70283 Orchard Road",
+      "city": "Russelfurt",
+      "state": "Nevada",
+      "postalCode": "05562",
+      "country": "Antarctica",
+      "formattedAddress": "792 Camden Fork, Port Delfina, Minnesota 18110-2834"
+    },
+    "area": 4,
+    "compatibleEquipment": [
+      28,
+      8,
+      16
+    ],
+    "tags": [
+      3,
+      27
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-08-30T11:34:00.346Z",
+      "updatedAt": "2024-10-12T16:29:27.854Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.793Z",
+    "deletedAt": null
+  },
+  {
+    "id": 29,
+    "name": "Cinta métrica 29",
+    "description": "Vomito nam vinitor solvo consuasor tabesco stips bestia. Suppono videlicet vulnero magnam adsidue. Adulescens carus vir amet.",
+    "assetInfo": {
+      "inventoryNumber": "INV-G7GE1RDQ",
+      "acquisitionDate": "2025-01-02",
+      "acquisitionCost": 7176.659898972985,
+      "currentValue": 1042.4929123064346,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-05-05",
+        "provider": "Upton Inc"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Apostolus eos nam. Peccatus tui angustus turba spero deludo timidus. Adduco corona curtus acquiro."
+    },
+    "toolType": "measuring",
+    "internalCode": "TL-0029",
+    "location": {
+      "latitude": -63.6124,
+      "longitude": -164.104,
+      "address": "113 Kshlerin Locks",
+      "city": "North Anderson",
+      "state": "North Dakota",
+      "postalCode": "01057",
+      "country": "Hong Kong",
+      "formattedAddress": "51680 E 6th Street, Port Ramona, Colorado 26416-6305"
+    },
+    "area": 8,
+    "compatibleEquipment": [],
+    "tags": [
+      19,
+      22,
+      26
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-10-05T01:14:30.134Z",
+      "updatedAt": "2024-11-10T14:08:10.828Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.793Z",
+    "deletedAt": null
+  },
+  {
+    "id": 30,
+    "name": "Cúter 30",
+    "description": "Sub arto denuncio comedo accommodo aro vicinus. Somniculosus stabilis qui succurro conqueror defleo vis vos capio. Cruentus textus dens agnitio cunae quia abduco tersus atavus.",
+    "assetInfo": {
+      "inventoryNumber": "INV-CAKA8SRH",
+      "acquisitionDate": "2023-12-25",
+      "acquisitionCost": 156.32480018483523,
+      "currentValue": 4696.177313092014,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-05-29",
+        "provider": "O'Reilly - Bernhard"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Benigne absorbeo ratione crepusculum auditor tui verto annus summopere tricesimus. Sulum calcar taceo consuasor desino. Deprecator canto carus incidunt cohibeo architecto.\nUna audio stultus creptio officiis beatus. Viduo adstringo spectaculum antea patruus. Ullam caritas culpa tametsi inflammatio spes conicio copia.",
+      "safetyGuidelines": "Curia victoria temeritas adfectus cultura pecco terebro. Ademptio caecus tabernus umerus acervus vorago derideo curia. Artificiose uredo casus strenuus tabgo cado theca eum amplus."
+    },
+    "toolType": "cutting",
+    "internalCode": "TL-0030",
+    "location": {
+      "latitude": 49.5703,
+      "longitude": -44.8962,
+      "address": "62478 Orrin Falls",
+      "city": "Lake Jessycaport",
+      "state": "Maine",
+      "postalCode": "79670-1553",
+      "country": "Malawi",
+      "formattedAddress": "566 Grover Divide, New Daltonstad, Arkansas 89299-4150"
+    },
+    "area": 4,
+    "compatibleEquipment": [
+      6,
+      12,
+      14
+    ],
+    "tags": [
+      18
+    ],
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "rem absorbeo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-27T01:04:55.457Z",
+      "updatedAt": "2024-08-30T05:17:32.799Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.793Z",
+    "deletedAt": null
+  },
+  {
+    "id": 31,
+    "name": "Alicates 31",
+    "description": "Advenio patior beatae deprecator socius conitor tristis accusantium. Velut valeo ab. Demum barba quisquam aedificium tutamen.",
+    "assetInfo": {
+      "inventoryNumber": "INV-OONMZZJO",
+      "acquisitionDate": "2025-04-26",
+      "acquisitionCost": 263.9388021626961,
+      "currentValue": 4130.996137088745,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-01-10",
+        "provider": "DuBuque, Reilly and Stokes"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Magnam tergo vulgivagus alioqui quia cubicularis. Pel paens ascisco cupiditate usque beneficium molestias libero. Acerbitas vereor socius vae atque clibanus dolor maxime tremo veritatis."
+    },
+    "toolType": "hand_tool",
+    "internalCode": "TL-0031",
+    "location": {
+      "latitude": -38.5909,
+      "longitude": -64.0536,
+      "address": "305 Elizabeth Ford",
+      "city": "Downey",
+      "state": "Hawaii",
+      "postalCode": "18263",
+      "country": "Virgin Islands, U.S.",
+      "formattedAddress": "608 Marty Canyon, West Mia, Rhode Island 05233-2073"
+    },
+    "area": 2,
+    "compatibleEquipment": [],
+    "tags": [
+      17,
+      10
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-11-17T09:39:24.007Z",
+      "updatedAt": "2024-02-28T07:45:25.482Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.793Z",
+    "deletedAt": null
+  },
+  {
+    "id": 32,
+    "name": "Gafas protectoras 32",
+    "description": "Clamo vulnero depromo caveo ater. Desparatus inventore cumque facilis. Amo quos bellicus accusantium.",
+    "assetInfo": {
+      "inventoryNumber": "INV-AYJIQEYV",
+      "acquisitionDate": "2024-04-17",
+      "acquisitionCost": 1916.3901697609404,
+      "currentValue": 601.6516542910161,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2025-09-27",
+        "provider": "Rodriguez, O'Kon and Batz"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Carus tego territo desipio. Vilitas advenio celebrer iste labore campana. Tergeo denique quasi deprecator congregatio cerno benevolentia.\nAdmoveo curtus maiores creber triduana tempore similique. Capio adsidue aequus aequitas ea decet. Umquam causa thymbra demo undique delego ait.",
+      "safetyGuidelines": "Praesentium tenus amplitudo ultra utrum cado tot. Titulus deputo ter verbum summa surgo. Attero ater aequus sub aeneus calcar atqui cui nulla vae."
+    },
+    "toolType": "safety",
+    "internalCode": "TL-0032",
+    "location": {
+      "latitude": -0.4027,
+      "longitude": 134.2429,
+      "address": "3432 Zula River",
+      "city": "Fort Dock",
+      "state": "Mississippi",
+      "postalCode": "52668-8805",
+      "country": "Lao People's Democratic Republic",
+      "formattedAddress": "885 Morar Parkways, Pariston, South Dakota 72007-7685"
+    },
+    "area": 11,
+    "compatibleEquipment": [],
+    "tags": [
+      26,
+      25,
+      11
+    ],
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "aegrus condico"
+      },
+      {
+        "key": "relevance",
+        "value": "demo votum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-30T08:31:20.755Z",
+      "updatedAt": "2024-12-09T22:38:58.673Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.793Z",
+    "deletedAt": null
+  },
+  {
+    "id": 33,
+    "name": "Cizalla 33",
+    "description": "Amitto utpote aureus. Voco anser comes optio. Deporto dolore curtus communis solium vesper vesco cimentarius alveus.",
+    "assetInfo": {
+      "inventoryNumber": "INV-OKGQCRH0",
+      "acquisitionDate": "2023-11-05",
+      "acquisitionCost": 4323.648175032341,
+      "currentValue": 307.6878902651619,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-07-29",
+        "provider": "Carroll LLC"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Antepono speciosus turbo agnitio articulus cibus vito. Annus caelum vitium canonicus. Sollers defessus approbo cogo depereo curtus dolores celebrer.\nPaens peior debilito crinis rem veritatis accusamus vinitor sto. Error vestrum causa vulpes contra utpote aranea. Tantillus arma carus tenetur provident dapifer sperno appositus decens.",
+      "safetyGuidelines": "Statua adfero cresco tamdiu cometes amicitia tandem. Pecco curiositas quas peior ultra alius uxor absens facilis occaecati. Temperantia caveo valeo temeritas adulescens tollo corona."
+    },
+    "toolType": "cutting",
+    "internalCode": "TL-0033",
+    "location": {
+      "latitude": 83.469,
+      "longitude": -76.6277,
+      "address": "9259 Lew Vista",
+      "city": "Wehnerview",
+      "state": "Arizona",
+      "postalCode": "17146-6624",
+      "country": "Turkey",
+      "formattedAddress": "9660 Kovacek Meadows, Jacobsonchester, New York 70281"
+    },
+    "area": 4,
+    "compatibleEquipment": [],
+    "tags": [
+      16,
+      9
+    ],
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "quae delinquo"
+      },
+      {
+        "key": "source",
+        "value": "creta altus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-09T22:38:59.293Z",
+      "updatedAt": "2025-03-18T18:18:23.402Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.793Z",
+    "deletedAt": null
+  },
+  {
+    "id": 34,
+    "name": "Probador de tensión 34",
+    "description": "Crebro derelinquo adeptio capto. Voluptates solum vacuus cupiditate patior alioqui utpote vitium. Admoveo coruscus vigor anser tenax.",
+    "assetInfo": {
+      "inventoryNumber": "INV-EA2DZJ0O",
+      "acquisitionDate": "2024-04-14",
+      "acquisitionCost": 1320.576615884533,
+      "currentValue": 6554.537687244447,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2025-07-03",
+        "provider": "Kunze Inc"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Stillicidium ara bardus angulus porro vel animi. Vivo suffoco adopto strenuus sapiente. Voluptatem amplitudo subito thesaurus.\nArbor cohibeo abbas. Terminatio casso summopere suppono. Unus tam pecus balbus contego sponte cras.",
+      "safetyGuidelines": "Derelinquo adipisci corona absorbeo. Varius cariosus decens bos ab architecto cui in spargo. Placeat iste vulticulus aut nesciunt paens quasi."
+    },
+    "toolType": "electrical",
+    "internalCode": "TL-0034",
+    "location": {
+      "latitude": -23.7642,
+      "longitude": -124.3655,
+      "address": "8376 Stanton Extensions",
+      "city": "Lonnieville",
+      "state": "South Dakota",
+      "postalCode": "97594-9273",
+      "country": "Saint Lucia",
+      "formattedAddress": "332 Hilpert Park, Darylchester, Tennessee 26129"
+    },
+    "area": 16,
+    "compatibleEquipment": [
+      13
+    ],
+    "tags": [
+      27,
+      7
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-11-19T05:21:25.629Z",
+      "updatedAt": "2025-01-02T12:40:07.876Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.794Z",
+    "deletedAt": null
+  },
+  {
+    "id": 35,
+    "name": "Set de brocas 35",
+    "description": "Arbustum voro vorago. Sordeo sollers verecundia vilicus vero carpo tui. Audio decet dedecor cupressus aggredior somnus tabgo ubi.",
+    "assetInfo": {
+      "inventoryNumber": "INV-QVB7LYLS",
+      "acquisitionDate": "2025-01-29",
+      "acquisitionCost": 823.6668088989411,
+      "currentValue": 4148.487559230993,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-12-13",
+        "provider": "Ritchie - D'Amore"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Tui vestigium abbas taedium aegre. Velit appositus atqui video conforto adduco rerum crux cohibeo. Desino tergiversatio coniuratio vos."
+    },
+    "toolType": "other",
+    "internalCode": "TL-0035",
+    "location": {
+      "latitude": -1.1309,
+      "longitude": -100.4695,
+      "address": "460 Station Road",
+      "city": "New Johathan",
+      "state": "New York",
+      "postalCode": "63724",
+      "country": "Samoa",
+      "formattedAddress": "580 Friesen Vista, Hawthorne, Vermont 57197"
+    },
+    "area": 19,
+    "compatibleEquipment": [
+      7,
+      8,
+      8
+    ],
+    "tags": [
+      10
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-10-21T22:21:27.127Z",
+      "updatedAt": "2024-07-06T10:20:23.775Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.794Z",
+    "deletedAt": null
+  },
+  {
+    "id": 36,
+    "name": "Cincel 36",
+    "description": "Aveho caelestis administratio depereo. Doloribus coerceo nulla. Cogo ver cupiditas venustas molestias.",
+    "assetInfo": {
+      "inventoryNumber": "INV-OWK2HH5B",
+      "acquisitionDate": "2020-06-15",
+      "acquisitionCost": 2730.423290541733,
+      "currentValue": 7934.55424941982,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-01-11",
+        "provider": "Corkery, Volkman and Bashirian"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": null,
+      "safetyGuidelines": "Currus subnecto deripio pecto bellicus vitiosus tam reprehenderit acervus. Perspiciatis sperno color. Alienus vinitor canis somniculosus tutis debitis aliquid viridis."
+    },
+    "toolType": "hand_tool",
+    "internalCode": "TL-0036",
+    "location": {
+      "latitude": -55.9432,
+      "longitude": -55.9233,
+      "address": "8358 Logan Brook",
+      "city": "Port Fredborough",
+      "state": "Missouri",
+      "postalCode": "44490-3199",
+      "country": "Tunisia",
+      "formattedAddress": "55035 Lou Lake, Gusikowskihaven, Arizona 85794"
+    },
+    "area": 4,
+    "compatibleEquipment": [
+      6
+    ],
+    "tags": [
+      16
+    ],
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "antea verbum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-11-13T03:46:19.016Z",
+      "updatedAt": "2025-02-17T20:34:32.937Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.794Z",
+    "deletedAt": null
+  },
+  {
+    "id": 37,
+    "name": "Nivel 37",
+    "description": "Abscido vere coadunatio alveus voco accendo cogo cometes votum uredo. Videlicet cavus vulariter supra sufficio tenuis canis cursus sponte. Amet aduro tribuo.",
+    "assetInfo": {
+      "inventoryNumber": "INV-VU5HHGY1",
+      "acquisitionDate": "2024-12-08",
+      "acquisitionCost": 9205.299434601306,
+      "currentValue": 4027.2953009137223,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-08-12",
+        "provider": "Goodwin, Koss and Mertz"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Turpis bardus ventus surgo. Tepidus urbanus abscido tot. Crudelis clam nesciunt adfero.\nUniverse aequitas vicissitudo capio terga tabgo tactus. Surculus verecundia clibanus beatae spoliatio velut coma autem argentum solum. Tabernus volaticus consequuntur bellicus pecus.",
+      "safetyGuidelines": "Reprehenderit odio vivo bonus cernuus abbas constans accedo cimentarius. Pecto uter stabilis cursim tametsi abeo repudiandae aureus. Cito textor ver creta angelus tenetur."
+    },
+    "toolType": "measuring",
+    "internalCode": "TL-0037",
+    "location": {
+      "latitude": -29.7133,
+      "longitude": 76.4223,
+      "address": "7351 Weissnat Place",
+      "city": "Reillyview",
+      "state": "Missouri",
+      "postalCode": "92638",
+      "country": "Democratic People's Republic of Korea",
+      "formattedAddress": "6562 Aiyana Brooks, Felipechester, Mississippi 00094"
+    },
+    "area": 2,
+    "compatibleEquipment": [
+      3
+    ],
+    "tags": [
+      28,
+      21
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "cogo tres"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-01-20T16:27:21.462Z",
+      "updatedAt": "2024-06-23T08:37:11.658Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.794Z",
+    "deletedAt": null
+  },
+  {
+    "id": 38,
+    "name": "Lima 38",
+    "description": "Audacia adnuo sopor. Varius absum sol utrum aspernatur crustulum quo vespillo carcer. Quae veritas vivo cena utpote arto.",
+    "assetInfo": {
+      "inventoryNumber": "INV-HIN0ONTZ",
+      "acquisitionDate": "2023-01-03",
+      "acquisitionCost": 2837.664235890701,
+      "currentValue": 3168.775466731508,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-11-23",
+        "provider": "Gorczany and Sons"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Aeger sono commemoro ambulo. Custodia clementia vergo sustineo deripio currus aeneus utrimque. Spiculum aspicio aranea.\nTener adduco careo vivo adfectus advenio tendo. Turbo aegrotatio contego tantillus stella curtus. Sponte spoliatio cursus canis derelinquo talus acerbitas.",
+      "safetyGuidelines": "Conqueror celo tracto aggero illum ubi cruciamentum barba. Consuasor eius velum velociter pecto timor. Suffragium quam appello turba corrigo cribro confido caterva antepono sopor."
+    },
+    "toolType": "hand_tool",
+    "internalCode": "TL-0038",
+    "location": {
+      "latitude": -8.4236,
+      "longitude": -110.8982,
+      "address": "137 Zella Avenue",
+      "city": "Joliet",
+      "state": "Hawaii",
+      "postalCode": "48305-6972",
+      "country": "Djibouti",
+      "formattedAddress": "291 Brook Lane, Heathcotestad, Texas 40047-6221"
+    },
+    "area": 8,
+    "compatibleEquipment": [
+      20,
+      12,
+      18
+    ],
+    "tags": [
+      4
+    ],
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "ascisco aranea"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-06-23T12:26:25.308Z",
+      "updatedAt": "2025-03-20T22:34:32.530Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.794Z",
+    "deletedAt": null
+  },
+  {
+    "id": 39,
+    "name": "Sargentos 39",
+    "description": "Audacia canonicus centum earum thema. Tardus demulceo suadeo creber textus cuppedia solitudo conatus clarus stips. Tenetur tumultus centum canis conqueror.",
+    "assetInfo": {
+      "inventoryNumber": "INV-4H8MOZKZ",
+      "acquisitionDate": "2020-08-08",
+      "acquisitionCost": 6459.86175834609,
+      "currentValue": 4315.094953602133,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-07-27",
+        "provider": "Will, Corwin and Pacocha"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Comes aggero comminor enim vulticulus et titulus. Amicitia repudiandae stultus tremo esse confugo repellat. Ascit ars cimentarius aro sustineo supellex explicabo dolore ver corpus.\nSublime valde trado valetudo. Vehemens capillus aequus usque antepono. Confero aequus attollo conventus.",
+      "safetyGuidelines": "Tyrannus maiores angulus vobis a contabesco. Voveo ambitus adfero. Tubineus sperno sapiente vilitas terminatio vulgus corrupti uter barba tamen."
+    },
+    "toolType": "fastening",
+    "internalCode": "TL-0039",
+    "location": {
+      "latitude": -46.425,
+      "longitude": -61.328,
+      "address": "97900 Graciela Groves",
+      "city": "Jadynbury",
+      "state": "Minnesota",
+      "postalCode": "05672",
+      "country": "Sint Maarten",
+      "formattedAddress": "70283 Enrico Light, Yundtshire, Louisiana 39930"
+    },
+    "area": 5,
+    "compatibleEquipment": [],
+    "tags": [
+      13
+    ],
+    "metadata": [
+      {
+        "key": "department",
+        "value": "taedium cras"
+      },
+      {
+        "key": "tag",
+        "value": "numquam cupiditas"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-06-14T22:00:09.816Z",
+      "updatedAt": "2024-06-29T08:56:01.386Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.798Z",
+    "deletedAt": null
+  },
+  {
+    "id": 40,
+    "name": "Alicates 40",
+    "description": "Veniam cumque praesentium textilis tabula blandior uterque cognomen excepturi. Facilis conturbo speciosus considero thesis. Tergiversatio auxilium cursim sapiente placeat.",
+    "assetInfo": {
+      "inventoryNumber": "INV-VLH2WSWV",
+      "acquisitionDate": "2023-03-17",
+      "acquisitionCost": 1167.5788441427153,
+      "currentValue": 2368.255241558188,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-09-24",
+        "provider": "Sauer, Schimmel and Tremblay"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Sortitus denuo copia casso. Contigo carmen tardus summisse vereor carpo carbo caput vindico ultio. Dignissimos bibo causa stips."
+    },
+    "toolType": "hand_tool",
+    "internalCode": "TL-0040",
+    "location": {
+      "latitude": -82.3811,
+      "longitude": 109.7162,
+      "address": "526 Cassin Crossroad",
+      "city": "Kendall",
+      "state": "Rhode Island",
+      "postalCode": "10482",
+      "country": "Mayotte",
+      "formattedAddress": "915 Kautzer Loop, East Tobinburgh, Iowa 35792"
+    },
+    "area": 3,
+    "compatibleEquipment": [
+      17,
+      23
+    ],
+    "tags": [
+      11,
+      2
+    ],
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "approbo crepusculum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-25T22:21:47.401Z",
+      "updatedAt": "2025-05-01T12:41:42.506Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.798Z",
+    "deletedAt": null
+  }
+]

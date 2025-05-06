@@ -1,0 +1,559 @@
+[
+  {
+    "membership": {
+      "id": 1,
+      "name": "Básica",
+      "level": "basic",
+      "description": "Vereor demum versus. Aequus cubo aduro. Aurum anser adsidue aliquam avarus.",
+      "price": 154,
+      "duration": 12,
+      "benefits": [
+        "Odit calcar crustulum auctus tergeo cur.",
+        "Suscipio victus patruus vero sumo vehemens adfero.",
+        "Crustulum suppellex talio magnam depono ratione verbera.",
+        "Conservo ager videlicet exercitationem eum appono amaritudo.",
+        "Delectus triumphus contra textus desparatus congregatio talio iure veniam.",
+        "Tui corpus tantillus cimentarius bos."
+      ],
+      "isActive": true,
+      "metadata": [
+        {
+          "key": "popularity",
+          "value": "deporto iste"
+        }
+      ],
+      "audit": {
+        "createdAt": "2025-04-11T10:36:31.023Z",
+        "updatedAt": "2025-04-28T23:39:09.768Z",
+        "createdBy": null,
+        "updatedBy": "system"
+      },
+      "publishedAt": "2025-05-06T15:29:51.698Z"
+    },
+    "error": {
+      "errors": [
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 18,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        },
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 26,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        },
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 34,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        },
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 42,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        },
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 50,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        },
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 58,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "membership": {
+      "id": 2,
+      "name": "Estándar",
+      "level": "standard",
+      "description": "Tubineus aperio aufero tricesimus currus spiculum. Itaque advoco sophismata alioqui crapula caries coruscus. Vulgivagus cuppedia vel soluta tero viridis subito.",
+      "price": 493,
+      "duration": 1,
+      "benefits": [
+        "Vesper beatae tepidus delectus quasi.",
+        "Defleo thymum cursim esse benevolentia conventus colligo ceno.",
+        "Dolorem super ambulo decor creator vulgaris adstringo clamo comprehendo.",
+        "Uxor tripudio conor annus aetas eaque tubineus claro sint.",
+        "Acerbitas depromo dens civitas delinquo repellendus ater cruentus."
+      ],
+      "isActive": true,
+      "metadata": [
+        {
+          "key": "department",
+          "value": "cena veritatis"
+        },
+        {
+          "key": "tag",
+          "value": "dapifer velum"
+        }
+      ],
+      "audit": {
+        "createdAt": "2023-12-19T01:22:47.515Z",
+        "updatedAt": "2025-03-28T00:15:55.161Z",
+        "createdBy": null,
+        "updatedBy": null
+      },
+      "publishedAt": "2025-05-06T15:29:51.698Z"
+    },
+    "error": {
+      "errors": [
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 18,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        },
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 26,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        },
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 34,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        },
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 42,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        },
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 50,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "membership": {
+      "id": 3,
+      "name": "Premium",
+      "level": "premium",
+      "description": "Viduo denuo comprehendo ambitus. Tantillus veritas tutamen summopere. Accedo curiositas tredecim illum.",
+      "price": 498,
+      "duration": 6,
+      "benefits": [
+        "Utrimque atavus cervus tardus dignissimos bis coerceo aperiam vilitas.",
+        "Voluptatum conatus verto coaegresco amita.",
+        "Delibero desipio dedico suus ara absens.",
+        "Aspernatur brevis demulceo vivo eveniet uterque sortitus tribuo.",
+        "Volutabrum curiositas inventore commemoro.",
+        "Territo vere verumtamen textilis appositus.",
+        "Sapiente solitudo confugo adsuesco copiose capto corroboro supellex."
+      ],
+      "isActive": true,
+      "metadata": [],
+      "audit": {
+        "createdAt": "2024-01-16T20:07:13.671Z",
+        "updatedAt": "2024-12-07T17:45:01.133Z",
+        "createdBy": "admin",
+        "updatedBy": null
+      },
+      "publishedAt": "2025-05-06T15:29:51.699Z"
+    },
+    "error": {
+      "errors": [
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 18,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        },
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 26,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        },
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 34,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        },
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 42,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        },
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 50,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        },
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 58,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        },
+        {
+          "message": "Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+          "locations": [
+            {
+              "line": 66,
+              "column": 21
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_VALIDATION_FAILED",
+            "stacktrace": [
+              "GraphQLError: Enum \"ENUM_COMPONENTMEMBERSHIPBENEFITS_CATEGORY\" cannot represent non-enum value: \"service\". Did you mean the enum value \"service\"?",
+              "    at GraphQLEnumType.parseLiteral (/home/mc/server/dashboard/cms/node_modules/graphql/type/definition.js:1158:13)",
+              "    at isValidValueNode (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:177:30)",
+              "    at Object.StringValue (/home/mc/server/dashboard/cms/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js:141:28)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:301:32)",
+              "    at Object.enter (/home/mc/server/dashboard/cms/node_modules/graphql/utilities/TypeInfo.js:391:27)",
+              "    at visit (/home/mc/server/dashboard/cms/node_modules/graphql/language/visitor.js:197:21)",
+              "    at validate (/home/mc/server/dashboard/cms/node_modules/graphql/validation/validate.js:91:24)",
+              "    at processGraphQLRequest (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/requestPipeline.js:101:61)",
+              "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+              "    at async internalExecuteOperation (/home/mc/server/dashboard/cms/node_modules/@apollo/server/dist/cjs/ApolloServer.js:644:16)"
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

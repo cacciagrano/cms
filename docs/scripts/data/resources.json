@@ -1,0 +1,2000 @@
+[
+  {
+    "id": 1,
+    "name": "Colección de materiales de Impresión 3D 1",
+    "description": "Suadeo termes casus decens occaecati decerno. Voluptatum cinis ago conservo amicitia ater cilicium. Tonsor undique summisse cognomen bardus succurro cumque modi coruscus.",
+    "type": "other",
+    "format": "both",
+    "url": "https://recursos.makerspace.org/coleccion-de-materiales-de-impresion-3d-1",
+    "author": "Kent Towne",
+    "publisher": "Zboncak, Will and Monahan",
+    "publicationDate": "2024-11-20",
+    "language": "es",
+    "tags": [
+      28
+    ],
+    "licenseType": "open-source",
+    "accessLevel": "public",
+    "isAvailable": false,
+    "assetInfo": {
+      "inventoryNumber": "INV-BHG3O1U1",
+      "acquisitionDate": "2024-11-21",
+      "acquisitionCost": 8753.4702050879,
+      "currentValue": 3792.026444528856,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2025-12-25",
+        "provider": "Grimes, Thompson and Block"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Comitatus corrigo volo taceo repellat vulgus consequatur terreo esse thesis. Adversus quos totam civis suasoria conqueror sub accusantium pecto. Vulnero admiratio peccatus copiose."
+    },
+    "currentUser": 50,
+    "relatedSkills": [],
+    "area": 17,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-12-18T01:24:58.172Z",
+      "updatedAt": "2025-04-22T06:55:27.394Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "resourceStatus": "archived",
+    "version": "5.9",
+    "publishedAt": "2025-05-06T15:29:51.853Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Entrevista de Programación 2",
+    "description": "Spectaculum agnosco tepidus. Spiculum atavus venio agnitio sollers titulus esse degenero amplus creptio. Voluptates volutabrum tribuo abundans vox desipio casus alveus.",
+    "type": "audio",
+    "format": "physical",
+    "url": null,
+    "author": "Herman Runte",
+    "publisher": "McLaughlin, Powlowski and Bednar",
+    "publicationDate": "2024-10-13",
+    "language": "en",
+    "tags": [
+      6,
+      23,
+      7,
+      1
+    ],
+    "licenseType": "proprietary",
+    "accessLevel": "internal",
+    "isAvailable": false,
+    "assetInfo": {
+      "inventoryNumber": "INV-GFZSVANU",
+      "acquisitionDate": "2020-07-19",
+      "acquisitionCost": 1664.0490050881845,
+      "currentValue": 4575.616578379041,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-02-05",
+        "provider": "Zulauf - King"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Agnitio beatae celer confugo surgo. Earum benigne hic calculus adhaero ascit baiulus. Audeo aegrotatio trepide demo volubilis asporto omnis eius nobis abduco."
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      3
+    ],
+    "area": 13,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-01-25T18:57:18.635Z",
+      "updatedAt": "2025-03-03T00:22:37.733Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "resourceStatus": "available",
+    "version": "4.6",
+    "publishedAt": "2025-05-06T15:29:51.854Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Modelo 3D de Diseño CAD 3",
+    "description": "Administratio architecto tristis maiores catena vivo utrimque vix. Curiositas aestas absconditus succurro aranea. Adduco tui beatus.",
+    "type": "template",
+    "format": "digital",
+    "url": "https://recursos.makerspace.org/modelo-3d-de-diseno-cad-3",
+    "author": "Gabriel Huel",
+    "publisher": "Mills - Hickle",
+    "publicationDate": "2020-11-10",
+    "language": "en",
+    "tags": [
+      16,
+      13,
+      10
+    ],
+    "licenseType": "CC0",
+    "accessLevel": "public",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-VD40NN1Z",
+      "acquisitionDate": "2024-11-13",
+      "acquisitionCost": 6066.663134046044,
+      "currentValue": 1740.322334117166,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-04-26",
+        "provider": "Herzog, Cremin and Schuppe"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Verecundia tredecim varietas spiculum trado celebrer apostolus denego theatrum. Quisquam sui cena beneficium. Avaritia delectus facilis certe videlicet odio cohors expedita."
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      15
+    ],
+    "area": 14,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-09-08T02:22:09.366Z",
+      "updatedAt": "2025-03-24T21:59:06.667Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "resourceStatus": "unavailable",
+    "version": null,
+    "publishedAt": "2025-05-06T15:29:51.855Z",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "name": "Demostración de Robótica 4",
+    "description": "Saepe sint beatae assentator accendo pax cubitum sint. Undique vester adfero vomica curso vox soluta vestrum. Quia custodia angustus.",
+    "type": "video",
+    "format": "physical",
+    "url": null,
+    "author": "Felix Harber",
+    "publisher": "Roob and Sons",
+    "publicationDate": "2024-03-31",
+    "language": "de",
+    "tags": [
+      5,
+      15,
+      12,
+      24
+    ],
+    "licenseType": "proprietary",
+    "accessLevel": "restricted",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-IQS8NDIU",
+      "acquisitionDate": "2021-11-30",
+      "acquisitionCost": 4959.114814563006,
+      "currentValue": 3143.5643452125646,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-02-23",
+        "provider": "McClure, Bernhard and Ledner"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Carus vesper capitulus pecus vinum artificiose. Triduana adnuo temeritas arca viduo consequatur crepusculum currus suus ab. Quidem tendo adeptio combibo.\nCur terror animi. Velum atavus tabella universe ulciscor. Nemo vomito velit vociferor voluptates suffoco convoco.",
+      "safetyGuidelines": null
+    },
+    "currentUser": null,
+    "relatedSkills": [],
+    "area": 15,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "adduco adfero"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-11-22T16:13:46.163Z",
+      "updatedAt": "2023-12-08T14:52:13.382Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "resourceStatus": "unavailable",
+    "version": null,
+    "publishedAt": "2025-05-06T15:29:51.855Z",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "name": "Presentación de Programación 5",
+    "description": "Claustrum pauci catena. Uterque surculus abduco supplanto tondeo bellicus solutio. Acceptus ascisco numquam id ipsam taedium vilitas sumptus.",
+    "type": "video",
+    "format": "physical",
+    "url": null,
+    "author": "Travis Rogahn II",
+    "publisher": "Kertzmann, Padberg and Runolfsson",
+    "publicationDate": "2020-12-10",
+    "language": "de",
+    "tags": [
+      23,
+      12,
+      9,
+      3,
+      16
+    ],
+    "licenseType": "unknown",
+    "accessLevel": "internal",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-XANEL16V",
+      "acquisitionDate": "2022-10-02",
+      "acquisitionCost": 9260.431111799922,
+      "currentValue": 7074.601503686399,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-01-09",
+        "provider": "Schiller LLC"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Aeneus crux virgo supellex. Aestivus basium curvo voluptatum solium. Curto abutor contego."
+    },
+    "currentUser": 31,
+    "relatedSkills": [],
+    "area": 3,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "clamo adamo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-07-08T04:35:42.430Z",
+      "updatedAt": "2025-03-08T14:50:23.267Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "resourceStatus": "available",
+    "version": "5.7",
+    "publishedAt": "2025-05-06T15:29:51.855Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Esquema de circuito de Impresión 3D 6",
+    "description": "Custodia in thymbra. Velut coniuratio universe defessus. Aequitas vigilo adduco decet suppellex solus admoneo tepesco volup utroque.",
+    "type": "template",
+    "format": "both",
+    "url": "https://recursos.makerspace.org/esquema-de-circuito-de-impresion-3d-6",
+    "author": "Sandy Bode PhD",
+    "publisher": "Schuppe - Lockman",
+    "publicationDate": "2023-11-27",
+    "language": "fr",
+    "tags": [
+      22,
+      4,
+      2
+    ],
+    "licenseType": "CC0",
+    "accessLevel": "internal",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-3IAMPHNW",
+      "acquisitionDate": "2021-02-19",
+      "acquisitionCost": 2876.92702107531,
+      "currentValue": 129.4117786130696,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2025-07-15",
+        "provider": "Fritsch, Lind and Doyle"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Quidem valde decor virgo sunt avarus ceno sopor templum abduco. Degenero timidus spargo delego caterva. Ipsum ab verto viduo desino esse aurum aequitas custodia decor."
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      4,
+      17
+    ],
+    "area": 17,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "cruciamentum apud"
+      },
+      {
+        "key": "difficulty",
+        "value": "qui eveniet"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-10-16T18:34:48.469Z",
+      "updatedAt": "2024-12-20T04:08:18.406Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "resourceStatus": "unavailable",
+    "version": null,
+    "publishedAt": "2025-05-06T15:29:51.855Z",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "name": "Guía de audio de Fabricación digital 7",
+    "description": "Cupiditas correptius ars deripio cruciamentum bellicus avaritia vae. Atque tabgo stillicidium sto benevolentia. Audeo adicio contigo praesentium viridis placeat correptius.",
+    "type": "audio",
+    "format": "both",
+    "url": "https://recursos.makerspace.org/guia-de-audio-de-fabricacion-digital-7",
+    "author": "Ricky Torphy",
+    "publisher": "Schmidt Inc",
+    "publicationDate": "2022-12-14",
+    "language": "de",
+    "tags": [
+      13,
+      1,
+      9
+    ],
+    "licenseType": "open-source",
+    "accessLevel": "restricted",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-804JJULU",
+      "acquisitionDate": "2023-03-14",
+      "acquisitionCost": 9588.172018316049,
+      "currentValue": 5711.430912061865,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-01-04",
+        "provider": "Schuster, Feil and Nitzsche"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Urbanus theologus beneficium cur tristis tergum conventus cariosus agnitio video. Vulnero accusantium turba tenax antiquus. Vorago ascit viduo theologus succedo cuppedia terror spiculum.\nEa pecto tamen modi advoco arcesso caveo dolorum. Arca tabesco vere soluta. Annus adipisci advoco utrimque utrimque.",
+      "safetyGuidelines": "Quo natus amor suadeo terebro caveo summopere. Cimentarius amaritudo thalassinus deripio. Sursum trado templum vesica tepidus spero canis suscipio."
+    },
+    "currentUser": null,
+    "relatedSkills": [],
+    "area": 16,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-08-06T03:19:30.101Z",
+      "updatedAt": "2023-12-23T21:39:34.840Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "resourceStatus": "unavailable",
+    "version": "4.4",
+    "publishedAt": "2025-05-06T15:29:51.855Z",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "name": "Webinar grabado de Diseño CAD 8",
+    "description": "Vorago aeternus tabesco baiulus utroque a alias. Tutis carpo cariosus contego altus acquiro sollicito. Demo candidus arceo vir.",
+    "type": "video",
+    "format": "physical",
+    "url": null,
+    "author": "Olivia Kutch-Paucek",
+    "publisher": "Schimmel Group",
+    "publicationDate": "2025-02-27",
+    "language": "es",
+    "tags": [
+      2,
+      13,
+      18
+    ],
+    "licenseType": "CC-BY",
+    "accessLevel": "public",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-DDUYMH2E",
+      "acquisitionDate": "2025-02-04",
+      "acquisitionCost": 5081.1286780631535,
+      "currentValue": 7864.146540641857,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-05-23",
+        "provider": "Breitenberg Inc"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Vulgivagus arceo nulla vorago comprehendo tabgo amitto censura. Viscus autem utroque soleo tenetur decumbo calamitas ancilla caute copia. Universe atavus praesentium aeger congregatio.\nSono desino coruscus super xiphias votum verecundia laboriosam carbo cetera. Vinculum doloremque totam terebro acsi candidus. Corrumpo autus debeo amo currus curia conscendo.",
+      "safetyGuidelines": "Tubineus eveniet ulterius terminatio abbas cras vociferor. Adficio congregatio officia clamo correptius aer terminatio. Delego vindico acerbitas supplanto dedecor amiculum avaritia tardus acies."
+    },
+    "currentUser": 1,
+    "relatedSkills": [],
+    "area": 4,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-02-12T05:27:32.403Z",
+      "updatedAt": "2025-04-18T02:05:59.754Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "resourceStatus": "in_use",
+    "version": null,
+    "publishedAt": "2025-05-06T15:29:51.857Z",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "name": "Formación especializada de Electrónica 9",
+    "description": "Termes depereo aequitas trans sint quibusdam bos ipsum abbas cohibeo. Mollitia tutamen aegre distinctio teres desidero. Surgo venia vomito credo amitto vigilo torqueo possimus corporis arbor.",
+    "type": "course",
+    "format": "physical",
+    "url": null,
+    "author": "Guillermo Bergstrom V",
+    "publisher": "Crooks Inc",
+    "publicationDate": "2022-12-15",
+    "language": "es",
+    "tags": [
+      29,
+      23,
+      23,
+      27
+    ],
+    "licenseType": "CC-BY",
+    "accessLevel": "restricted",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-DLID4KCT",
+      "acquisitionDate": "2023-11-19",
+      "acquisitionCost": 8098.901484368818,
+      "currentValue": 3455.4287392860847,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-03-27",
+        "provider": "Ritchie, Rodriguez and Hauck"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Abundans currus odio sto denuo amicitia beneficium ascisco aggredior comminor. Uredo cursim beatus beatus tredecim. Depopulo ventosus vorago cur cubicularis tabula volaticus creator.\nTunc solio causa solus deporto statua convoco natus. Conatus utrimque adficio calamitas administratio curso tripudio. Sub ambulo ambulo depraedor candidus enim usque defetiscor civis.",
+      "safetyGuidelines": "Adnuo sequi asper cavus creber videlicet cupio commodi. Credo stultus demum. Tunc deinde occaecati voluptatibus."
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      23
+    ],
+    "area": 14,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-07-14T16:14:59.867Z",
+      "updatedAt": "2024-11-13T14:56:35.768Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "resourceStatus": "unavailable",
+    "version": "4.0",
+    "publishedAt": "2025-05-06T15:29:51.858Z",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "name": "Presentación de Fabricación digital 10",
+    "description": "Pecco sonitus quae. Succurro arguo depraedor ex subito architecto verbum ara nisi. Tres conculco cetera.",
+    "type": "video",
+    "format": "both",
+    "url": "https://recursos.makerspace.org/presentacion-de-fabricacion-digital-10",
+    "author": "Gladys Tromp",
+    "publisher": "Turner - Fritsch",
+    "publicationDate": "2024-06-30",
+    "language": "it",
+    "tags": [
+      2,
+      27,
+      27,
+      4,
+      15
+    ],
+    "licenseType": "CC-BY",
+    "accessLevel": "restricted",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-2WEXLUEN",
+      "acquisitionDate": "2020-11-12",
+      "acquisitionCost": 8010.4920497415715,
+      "currentValue": 335.51325114589156,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2025-06-01",
+        "provider": "Kovacek, Spinka and Wiza"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Antea cilicium vulgus. Sed aer subnecto stipes. Corporis una vehemens cerno aegrus atavus acceptus cras pecco argentum.\nContra auctor beatae corrumpo sortitus sumo patior pel tenuis adeo. Crudelis thesis vigor suspendo. Audio tamquam victus videlicet solitudo vis verto tamquam.",
+      "safetyGuidelines": "Vorago eum claro clibanus calcar cibo. Abutor claudeo uredo cur virga. Adficio sunt vigilo conforto corrumpo commemoro aliquam utilis cruciamentum voluptate."
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      38,
+      35,
+      3
+    ],
+    "area": 18,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "baiulus verbera"
+      },
+      {
+        "key": "priority",
+        "value": "tamdiu apud"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-11-20T00:08:25.319Z",
+      "updatedAt": "2025-05-05T19:46:04.885Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "resourceStatus": "unavailable",
+    "version": "3.3",
+    "publishedAt": "2025-05-06T15:29:51.863Z",
+    "deletedAt": null
+  },
+  {
+    "id": 11,
+    "name": "Taller práctico de Robótica 11",
+    "description": "Crux callide cattus virgo verus conculco cogito una civitas caelestis. Alioqui comparo sint. Repudiandae verbum strues degenero blanditiis.",
+    "type": "course",
+    "format": "digital",
+    "url": "https://recursos.makerspace.org/taller-practico-de-robotica-11",
+    "author": "Ms. Leona O'Reilly",
+    "publisher": "Orn, Bins and Herman",
+    "publicationDate": "2021-02-20",
+    "language": "de",
+    "tags": [
+      28,
+      16,
+      12
+    ],
+    "licenseType": "open-source",
+    "accessLevel": "public",
+    "isAvailable": false,
+    "assetInfo": {
+      "inventoryNumber": "INV-6T6ZYHHE",
+      "acquisitionDate": "2021-07-21",
+      "acquisitionCost": 5323.70195527396,
+      "currentValue": 7790.283479125025,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2025-09-24",
+        "provider": "O'Keefe and Sons"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": null
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      31,
+      17,
+      9
+    ],
+    "area": 6,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "thermae trans"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-18T06:04:44.355Z",
+      "updatedAt": "2024-05-24T13:13:55.563Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "resourceStatus": "in_use",
+    "version": "2.0",
+    "publishedAt": "2025-05-06T15:29:51.863Z",
+    "deletedAt": null
+  },
+  {
+    "id": 12,
+    "name": "Guía práctica de Programación 12",
+    "description": "Thema eos celebrer. Tepidus denuncio vado enim ascisco celo doloribus astrum suscipit. Creator averto nobis quas ascisco.",
+    "type": "book",
+    "format": "digital",
+    "url": "https://recursos.makerspace.org/guia-practica-de-programacion-12",
+    "author": "Angie Legros III",
+    "publisher": "Runte, Feeney and Lind",
+    "publicationDate": "2025-01-28",
+    "language": "es",
+    "tags": [
+      26
+    ],
+    "licenseType": "CC-BY",
+    "accessLevel": "restricted",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-HXDQTL9O",
+      "acquisitionDate": "2022-02-21",
+      "acquisitionCost": 6269.524781481097,
+      "currentValue": 5881.481796070716,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-06-09",
+        "provider": "Hickle - Ebert"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Comes correptius laboriosam cumque aeger. Quibusdam casso canonicus assentator assumenda. Quisquam cunae adulatio.\nDefetiscor casus timor uredo conforto. Nam thema voco uberrime. Uterque timidus modi depulso thesaurus.",
+      "safetyGuidelines": "Decerno bestia trans calculus molestias tero conqueror. Sublime tunc commodo velit vulpes vulgaris nostrum amitto. Suggero conforto clamo taedium statim maiores."
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      12,
+      29
+    ],
+    "area": 7,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "velut contego"
+      },
+      {
+        "key": "relevance",
+        "value": "convoco verto"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-09-29T23:44:10.693Z",
+      "updatedAt": "2024-12-05T00:25:38.286Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "resourceStatus": "archived",
+    "version": null,
+    "publishedAt": "2025-05-06T15:29:51.863Z",
+    "deletedAt": "2025-05-05T23:13:09.144Z"
+  },
+  {
+    "id": 13,
+    "name": "Libro de diseño de Diseño CAD 13",
+    "description": "Acervus valetudo decet atrox super terminatio vulticulus. Vestrum deripio aedificium maxime abeo cursim defetiscor sulum advoco speciosus. Colo suspendo ventus pauci studio tactus ago architecto cras sublime.",
+    "type": "book",
+    "format": "both",
+    "url": "https://recursos.makerspace.org/libro-de-diseno-de-diseno-cad-13",
+    "author": "Kelvin King",
+    "publisher": "O'Conner - Abshire",
+    "publicationDate": "2020-07-19",
+    "language": "fr",
+    "tags": [
+      26,
+      18,
+      8
+    ],
+    "licenseType": "unknown",
+    "accessLevel": "internal",
+    "isAvailable": false,
+    "assetInfo": {
+      "inventoryNumber": "INV-Y1K5QN2H",
+      "acquisitionDate": "2024-10-03",
+      "acquisitionCost": 9913.028565173194,
+      "currentValue": 7802.942524623941,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-12-31",
+        "provider": "Mertz - Weissnat"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Tollo solvo cilicium confero harum somnus cena spero. Caveo spiculum illum correptius aeger. Inventore quasi baiulus vulgo sub.\nUlciscor spectaculum sodalitas congregatio taceo deporto adflicto utroque. Autus vapulus curis cultellus torqueo audacia voluntarius ullam tabesco. Capto crastinus ex colligo deprecator adiuvo.",
+      "safetyGuidelines": "Comptus videlicet in uxor approbo depromo speciosus corpus sublime. Valeo corona aliqua vir sponte ipsam adversus amplexus cariosus alo. Natus itaque delinquo autus laborum."
+    },
+    "currentUser": 44,
+    "relatedSkills": [
+      13,
+      16
+    ],
+    "area": 19,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "varietas pecus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-05-16T16:53:11.523Z",
+      "updatedAt": "2024-11-12T08:29:55.248Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "resourceStatus": "in_use",
+    "version": "3.1",
+    "publishedAt": "2025-05-06T15:29:51.864Z",
+    "deletedAt": null
+  },
+  {
+    "id": 14,
+    "name": "Enciclopedia de Fabricación digital 14",
+    "description": "Stultus demergo blanditiis amaritudo minima titulus. Versus carpo ulciscor curo adeo antepono congregatio uxor rem. Absconditus tenuis derelinquo sub cotidie.",
+    "type": "book",
+    "format": "physical",
+    "url": null,
+    "author": "Ruby Emard-Willms",
+    "publisher": "Sporer LLC",
+    "publicationDate": "2021-01-20",
+    "language": "en",
+    "tags": [
+      17,
+      23,
+      30,
+      11,
+      10
+    ],
+    "licenseType": "unknown",
+    "accessLevel": "internal",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-OTZSGTNO",
+      "acquisitionDate": "2020-11-07",
+      "acquisitionCost": 1230.7900778628784,
+      "currentValue": 3870.2460654611,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-07-21",
+        "provider": "DuBuque, Bechtelar and Ward"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Beatus molestias spiritus adduco convoco curo nemo inventore brevis. Acceptus sumo ipsa id atque video ultio viriliter bardus contabesco. Templum canonicus utroque turba.\nUna constans titulus cuius sponte tutamen vespillo alioqui. Curto comedo vitiosus admoveo. Volva vulticulus vado.",
+      "safetyGuidelines": null
+    },
+    "currentUser": null,
+    "relatedSkills": [],
+    "area": 10,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "comparo desidero"
+      },
+      {
+        "key": "priority",
+        "value": "perspiciatis creta"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-05T14:35:05.731Z",
+      "updatedAt": "2024-01-27T18:19:31.332Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "resourceStatus": "unavailable",
+    "version": "2.5",
+    "publishedAt": "2025-05-06T15:29:51.864Z",
+    "deletedAt": null
+  },
+  {
+    "id": 15,
+    "name": "Entrevista de Robótica 15",
+    "description": "Condico validus convoco aduro coma antepono cultellus auditor. Summisse astrum tenetur repellat benigne abutor enim. Nobis acer appositus solus teneo clementia ulciscor asper.",
+    "type": "audio",
+    "format": "physical",
+    "url": null,
+    "author": "Nick Little",
+    "publisher": "O'Kon - Waters",
+    "publicationDate": "2022-11-02",
+    "language": "fr",
+    "tags": [
+      15,
+      15
+    ],
+    "licenseType": "open-source",
+    "accessLevel": "public",
+    "isAvailable": false,
+    "assetInfo": {
+      "inventoryNumber": "INV-BMVJNTJY",
+      "acquisitionDate": "2023-09-05",
+      "acquisitionCost": 7819.211955369546,
+      "currentValue": 6960.6206550559455,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2027-01-18",
+        "provider": "Purdy - Olson"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Admiratio degusto aliquam brevis cunctatio thalassinus credo bonus auxilium. Libero pel coaegresco assentator. Soleo supellex cibo.\nConservo confido aegrus tantum. Angelus arbitro acceptus cavus ambulo terreo aggero repellat ait. Decumbo depraedor conduco totus reprehenderit volutabrum umerus pel.",
+      "safetyGuidelines": "Qui velociter vigor deficio quia sponte. Aestivus expedita audentia cognatus aurum communis trucido. Animadverto paulatim alter curia aduro sui ad."
+    },
+    "currentUser": 10,
+    "relatedSkills": [
+      3,
+      26
+    ],
+    "area": 3,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-12-27T08:47:32.179Z",
+      "updatedAt": "2025-03-24T01:47:50.482Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "resourceStatus": "available",
+    "version": null,
+    "publishedAt": "2025-05-06T15:29:51.864Z",
+    "deletedAt": null
+  },
+  {
+    "id": 16,
+    "name": "Compendio de Fabricación digital 16",
+    "description": "Tenetur vorax tamdiu paens voluptates curto utrum. Stabilis aggero artificiose civis defluo carcer. Temptatio ut ambulo demulceo utrimque similique demoror carus.",
+    "type": "book",
+    "format": "both",
+    "url": "https://recursos.makerspace.org/compendio-de-fabricacion-digital-16",
+    "author": "Dr. Jeremy Erdman",
+    "publisher": "Mayert, Wisoky and Klocko",
+    "publicationDate": "2023-02-11",
+    "language": "fr",
+    "tags": [
+      29,
+      29,
+      25
+    ],
+    "licenseType": "open-source",
+    "accessLevel": "internal",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-KRW5G1YC",
+      "acquisitionDate": "2020-12-05",
+      "acquisitionCost": 4714.802379603437,
+      "currentValue": 4415.212864322926,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-04-12",
+        "provider": "Robel - Homenick"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Crur beatae coma sophismata. Sui truculenter somniculosus clementia demonstro. Beatae demens amplitudo cupiditate.\nSuscipit occaecati creber vestigium vaco comis enim absum conservo aut. Tonsor constans earum ventito atqui. Thesis arceo circumvenio pel canto damno necessitatibus.",
+      "safetyGuidelines": null
+    },
+    "currentUser": null,
+    "relatedSkills": [],
+    "area": 6,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "desidero crinis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-12-02T09:55:35.778Z",
+      "updatedAt": "2024-02-14T11:40:03.064Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "resourceStatus": "unavailable",
+    "version": null,
+    "publishedAt": "2025-05-06T15:29:51.865Z",
+    "deletedAt": null
+  },
+  {
+    "id": 17,
+    "name": "Guía de referencia de Impresión 3D 17",
+    "description": "Barba sono blanditiis subito artificiose. Vulnero cum carmen vergo strues texo defessus alias. Volutabrum comprehendo defendo.",
+    "type": "document",
+    "format": "digital",
+    "url": "https://recursos.makerspace.org/guia-de-referencia-de-impresion-3d-17",
+    "author": "Dr. Jerald Blick",
+    "publisher": "Grant Group",
+    "publicationDate": "2023-10-17",
+    "language": "it",
+    "tags": [
+      12,
+      5,
+      12
+    ],
+    "licenseType": "CC-BY-SA",
+    "accessLevel": "restricted",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-BUF1EGUN",
+      "acquisitionDate": "2021-04-11",
+      "acquisitionCost": 8138.73244044937,
+      "currentValue": 2142.4176031414313,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-01-19",
+        "provider": "Terry, Graham and Mante"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": null,
+      "safetyGuidelines": "Voluptas vicissitudo adopto. Cohors spargo stillicidium corrumpo accommodo eius fuga. Confido cupio thorax."
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      37,
+      3
+    ],
+    "area": 18,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "caterva spiculum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-08T08:14:51.452Z",
+      "updatedAt": "2024-03-20T19:39:11.366Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "resourceStatus": "in_use",
+    "version": null,
+    "publishedAt": "2025-05-06T15:29:51.865Z",
+    "deletedAt": null
+  },
+  {
+    "id": 18,
+    "name": "Manual de usuario de Robótica 18",
+    "description": "Aranea desipio conservo cubo umquam vis vinculum vix eum aufero. Claro claustrum adhuc vita sumo denego concido alii. Alter benigne brevis clementia.",
+    "type": "document",
+    "format": "physical",
+    "url": null,
+    "author": "Patty Kerluke",
+    "publisher": "Hudson, Schaefer and Morar",
+    "publicationDate": "2022-11-21",
+    "language": "es",
+    "tags": [
+      24,
+      3
+    ],
+    "licenseType": "CC0",
+    "accessLevel": "internal",
+    "isAvailable": false,
+    "assetInfo": {
+      "inventoryNumber": "INV-6A6LLO57",
+      "acquisitionDate": "2021-04-02",
+      "acquisitionCost": 3937.296221102254,
+      "currentValue": 5300.423494259173,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-01-16",
+        "provider": "Bergstrom - Tromp"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Tenetur votum uredo suasoria coniuratio appositus terga itaque nam trepide. Adversus sto amicitia arcesso repellat. Conculco termes vapulus statua ventosus pectus.\nVero dicta clam. Avaritia agnosco charisma vulgaris bos ut sopor acidus cinis. Voluntarius vesica deleo tego vis animus.",
+      "safetyGuidelines": "Balbus tabella bardus hic stips absque cohibeo ustilo anser soluta. Sponte dolorum adulescens quos coniuratio soleo accendo thermae desidero beatus. Acies aliquam deinde aperiam terga aufero sui dolorem defendo vapulus."
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      9,
+      29
+    ],
+    "area": 17,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-11-06T23:13:49.554Z",
+      "updatedAt": "2025-03-15T13:42:26.152Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "resourceStatus": "available",
+    "version": "5.4",
+    "publishedAt": "2025-05-06T15:29:51.866Z",
+    "deletedAt": null
+  },
+  {
+    "id": 19,
+    "name": "Libro de diseño de Robótica 19",
+    "description": "Ultra subseco vestigium suspendo aliqua vilitas tabernus turba. Tutis complectus sum strenuus corpus tero. Cometes ut sono odit commodo sum suscipio vulnus.",
+    "type": "book",
+    "format": "both",
+    "url": "https://recursos.makerspace.org/libro-de-diseno-de-robotica-19",
+    "author": "Maggie Dach",
+    "publisher": "Lockman - Luettgen",
+    "publicationDate": "2020-12-29",
+    "language": "es",
+    "tags": [
+      27,
+      19,
+      30
+    ],
+    "licenseType": "proprietary",
+    "accessLevel": "restricted",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-YJWCEHBP",
+      "acquisitionDate": "2021-01-01",
+      "acquisitionCost": 5221.933230703395,
+      "currentValue": 2966.5389638019146,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-06-30",
+        "provider": "Bahringer Inc"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Cursim deprecator curiositas unus saepe color rerum amplus. Mollitia aduro acervus comprehendo comes. Cedo surculus volubilis vir defessus patrocinor sopor cunctatio maiores."
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      24,
+      40
+    ],
+    "area": 12,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-04-29T08:34:06.503Z",
+      "updatedAt": "2025-05-02T07:37:02.366Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "resourceStatus": "unavailable",
+    "version": "3.6",
+    "publishedAt": "2025-05-06T15:29:51.866Z",
+    "deletedAt": null
+  },
+  {
+    "id": 20,
+    "name": "Bootcamp de Diseño CAD 20",
+    "description": "Titulus claro aiunt venia dens sponte cubo decretum maiores. Auditor coma sursum umerus demulceo aurum. Caries summa audentia celer ultra ventito crapula.",
+    "type": "course",
+    "format": "both",
+    "url": "https://recursos.makerspace.org/bootcamp-de-diseno-cad-20",
+    "author": "Erick Torp",
+    "publisher": "Greenholt Group",
+    "publicationDate": "2023-09-26",
+    "language": "es",
+    "tags": [
+      13
+    ],
+    "licenseType": "CC-BY-SA",
+    "accessLevel": "internal",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-JCAUBGRO",
+      "acquisitionDate": "2024-08-24",
+      "acquisitionCost": 1736.589628137058,
+      "currentValue": 3725.0907522979833,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-08-08",
+        "provider": "Boehm, Heaney and Schowalter"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Vere conventus rem strenuus ager casso delicate perferendis sunt. Tempore uxor veniam compello cohibeo ante delectatio. Absens pax aestivus tandem.\nTracto laudantium aequus caste absens. Arbor spero confero voluptate. Coaegresco animus volutabrum peior thema tam accendo carpo repellendus argentum.",
+      "safetyGuidelines": "Conitor causa pecto adiuvo deprecator confugo arbitro tyrannus. Pecco conicio celer crur annus. At vilis derelinquo vulnero appello termes quos articulus."
+    },
+    "currentUser": 42,
+    "relatedSkills": [],
+    "area": 14,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-08-09T09:59:13.235Z",
+      "updatedAt": "2025-03-14T07:33:54.729Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "resourceStatus": "archived",
+    "version": null,
+    "publishedAt": "2025-05-06T15:29:51.866Z",
+    "deletedAt": null
+  },
+  {
+    "id": 21,
+    "name": "Tutorial de Programación 21",
+    "description": "Vigilo ipsum velum termes. Dolorem amo tero. Denique subvenio adopto aeternus aro repellendus quibusdam.",
+    "type": "video",
+    "format": "digital",
+    "url": "https://recursos.makerspace.org/tutorial-de-programacion-21",
+    "author": "Cary Dibbert",
+    "publisher": "Reichert - Barton",
+    "publicationDate": "2022-03-23",
+    "language": "it",
+    "tags": [
+      8,
+      22,
+      20,
+      28,
+      7
+    ],
+    "licenseType": "CC-BY-SA",
+    "accessLevel": "public",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-IKQVSCAP",
+      "acquisitionDate": "2024-05-11",
+      "acquisitionCost": 3471.517203958772,
+      "currentValue": 1183.1895735218916,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-01-21",
+        "provider": "Boehm and Sons"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Cuius canis thalassinus comprehendo torrens celebrer talis arguo at. Thesis cedo laboriosam. Cariosus aestas synagoga compono ascisco conturbo.\nVilitas creta caelestis cultellus. Dedecor adversus aurum amoveo ullus virga deripio voro. Verecundia minus delibero.",
+      "safetyGuidelines": "Vulpes communis colligo amplexus unus. Arguo defaeco aveho sortitus agnitio supplanto saepe. Tunc ocer impedit amaritudo degero stultus ustulo."
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      25
+    ],
+    "area": 9,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-12-19T08:26:54.650Z",
+      "updatedAt": "2025-03-21T17:40:58.506Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "resourceStatus": "available",
+    "version": "4.5",
+    "publishedAt": "2025-05-06T15:29:51.866Z",
+    "deletedAt": null
+  },
+  {
+    "id": 22,
+    "name": "Kit de recursos de Programación 22",
+    "description": "Tredecim desino vicinus vesper teneo talus deputo aliquam verto. Aliquam subvenio tondeo vestrum atavus textor molestiae tamen sed deorsum. Adsuesco aeneus volaticus praesentium.",
+    "type": "other",
+    "format": "physical",
+    "url": null,
+    "author": "Franklin Gleichner",
+    "publisher": "Monahan - Lynch",
+    "publicationDate": "2025-01-10",
+    "language": "es",
+    "tags": [
+      14
+    ],
+    "licenseType": "CC0",
+    "accessLevel": "public",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-8SF9K4O1",
+      "acquisitionDate": "2021-11-30",
+      "acquisitionCost": 553.8267608823624,
+      "currentValue": 7181.659140100047,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-10-06",
+        "provider": "Connelly, Johnson and Wiegand"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": null,
+      "safetyGuidelines": null
+    },
+    "currentUser": 46,
+    "relatedSkills": [
+      39
+    ],
+    "area": 3,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-02-01T02:11:39.674Z",
+      "updatedAt": "2024-04-14T03:20:46.227Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "resourceStatus": "in_use",
+    "version": "5.1",
+    "publishedAt": "2025-05-06T15:29:51.866Z",
+    "deletedAt": null
+  },
+  {
+    "id": 23,
+    "name": "Kit de recursos de Impresión 3D 23",
+    "description": "Tracto dolor suggero pecto suus denego suppellex defleo vinum vesica. Tollo tertius vulpes tubineus tolero arca amoveo volubilis. Aut aureus ustilo quam cruciamentum cetera torrens inflammatio crur.",
+    "type": "other",
+    "format": "both",
+    "url": "https://recursos.makerspace.org/kit-de-recursos-de-impresion-3d-23",
+    "author": "Lynda Price",
+    "publisher": "Yundt, Dibbert and Beer",
+    "publicationDate": "2024-07-19",
+    "language": "es",
+    "tags": [
+      20
+    ],
+    "licenseType": "CC0",
+    "accessLevel": "internal",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-VDXHC2FE",
+      "acquisitionDate": "2020-12-12",
+      "acquisitionCost": 773.3317241073215,
+      "currentValue": 6527.945033336007,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-06-22",
+        "provider": "Hessel, Bergstrom and Thiel"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-06",
+      "instructions": null,
+      "safetyGuidelines": "Tantillus stips sumo vapulus cotidie maxime. Desipio textilis sublime atavus conturbo ratione. Culpo tricesimus advenio patruus."
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      38
+    ],
+    "area": 1,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "audio ambitus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-10T04:57:01.716Z",
+      "updatedAt": "2025-04-16T18:04:17.608Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "resourceStatus": "in_use",
+    "version": null,
+    "publishedAt": "2025-05-06T15:29:51.866Z",
+    "deletedAt": null
+  },
+  {
+    "id": 24,
+    "name": "Manual de usuario de Programación 24",
+    "description": "Vorago defetiscor annus sollicito conventus nemo altus voveo. Enim debeo voluptatem pecco. Tenetur atrocitas autem agnitio ascisco.",
+    "type": "document",
+    "format": "physical",
+    "url": null,
+    "author": "Benny Schultz",
+    "publisher": "Batz - White",
+    "publicationDate": "2021-12-27",
+    "language": "fr",
+    "tags": [
+      23,
+      9
+    ],
+    "licenseType": "CC-BY-SA",
+    "accessLevel": "restricted",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-X0JJE543",
+      "acquisitionDate": "2020-10-14",
+      "acquisitionCost": 4161.182623216307,
+      "currentValue": 3864.5114539577794,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-06-04",
+        "provider": "Kerluke Inc"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Arcus utpote torqueo adipiscor vorago solium creta cimentarius aureus. Valde adaugeo aperte porro vulgus amo decerno centum solvo. Claudeo quam conor asporto.\nNam thorax adiuvo. Adaugeo cauda acidus comes. Baiulus textor aspernatur.",
+      "safetyGuidelines": "Amita theca bellum ager sum. Praesentium ante adsuesco. Audax dicta cetera."
+    },
+    "currentUser": null,
+    "relatedSkills": [],
+    "area": 14,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "architecto impedit"
+      },
+      {
+        "key": "difficulty",
+        "value": "volup avaritia"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-07-20T09:37:47.488Z",
+      "updatedAt": "2024-09-03T09:43:56.714Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "resourceStatus": "unavailable",
+    "version": "4.5",
+    "publishedAt": "2025-05-06T15:29:51.867Z",
+    "deletedAt": null
+  },
+  {
+    "id": 25,
+    "name": "Manual técnico de Arduino 25",
+    "description": "Crinis vos cenaculum voluptates armarium arcesso et cumque. Bis antepono theatrum taedium casso. Corrigo amplexus vapulus.",
+    "type": "book",
+    "format": "both",
+    "url": "https://recursos.makerspace.org/manual-tecnico-de-arduino-25",
+    "author": "Juanita Jaskolski-Dickens",
+    "publisher": "Bergstrom, Jaskolski and Goodwin",
+    "publicationDate": "2020-11-09",
+    "language": "it",
+    "tags": [
+      30
+    ],
+    "licenseType": "CC-BY",
+    "accessLevel": "internal",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-W6AV2CJO",
+      "acquisitionDate": "2025-03-30",
+      "acquisitionCost": 986.5251823049772,
+      "currentValue": 1737.4087485563255,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-01-13",
+        "provider": "Nitzsche, Cartwright and Schneider"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Accusantium occaecati valde temperantia ustulo adeptio volup comes defero. Stillicidium videlicet auctor candidus addo aqua expedita aestus. Modi cultura adeptio strenuus tot.\nCinis vigilo cattus cunae maiores. Decerno truculenter ultio abbas conspergo delicate rem. Solitudo admoveo dicta censura.",
+      "safetyGuidelines": "Molestias tabesco hic thymbra thema at dolores colo. Conventus corpus debitis aegrotatio cognomen. Debilito tripudio perspiciatis."
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      36
+    ],
+    "area": 19,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "utrum voro"
+      },
+      {
+        "key": "popularity",
+        "value": "distinctio congregatio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-05-25T05:55:58.776Z",
+      "updatedAt": "2024-11-27T17:07:53.855Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "resourceStatus": "available",
+    "version": null,
+    "publishedAt": "2025-05-06T15:29:51.867Z",
+    "deletedAt": null
+  },
+  {
+    "id": 26,
+    "name": "Conjunto de herramientas de Programación 26",
+    "description": "Animus audacia debitis minima concido causa. Delibero vox amita antea sto sum vere. Maiores fugiat cibo arca.",
+    "type": "other",
+    "format": "physical",
+    "url": null,
+    "author": "Luz Labadie",
+    "publisher": "Donnelly, Parisian and Pacocha",
+    "publicationDate": "2024-04-07",
+    "language": "fr",
+    "tags": [
+      15,
+      24,
+      14
+    ],
+    "licenseType": "proprietary",
+    "accessLevel": "internal",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-AJLQOEBA",
+      "acquisitionDate": "2021-12-28",
+      "acquisitionCost": 7233.3815083301415,
+      "currentValue": 5695.4240348516405,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-12-10",
+        "provider": "Mante, Crooks and Hamill"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Cornu undique vulgo debitis curo curo. Non terga terror statim deputo cras adicio. Vinum traho bene universe viriliter antea abscido.\nCurso depromo vicissitudo conduco constans optio copiose. Abstergo aptus consectetur saepe tollo verus. Timor tam delicate cometes a eos amo crebro.",
+      "safetyGuidelines": "Vesper convoco vulnero terminatio barba cena admoneo aspernatur tactus at. Culpa tribuo clibanus sui. Ullam cohors capillus cibo auxilium sollers antepono audentia."
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      16
+    ],
+    "area": 14,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "callide infit"
+      },
+      {
+        "key": "department",
+        "value": "tamquam contra"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-11T17:04:26.142Z",
+      "updatedAt": "2024-10-20T19:21:04.557Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "resourceStatus": "in_use",
+    "version": "3.5",
+    "publishedAt": "2025-05-06T15:29:51.867Z",
+    "deletedAt": null
+  },
+  {
+    "id": 27,
+    "name": "Demostración de Arduino 27",
+    "description": "Vivo sto addo delectus decumbo vos apto. Trado amet animi acquiro cauda vobis congregatio angustus saepe. Trucido tenax arx.",
+    "type": "video",
+    "format": "both",
+    "url": "https://recursos.makerspace.org/demostracion-de-arduino-27",
+    "author": "Anne Bayer",
+    "publisher": "Abernathy - Langosh",
+    "publicationDate": "2023-01-14",
+    "language": "es",
+    "tags": [
+      27,
+      4,
+      7,
+      25
+    ],
+    "licenseType": "open-source",
+    "accessLevel": "restricted",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-41DRDA3D",
+      "acquisitionDate": "2021-09-08",
+      "acquisitionCost": 7846.774092344341,
+      "currentValue": 66.78419327995302,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-07-26",
+        "provider": "Bartoletti - Schmeler"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Amita claro suus. Condico vinitor advenio. Spiculum veritatis ver.\nTergeo stillicidium nemo suus contigo veniam demergo tui speculum. Pariatur tunc verto expedita. Succurro utpote volo cunabula maiores defero totam.",
+      "safetyGuidelines": null
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      1,
+      37
+    ],
+    "area": 9,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "curiositas qui"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-01-22T13:19:42.402Z",
+      "updatedAt": "2025-02-13T17:56:35.696Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "resourceStatus": "available",
+    "version": "2.5",
+    "publishedAt": "2025-05-06T15:29:51.867Z",
+    "deletedAt": null
+  },
+  {
+    "id": 28,
+    "name": "Manual de usuario de Robótica 28",
+    "description": "Adeptio armarium volutabrum delego confero. Cotidie vindico celer. Uredo valeo utroque vulgaris tondeo tremo colligo tactus.",
+    "type": "document",
+    "format": "digital",
+    "url": "https://recursos.makerspace.org/manual-de-usuario-de-robotica-28",
+    "author": "Cory Dare",
+    "publisher": "Witting - Heidenreich",
+    "publicationDate": "2024-08-03",
+    "language": "en",
+    "tags": [
+      26,
+      11
+    ],
+    "licenseType": "CC-BY-SA",
+    "accessLevel": "public",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-A92UQKI4",
+      "acquisitionDate": "2025-03-16",
+      "acquisitionCost": 4307.107874565934,
+      "currentValue": 569.4977122821391,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-04-14",
+        "provider": "Wiegand Inc"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Tonsor cornu amet auxilium teres consequatur corrigo. Depono optio comparo nemo turbo calculus. Vos cogito bene tabesco distinctio aspernatur."
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      23
+    ],
+    "area": 18,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "combibo repellendus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-28T18:55:09.908Z",
+      "updatedAt": "2024-06-09T03:53:53.290Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "resourceStatus": "archived",
+    "version": "1.4",
+    "publishedAt": "2025-05-06T15:29:51.868Z",
+    "deletedAt": null
+  },
+  {
+    "id": 29,
+    "name": "Audiolibro de Diseño CAD 29",
+    "description": "Acies sordeo adficio. Venustas alter cibus cruentus videlicet cogo et. Contabesco demitto vae tantum.",
+    "type": "audio",
+    "format": "both",
+    "url": "https://recursos.makerspace.org/audiolibro-de-diseno-cad-29",
+    "author": "Edwin Bauch",
+    "publisher": "Ledner, Dach and Torphy",
+    "publicationDate": "2020-10-11",
+    "language": "it",
+    "tags": [
+      29
+    ],
+    "licenseType": "unknown",
+    "accessLevel": "public",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-UHMPLRXV",
+      "acquisitionDate": "2022-06-19",
+      "acquisitionCost": 7336.947137917257,
+      "currentValue": 6096.090031685358,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-01-23",
+        "provider": "Wilkinson and Sons"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Canto cruciamentum ventus cauda repellendus verus. Ancilla conspergo calco. Conduco exercitationem aperte pauci non adimpleo.\nConscendo coma vomito suspendo torrens solum quo. Spargo adficio arguo vulnero vinculum. Quas abduco recusandae terga.",
+      "safetyGuidelines": "Eum possimus clementia. Consuasor voluptatum libero. Coerceo amplexus crudelis suus laboriosam constans."
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      4,
+      9,
+      15
+    ],
+    "area": 4,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "allatus conscendo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-09-17T04:48:01.679Z",
+      "updatedAt": "2025-02-22T01:00:22.917Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "resourceStatus": "unavailable",
+    "version": null,
+    "publishedAt": "2025-05-06T15:29:51.868Z",
+    "deletedAt": null
+  },
+  {
+    "id": 30,
+    "name": "Procedimiento de Electrónica 30",
+    "description": "Carus theca vociferor sortitus adiuvo conduco. Tertius debitis spoliatio conservo sit. Celer architecto velum accedo bonus admitto pectus antea bos.",
+    "type": "document",
+    "format": "both",
+    "url": "https://recursos.makerspace.org/procedimiento-de-electronica-30",
+    "author": "Bessie Schimmel",
+    "publisher": "Kohler Group",
+    "publicationDate": "2020-08-03",
+    "language": "en",
+    "tags": [
+      15,
+      14
+    ],
+    "licenseType": "CC-BY",
+    "accessLevel": "public",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-QUA9JA4G",
+      "acquisitionDate": "2023-09-17",
+      "acquisitionCost": 3649.602350612196,
+      "currentValue": 7123.666306710444,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-01-27",
+        "provider": "Kutch, Simonis and Pollich"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Omnis substantia vita tardus suasoria hic admoveo similique. Utrimque exercitationem minima commodo theca pecco torqueo titulus. Quis decet deleo caelestis cena soluta repellendus est.\nCasso pel cornu uredo. Deleo villa voluptates. Stella adversus similique.",
+      "safetyGuidelines": "Decumbo vos sodalitas volaticus. Baiulus odit reiciendis blanditiis compono cupressus thymum. Vomito atavus vix."
+    },
+    "currentUser": null,
+    "relatedSkills": [],
+    "area": 14,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "desparatus corrupti"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-21T16:33:22.948Z",
+      "updatedAt": "2025-02-11T12:42:08.600Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "resourceStatus": "available",
+    "version": null,
+    "publishedAt": "2025-05-06T15:29:51.868Z",
+    "deletedAt": null
+  },
+  {
+    "id": 31,
+    "name": "Documentación técnica de Diseño CAD 31",
+    "description": "Aperte tenuis chirographum vivo claudeo temporibus tracto agnitio ustulo. Audeo defungo volubilis. Supra nobis ustilo utique.",
+    "type": "document",
+    "format": "digital",
+    "url": "https://recursos.makerspace.org/documentacion-tecnica-de-diseno-cad-31",
+    "author": "Tommie Williamson",
+    "publisher": "Kub Group",
+    "publicationDate": "2021-08-05",
+    "language": "it",
+    "tags": [
+      7,
+      19,
+      15
+    ],
+    "licenseType": "open-source",
+    "accessLevel": "restricted",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-DZCDBHRR",
+      "acquisitionDate": "2023-01-30",
+      "acquisitionCost": 3567.540526277537,
+      "currentValue": 6498.905659972882,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-03-23",
+        "provider": "Wintheiser, Crooks and Pagac"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": null,
+      "safetyGuidelines": null
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      12,
+      13,
+      38
+    ],
+    "area": 2,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "claro quia"
+      },
+      {
+        "key": "tag",
+        "value": "acies vulgivagus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-05-13T16:47:11.489Z",
+      "updatedAt": "2024-11-20T18:13:15.354Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "resourceStatus": "unavailable",
+    "version": "3.9",
+    "publishedAt": "2025-05-06T15:29:51.868Z",
+    "deletedAt": null
+  },
+  {
+    "id": 32,
+    "name": "Kit de recursos de Arduino 32",
+    "description": "Temporibus rem blandior adimpleo. Dens decet constans artificiose creber argentum. Calco urbanus decimus voluptas soluta ulciscor cerno qui utilis aut.",
+    "type": "other",
+    "format": "both",
+    "url": "https://recursos.makerspace.org/kit-de-recursos-de-arduino-32",
+    "author": "Tabitha O'Keefe",
+    "publisher": "Crooks - O'Keefe",
+    "publicationDate": "2024-09-09",
+    "language": "it",
+    "tags": [
+      5,
+      23,
+      11,
+      9,
+      29
+    ],
+    "licenseType": "open-source",
+    "accessLevel": "restricted",
+    "isAvailable": false,
+    "assetInfo": {
+      "inventoryNumber": "INV-5DEGUEXZ",
+      "acquisitionDate": "2020-06-06",
+      "acquisitionCost": 2950.8700806916004,
+      "currentValue": 639.8751864201503,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-05-06",
+        "provider": "Brakus, Prohaska and Satterfield"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Tener vulgus ipsam eaque thalassinus. Ver defungo suspendo studio vinco tollo. Aliquid ad velut.\nA peccatus casus tergo. Calcar crinis arto utor vere. Vitae veniam usque spiritus stipes.",
+      "safetyGuidelines": null
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      26
+    ],
+    "area": 3,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "contigo via"
+      },
+      {
+        "key": "relevance",
+        "value": "audacia animus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-08-26T22:44:42.141Z",
+      "updatedAt": "2025-01-08T19:12:11.656Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "resourceStatus": "available",
+    "version": "4.5",
+    "publishedAt": "2025-05-06T15:29:51.868Z",
+    "deletedAt": null
+  },
+  {
+    "id": 33,
+    "name": "Kit de recursos de Fabricación digital 33",
+    "description": "Laboriosam vicinus urbs adflicto adeo. Perspiciatis sponte vere vox nihil socius. In minus tego alioqui tripudio atrox sonitus.",
+    "type": "other",
+    "format": "digital",
+    "url": "https://recursos.makerspace.org/kit-de-recursos-de-fabricacion-digital-33",
+    "author": "Pat Lind V",
+    "publisher": "Barton LLC",
+    "publicationDate": "2022-04-06",
+    "language": "fr",
+    "tags": [
+      16,
+      28
+    ],
+    "licenseType": "CC-BY-SA",
+    "accessLevel": "internal",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-1TJYJJYB",
+      "acquisitionDate": "2024-02-09",
+      "acquisitionCost": 3448.232661776036,
+      "currentValue": 7217.017141683866,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-06-19",
+        "provider": "Emmerich, Braun and Tillman"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Stipes occaecati accedo dolores ait voco. Surculus ait defluo crinis stips vinculum ambitus desino veritas corroboro. Adeptio blanditiis communis placeat asporto conculco deprecator soluta.\nSublime similique valeo. Adeo vergo sublime quibusdam usitas calco arca tamquam cerno color. Nostrum collum vigor tricesimus vulpes vulgo sto combibo.",
+      "safetyGuidelines": null
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      16,
+      25
+    ],
+    "area": 3,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "praesentium cunae"
+      },
+      {
+        "key": "source",
+        "value": "carus benigne"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-05T05:24:29.585Z",
+      "updatedAt": "2025-03-14T20:41:56.410Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "resourceStatus": "archived",
+    "version": null,
+    "publishedAt": "2025-05-06T15:29:51.869Z",
+    "deletedAt": null
+  },
+  {
+    "id": 34,
+    "name": "Curso en vídeo de Fabricación digital 34",
+    "description": "Tamdiu tredecim admoveo adamo correptius alter. Ciminatio unus uberrime depraedor derideo. Pax libero abutor thema blandior.",
+    "type": "video",
+    "format": "physical",
+    "url": null,
+    "author": "Antonia Ullrich",
+    "publisher": "Greenfelder - Leuschke",
+    "publicationDate": "2023-05-15",
+    "language": "en",
+    "tags": [
+      1
+    ],
+    "licenseType": "CC-BY-SA",
+    "accessLevel": "public",
+    "isAvailable": false,
+    "assetInfo": {
+      "inventoryNumber": "INV-FYDVIQ23",
+      "acquisitionDate": "2021-09-13",
+      "acquisitionCost": 9694.374697255475,
+      "currentValue": 722.5646345535299,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-04-27",
+        "provider": "Schumm - Howe"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-06",
+      "instructions": null,
+      "safetyGuidelines": "Maiores repellat pauci ducimus. Socius curso administratio sonitus quisquam. Cursus cohibeo adversus cogito acsi cogo cribro calcar fugiat sulum."
+    },
+    "currentUser": null,
+    "relatedSkills": [],
+    "area": 12,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-07-28T09:37:42.763Z",
+      "updatedAt": "2025-03-24T18:52:06.917Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "resourceStatus": "archived",
+    "version": "1.6",
+    "publishedAt": "2025-05-06T15:29:51.869Z",
+    "deletedAt": null
+  },
+  {
+    "id": 35,
+    "name": "Paquete de aprendizaje de Impresión 3D 35",
+    "description": "Aeneus avaritia iusto clamo aperte suscipit vilitas acquiro civitas vestigium. Tumultus volutabrum tabula stips. Crinis maiores asporto adulescens debitis testimonium cognatus tertius.",
+    "type": "other",
+    "format": "physical",
+    "url": null,
+    "author": "Krista Leannon",
+    "publisher": "Grimes, Huels and Gutmann",
+    "publicationDate": "2022-08-07",
+    "language": "en",
+    "tags": [
+      25,
+      18,
+      23
+    ],
+    "licenseType": "CC-BY",
+    "accessLevel": "restricted",
+    "isAvailable": true,
+    "assetInfo": {
+      "inventoryNumber": "INV-XNRECPLY",
+      "acquisitionDate": "2024-12-24",
+      "acquisitionCost": 609.1904609385407,
+      "currentValue": 2720.8686074534194,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-05-15",
+        "provider": "Stark and Sons"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Laboriosam annus demo deludo vobis confugo. Bardus curso coaegresco tollo combibo totidem. Sufficio teres deduco color repellendus perspiciatis sulum suggero.\nCura damno coerceo. Auxilium adsuesco casso bardus adiuvo ambitus sustineo. Soluta soluta denique tumultus.",
+      "safetyGuidelines": "Testimonium sub vae paulatim. Umerus arx vivo nam. Trans velut avarus defaeco vesica desipio reprehenderit conservo."
+    },
+    "currentUser": null,
+    "relatedSkills": [
+      19,
+      4,
+      31
+    ],
+    "area": 4,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "sollicito deprecator"
+      },
+      {
+        "key": "difficulty",
+        "value": "nemo terga"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-25T22:36:42.612Z",
+      "updatedAt": "2024-12-17T02:47:13.131Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "resourceStatus": "unavailable",
+    "version": "1.1",
+    "publishedAt": "2025-05-06T15:29:51.869Z",
+    "deletedAt": "2025-05-05T19:05:57.803Z"
+  }
+]

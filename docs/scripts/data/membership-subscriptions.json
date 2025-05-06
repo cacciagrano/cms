@@ -1,0 +1,1109 @@
+[
+  {
+    "id": 1,
+    "member": 1,
+    "membership": 1,
+    "startDate": "2025-05-06",
+    "endDate": "2026-05-06",
+    "status": "cancelled",
+    "paymentStatus": "pending",
+    "autoRenew": false,
+    "notes": "Celo varius brevis tricesimus unde aedificium custodia socius.",
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-04-16T05:53:39.242Z",
+      "updatedAt": "2025-05-01T07:08:26.662Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 2,
+    "member": 2,
+    "membership": 3,
+    "startDate": "2025-05-06",
+    "endDate": "2026-05-06",
+    "status": "cancelled",
+    "paymentStatus": "refunded",
+    "autoRenew": false,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "conitor accusator"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-12T07:40:57.709Z",
+      "updatedAt": "2025-01-13T17:13:32.370Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 3,
+    "member": 3,
+    "membership": 4,
+    "startDate": "2025-05-05",
+    "endDate": "2025-06-05",
+    "status": "pending",
+    "paymentStatus": "refunded",
+    "autoRenew": false,
+    "notes": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-07-01T12:37:00.493Z",
+      "updatedAt": "2024-05-15T05:51:47.373Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 4,
+    "member": 4,
+    "membership": 3,
+    "startDate": "2025-05-06",
+    "endDate": "2025-06-06",
+    "status": "expired",
+    "paymentStatus": "refunded",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "utrimque arcesso"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-15T20:32:25.914Z",
+      "updatedAt": "2025-05-06T01:21:34.236Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 5,
+    "member": 5,
+    "membership": 3,
+    "startDate": "2025-05-06",
+    "endDate": "2025-06-06",
+    "status": "cancelled",
+    "paymentStatus": "pending",
+    "autoRenew": true,
+    "notes": "Depromo doloremque beatus suggero venustas repellendus abduco defetiscor tabesco.",
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-02-10T12:02:35.856Z",
+      "updatedAt": "2024-04-14T11:53:21.468Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 6,
+    "member": 6,
+    "membership": 2,
+    "startDate": "2025-05-06",
+    "endDate": "2026-05-06",
+    "status": "cancelled",
+    "paymentStatus": "paid",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-12-28T23:46:44.845Z",
+      "updatedAt": "2025-01-06T05:19:22.546Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 7,
+    "member": 7,
+    "membership": 4,
+    "startDate": "2025-05-05",
+    "endDate": "2025-11-05",
+    "status": "pending",
+    "paymentStatus": "failed",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "compello comburo"
+      },
+      {
+        "key": "priority",
+        "value": "civitas testimonium"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-27T01:55:39.645Z",
+      "updatedAt": "2024-04-03T06:57:26.204Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 8,
+    "member": 8,
+    "membership": 3,
+    "startDate": "2025-05-06",
+    "endDate": "2025-08-06",
+    "status": "expired",
+    "paymentStatus": "refunded",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-01-22T17:08:32.151Z",
+      "updatedAt": "2025-01-04T10:16:21.013Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 9,
+    "member": 9,
+    "membership": 3,
+    "startDate": "2025-05-06",
+    "endDate": "2026-05-06",
+    "status": "pending",
+    "paymentStatus": "pending",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "territo occaecati"
+      },
+      {
+        "key": "relevance",
+        "value": "accusamus vestigium"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-20T02:11:16.772Z",
+      "updatedAt": "2025-04-28T15:20:32.241Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 10,
+    "member": 10,
+    "membership": 4,
+    "startDate": "2025-05-06",
+    "endDate": "2025-06-06",
+    "status": "active",
+    "paymentStatus": "failed",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-08-29T10:24:11.031Z",
+      "updatedAt": "2023-12-06T21:51:24.355Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 11,
+    "member": 11,
+    "membership": 1,
+    "startDate": "2025-05-06",
+    "endDate": "2026-05-06",
+    "status": "expired",
+    "paymentStatus": "refunded",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "id caelestis"
+      },
+      {
+        "key": "popularity",
+        "value": "adamo tot"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-04T10:59:53.988Z",
+      "updatedAt": "2024-07-20T12:09:40.407Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 12,
+    "member": 12,
+    "membership": 2,
+    "startDate": "2025-05-05",
+    "endDate": "2026-05-05",
+    "status": "pending",
+    "paymentStatus": "pending",
+    "autoRenew": false,
+    "notes": "Nesciunt cohaero cattus tibi cunctatio totidem.",
+    "metadata": [
+      {
+        "key": "department",
+        "value": "utilis molestiae"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-12-19T16:09:32.289Z",
+      "updatedAt": "2024-03-10T11:03:02.546Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 13,
+    "member": 13,
+    "membership": 1,
+    "startDate": "2025-05-05",
+    "endDate": "2025-11-05",
+    "status": "expired",
+    "paymentStatus": "refunded",
+    "autoRenew": false,
+    "notes": "Adfero virga maiores thesaurus dolorem depraedor aureus cedo alias articulus.",
+    "metadata": [
+      {
+        "key": "source",
+        "value": "desidero conforto"
+      },
+      {
+        "key": "difficulty",
+        "value": "vulnus verumtamen"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-18T07:44:46.315Z",
+      "updatedAt": "2025-04-08T00:39:33.163Z",
+      "createdBy": "import",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 14,
+    "member": 14,
+    "membership": 2,
+    "startDate": "2025-05-06",
+    "endDate": "2025-11-06",
+    "status": "active",
+    "paymentStatus": "refunded",
+    "autoRenew": true,
+    "notes": "Ullus nulla cursim taceo.",
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-06-13T05:39:25.068Z",
+      "updatedAt": "2024-03-13T04:16:18.545Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 15,
+    "member": 15,
+    "membership": 2,
+    "startDate": "2025-05-06",
+    "endDate": "2025-08-06",
+    "status": "pending",
+    "paymentStatus": "pending",
+    "autoRenew": false,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "voco ars"
+      },
+      {
+        "key": "tag",
+        "value": "aptus conculco"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-01-23T12:09:46.001Z",
+      "updatedAt": "2025-02-22T22:49:06.878Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 16,
+    "member": 16,
+    "membership": 2,
+    "startDate": "2025-05-06",
+    "endDate": "2026-05-06",
+    "status": "cancelled",
+    "paymentStatus": "failed",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-04-05T13:38:07.524Z",
+      "updatedAt": "2025-04-10T21:19:44.287Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 17,
+    "member": 17,
+    "membership": 2,
+    "startDate": "2025-05-05",
+    "endDate": "2026-05-05",
+    "status": "active",
+    "paymentStatus": "paid",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-01-26T16:56:57.495Z",
+      "updatedAt": "2025-02-16T06:21:15.595Z",
+      "createdBy": "import",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 18,
+    "member": 18,
+    "membership": 4,
+    "startDate": "2025-05-06",
+    "endDate": "2025-06-06",
+    "status": "active",
+    "paymentStatus": "paid",
+    "autoRenew": false,
+    "notes": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-04-08T12:50:38.062Z",
+      "updatedAt": "2025-04-22T11:06:53.860Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 19,
+    "member": 19,
+    "membership": 1,
+    "startDate": "2025-05-06",
+    "endDate": "2026-05-06",
+    "status": "cancelled",
+    "paymentStatus": "paid",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "alii statim"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-03T15:29:32.609Z",
+      "updatedAt": "2025-04-08T14:17:59.684Z",
+      "createdBy": "import",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 20,
+    "member": 20,
+    "membership": 1,
+    "startDate": "2025-05-05",
+    "endDate": "2025-08-05",
+    "status": "pending",
+    "paymentStatus": "refunded",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "aureus crinis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-24T01:26:17.208Z",
+      "updatedAt": "2024-04-12T20:37:56.190Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 21,
+    "member": 21,
+    "membership": 2,
+    "startDate": "2025-05-05",
+    "endDate": "2026-05-05",
+    "status": "cancelled",
+    "paymentStatus": "paid",
+    "autoRenew": false,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "corroboro comedo"
+      },
+      {
+        "key": "tag",
+        "value": "tepesco auditor"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-22T06:48:04.341Z",
+      "updatedAt": "2024-09-09T01:14:22.287Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 22,
+    "member": 22,
+    "membership": 2,
+    "startDate": "2025-05-05",
+    "endDate": "2025-08-05",
+    "status": "cancelled",
+    "paymentStatus": "failed",
+    "autoRenew": false,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "ipsa advoco"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-27T21:28:46.872Z",
+      "updatedAt": "2023-10-08T09:02:15.306Z",
+      "createdBy": null,
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 23,
+    "member": 23,
+    "membership": 1,
+    "startDate": "2025-05-06",
+    "endDate": "2026-05-06",
+    "status": "cancelled",
+    "paymentStatus": "paid",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-04-15T01:19:13.861Z",
+      "updatedAt": "2024-06-27T20:00:54.398Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 24,
+    "member": 24,
+    "membership": 1,
+    "startDate": "2025-05-06",
+    "endDate": "2025-06-06",
+    "status": "active",
+    "paymentStatus": "refunded",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "bestia vero"
+      },
+      {
+        "key": "popularity",
+        "value": "cetera cohors"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-07T06:03:30.056Z",
+      "updatedAt": "2024-06-23T19:52:10.932Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 25,
+    "member": 25,
+    "membership": 3,
+    "startDate": "2025-05-06",
+    "endDate": "2025-08-06",
+    "status": "pending",
+    "paymentStatus": "refunded",
+    "autoRenew": false,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "demonstro tutis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-10-19T04:11:23.532Z",
+      "updatedAt": "2024-12-10T03:10:44.288Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 26,
+    "member": 26,
+    "membership": 4,
+    "startDate": "2025-05-06",
+    "endDate": "2026-05-06",
+    "status": "cancelled",
+    "paymentStatus": "paid",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-09-23T00:46:36.527Z",
+      "updatedAt": "2024-12-14T13:56:20.768Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 27,
+    "member": 27,
+    "membership": 2,
+    "startDate": "2025-05-06",
+    "endDate": "2025-11-06",
+    "status": "active",
+    "paymentStatus": "paid",
+    "autoRenew": false,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "angulus creptio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-06-17T18:58:32.857Z",
+      "updatedAt": "2023-11-10T07:42:52.306Z",
+      "createdBy": null,
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 28,
+    "member": 28,
+    "membership": 3,
+    "startDate": "2025-05-06",
+    "endDate": "2025-06-06",
+    "status": "cancelled",
+    "paymentStatus": "paid",
+    "autoRenew": false,
+    "notes": "Vitae conventus abscido consuasor debitis corporis.",
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "dapifer curo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-04T23:23:01.692Z",
+      "updatedAt": "2024-04-22T21:36:52.569Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 29,
+    "member": 29,
+    "membership": 3,
+    "startDate": "2025-05-06",
+    "endDate": "2026-05-06",
+    "status": "pending",
+    "paymentStatus": "failed",
+    "autoRenew": true,
+    "notes": "Veniam usus vindico hic uredo appositus.",
+    "metadata": [
+      {
+        "key": "department",
+        "value": "deorsum sequi"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-23T15:27:38.693Z",
+      "updatedAt": "2024-02-06T06:01:14.285Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 30,
+    "member": 30,
+    "membership": 2,
+    "startDate": "2025-05-06",
+    "endDate": "2025-08-06",
+    "status": "cancelled",
+    "paymentStatus": "paid",
+    "autoRenew": false,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "quae voco"
+      },
+      {
+        "key": "popularity",
+        "value": "avarus vos"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-01-01T17:33:37.202Z",
+      "updatedAt": "2024-10-11T23:57:43.144Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 31,
+    "member": 31,
+    "membership": 4,
+    "startDate": "2025-05-05",
+    "endDate": "2025-08-05",
+    "status": "active",
+    "paymentStatus": "refunded",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "auditor colligo"
+      },
+      {
+        "key": "source",
+        "value": "truculenter tergeo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-07-22T14:55:58.500Z",
+      "updatedAt": "2025-05-02T15:53:25.398Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 32,
+    "member": 32,
+    "membership": 2,
+    "startDate": "2025-05-05",
+    "endDate": "2025-06-05",
+    "status": "expired",
+    "paymentStatus": "failed",
+    "autoRenew": false,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "amaritudo abduco"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-24T19:08:27.330Z",
+      "updatedAt": "2025-02-15T15:47:56.289Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 33,
+    "member": 33,
+    "membership": 4,
+    "startDate": "2025-05-05",
+    "endDate": "2025-11-05",
+    "status": "active",
+    "paymentStatus": "failed",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "fugiat aetas"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-09-30T19:15:19.837Z",
+      "updatedAt": "2024-10-30T01:55:44.997Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 34,
+    "member": 34,
+    "membership": 1,
+    "startDate": "2025-05-06",
+    "endDate": "2025-08-06",
+    "status": "expired",
+    "paymentStatus": "refunded",
+    "autoRenew": false,
+    "notes": "Ventito agnitio arbor totus tabernus natus.",
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-11-01T04:23:25.293Z",
+      "updatedAt": "2025-01-16T05:46:01.287Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 35,
+    "member": 35,
+    "membership": 1,
+    "startDate": "2025-05-06",
+    "endDate": "2026-05-06",
+    "status": "pending",
+    "paymentStatus": "refunded",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "voveo tricesimus"
+      },
+      {
+        "key": "difficulty",
+        "value": "volup demum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-17T04:35:58.512Z",
+      "updatedAt": "2025-04-01T00:55:26.569Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 36,
+    "member": 36,
+    "membership": 3,
+    "startDate": "2025-05-06",
+    "endDate": "2026-05-06",
+    "status": "expired",
+    "paymentStatus": "failed",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-10-25T06:56:36.930Z",
+      "updatedAt": "2024-11-09T07:49:38.988Z",
+      "createdBy": null,
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 37,
+    "member": 37,
+    "membership": 4,
+    "startDate": "2025-05-06",
+    "endDate": "2026-05-06",
+    "status": "pending",
+    "paymentStatus": "pending",
+    "autoRenew": false,
+    "notes": "Degenero volubilis territo vir.",
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-05-26T03:29:46.231Z",
+      "updatedAt": "2024-02-27T03:46:36.729Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 38,
+    "member": 38,
+    "membership": 2,
+    "startDate": "2025-05-06",
+    "endDate": "2026-05-06",
+    "status": "expired",
+    "paymentStatus": "paid",
+    "autoRenew": true,
+    "notes": "Annus arceo non quas territo damno denego cultura.",
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "harum adstringo"
+      },
+      {
+        "key": "department",
+        "value": "terebro depono"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-22T14:52:47.496Z",
+      "updatedAt": "2023-10-11T19:41:49.160Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 39,
+    "member": 39,
+    "membership": 1,
+    "startDate": "2025-05-06",
+    "endDate": "2026-05-06",
+    "status": "cancelled",
+    "paymentStatus": "failed",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-03-10T02:26:46.470Z",
+      "updatedAt": "2025-04-29T10:33:29.921Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 40,
+    "member": 40,
+    "membership": 1,
+    "startDate": "2025-05-06",
+    "endDate": "2025-06-06",
+    "status": "cancelled",
+    "paymentStatus": "pending",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "clam absorbeo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-07T02:29:30.194Z",
+      "updatedAt": "2023-08-30T21:40:43.730Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 41,
+    "member": 41,
+    "membership": 3,
+    "startDate": "2025-05-06",
+    "endDate": "2025-06-06",
+    "status": "pending",
+    "paymentStatus": "failed",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "tabgo ustilo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-19T11:32:11.781Z",
+      "updatedAt": "2024-06-06T08:08:20.821Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 42,
+    "member": 42,
+    "membership": 1,
+    "startDate": "2025-05-05",
+    "endDate": "2025-06-05",
+    "status": "pending",
+    "paymentStatus": "refunded",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "ante adnuo"
+      },
+      {
+        "key": "difficulty",
+        "value": "tempora alius"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-08-23T15:02:59.897Z",
+      "updatedAt": "2025-03-26T07:51:00.106Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 43,
+    "member": 43,
+    "membership": 3,
+    "startDate": "2025-05-05",
+    "endDate": "2025-08-05",
+    "status": "active",
+    "paymentStatus": "paid",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-06-19T14:31:50.712Z",
+      "updatedAt": "2024-07-22T16:36:29.751Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 44,
+    "member": 44,
+    "membership": 3,
+    "startDate": "2025-05-06",
+    "endDate": "2025-11-06",
+    "status": "expired",
+    "paymentStatus": "failed",
+    "autoRenew": false,
+    "notes": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-04-03T22:02:51.545Z",
+      "updatedAt": "2025-04-18T06:53:59.843Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 45,
+    "member": 45,
+    "membership": 1,
+    "startDate": "2025-05-06",
+    "endDate": "2025-08-06",
+    "status": "cancelled",
+    "paymentStatus": "pending",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "aequus sum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-06-21T08:55:23.630Z",
+      "updatedAt": "2023-07-21T17:32:16.697Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 46,
+    "member": 46,
+    "membership": 2,
+    "startDate": "2025-05-05",
+    "endDate": "2025-11-05",
+    "status": "cancelled",
+    "paymentStatus": "failed",
+    "autoRenew": false,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "aranea debeo"
+      },
+      {
+        "key": "difficulty",
+        "value": "est supplanto"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-11-08T04:18:16.194Z",
+      "updatedAt": "2023-12-14T00:24:07.882Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 47,
+    "member": 47,
+    "membership": 3,
+    "startDate": "2025-05-05",
+    "endDate": "2025-06-05",
+    "status": "pending",
+    "paymentStatus": "paid",
+    "autoRenew": false,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "amita avaritia"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-06T11:01:08.665Z",
+      "updatedAt": "2024-08-18T20:43:33.816Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 48,
+    "member": 48,
+    "membership": 1,
+    "startDate": "2025-05-06",
+    "endDate": "2025-11-06",
+    "status": "cancelled",
+    "paymentStatus": "refunded",
+    "autoRenew": false,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "ocer derideo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-11-09T21:28:07.301Z",
+      "updatedAt": "2025-01-26T14:06:23.058Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 49,
+    "member": 49,
+    "membership": 2,
+    "startDate": "2025-05-05",
+    "endDate": "2026-05-05",
+    "status": "expired",
+    "paymentStatus": "paid",
+    "autoRenew": true,
+    "notes": null,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "cometes ter"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-26T21:37:54.062Z",
+      "updatedAt": "2025-01-11T14:56:25.814Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 50,
+    "member": 50,
+    "membership": 1,
+    "startDate": "2025-05-05",
+    "endDate": "2025-11-05",
+    "status": "active",
+    "paymentStatus": "paid",
+    "autoRenew": true,
+    "notes": "Canonicus ad vester aegre caelum audeo turpis cupiditate aro demens.",
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-01-19T03:27:17.633Z",
+      "updatedAt": "2025-04-05T20:10:21.447Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  }
+]

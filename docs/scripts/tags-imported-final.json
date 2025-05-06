@@ -1,0 +1,38 @@
+[
+  {
+    "oldId": 1,
+    "newId": "dg66h21cpcab89vvcjiz1e06",
+    "name": "Especializado 1",
+    "response": {
+      "documentId": "dg66h21cpcab89vvcjiz1e06",
+      "name": "Especializado 1",
+      "category": "technical",
+      "description": "Adamo talis cur sumo delectatio statua.",
+      "color": "#cdea88"
+    }
+  },
+  {
+    "oldId": 2,
+    "newId": "ijf75ka8zcspvazivom9rdir",
+    "name": "Centro 2",
+    "response": {
+      "documentId": "ijf75ka8zcspvazivom9rdir",
+      "name": "Centro 2",
+      "category": "general",
+      "description": "Blanditiis commodo auditor vestigium adstringo atqui.",
+      "color": "#f8aa68"
+    }
+  },
+  {
+    "oldId": 3,
+    "newId": "p0hmoyl984jqy9r6bv0653x1",
+    "name": "Workshop 3",
+    "response": {
+      "documentId": "p0hmoyl984jqy9r6bv0653x1",
+      "name": "Workshop 3",
+      "category": "educational",
+      "description": "Adipisci cilicium auxilium audax bellum dedecor aveho careo cotidie.",
+      "color": "#3b5a71"
+    }
+  }
+]

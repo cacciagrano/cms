@@ -1,0 +1,485 @@
+[
+  {
+    "space": {
+      "id": 1,
+      "name": "Sala Colaborativa 1",
+      "description": "Deduco curatio libero ascit degenero. Viscus capitulus baiulus perspiciatis arcus volutabrum expedita dolorem acer. Pel amplitudo contigo vereor vapulus credo termes antea officia totam.\nCicuta tardus tubineus canonicus vapulus volaticus. Clibanus ademptio censura tener amplexus aduro. Catena atrocitas cursus supellex subito.",
+      "type": "meeting_room",
+      "capacity": 10,
+      "size": 114.11655120774938,
+      "floor": "Segunda Planta",
+      "building": "Torre Sur",
+      "features": {
+        "hasWifi": true,
+        "hasProjector": true,
+        "hasWhiteboard": true,
+        "hasVideoconference": false,
+        "hasAirConditioning": true,
+        "hasNaturalLight": true,
+        "hasKitchen": false,
+        "hasPrivateBathroom": false,
+        "isWheelchairAccessible": false,
+        "hasParkingNearby": true,
+        "equipment": [
+          "Máquinas CNC"
+        ],
+        "services": [
+          "Asistencia virtual",
+          "Café gratuito"
+        ]
+      },
+      "geoLocation": {
+        "latitude": 75.9142,
+        "longitude": 171.7978,
+        "address": "76478 Danny Fords",
+        "city": "Hicksville",
+        "state": "Kansas",
+        "postalCode": "94143-4794",
+        "country": "Russian Federation",
+        "formattedAddress": "7895 Paucek Place, Lynwood, Massachusetts 25397-1031"
+      },
+      "isActive": true,
+      "openingHours": {
+        "monday": {
+          "isClosed": true
+        },
+        "tuesday": {
+          "isClosed": true
+        },
+        "wednesday": {
+          "isClosed": true
+        },
+        "thursday": {
+          "isClosed": true
+        },
+        "friday": {
+          "isClosed": true
+        },
+        "saturday": {
+          "isClosed": true
+        },
+        "sunday": {
+          "isClosed": true
+        }
+      },
+      "spaceStatus": "occupied",
+      "metadata": [
+        {
+          "key": "priority",
+          "value": "contra placeat"
+        },
+        {
+          "key": "popularity",
+          "value": "corroboro vix"
+        },
+        {
+          "key": "department",
+          "value": "defessus alveus"
+        }
+      ],
+      "allowedMemberships": [
+        2,
+        4
+      ],
+      "tags": [
+        20,
+        9
+      ],
+      "deletedAt": null,
+      "statusChangedAt": "2025-03-14T03:23:21.548Z",
+      "previousStatus": "maintenance",
+      "statusHistory": [
+        {
+          "status": "reserved",
+          "changedAt": "2025-03-14T03:23:21.548Z",
+          "changedBy": "admin",
+          "reason": "Disponibilidad restaurada"
+        },
+        {
+          "status": "maintenance",
+          "changedAt": "2025-03-12T19:20:05.346Z",
+          "changedBy": "maintenance",
+          "reason": "Disponibilidad restaurada"
+        },
+        {
+          "status": "closed",
+          "changedAt": "2025-03-06T23:46:34.553Z",
+          "changedBy": "system",
+          "reason": "Finalización de mantenimiento"
+        },
+        {
+          "status": "closed",
+          "changedAt": "2024-11-26T17:21:59.151Z",
+          "changedBy": "admin",
+          "reason": "Disponibilidad restaurada"
+        },
+        {
+          "status": "closed",
+          "changedAt": "2024-09-18T00:07:34.004Z",
+          "changedBy": "scheduler",
+          "reason": "Reserva de cliente"
+        },
+        {
+          "status": "maintenance",
+          "changedAt": "2024-08-15T10:18:34.353Z",
+          "changedBy": "maintenance",
+          "reason": "Cierre temporal"
+        }
+      ],
+      "audit": {
+        "createdAt": "2025-03-26T13:57:01.266Z",
+        "updatedAt": "2025-05-05T14:12:26.805Z",
+        "createdBy": "import",
+        "updatedBy": null
+      },
+      "requiredMembershipLevel": "all",
+      "accessRestrictions": null,
+      "publishedAt": "2025-05-06T15:29:51.773Z"
+    },
+    "error": {
+      "errors": [
+        {
+          "message": "Syntax Error: Unterminated string.",
+          "locations": [
+            {
+              "line": 5,
+              "column": 213
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_PARSE_FAILED",
+            "stacktrace": [
+              "GraphQLError: Syntax Error: Unterminated string.",
+              "    at syntaxError (/home/mc/server/dashboard/cms/node_modules/graphql/error/syntaxError.js:15:10)",
+              "    at readString (/home/mc/server/dashboard/cms/node_modules/graphql/language/lexer.js:669:38)",
+              "    at readNextToken (/home/mc/server/dashboard/cms/node_modules/graphql/language/lexer.js:409:16)",
+              "    at Lexer.lookahead (/home/mc/server/dashboard/cms/node_modules/graphql/language/lexer.js:84:29)",
+              "    at Lexer.advance (/home/mc/server/dashboard/cms/node_modules/graphql/language/lexer.js:67:38)",
+              "    at Parser.advanceLexer (/home/mc/server/dashboard/cms/node_modules/graphql/language/parser.js:1545:31)",
+              "    at Parser.expectToken (/home/mc/server/dashboard/cms/node_modules/graphql/language/parser.js:1402:12)",
+              "    at Parser.parseObjectField (/home/mc/server/dashboard/cms/node_modules/graphql/language/parser.js:637:10)",
+              "    at Parser.item (/home/mc/server/dashboard/cms/node_modules/graphql/language/parser.js:619:29)",
+              "    at Parser.any (/home/mc/server/dashboard/cms/node_modules/graphql/language/parser.js:1484:26)"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "space": {
+      "id": 2,
+      "name": "Oficina Privada 1 2",
+      "description": "Quam deduco supplanto crur auditor decet autus una cohibeo derelinquo. Tego tego beatus blandior vergo tabgo ademptio. Una cenaculum adipiscor vix statua currus.\nDeprecator astrum tabula aer. Conventus pauper universe xiphias tendo delego tamisium. Mollitia taceo atqui urbs atrocitas adaugeo capto traho ipsam synagoga.",
+      "type": "office",
+      "capacity": 18,
+      "size": 95.30108131636631,
+      "floor": "Sótano",
+      "building": "Torre Sur",
+      "features": {
+        "hasWifi": true,
+        "hasProjector": false,
+        "hasWhiteboard": false,
+        "hasVideoconference": false,
+        "hasAirConditioning": true,
+        "hasNaturalLight": true,
+        "hasKitchen": false,
+        "hasPrivateBathroom": false,
+        "isWheelchairAccessible": true,
+        "hasParkingNearby": true,
+        "equipment": [
+          "Estaciones de trabajo",
+          "Ordenador",
+          "Máquinas CNC"
+        ],
+        "services": []
+      },
+      "geoLocation": {
+        "latitude": 88.927,
+        "longitude": 116.727,
+        "address": "3016 Charlotte Circles",
+        "city": "Reichertville",
+        "state": "North Dakota",
+        "postalCode": "66913",
+        "country": "United Kingdom",
+        "formattedAddress": "248 N Front Street, Lake Lillianborough, Connecticut 85466-2507"
+      },
+      "isActive": true,
+      "openingHours": {
+        "monday": {
+          "isClosed": true
+        },
+        "tuesday": {
+          "isClosed": true
+        },
+        "wednesday": {
+          "isClosed": true
+        },
+        "thursday": {
+          "isClosed": true
+        },
+        "friday": {
+          "isClosed": true
+        },
+        "saturday": {
+          "isClosed": true
+        },
+        "sunday": {
+          "isClosed": true
+        }
+      },
+      "spaceStatus": "occupied",
+      "metadata": [
+        {
+          "key": "difficulty",
+          "value": "officiis suggero"
+        },
+        {
+          "key": "priority",
+          "value": "amet denique"
+        }
+      ],
+      "allowedMemberships": [
+        4
+      ],
+      "tags": [
+        21,
+        7,
+        28,
+        13,
+        17
+      ],
+      "deletedAt": null,
+      "statusChangedAt": "2025-05-06T00:44:26.899Z",
+      "previousStatus": "closed",
+      "statusHistory": [
+        {
+          "status": "closed",
+          "changedAt": "2025-05-06T00:44:26.899Z",
+          "changedBy": "scheduler",
+          "reason": "Mantenimiento programado"
+        },
+        {
+          "status": "closed",
+          "changedAt": "2025-05-05T02:26:54.814Z",
+          "changedBy": "system",
+          "reason": "Disponibilidad restaurada"
+        },
+        {
+          "status": "occupied",
+          "changedAt": "2025-04-09T15:15:04.839Z",
+          "changedBy": "system",
+          "reason": "Reserva de cliente"
+        },
+        {
+          "status": "available",
+          "changedAt": "2025-03-06T04:49:59.645Z",
+          "changedBy": "maintenance",
+          "reason": "Mantenimiento programado"
+        },
+        {
+          "status": "closed",
+          "changedAt": "2024-10-29T17:47:49.711Z",
+          "changedBy": "maintenance",
+          "reason": "Reserva de cliente"
+        },
+        {
+          "status": "occupied",
+          "changedAt": "2024-09-07T01:51:47.199Z",
+          "changedBy": "scheduler",
+          "reason": "Cierre temporal"
+        }
+      ],
+      "audit": {
+        "createdAt": "2024-08-05T12:05:36.016Z",
+        "updatedAt": "2025-04-20T15:39:18.879Z",
+        "createdBy": "system",
+        "updatedBy": null
+      },
+      "requiredMembershipLevel": "basic",
+      "accessRestrictions": null,
+      "publishedAt": "2025-05-06T15:29:51.774Z"
+    },
+    "error": {
+      "errors": [
+        {
+          "message": "Syntax Error: Unterminated string.",
+          "locations": [
+            {
+              "line": 5,
+              "column": 188
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_PARSE_FAILED",
+            "stacktrace": [
+              "GraphQLError: Syntax Error: Unterminated string.",
+              "    at syntaxError (/home/mc/server/dashboard/cms/node_modules/graphql/error/syntaxError.js:15:10)",
+              "    at readString (/home/mc/server/dashboard/cms/node_modules/graphql/language/lexer.js:669:38)",
+              "    at readNextToken (/home/mc/server/dashboard/cms/node_modules/graphql/language/lexer.js:409:16)",
+              "    at Lexer.lookahead (/home/mc/server/dashboard/cms/node_modules/graphql/language/lexer.js:84:29)",
+              "    at Lexer.advance (/home/mc/server/dashboard/cms/node_modules/graphql/language/lexer.js:67:38)",
+              "    at Parser.advanceLexer (/home/mc/server/dashboard/cms/node_modules/graphql/language/parser.js:1545:31)",
+              "    at Parser.expectToken (/home/mc/server/dashboard/cms/node_modules/graphql/language/parser.js:1402:12)",
+              "    at Parser.parseObjectField (/home/mc/server/dashboard/cms/node_modules/graphql/language/parser.js:637:10)",
+              "    at Parser.item (/home/mc/server/dashboard/cms/node_modules/graphql/language/parser.js:619:29)",
+              "    at Parser.any (/home/mc/server/dashboard/cms/node_modules/graphql/language/parser.js:1484:26)"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "space": {
+      "id": 3,
+      "name": "Sala de Proyectos 3",
+      "description": "Qui advoco terror caries. Vulpes antiquus veniam pariatur benigne deleniti territo ater vel creber. Quasi cur creta uredo solutio decens tepidus cursus spes vulticulus.\nAllatus somniculosus amita accendo spectaculum aegrus sordeo molestiae. Socius adversus aetas correptius comedo verbum correptius. Amplitudo amoveo repellat sumptus appositus quisquam tergiversatio verus blanditiis.",
+      "type": "meeting_room",
+      "capacity": 37,
+      "size": 136.29770840210705,
+      "floor": "Primera Planta",
+      "building": "Campus Este",
+      "features": {
+        "hasWifi": true,
+        "hasProjector": true,
+        "hasWhiteboard": false,
+        "hasVideoconference": false,
+        "hasAirConditioning": true,
+        "hasNaturalLight": false,
+        "hasKitchen": false,
+        "hasPrivateBathroom": false,
+        "isWheelchairAccessible": true,
+        "hasParkingNearby": false,
+        "equipment": [
+          "Estaciones de trabajo",
+          "Sillas ergonómicas",
+          "Mesa de reuniones",
+          "Herramientas"
+        ],
+        "services": []
+      },
+      "geoLocation": {
+        "latitude": -0.4394,
+        "longitude": -176.0634,
+        "address": "383 Spring Gardens",
+        "city": "South Albin",
+        "state": "Georgia",
+        "postalCode": "74855-8380",
+        "country": "Fiji",
+        "formattedAddress": "81841 Lakin Park, Nolaland, Minnesota 69337"
+      },
+      "isActive": true,
+      "openingHours": {
+        "monday": {
+          "isClosed": true
+        },
+        "tuesday": {
+          "isClosed": true
+        },
+        "wednesday": {
+          "isClosed": true
+        },
+        "thursday": {
+          "isClosed": true
+        },
+        "friday": {
+          "isClosed": true
+        },
+        "saturday": {
+          "isClosed": true
+        },
+        "sunday": {
+          "isClosed": true
+        }
+      },
+      "spaceStatus": "occupied",
+      "metadata": [
+        {
+          "key": "priority",
+          "value": "demulceo viduo"
+        }
+      ],
+      "allowedMemberships": [
+        4
+      ],
+      "tags": [
+        7,
+        11
+      ],
+      "deletedAt": null,
+      "statusChangedAt": "2025-05-03T21:57:23.622Z",
+      "previousStatus": "maintenance",
+      "statusHistory": [
+        {
+          "status": "closed",
+          "changedAt": "2025-05-03T21:57:23.622Z",
+          "changedBy": "maintenance",
+          "reason": "Mantenimiento programado"
+        },
+        {
+          "status": "maintenance",
+          "changedAt": "2025-04-23T04:39:06.284Z",
+          "changedBy": "scheduler",
+          "reason": "Disponibilidad restaurada"
+        },
+        {
+          "status": "maintenance",
+          "changedAt": "2025-04-09T22:20:54.879Z",
+          "changedBy": "admin",
+          "reason": null
+        },
+        {
+          "status": "available",
+          "changedAt": "2025-01-03T23:42:02.489Z",
+          "changedBy": "admin",
+          "reason": "Mantenimiento programado"
+        },
+        {
+          "status": "closed",
+          "changedAt": "2024-08-28T12:39:50.655Z",
+          "changedBy": "system",
+          "reason": "Disponibilidad restaurada"
+        }
+      ],
+      "audit": {
+        "createdAt": "2024-03-18T00:39:39.956Z",
+        "updatedAt": "2024-09-27T07:58:19.745Z",
+        "createdBy": "system",
+        "updatedBy": "admin"
+      },
+      "requiredMembershipLevel": "premium",
+      "accessRestrictions": null,
+      "publishedAt": "2025-05-06T15:29:51.774Z"
+    },
+    "error": {
+      "errors": [
+        {
+          "message": "Syntax Error: Unterminated string.",
+          "locations": [
+            {
+              "line": 5,
+              "column": 195
+            }
+          ],
+          "extensions": {
+            "code": "GRAPHQL_PARSE_FAILED",
+            "stacktrace": [
+              "GraphQLError: Syntax Error: Unterminated string.",
+              "    at syntaxError (/home/mc/server/dashboard/cms/node_modules/graphql/error/syntaxError.js:15:10)",
+              "    at readString (/home/mc/server/dashboard/cms/node_modules/graphql/language/lexer.js:669:38)",
+              "    at readNextToken (/home/mc/server/dashboard/cms/node_modules/graphql/language/lexer.js:409:16)",
+              "    at Lexer.lookahead (/home/mc/server/dashboard/cms/node_modules/graphql/language/lexer.js:84:29)",
+              "    at Lexer.advance (/home/mc/server/dashboard/cms/node_modules/graphql/language/lexer.js:67:38)",
+              "    at Parser.advanceLexer (/home/mc/server/dashboard/cms/node_modules/graphql/language/parser.js:1545:31)",
+              "    at Parser.expectToken (/home/mc/server/dashboard/cms/node_modules/graphql/language/parser.js:1402:12)",
+              "    at Parser.parseObjectField (/home/mc/server/dashboard/cms/node_modules/graphql/language/parser.js:637:10)",
+              "    at Parser.item (/home/mc/server/dashboard/cms/node_modules/graphql/language/parser.js:619:29)",
+              "    at Parser.any (/home/mc/server/dashboard/cms/node_modules/graphql/language/parser.js:1484:26)"
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

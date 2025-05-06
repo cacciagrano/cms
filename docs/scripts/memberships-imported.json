@@ -1,0 +1,185 @@
+[
+  {
+    "oldId": 1,
+    "newId": "r9tnjmll8xh5xnkcxgyj28d9",
+    "name": "Básica",
+    "response": {
+      "documentId": "r9tnjmll8xh5xnkcxgyj28d9",
+      "name": "Básica",
+      "description": "Vereor demum versus. Aequus cubo aduro. Aurum anser adsidue aliquam avarus.",
+      "code": "1",
+      "price": 154,
+      "currency": "EUR",
+      "billingCycle": "monthly",
+      "durationDays": 12,
+      "isActive": true,
+      "maxMembers": 0,
+      "benefits": [
+        {
+          "id": "7",
+          "name": "Beneficio 1",
+          "description": "Odit calcar crustulum auctus tergeo cur.",
+          "category": "service",
+          "isHighlighted": true
+        },
+        {
+          "id": "8",
+          "name": "Beneficio 2",
+          "description": "Suscipio victus patruus vero sumo vehemens adfero.",
+          "category": "service",
+          "isHighlighted": true
+        },
+        {
+          "id": "9",
+          "name": "Beneficio 3",
+          "description": "Crustulum suppellex talio magnam depono ratione verbera.",
+          "category": "service",
+          "isHighlighted": false
+        },
+        {
+          "id": "10",
+          "name": "Beneficio 4",
+          "description": "Conservo ager videlicet exercitationem eum appono amaritudo.",
+          "category": "service",
+          "isHighlighted": false
+        },
+        {
+          "id": "11",
+          "name": "Beneficio 5",
+          "description": "Delectus triumphus contra textus desparatus congregatio talio iure veniam.",
+          "category": "service",
+          "isHighlighted": false
+        },
+        {
+          "id": "12",
+          "name": "Beneficio 6",
+          "description": "Tui corpus tantillus cimentarius bos.",
+          "category": "service",
+          "isHighlighted": false
+        }
+      ]
+    }
+  },
+  {
+    "oldId": 2,
+    "newId": "kiesks1e8me5hzv4lcw9ns7r",
+    "name": "Estándar",
+    "response": {
+      "documentId": "kiesks1e8me5hzv4lcw9ns7r",
+      "name": "Estándar",
+      "description": "Tubineus aperio aufero tricesimus currus spiculum. Itaque advoco sophismata alioqui crapula caries coruscus. Vulgivagus cuppedia vel soluta tero viridis subito.",
+      "code": "2",
+      "price": 493,
+      "currency": "EUR",
+      "billingCycle": "quarterly",
+      "durationDays": 1,
+      "isActive": true,
+      "maxMembers": 0,
+      "benefits": [
+        {
+          "id": "18",
+          "name": "Beneficio 1",
+          "description": "Vesper beatae tepidus delectus quasi.",
+          "category": "service",
+          "isHighlighted": true
+        },
+        {
+          "id": "19",
+          "name": "Beneficio 2",
+          "description": "Defleo thymum cursim esse benevolentia conventus colligo ceno.",
+          "category": "service",
+          "isHighlighted": true
+        },
+        {
+          "id": "20",
+          "name": "Beneficio 3",
+          "description": "Dolorem super ambulo decor creator vulgaris adstringo clamo comprehendo.",
+          "category": "service",
+          "isHighlighted": false
+        },
+        {
+          "id": "21",
+          "name": "Beneficio 4",
+          "description": "Uxor tripudio conor annus aetas eaque tubineus claro sint.",
+          "category": "service",
+          "isHighlighted": false
+        },
+        {
+          "id": "22",
+          "name": "Beneficio 5",
+          "description": "Acerbitas depromo dens civitas delinquo repellendus ater cruentus.",
+          "category": "service",
+          "isHighlighted": false
+        }
+      ]
+    }
+  },
+  {
+    "oldId": 3,
+    "newId": "nxl7n4tl71v0kh46gqy81xz3",
+    "name": "Premium",
+    "response": {
+      "documentId": "nxl7n4tl71v0kh46gqy81xz3",
+      "name": "Premium",
+      "description": "Viduo denuo comprehendo ambitus. Tantillus veritas tutamen summopere. Accedo curiositas tredecim illum.",
+      "code": "3",
+      "price": 498,
+      "currency": "EUR",
+      "billingCycle": "annual",
+      "durationDays": 6,
+      "isActive": true,
+      "maxMembers": 0,
+      "benefits": [
+        {
+          "id": "30",
+          "name": "Beneficio 1",
+          "description": "Utrimque atavus cervus tardus dignissimos bis coerceo aperiam vilitas.",
+          "category": "service",
+          "isHighlighted": true
+        },
+        {
+          "id": "31",
+          "name": "Beneficio 2",
+          "description": "Voluptatum conatus verto coaegresco amita.",
+          "category": "service",
+          "isHighlighted": true
+        },
+        {
+          "id": "32",
+          "name": "Beneficio 3",
+          "description": "Delibero desipio dedico suus ara absens.",
+          "category": "service",
+          "isHighlighted": false
+        },
+        {
+          "id": "33",
+          "name": "Beneficio 4",
+          "description": "Aspernatur brevis demulceo vivo eveniet uterque sortitus tribuo.",
+          "category": "service",
+          "isHighlighted": false
+        },
+        {
+          "id": "34",
+          "name": "Beneficio 5",
+          "description": "Volutabrum curiositas inventore commemoro.",
+          "category": "service",
+          "isHighlighted": false
+        },
+        {
+          "id": "35",
+          "name": "Beneficio 6",
+          "description": "Territo vere verumtamen textilis appositus.",
+          "category": "service",
+          "isHighlighted": false
+        },
+        {
+          "id": "36",
+          "name": "Beneficio 7",
+          "description": "Sapiente solitudo confugo adsuesco copiose capto corroboro supellex.",
+          "category": "service",
+          "isHighlighted": false
+        }
+      ]
+    }
+  }
+]

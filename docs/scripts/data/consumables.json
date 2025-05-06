@@ -1,0 +1,1186 @@
+[
+  {
+    "id": 1,
+    "name": "Fruta 1",
+    "description": "Depulso vitiosus conturbo vitae uxor calculus ait veritas combibo. Cum aer deleniti umquam. Animus explicabo avarus commodi voluptates.",
+    "type": "food",
+    "unit": "unidades",
+    "expirationDate": "2026-04-29",
+    "storageInstructions": "Vaco ulciscor sortitus decerno super vos volubilis consectetur decumbo.",
+    "assetInfo": {
+      "inventoryNumber": "INV-BIEMGSUL",
+      "acquisitionDate": "2021-10-09",
+      "acquisitionCost": 6153.735960706353,
+      "currentValue": 314.9071185952579,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-08-09",
+        "provider": "Streich, Breitenberg and Pagac"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Cattus uberrime valens appono ullam bonus. Tabernus charisma spectaculum. Expedita deficio atque audentia titulus iste desino stabilis atqui ullam.\nQuae antepono stultus caelestis supellex demens aurum conventus. Hic eum callide cultura. Bestia conspergo blandior.",
+      "safetyGuidelines": "Civitas cur cubo cauda maiores aequus. Solitudo strenuus compono cedo pecco appello aut cunctatio adeo. Totam arx labore architecto cerno."
+    },
+    "isReusable": true,
+    "supplierCode": "SUP-ASLJZG",
+    "area": 17,
+    "tags": [
+      26
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-02-12T08:50:17.058Z",
+      "updatedAt": "2025-02-28T18:40:27.499Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "consumableStatus": "out_of_stock",
+    "publishedAt": "2025-05-06T15:29:51.836Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Café 2",
+    "description": "Sit aegre caecus terra creo brevis vito. Terra verbum conscendo defendo voluptate vitium. Uberrime surgo suspendo tunc crinis averto deserunt centum acquiro.",
+    "type": "beverage",
+    "unit": "litros",
+    "expirationDate": "2026-05-25",
+    "storageInstructions": null,
+    "assetInfo": {
+      "inventoryNumber": "INV-AMU8PPHY",
+      "acquisitionDate": "2022-09-03",
+      "acquisitionCost": 153.6493139931339,
+      "currentValue": 1349.6481617830223,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-12-12",
+        "provider": "Mertz - Cronin"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Soluta venustas vulticulus abscido terreo tabgo cibo adamo dolorum. Deputo bonus appono adsidue. Vulnus iure adhaero stultus utrimque uredo contra quia sustineo creber.\nAdaugeo absum cribro valde veritatis tripudio uredo. Caries caput repellendus aveho pecto cauda canto vulgivagus. Cruentus degero acies.",
+      "safetyGuidelines": null
+    },
+    "isReusable": false,
+    "supplierCode": "SUP-RWPNJI",
+    "area": 5,
+    "tags": [
+      25
+    ],
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "aiunt bellum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-02-11T03:23:09.677Z",
+      "updatedAt": "2025-03-06T00:17:57.336Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "consumableStatus": "expired",
+    "publishedAt": "2025-05-06T15:29:51.836Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Té 3",
+    "description": "Vulnero subito laboriosam cubitum. Aspernatur apparatus verus voluntarius dolorum. Thermae aiunt summopere claustrum.",
+    "type": "beverage",
+    "unit": "unidades",
+    "expirationDate": "2027-01-20",
+    "storageInstructions": "Nulla videlicet beatae.",
+    "assetInfo": {
+      "inventoryNumber": "INV-OV6YBM2H",
+      "acquisitionDate": "2023-06-11",
+      "acquisitionCost": 5759.104258290994,
+      "currentValue": 2660.1907964580255,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2025-07-17",
+        "provider": "Ziemann, Reynolds and MacGyver"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Vox cunabula turpis deprimo caterva eaque. Tres ultio vergo administratio stabilis valde. Dens tubineus demergo video summa.\nSupplanto terga taceo peior earum sum cohors. Thema cruciamentum crastinus trado maxime degero teneo. Atrocitas adflicto amita vulgo decimus cura conservo capto substantia.",
+      "safetyGuidelines": null
+    },
+    "isReusable": false,
+    "supplierCode": "SUP-APOD4J",
+    "area": 9,
+    "tags": [
+      16,
+      9,
+      25
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "deficio cum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-06-19T20:08:34.842Z",
+      "updatedAt": "2025-01-11T12:07:10.164Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "consumableStatus": "out_of_stock",
+    "publishedAt": "2025-05-06T15:29:51.836Z",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "name": "Cinta adhesiva 4",
+    "description": "Inventore copia suasoria conqueror exercitationem aestas. Inventore cogo allatus. Aro tamdiu ademptio concido vobis vergo.",
+    "type": "other",
+    "unit": "paquetes",
+    "expirationDate": null,
+    "storageInstructions": null,
+    "assetInfo": {
+      "inventoryNumber": "INV-BEJKHW9N",
+      "acquisitionDate": "2021-10-10",
+      "acquisitionCost": 6655.949536878048,
+      "currentValue": 1471.4011972736052,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-02-16",
+        "provider": "Grady - Beer"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-06",
+      "instructions": null,
+      "safetyGuidelines": "Verumtamen arceo vulgaris tabernus supellex. Tutamen aggredior coniecto testimonium demoror. Aspicio canonicus candidus."
+    },
+    "isReusable": false,
+    "supplierCode": null,
+    "area": 1,
+    "tags": [
+      17,
+      18,
+      24
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-07-20T11:50:05.584Z",
+      "updatedAt": "2024-08-04T02:16:45.493Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "consumableStatus": "low_stock",
+    "publishedAt": "2025-05-06T15:29:51.836Z",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "name": "Barritas energéticas 5",
+    "description": "Harum tricesimus delinquo tempora celer vix adimpleo neque tenus celo. Unus abstergo vae sublime alius. Error curia claudeo candidus vinum.",
+    "type": "food",
+    "unit": "paquetes",
+    "expirationDate": "2025-12-24",
+    "storageInstructions": null,
+    "assetInfo": {
+      "inventoryNumber": "INV-OLA9YOHP",
+      "acquisitionDate": "2024-01-05",
+      "acquisitionCost": 4215.112579512078,
+      "currentValue": 1581.1298539916356,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-09-17",
+        "provider": "Christiansen - Hand"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Speculum aedificium aestus. Et decerno tristis aedificium defleo agnitio omnis voco curiositas vitiosus. Artificiose virgo clementia tandem.\nAlter clam cunctatio. Utroque vomer tero voluptatum sto vigilo curia adaugeo umquam cum. Demergo usque volo tepesco placeat.",
+      "safetyGuidelines": "Nemo usus caritas attonbitus conscendo. Approbo casus vae. Delego solium valetudo pariatur solus iusto terror."
+    },
+    "isReusable": false,
+    "supplierCode": "SUP-I4ZT7Q",
+    "area": 14,
+    "tags": [
+      15
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "tabella ager"
+      },
+      {
+        "key": "difficulty",
+        "value": "celer vel"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-26T14:03:40.116Z",
+      "updatedAt": "2025-05-05T20:55:59.424Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "consumableStatus": "out_of_stock",
+    "publishedAt": "2025-05-06T15:29:51.836Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Refrescos 6",
+    "description": "Quaerat tumultus somniculosus adsidue. Quasi trado arguo validus concedo cur textus. Cenaculum considero compello defluo uxor cunctatio.",
+    "type": "beverage",
+    "unit": "botellas",
+    "expirationDate": "2026-11-26",
+    "storageInstructions": null,
+    "assetInfo": {
+      "inventoryNumber": "INV-JOZ1LGW0",
+      "acquisitionDate": "2024-06-14",
+      "acquisitionCost": 8965.703081929418,
+      "currentValue": 3054.075048974459,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-03-25",
+        "provider": "Legros Inc"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Vox canonicus vito ratione totidem reiciendis aliquid curtus. Tergo valde patruus abduco articulus uxor cinis. Alter solitudo antiquus nisi arbor velociter tenuis sto addo id.\nAllatus cito absum vilis laborum vinum contabesco. Succurro totam candidus vulpes animadverto vicissitudo derideo tepidus. Altus villa cupio despecto.",
+      "safetyGuidelines": "Conventus minus sequi validus. Aperio sodalitas vilicus absconditus sed tabernus. Reiciendis degusto reiciendis cuppedia cogito tametsi curiositas arbitro vereor impedit."
+    },
+    "isReusable": false,
+    "supplierCode": "SUP-SOLC9N",
+    "area": 14,
+    "tags": [
+      17
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-06-26T13:15:23.490Z",
+      "updatedAt": "2024-12-15T03:11:52.269Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "consumableStatus": "expired",
+    "publishedAt": "2025-05-06T15:29:51.838Z",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "name": "Metal 7",
+    "description": "Alienus statua utrimque volaticus. Arbitro quidem commodo pel. Adeptio adeptio cado delectatio civitas.",
+    "type": "material",
+    "unit": "rollos",
+    "expirationDate": null,
+    "storageInstructions": null,
+    "assetInfo": {
+      "inventoryNumber": "INV-HFICHBHZ",
+      "acquisitionDate": "2023-12-31",
+      "acquisitionCost": 1779.9096195144589,
+      "currentValue": 2760.939990604041,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-02-16",
+        "provider": "Schultz, Bernier and Howell"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Arbor numquam campana defluo nesciunt spes velum peior spes. Deripio colo tondeo deorsum tutis laudantium verto deinde curto nobis. Tripudio sophismata accommodo.\nAperio animi agnitio termes arma. Artificiose cunctatio adicio ulterius arguo. Cerno utroque conatus studio cerno spiculum tepidus cotidie.",
+      "safetyGuidelines": "Vita cumque curriculum. Demens vomito trucido. Adicio amissio villa volo caries totam aer."
+    },
+    "isReusable": false,
+    "supplierCode": "SUP-FZZRSD",
+    "area": 15,
+    "tags": [
+      18,
+      22,
+      6
+    ],
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "cedo vulgaris"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-05-25T16:46:20.003Z",
+      "updatedAt": "2024-07-28T14:19:43.161Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "consumableStatus": "out_of_stock",
+    "publishedAt": "2025-05-06T15:29:51.838Z",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "name": "Bombillas 8",
+    "description": "Carpo cuppedia verus nesciunt desipio nulla. Harum decet cibo suadeo arbustum succedo vulpes textilis. Charisma delicate sollers voluptatem ait.",
+    "type": "other",
+    "unit": "paquetes",
+    "expirationDate": null,
+    "storageInstructions": "Dolorum tenetur amor sum atavus perspiciatis incidunt acies.",
+    "assetInfo": {
+      "inventoryNumber": "INV-1FSVCOBX",
+      "acquisitionDate": "2021-10-01",
+      "acquisitionCost": 3956.3192200426606,
+      "currentValue": 315.21239057299294,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-01-19",
+        "provider": "Schamberger, Windler and Welch"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Tergiversatio tripudio cursim vix tamen officia. Astrum terreo tactus antepono tabernus. Agnitio consectetur balbus coadunatio blanditiis asper sonitus curia vespillo statim.\nAngulus asperiores volo cui subiungo adicio. Appello pauper decretum vir enim aspicio admoveo aer veniam adulatio. Arceo perspiciatis quidem cimentarius provident totidem amplitudo amor adinventitias.",
+      "safetyGuidelines": null
+    },
+    "isReusable": false,
+    "supplierCode": null,
+    "area": 9,
+    "tags": [
+      25,
+      8,
+      14
+    ],
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "capio caute"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-09T10:24:35.235Z",
+      "updatedAt": "2025-01-20T13:10:03.432Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "consumableStatus": "available",
+    "publishedAt": "2025-05-06T15:29:51.838Z",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "name": "Refrescos 9",
+    "description": "Adimpleo delectatio colo sperno. Tres coerceo administratio uredo somnus expedita volo ulciscor veritas dignissimos. Tenax hic doloremque.",
+    "type": "beverage",
+    "unit": "botellas",
+    "expirationDate": "2025-05-22",
+    "storageInstructions": null,
+    "assetInfo": {
+      "inventoryNumber": "INV-PEVBUMNT",
+      "acquisitionDate": "2023-10-24",
+      "acquisitionCost": 4740.149187768308,
+      "currentValue": 7709.050393826457,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-07-26",
+        "provider": "Quitzon, Shields and Kirlin"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Validus caput demonstro theca terebro. Tandem triduana victoria suspendo. Brevis spiritus coerceo trans tubineus absque textilis voveo neque ver.\nSubvenio paens abundans suspendo atqui beatae utpote tumultus. Baiulus trado comburo dicta. Coerceo cornu coadunatio demo truculenter tristis.",
+      "safetyGuidelines": "Curtus demonstro paulatim quis angulus sortitus carcer. Trucido amplitudo conscendo consuasor patrocinor beatus cedo caelum virtus. Depulso titulus adfero dens pel creber vomer admoveo altus adstringo."
+    },
+    "isReusable": false,
+    "supplierCode": null,
+    "area": 18,
+    "tags": [
+      29,
+      19,
+      24
+    ],
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "complectus vallum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-24T01:18:55.561Z",
+      "updatedAt": "2025-05-01T09:16:44.104Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "consumableStatus": "available",
+    "publishedAt": "2025-05-06T15:29:51.838Z",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "name": "Chocolatinas 10",
+    "description": "Nisi bis aqua audacia. Recusandae cunctatio stella voluptatum summa anser nobis ratione videlicet caries. Terebro alter curso laborum.",
+    "type": "food",
+    "unit": "botellas",
+    "expirationDate": "2025-07-11",
+    "storageInstructions": "Ait adipiscor reiciendis veritas somniculosus amplexus canonicus ancilla.",
+    "assetInfo": {
+      "inventoryNumber": "INV-VKL9NQP7",
+      "acquisitionDate": "2020-05-20",
+      "acquisitionCost": 8761.538468720584,
+      "currentValue": 7843.1405574267765,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-07-01",
+        "provider": "Aufderhar LLC"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Canto cilicium certus tredecim vinum ullam peccatus cui. Tener et ulciscor articulus animi cogo. Bis adfero sponte volo abeo versus adeo commodi.\nIure quae volutabrum coma thema tamquam adaugeo coadunatio quia. Possimus tollo viridis venio. Vilis dignissimos patior creator amaritudo ipsam amiculum solitudo harum adiuvo.",
+      "safetyGuidelines": null
+    },
+    "isReusable": false,
+    "supplierCode": "SUP-ZANFTX",
+    "area": 20,
+    "tags": [
+      28,
+      13
+    ],
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "appositus spero"
+      },
+      {
+        "key": "source",
+        "value": "depereo deprecator"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-25T01:38:49.435Z",
+      "updatedAt": "2024-05-19T12:28:04.813Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "consumableStatus": "low_stock",
+    "publishedAt": "2025-05-06T15:29:51.838Z",
+    "deletedAt": null
+  },
+  {
+    "id": 11,
+    "name": "Cinta adhesiva 11",
+    "description": "Adicio quaerat inflammatio cedo. Cognomen ceno reiciendis conturbo vinum summa causa volubilis deorsum. Ambulo valeo tumultus ventus antea absconditus antiquus sursum sulum.",
+    "type": "other",
+    "unit": "cajas",
+    "expirationDate": null,
+    "storageInstructions": null,
+    "assetInfo": {
+      "inventoryNumber": "INV-9FFOK1RQ",
+      "acquisitionDate": "2024-11-02",
+      "acquisitionCost": 9519.285390730402,
+      "currentValue": 1249.6179010904352,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-02-18",
+        "provider": "Oberbrunner - Muller"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Vigor sordeo amicitia vestrum ocer. Supellex agnosco crepusculum pecto conqueror cado solitudo defleo curvo commodi. Astrum cunabula audentia theologus adiuvo sonitus crepusculum provident attero.\nPaens adfectus arcus. Aro subvenio timor dolorum. Vix currus coma cattus somniculosus concedo vado.",
+      "safetyGuidelines": "Acervus complectus beatae. Denuo ademptio aufero minima tot error caritas. Sursum currus vetus cauda dolorum aperiam molestiae administratio cui."
+    },
+    "isReusable": true,
+    "supplierCode": null,
+    "area": 1,
+    "tags": [
+      13,
+      24
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-03-15T05:05:40.586Z",
+      "updatedAt": "2025-04-21T12:26:04.832Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "consumableStatus": "discontinued",
+    "publishedAt": "2025-05-06T15:29:51.840Z",
+    "deletedAt": null
+  },
+  {
+    "id": 12,
+    "name": "Barritas energéticas 12",
+    "description": "Nobis subseco patrocinor quas acerbitas. Depraedor truculenter audeo decerno dolorum repellendus. Vilis dens fugit caute testimonium vobis consequuntur.",
+    "type": "food",
+    "unit": "litros",
+    "expirationDate": "2026-06-06",
+    "storageInstructions": null,
+    "assetInfo": {
+      "inventoryNumber": "INV-OUIGSICW",
+      "acquisitionDate": "2022-06-21",
+      "acquisitionCost": 3864.4643230085135,
+      "currentValue": 5097.388382910458,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2025-06-15",
+        "provider": "Friesen Inc"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Illo valetudo curtus absum. Eum vesica degusto. Valens tres comes solum utilis.\nCelebrer theatrum thesis ventito fugit tergum. Advenio desino demitto cotidie cernuus. Coepi similique temporibus tabella admoneo tener corrumpo arbitro vita.",
+      "safetyGuidelines": "Uterque tremo benigne suffoco torqueo absorbeo tutis terror decor. Vere suscipio autem deprimo tunc. Nulla velum arbitro tutis harum vivo studio ciminatio adfero neque."
+    },
+    "isReusable": false,
+    "supplierCode": null,
+    "area": 9,
+    "tags": [
+      14
+    ],
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "sufficio cicuta"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-10T11:49:16.875Z",
+      "updatedAt": "2025-05-06T08:00:09.520Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "consumableStatus": "out_of_stock",
+    "publishedAt": "2025-05-06T15:29:51.840Z",
+    "deletedAt": null
+  },
+  {
+    "id": 13,
+    "name": "Bolígrafos 13",
+    "description": "Arx ante adulatio decipio adipisci curto adsuesco absum. Tactus acquiro capto omnis curvo atque conforto cauda solutio. Aperte sortitus appello adamo urbanus delego cotidie.",
+    "type": "office_supply",
+    "unit": "cajas",
+    "expirationDate": null,
+    "storageInstructions": null,
+    "assetInfo": {
+      "inventoryNumber": "INV-9FZFNCM7",
+      "acquisitionDate": "2022-12-26",
+      "acquisitionCost": 4942.499375568047,
+      "currentValue": 3198.183183723054,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-08-10",
+        "provider": "Mohr, Spencer and Shields"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-06",
+      "instructions": null,
+      "safetyGuidelines": "Claudeo solio thalassinus reiciendis avaritia esse altus summisse degusto. Aegre vinculum audax deduco tum coerceo. Cibo cursus urbanus solium contigo tolero nulla vado inflammatio tyrannus."
+    },
+    "isReusable": false,
+    "supplierCode": null,
+    "area": 1,
+    "tags": [
+      27
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-09-10T19:05:40.615Z",
+      "updatedAt": "2025-01-11T16:56:46.131Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "consumableStatus": "out_of_stock",
+    "publishedAt": "2025-05-06T15:29:51.840Z",
+    "deletedAt": null
+  },
+  {
+    "id": 14,
+    "name": "Bombillas 14",
+    "description": "Apostolus aperte aureus tubineus. Cerno ustilo autem. Utrimque delicate mollitia acerbitas decor dignissimos.",
+    "type": "other",
+    "unit": "unidades",
+    "expirationDate": null,
+    "storageInstructions": "Apto cognatus casso.",
+    "assetInfo": {
+      "inventoryNumber": "INV-DYEELPTG",
+      "acquisitionDate": "2021-03-27",
+      "acquisitionCost": 9831.390060132333,
+      "currentValue": 1785.6385987596113,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-12-23",
+        "provider": "Mraz LLC"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Corroboro valde tener assumenda apparatus denego angustus clibanus alienus tutis. Aequus quod carbo dicta avaritia veniam solvo sortitus sustineo autem. Chirographum appono sollicito nobis thesaurus censura pel administratio.\nDelectus volo curvo caterva vinculum sublime. Delicate tum quas adnuo nostrum cumque altus aegrotatio aliquid. Sumo defessus compello vitiosus pecco.",
+      "safetyGuidelines": "Viscus maiores aptus cogo certus tergum denuncio. Pecto virga advoco clarus amiculum crur venia copia amplexus usus. Vulariter decumbo creta."
+    },
+    "isReusable": true,
+    "supplierCode": "SUP-YNEOQG",
+    "area": 10,
+    "tags": [
+      5,
+      27,
+      8
+    ],
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "cribro quos"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-10-22T19:44:04.010Z",
+      "updatedAt": "2024-11-15T16:37:21.546Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "consumableStatus": "discontinued",
+    "publishedAt": "2025-05-06T15:29:51.840Z",
+    "deletedAt": null
+  },
+  {
+    "id": 15,
+    "name": "Barritas energéticas 15",
+    "description": "Est laudantium timidus atavus cras sulum. Desparatus voveo amitto dolorum adstringo conduco creptio corrumpo. Voluptatem ait amplus.",
+    "type": "food",
+    "unit": "botellas",
+    "expirationDate": "2025-05-18",
+    "storageInstructions": null,
+    "assetInfo": {
+      "inventoryNumber": "INV-OEUUOCZY",
+      "acquisitionDate": "2024-05-05",
+      "acquisitionCost": 6830.852042834369,
+      "currentValue": 5625.292924194435,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-01-03",
+        "provider": "Jerde and Sons"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Comis demulceo texo cognomen dolores comitatus tepidus. Angustus aveho celer dens altus cura talis. Vigor solutio odio laboriosam aliquid administratio cohors titulus admoneo.\nCalamitas cohors clibanus cetera conitor colo tabesco. Demonstro casus catena basium necessitatibus thesaurus. Velut denique adnuo anser sonitus acceptus caelum sed.",
+      "safetyGuidelines": "Utor pauper tricesimus stabilis hic. Adeptio vita acervus placeat comburo suffragium. Credo statua caelestis terminatio adiuvo libero stillicidium culpa terror."
+    },
+    "isReusable": true,
+    "supplierCode": "SUP-8UBHMJ",
+    "area": 8,
+    "tags": [
+      1,
+      10
+    ],
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "pecto repudiandae"
+      },
+      {
+        "key": "department",
+        "value": "spoliatio aestus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-01-23T08:26:01.113Z",
+      "updatedAt": "2024-06-10T18:00:32.030Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "consumableStatus": "expired",
+    "publishedAt": "2025-05-06T15:29:51.840Z",
+    "deletedAt": null
+  },
+  {
+    "id": 16,
+    "name": "Té 16",
+    "description": "Conventus uredo deficio curto toties alter xiphias vir desolo. Cuius caelum summopere votum adnuo ventosus adduco delicate conturbo denuncio. Tam capio vereor cenaculum canto eveniet aestas labore avaritia appello.",
+    "type": "beverage",
+    "unit": "botellas",
+    "expirationDate": "2026-08-28",
+    "storageInstructions": null,
+    "assetInfo": {
+      "inventoryNumber": "INV-OXFUE8DX",
+      "acquisitionDate": "2025-04-23",
+      "acquisitionCost": 2523.9098650810315,
+      "currentValue": 343.8443368024022,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-07-28",
+        "provider": "Hahn, Sauer and Shanahan"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Sollicito adinventitias tumultus amita ullus. Quis carcer depromo admitto repellat. Est vere odit utique credo tenus tutis vix."
+    },
+    "isReusable": true,
+    "supplierCode": "SUP-FKIVW4",
+    "area": 15,
+    "tags": [
+      11,
+      23,
+      24
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-07-18T15:27:11.245Z",
+      "updatedAt": "2024-08-22T14:31:49.815Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "consumableStatus": "available",
+    "publishedAt": "2025-05-06T15:29:51.840Z",
+    "deletedAt": null
+  },
+  {
+    "id": 17,
+    "name": "Bombillas 17",
+    "description": "Impedit pectus addo ascisco considero conitor. Statua vester congregatio demum crepusculum coniuratio. Similique blanditiis velociter vesica concedo arma.",
+    "type": "other",
+    "unit": "cajas",
+    "expirationDate": null,
+    "storageInstructions": null,
+    "assetInfo": {
+      "inventoryNumber": "INV-F6A1NOMK",
+      "acquisitionDate": "2023-04-29",
+      "acquisitionCost": 5949.428058619159,
+      "currentValue": 2651.3977922227464,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-08-20",
+        "provider": "Beahan, Ferry and Kuvalis"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Adaugeo basium aureus. Villa tantum tamen summisse calcar veritatis bonus sapiente vallum. Stabilis ager cresco cedo aspernatur denuo defetiscor animi derelinquo.\nConfugo appono necessitatibus caelestis vesper ipsa tantum doloremque. Tametsi cohors calamitas bestia aedificium adhuc accusamus appono. Speculum tui versus maiores cenaculum sto.",
+      "safetyGuidelines": "Somniculosus centum defaeco voveo. Absconditus auxilium fugit subito abscido consequuntur arx curis. Acervus tremo illum sint exercitationem utrum."
+    },
+    "isReusable": false,
+    "supplierCode": null,
+    "area": 9,
+    "tags": [
+      14,
+      25
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-04-10T08:21:36.801Z",
+      "updatedAt": "2025-05-02T17:57:27.936Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "consumableStatus": "out_of_stock",
+    "publishedAt": "2025-05-06T15:29:51.842Z",
+    "deletedAt": null
+  },
+  {
+    "id": 18,
+    "name": "Acrílico 18",
+    "description": "Facere valde velum alioqui sui quibusdam arguo beatae. Quidem viscus acidus totus sum suasoria vilitas comprehendo accusator vitium. Aranea turpis ars bos attollo vigilo volaticus allatus claro.",
+    "type": "material",
+    "unit": "metros",
+    "expirationDate": null,
+    "storageInstructions": "Distinctio totidem natus tutis ver trepide.",
+    "assetInfo": {
+      "inventoryNumber": "INV-ZPMGNH4K",
+      "acquisitionDate": "2020-11-25",
+      "acquisitionCost": 4560.723439760653,
+      "currentValue": 685.0699309086556,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-12-18",
+        "provider": "Greenfelder Group"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Deduco terminatio textus copia supplanto vigor conscendo bellicus. Tres quae consequuntur vulnero. Abeo statim vero talus stultus asporto pecus repudiandae velociter animadverto.\nDecretum adsum reprehenderit bardus alias caveo iusto torrens coniuratio. Vomer synagoga tondeo thesaurus illo talus bos desolo. Caute aufero depromo commodo coaegresco cunctatio.",
+      "safetyGuidelines": null
+    },
+    "isReusable": false,
+    "supplierCode": "SUP-GPFYO0",
+    "area": 4,
+    "tags": [
+      7,
+      3,
+      24
+    ],
+    "metadata": [
+      {
+        "key": "department",
+        "value": "tego angulus"
+      },
+      {
+        "key": "popularity",
+        "value": "repellendus vero"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-28T07:15:28.802Z",
+      "updatedAt": "2025-04-28T22:03:03.404Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "consumableStatus": "expired",
+    "publishedAt": "2025-05-06T15:29:51.846Z",
+    "deletedAt": null
+  },
+  {
+    "id": 19,
+    "name": "Baterías 19",
+    "description": "Creo casus carus angulus tutis textor coepi ut teres. Cur deprimo turba. Vix tametsi suasoria pel vulgivagus vivo amaritudo deprecator.",
+    "type": "other",
+    "unit": "cajas",
+    "expirationDate": null,
+    "storageInstructions": null,
+    "assetInfo": {
+      "inventoryNumber": "INV-QRVEG2WF",
+      "acquisitionDate": "2021-05-09",
+      "acquisitionCost": 801.2131109854965,
+      "currentValue": 1931.4143739843582,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-03-20",
+        "provider": "Schiller Inc"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Ventosus magnam temeritas verumtamen. Utrimque nostrum subnecto cresco demens una attollo tabernus voluptatum. Talio adfectus vero trado audeo ascit capto stultus aetas.\nCoaegresco adstringo deficio cunabula unus absorbeo pecus beatae. Amoveo tamquam villa aestas vergo harum defaeco appello aliquam tamisium. Torqueo accendo aro voco tristis rem cariosus delinquo cresco.",
+      "safetyGuidelines": "Surgo aestus voluntarius libero repellendus demoror animus. Ipsa caste soluta verumtamen amplitudo utrimque usque contra labore validus. Deporto conor patior quibusdam vomica est trans stultus."
+    },
+    "isReusable": true,
+    "supplierCode": null,
+    "area": 11,
+    "tags": [
+      30
+    ],
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "corrupti despecto"
+      },
+      {
+        "key": "difficulty",
+        "value": "ustulo et"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-09-30T10:15:19.902Z",
+      "updatedAt": "2024-11-18T20:02:12.463Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "consumableStatus": "available",
+    "publishedAt": "2025-05-06T15:29:51.846Z",
+    "deletedAt": null
+  },
+  {
+    "id": 20,
+    "name": "Agua 20",
+    "description": "Et absum benevolentia turpis textilis stipes curiositas ulciscor nihil. Ceno conitor vulpes acerbitas comparo deprecator distinctio commodo capto. Tendo somniculosus usque campana deinde texo tracto cursim amor.",
+    "type": "beverage",
+    "unit": "kg",
+    "expirationDate": "2026-11-10",
+    "storageInstructions": null,
+    "assetInfo": {
+      "inventoryNumber": "INV-LJ5APHOC",
+      "acquisitionDate": "2024-02-05",
+      "acquisitionCost": 9139.813921609642,
+      "currentValue": 1843.7629368402997,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-11-15",
+        "provider": "Murazik, Emmerich and Rolfson"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Sperno toties taceo agnosco deficio. Ultra aduro perspiciatis optio vesica delibero. Urbs sed stipes inventore aedificium arbor adipiscor carmen sequi non."
+    },
+    "isReusable": false,
+    "supplierCode": null,
+    "area": 13,
+    "tags": [
+      27,
+      9
+    ],
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "temeritas cedo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-10-15T20:13:10.632Z",
+      "updatedAt": "2025-03-30T16:18:01.746Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "consumableStatus": "out_of_stock",
+    "publishedAt": "2025-05-06T15:29:51.846Z",
+    "deletedAt": null
+  },
+  {
+    "id": 21,
+    "name": "Café 21",
+    "description": "Virga bonus strues comminor vitae claudeo amplitudo suspendo conventus. Denuo a abstergo cibus confugo conforto cilicium cur minus vere. Usque acervus atavus modi voluptates nam deporto degenero commemoro beatus.",
+    "type": "beverage",
+    "unit": "kg",
+    "expirationDate": "2025-09-23",
+    "storageInstructions": "Cupio appono atqui debeo cum argentum.",
+    "assetInfo": {
+      "inventoryNumber": "INV-YZ7VTZPA",
+      "acquisitionDate": "2024-07-04",
+      "acquisitionCost": 7375.523013460033,
+      "currentValue": 4931.550557631971,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-08-24",
+        "provider": "Goodwin - Howe"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Corona vulnus cognomen crinis aufero adfero nisi consuasor. Casus ustilo video. Cribro ventito sum auctus creator doloribus summopere sui vere."
+    },
+    "isReusable": true,
+    "supplierCode": "SUP-56KDZY",
+    "area": 5,
+    "tags": [
+      22,
+      16
+    ],
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "vitium triduana"
+      },
+      {
+        "key": "priority",
+        "value": "eum facilis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-01T10:45:19.459Z",
+      "updatedAt": "2024-03-20T14:13:42.007Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "consumableStatus": "available",
+    "publishedAt": "2025-05-06T15:29:51.846Z",
+    "deletedAt": null
+  },
+  {
+    "id": 22,
+    "name": "Pegamento 22",
+    "description": "Placeat spoliatio vicinus. Quas verbum tardus demitto calco adopto atrox. Adeptio conduco curriculum cena.",
+    "type": "chemical",
+    "unit": "ml",
+    "expirationDate": "2025-08-01",
+    "storageInstructions": null,
+    "assetInfo": {
+      "inventoryNumber": "INV-BT2Q5POW",
+      "acquisitionDate": "2024-06-23",
+      "acquisitionCost": 3320.8235094186857,
+      "currentValue": 1497.8632491309652,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-12-29",
+        "provider": "Larson - Greenholt"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": null,
+      "safetyGuidelines": "Ultio textilis coma delicate. Patria decens turbo caste carpo carbo volubilis creator. Cado arbustum tristis repellendus conforto urbs vomito adipiscor baiulus decipio."
+    },
+    "isReusable": false,
+    "supplierCode": "SUP-G7G4KP",
+    "area": 4,
+    "tags": [
+      6,
+      19,
+      21
+    ],
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "delinquo truculenter"
+      },
+      {
+        "key": "priority",
+        "value": "vivo custodia"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-11-30T04:19:27.646Z",
+      "updatedAt": "2025-03-24T22:02:05.105Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "consumableStatus": "out_of_stock",
+    "publishedAt": "2025-05-06T15:29:51.848Z",
+    "deletedAt": null
+  },
+  {
+    "id": 23,
+    "name": "Jabón 23",
+    "description": "Creo arto similique carmen abundans. Adipisci impedit inventore infit sunt succurro utilis. Ustilo super harum thermae capitulus damno abstergo.",
+    "type": "cleaning",
+    "unit": "unidades",
+    "expirationDate": null,
+    "storageInstructions": "Vulariter vitium audacia calco deprecator verbum ascisco.",
+    "assetInfo": {
+      "inventoryNumber": "INV-294CFEHW",
+      "acquisitionDate": "2023-01-02",
+      "acquisitionCost": 9577.101249525447,
+      "currentValue": 1721.1749578619153,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-01-04",
+        "provider": "Roob - Kuhn"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": null
+    },
+    "isReusable": false,
+    "supplierCode": null,
+    "area": 2,
+    "tags": [
+      9
+    ],
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "alias cognatus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-14T07:15:12.240Z",
+      "updatedAt": "2025-04-26T09:48:39.547Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "consumableStatus": "discontinued",
+    "publishedAt": "2025-05-06T15:29:51.848Z",
+    "deletedAt": null
+  },
+  {
+    "id": 24,
+    "name": "Barritas energéticas 24",
+    "description": "Utor clarus antepono aestivus optio id validus voveo. Tot xiphias sophismata. Sed vero coniecto.",
+    "type": "food",
+    "unit": "botellas",
+    "expirationDate": "2026-06-02",
+    "storageInstructions": "Credo vel canis sufficio vulnus solus.",
+    "assetInfo": {
+      "inventoryNumber": "INV-OETJPBFB",
+      "acquisitionDate": "2022-12-17",
+      "acquisitionCost": 9090.17568973987,
+      "currentValue": 4985.058919836947,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2025-08-03",
+        "provider": "Feil, Heller and Mayert"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Uxor eos rerum crastinus vorax apto vinculum absque. Tabgo officia confero. Defero spes calculus eius volutabrum.\nVoco pecco charisma tondeo cito nam aestas. Arto cribro curtus villa sed arbitro. Carmen coaegresco aequitas nam templum tandem taedium voluptate cui.",
+      "safetyGuidelines": null
+    },
+    "isReusable": false,
+    "supplierCode": null,
+    "area": 3,
+    "tags": [
+      19
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-06-28T19:28:37.834Z",
+      "updatedAt": "2024-10-06T22:59:15.316Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "consumableStatus": "discontinued",
+    "publishedAt": "2025-05-06T15:29:51.848Z",
+    "deletedAt": null
+  },
+  {
+    "id": 25,
+    "name": "Toallitas 25",
+    "description": "Viriliter cohors casso coruscus bibo corpus thermae adinventitias centum thermae. Ter bene voluptatibus suppono vapulus fugit tabgo subiungo. Suspendo caelum in vesco stabilis creptio.",
+    "type": "cleaning",
+    "unit": "unidades",
+    "expirationDate": null,
+    "storageInstructions": null,
+    "assetInfo": {
+      "inventoryNumber": "INV-KYJ3LZV1",
+      "acquisitionDate": "2023-07-25",
+      "acquisitionCost": 5275.925496147477,
+      "currentValue": 1277.5813756714226,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2025-09-06",
+        "provider": "Harber - Wyman"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Calamitas commodo nesciunt aer asperiores cerno deleo considero. Terebro cogito adimpleo volubilis calamitas centum repellendus cinis. Absque acerbitas cedo cilicium.\nAbscido attero patruus. Vix eos tepesco vilicus caute aperte catena. Ulterius accedo centum tardus voluntarius quod voluptas.",
+      "safetyGuidelines": "Assumenda abscido cogo et porro agnosco comitatus tabernus. Amplexus demulceo ascit torrens cruentus aperte termes vulgaris claudeo timor. Casus vociferor tergo demum cado."
+    },
+    "isReusable": false,
+    "supplierCode": null,
+    "area": 6,
+    "tags": [
+      29,
+      27,
+      1
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-09-30T08:37:26.578Z",
+      "updatedAt": "2025-05-01T05:42:37.940Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "consumableStatus": "out_of_stock",
+    "publishedAt": "2025-05-06T15:29:51.849Z",
+    "deletedAt": null
+  }
+]

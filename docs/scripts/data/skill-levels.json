@@ -1,0 +1,4943 @@
+[
+  {
+    "id": 1,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "trending_up",
+    "color": "#3e1baa",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Avaritia comburo curvo. Suffragium defessus a socius clamo ipsa carpo sapiente derelinquo laboriosam. Uter absconditus hic possimus arcesso textilis veritatis temptatio avaritia.",
+    "skill": 1,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "sono aufero"
+      },
+      {
+        "key": "relevance",
+        "value": "creber delego"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-02T20:10:22.316Z",
+      "updatedAt": "2025-03-10T00:59:08.645Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.659Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "grade",
+    "color": "#5dfcad",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Vir vulpes statua dedecor spectaculum cunabula vesper. Cogo torqueo sumo curso velum concedo corpus. Depopulo vaco nobis umbra.",
+    "skill": 1,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "cerno carbo"
+      },
+      {
+        "key": "source",
+        "value": "creptio caute"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-01-01T18:08:01.960Z",
+      "updatedAt": "2025-02-24T03:47:41.573Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.665Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "emoji_events",
+    "color": "#7537fd",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Tenax deporto coerceo. Ocer pariatur defaeco quam amicitia caterva. Crudelis carmen debilito cogito nisi.",
+    "skill": 1,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "vilicus vallum"
+      },
+      {
+        "key": "relevance",
+        "value": "delibero advenio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-04T20:04:22.510Z",
+      "updatedAt": "2024-10-06T10:50:40.875Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "emoji_events",
+    "color": "#9729f9",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Deorsum commodo rem theca cerno crudelis asper tempus comburo altus. Agnosco thymum cavus utpote aduro possimus. Est approbo curia ventus vita atrocitas adfero traho debitis alveus.",
+    "skill": 1,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "turba carpo"
+      },
+      {
+        "key": "difficulty",
+        "value": "cruentus bene"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-11T16:33:50.462Z",
+      "updatedAt": "2025-04-16T20:47:18.431Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "star",
+    "color": "#d46ccd",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Appositus suasoria taceo necessitatibus. Similique vicinus debitis confugo barba universe statua aspicio adsidue. Concedo suadeo delibero valeo thema.",
+    "skill": 1,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-06-24T11:49:49.036Z",
+      "updatedAt": "2025-03-20T05:22:50.142Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "trending_up",
+    "color": "#1b9d0e",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Versus somnus sordeo. Tandem modi crastinus voveo alveus cito venia vicinus neque. Statua ceno capio comedo turpis careo varius.",
+    "skill": 2,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "cernuus cometes"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-31T01:24:32.227Z",
+      "updatedAt": "2025-04-09T00:12:48.569Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "emoji_events",
+    "color": "#4c79ee",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Abscido amaritudo stella vulpes assentator trucido harum amaritudo aestivus. Conservo vesica caelum benevolentia stultus. Crinis vacuus deinde.",
+    "skill": 2,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-12-15T03:24:02.661Z",
+      "updatedAt": "2025-02-16T02:23:11.380Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "stars",
+    "color": "#6ec9c5",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Maiores officia calamitas et cras cena adsidue admoveo. Occaecati reiciendis cubo sordeo auctus vindico. Vulgo autem appello vaco.",
+    "skill": 2,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "talio thorax"
+      },
+      {
+        "key": "popularity",
+        "value": "administratio aveho"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-10T06:34:28.964Z",
+      "updatedAt": "2024-08-06T13:33:02.340Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "emoji_events",
+    "color": "#cdedaf",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Conventus claustrum ancilla adinventitias tenus thymum pax auditor demulceo. Contabesco conforto quasi utpote tolero aperiam tantum. Aetas aspicio baiulus arbustum.",
+    "skill": 2,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "arbitro vobis"
+      },
+      {
+        "key": "difficulty",
+        "value": "suasoria consequuntur"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-05-10T02:42:36.287Z",
+      "updatedAt": "2024-07-20T11:23:28.123Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "emoji_events",
+    "color": "#8166b0",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Accusamus defungo advenio hic vindico. Utpote arceo adeptio mollitia auctus ascit eos. Defendo spero ultio.",
+    "skill": 2,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "solus calcar"
+      },
+      {
+        "key": "difficulty",
+        "value": "vesco admoveo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-06-19T21:01:04.594Z",
+      "updatedAt": "2025-01-23T06:54:42.062Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 11,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "grade",
+    "color": "#cbcefa",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Esse temperantia cultellus. Antea talio crepusculum. Ver pauper audio consectetur video consequatur verto vestrum arx arx.",
+    "skill": 3,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "cohors substantia"
+      },
+      {
+        "key": "source",
+        "value": "vulgivagus vitium"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-12-25T17:36:30.345Z",
+      "updatedAt": "2025-02-05T18:10:25.803Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 12,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "star",
+    "color": "#a7f9ff",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Advenio veritatis aliquam delinquo vis at. Minima spero tenus animus decimus. Talio viridis dapifer venustas bibo nemo collum vos praesentium.",
+    "skill": 3,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "super comis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-01-17T12:15:08.162Z",
+      "updatedAt": "2025-02-04T21:41:28.354Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 13,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "emoji_events",
+    "color": "#86c19b",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Suscipit arcesso aegrus tremo debilito clamo. Atavus synagoga careo recusandae tonsor. Adipiscor apparatus viridis attero coaegresco.",
+    "skill": 3,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "creptio cohaero"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-25T19:13:33.314Z",
+      "updatedAt": "2024-03-18T11:47:13.005Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 14,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "star",
+    "color": "#64d3cf",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Magni animadverto cresco suadeo aegrus agnitio decipio. Angulus aduro peior color tonsor utor vomer absorbeo. Callide demens stabilis.",
+    "skill": 3,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "conor carpo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-12T15:21:34.198Z",
+      "updatedAt": "2023-08-15T00:29:31.530Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 15,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "trending_up",
+    "color": "#a09cbe",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Voro arbitro aro. Video at contigo thesaurus coadunatio unus aliquam spiritus ambulo. Antea thymum coniuratio.",
+    "skill": 3,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "sophismata ustulo"
+      },
+      {
+        "key": "department",
+        "value": "caveo amicitia"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-25T05:41:11.960Z",
+      "updatedAt": "2024-10-22T17:58:04.540Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 16,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "emoji_events",
+    "color": "#b9edea",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Volo speculum virtus aspernatur. Viridis peccatus eveniet vilicus cupressus verbum curo conatus uter summopere. Avarus custodia color demulceo curo charisma tergeo valde cuppedia currus.",
+    "skill": 4,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "auctus tonsor"
+      },
+      {
+        "key": "relevance",
+        "value": "solitudo denuncio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-26T21:16:43.394Z",
+      "updatedAt": "2024-12-03T21:09:02.742Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 17,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "star",
+    "color": "#a53d95",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Aegre statim pecco defungo. Cohors creator tam. Tenetur aedificium optio harum.",
+    "skill": 4,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "conservo vindico"
+      },
+      {
+        "key": "source",
+        "value": "calco speciosus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-12T12:51:57.816Z",
+      "updatedAt": "2024-11-04T00:56:58.906Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 18,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "trending_up",
+    "color": "#fc3200",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Defessus inflammatio terminatio vomica ascit doloribus voluptate. Asporto labore conqueror compello abbas minima absorbeo dolorum vulpes supra. Arcesso tergiversatio arcus cerno.",
+    "skill": 4,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-01-19T09:06:24.141Z",
+      "updatedAt": "2024-12-25T07:58:27.938Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 19,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "emoji_events",
+    "color": "#eeec27",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Color defendo porro. Vobis ars ducimus. Vomica deserunt casus tumultus vesper subseco suppono utilis tamquam.",
+    "skill": 4,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "curvo suspendo"
+      },
+      {
+        "key": "department",
+        "value": "averto toties"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-26T12:21:08.992Z",
+      "updatedAt": "2025-03-31T17:18:10.128Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 20,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "grade",
+    "color": "#59a9ca",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Sum basium claustrum correptius conatus solium. Adfectus apud tantum degero confido delicate cursus beneficium aspernatur. Abutor compello depraedor caelum.",
+    "skill": 4,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-04-25T12:22:11.446Z",
+      "updatedAt": "2024-09-08T23:37:41.990Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.666Z",
+    "deletedAt": null
+  },
+  {
+    "id": 21,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "star",
+    "color": "#4f9847",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Error degenero ascisco uterque. Ventus valde harum decretum patior commodi apto. Corrupti cometes vehemens verumtamen sophismata quas advoco candidus eum.",
+    "skill": 5,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "ea villa"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-09-10T13:07:59.086Z",
+      "updatedAt": "2025-01-13T13:06:22.119Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 22,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "grade",
+    "color": "#77ed2c",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Speciosus vinculum acer demulceo torqueo stultus caterva cui artificiose theca. Adsuesco capto angustus defaeco ambulo spes cuppedia thesaurus. Angulus coma contra adinventitias utroque expedita delibero adnuo deprecator.",
+    "skill": 5,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "abscido angulus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-02T00:26:03.663Z",
+      "updatedAt": "2024-02-19T17:24:46.896Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 23,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "grade",
+    "color": "#61ece3",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Placeat patria commodo vinum. Ipsam crinis amaritudo tabernus. Fugit coruscus aegrotatio odit celebrer eveniet carcer angulus assentator.",
+    "skill": 5,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "admitto civitas"
+      },
+      {
+        "key": "popularity",
+        "value": "bellicus tepesco"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-01T07:16:31.164Z",
+      "updatedAt": "2025-01-31T08:34:37.116Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 24,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "trending_up",
+    "color": "#71bf54",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Arx clamo timidus. Subiungo beneficium aranea cerno ara acquiro crepusculum. Repellat alo virtus sum culpo conatus victus acceptus centum antiquus.",
+    "skill": 5,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "conculco tollo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-09T22:41:59.484Z",
+      "updatedAt": "2025-05-02T00:29:26.759Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 25,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "grade",
+    "color": "#ce15c1",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Voluntarius tergo cui tamisium benevolentia. Cena dolor cumque. Labore calcar vesica aspernatur adipisci dens adversus cruciamentum deripio caelum.",
+    "skill": 5,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "certe suasoria"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-10T02:24:42.910Z",
+      "updatedAt": "2025-04-27T06:29:01.408Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": "2025-05-06T09:23:38.361Z"
+  },
+  {
+    "id": 26,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "star",
+    "color": "#de843f",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Allatus abduco acidus conservo venia amo aegre vulgus. Demoror defero carcer. Eos appono suggero vitiosus ager enim verecundia tandem tristis bis.",
+    "skill": 6,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-06-10T12:07:05.656Z",
+      "updatedAt": "2024-08-07T22:52:41.678Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 27,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "trending_up",
+    "color": "#e2e2f5",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Coadunatio uterque quaerat tantillus cohaero assentator porro turpis cariosus. Solvo decimus ustilo certus tricesimus tenus administratio. Tertius absconditus tantillus caecus derelinquo dolor.",
+    "skill": 6,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "totidem temeritas"
+      },
+      {
+        "key": "difficulty",
+        "value": "magni cado"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-01-01T13:55:33.812Z",
+      "updatedAt": "2025-01-25T01:34:30.933Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 28,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "star",
+    "color": "#dfddd7",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Cognomen aequitas voveo bibo. Auditor sodalitas creta advoco celer umerus adipiscor. Fuga sui substantia quam callide aeternus communis cubicularis aer quia.",
+    "skill": 6,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "suffragium clam"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-16T10:21:08.502Z",
+      "updatedAt": "2025-02-13T17:00:53.132Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 29,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "star",
+    "color": "#3e6b9d",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Veniam vetus tergum crux. Virtus desipio tutamen ipsum aequitas vita. Crudelis vulnus creptio textilis aegrotatio.",
+    "skill": 6,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "super aestas"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-10-06T21:36:48.985Z",
+      "updatedAt": "2025-03-14T12:52:47.009Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 30,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "trending_up",
+    "color": "#5aa4f0",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Aestivus verus appono sit caelum modi spectaculum. Degenero laborum comparo vindico atavus id truculenter attonbitus canto. Utilis ut ea patria numquam universe sustineo.",
+    "skill": 6,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "supplanto corporis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-05-15T19:14:16.676Z",
+      "updatedAt": "2024-09-24T13:09:19.824Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 31,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "star",
+    "color": "#89bfc3",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Numquam bellicus vitium termes verus auctus tunc bos. Voluntarius aspicio versus delinquo audio ara cras tutamen socius ut. Surculus nihil ventito sulum blandior stipes tum.",
+    "skill": 7,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-09-07T20:48:11.714Z",
+      "updatedAt": "2024-09-29T00:06:01.910Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 32,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "grade",
+    "color": "#bdff3b",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Comis compello volo. Coniecto umquam virtus decerno illo certus. Cubitum suus vomito id ambitus maiores magnam.",
+    "skill": 7,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "vobis sui"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-09-09T17:00:30.049Z",
+      "updatedAt": "2025-01-06T11:00:01.135Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": "2025-05-06T08:17:35.051Z"
+  },
+  {
+    "id": 33,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "grade",
+    "color": "#3a3ea6",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Pax vulgus stultus peccatus cavus. Substantia vulgo deficio adficio auctor. Tendo dolor antepono atavus quas.",
+    "skill": 7,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-07-27T22:27:16.252Z",
+      "updatedAt": "2024-08-02T11:48:13.379Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 34,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "stars",
+    "color": "#4faa56",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Commodo ad cenaculum patior adsuesco cornu constans sortitus eaque. Trepide tergo cunctatio alius barba turpis valetudo. Molestias terreo defessus tot apostolus.",
+    "skill": 7,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-07-27T17:51:29.291Z",
+      "updatedAt": "2023-12-15T06:53:19.889Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 35,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "star",
+    "color": "#53e253",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Celebrer apostolus stultus verbum utrimque. Damno agnitio agnosco volutabrum. Ubi vigor defendo crux careo.",
+    "skill": 7,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-07-19T10:37:20.080Z",
+      "updatedAt": "2024-10-27T22:56:55.395Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 36,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "grade",
+    "color": "#6ee7e9",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Vulgaris corona valeo viduo decet. Id depraedor sublime paulatim. Ademptio paens sequi auxilium voluptatum quas aperiam.",
+    "skill": 8,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "thymum trepide"
+      },
+      {
+        "key": "source",
+        "value": "verus denique"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-14T16:06:45.432Z",
+      "updatedAt": "2025-01-21T11:15:11.090Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 37,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "grade",
+    "color": "#f27a67",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Debilito acceptus ex absum. Eligendi alter occaecati conicio textus natus censura statua. Textus provident desipio adsum cervus.",
+    "skill": 8,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "denique ulterius"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-21T16:47:38.573Z",
+      "updatedAt": "2024-09-16T20:22:15.471Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 38,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "star",
+    "color": "#d6ebbc",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Commodo tenuis ipsa turba. Inflammatio accedo terra impedit usus dapifer laborum. Capio thymbra territo aeger brevis.",
+    "skill": 8,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "adversus nisi"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-26T13:48:54.378Z",
+      "updatedAt": "2025-05-04T01:22:10.275Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 39,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "star",
+    "color": "#f879cb",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Triumphus utique abutor totus necessitatibus atrox pecco adduco ubi cernuus. Denuo decumbo calco assentator dolor cribro. Stillicidium capillus cito quod villa ademptio demum.",
+    "skill": 8,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "antepono curtus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-06-13T01:58:31.027Z",
+      "updatedAt": "2025-02-03T16:19:56.698Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 40,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "emoji_events",
+    "color": "#1cc386",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Turpis amiculum tremo demulceo depromo ante supellex substantia. Incidunt tripudio suus tempus. Vetus eius tantillus reiciendis.",
+    "skill": 8,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "totam aegrotatio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-06-03T06:17:03.752Z",
+      "updatedAt": "2025-05-03T21:38:31.615Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 41,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "stars",
+    "color": "#80b88e",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Bestia avaritia absorbeo auctus textor videlicet desipio brevis adamo ulciscor. Arceo uter curis bardus admiratio caput aspernatur. Contra corona textor.",
+    "skill": 9,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "voveo minus"
+      },
+      {
+        "key": "popularity",
+        "value": "quidem adipisci"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-18T06:33:00.772Z",
+      "updatedAt": "2024-12-19T13:46:36.282Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 42,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "trending_up",
+    "color": "#5234f5",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Magni amoveo in adeo varietas statua delego vilicus. Cunctatio tantum astrum. Victus alii ducimus abduco curia auctus statua voco quasi sub.",
+    "skill": 9,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "voluntarius libero"
+      },
+      {
+        "key": "relevance",
+        "value": "venia adaugeo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-05-17T04:25:36.711Z",
+      "updatedAt": "2024-12-26T14:44:01.050Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.667Z",
+    "deletedAt": null
+  },
+  {
+    "id": 43,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "emoji_events",
+    "color": "#5c9beb",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Stipes turba carpo trepide crux. Combibo adflicto absconditus tribuo temptatio. Ipsum excepturi crur aequus.",
+    "skill": 9,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "quis utroque"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-02T06:01:37.571Z",
+      "updatedAt": "2024-05-09T08:15:28.098Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 44,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "trending_up",
+    "color": "#625f1e",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Concido ait absconditus tricesimus repellendus tamquam trepide vos. Amitto maiores toties aut eveniet. Tardus totam vereor claustrum quas villa.",
+    "skill": 9,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "canonicus crastinus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-11T01:26:15.217Z",
+      "updatedAt": "2023-09-15T01:47:08.454Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 45,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "star",
+    "color": "#18d4db",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Asper culpo aeternus. Ars patrocinor solus. Curia decens unus natus adfectus tamquam thymbra.",
+    "skill": 9,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-08-08T11:48:22.066Z",
+      "updatedAt": "2024-11-20T00:27:07.389Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 46,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "stars",
+    "color": "#028497",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Callide caveo advoco vulgaris. Laudantium assumenda coerceo vicinus. Considero sumo vergo custodia.",
+    "skill": 10,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "possimus conduco"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-23T23:26:14.084Z",
+      "updatedAt": "2025-02-08T22:15:08.684Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 47,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "trending_up",
+    "color": "#a1748d",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Adeo qui depulso solium solum cognatus amoveo curia supellex. Desipio impedit cultellus territo. Aeneus deduco titulus.",
+    "skill": 10,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "bardus consequatur"
+      },
+      {
+        "key": "tag",
+        "value": "damno arma"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-03T01:58:17.663Z",
+      "updatedAt": "2025-04-23T01:33:20.074Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 48,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "star",
+    "color": "#d5b6db",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Ara vix supplanto arma cimentarius amaritudo dicta dicta alias. Una arceo doloribus videlicet culpo paulatim. Facilis libero terminatio comminor temporibus ars aetas atrocitas rerum.",
+    "skill": 10,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "aliquam aegre"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-25T00:55:23.559Z",
+      "updatedAt": "2024-09-21T09:31:00.983Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 49,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "emoji_events",
+    "color": "#db4df8",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Appono appono tres aedificium calcar ver succedo spectaculum. Temporibus illum caterva tibi termes tersus acerbitas succurro. Stillicidium necessitatibus constans officiis nemo adversus.",
+    "skill": 10,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-10-17T09:26:55.840Z",
+      "updatedAt": "2024-06-03T13:39:30.602Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 50,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "trending_up",
+    "color": "#8b918c",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Aequus atavus studio thermae apto crepusculum utique administratio. Autus accusamus victoria surgo voluptas curia conicio. Sui adduco aiunt solitudo tantillus tenus ratione officiis totidem canis.",
+    "skill": 10,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "tui deserunt"
+      },
+      {
+        "key": "department",
+        "value": "voro deporto"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-09T16:44:05.961Z",
+      "updatedAt": "2025-04-20T06:50:55.853Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 51,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "emoji_events",
+    "color": "#7c6ebf",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Demergo tribuo tamdiu curiositas compono audio. Non vulticulus unde at molestias suggero tepesco perferendis victus amor. Adeptio tolero bellum debilito infit creator aedificium solum perferendis eaque.",
+    "skill": 11,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "tubineus architecto"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-06-22T18:20:09.610Z",
+      "updatedAt": "2023-10-11T01:02:59.436Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 52,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "grade",
+    "color": "#786ad4",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Taceo pauci ratione crepusculum aequus temptatio concedo trans claustrum verbera. Itaque derideo toties arbustum atrocitas antiquus. Arbustum tertius circumvenio dignissimos adnuo deprimo suffoco toties excepturi.",
+    "skill": 11,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-09-29T00:47:31.981Z",
+      "updatedAt": "2025-03-26T08:48:35.137Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 53,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "stars",
+    "color": "#bf30fa",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Coniuratio volup toties attonbitus illum defetiscor succurro amet. Tunc venia tergo tendo volutabrum trans alius commemoro tunc praesentium. Credo tergeo stultus numquam tum debilito demum teres.",
+    "skill": 11,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-11-24T01:47:43.908Z",
+      "updatedAt": "2024-03-24T15:10:02.010Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 54,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "trending_up",
+    "color": "#a679bf",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Templum bellum adstringo vicissitudo labore. Defleo antepono solium adipiscor demoror. Vito coaegresco vapulus arbor victoria vereor tantillus.",
+    "skill": 11,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "ipsam adiuvo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-23T12:38:37.943Z",
+      "updatedAt": "2025-05-01T11:42:16.797Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 55,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "emoji_events",
+    "color": "#4f1bde",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Calcar votum cubo succurro amplus aetas cubicularis caterva. Aegrus carbo vox temporibus demo earum repellat inventore. Sperno vulnero non utpote.",
+    "skill": 11,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-05-16T05:53:27.278Z",
+      "updatedAt": "2023-05-21T11:47:09.261Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 56,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "star",
+    "color": "#4e4fca",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Turpis stella stultus sunt comes accommodo comptus somnus defungo textilis. Arbustum curso cetera voluptates velit. Sordeo corrumpo magnam.",
+    "skill": 12,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "cimentarius ullam"
+      },
+      {
+        "key": "department",
+        "value": "conatus amo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-10T16:58:43.164Z",
+      "updatedAt": "2024-06-24T16:02:35.625Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 57,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "grade",
+    "color": "#2afffa",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Dolorem theologus curvo utroque tenetur. Voluptate deinde temptatio carus. Suppellex tertius ulterius voluptatum ea velum peior ait.",
+    "skill": 12,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "vesper alias"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-06-04T18:40:19.338Z",
+      "updatedAt": "2025-03-10T10:31:09.203Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 58,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "grade",
+    "color": "#1fa3e3",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Crux caveo dapifer. Certus apparatus demo alter illum victoria stabilis aeger reprehenderit. Currus aperte delibero totus varius ubi tepidus volutabrum tredecim.",
+    "skill": 12,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "arma texo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-03T08:05:33.837Z",
+      "updatedAt": "2024-04-29T02:02:07.706Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 59,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "grade",
+    "color": "#b5e4ee",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Suffragium ascit aurum adsum casso. Dedecor censura delectatio quae quae vestrum deorsum brevis carmen celebrer. Surculus nulla vitiosus assentator sum a tutamen abduco adsidue ascisco.",
+    "skill": 12,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "defetiscor vilicus"
+      },
+      {
+        "key": "priority",
+        "value": "strenuus admitto"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-12-05T04:44:21.288Z",
+      "updatedAt": "2023-12-11T09:28:04.054Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 60,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "stars",
+    "color": "#a6d7a6",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Super assentator surgo capio verecundia auctor vilis caveo repellendus suus. Cum tener conitor. Vindico voluntarius cariosus.",
+    "skill": 12,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-09-21T23:13:24.351Z",
+      "updatedAt": "2024-01-03T08:18:31.824Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 61,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "trending_up",
+    "color": "#0dd4fd",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Conor curo cupio utor animadverto adnuo. Derideo ait utroque cras contabesco caries caelum tersus decor aptus. Tendo adsum reprehenderit attonbitus theca aiunt patior denique armarium.",
+    "skill": 13,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "venia averto"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-28T18:03:13.903Z",
+      "updatedAt": "2025-05-02T02:46:54.917Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 62,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "emoji_events",
+    "color": "#adaf0a",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Pecto unus umerus decumbo. Talus amplus nulla verus ambitus theologus vinco demergo. Defluo avarus vobis adipisci atrocitas.",
+    "skill": 13,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "velit autus"
+      },
+      {
+        "key": "department",
+        "value": "deserunt abundans"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-11T20:48:41.729Z",
+      "updatedAt": "2024-03-29T23:52:51.671Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.668Z",
+    "deletedAt": null
+  },
+  {
+    "id": 63,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "emoji_events",
+    "color": "#9fdaa3",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Tribuo aqua ancilla. Dolor celer aro utilis debeo. Cibo aranea tot cena ager auctor antepono autus officia atrox.",
+    "skill": 13,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-11-20T03:37:14.501Z",
+      "updatedAt": "2025-02-25T14:14:53.615Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.669Z",
+    "deletedAt": null
+  },
+  {
+    "id": 64,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "emoji_events",
+    "color": "#d7030a",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Clibanus desino candidus alveus temporibus. Thesaurus hic accusator. Soleo adaugeo cariosus solium terror.",
+    "skill": 13,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "vociferor aequitas"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-10-09T07:26:34.110Z",
+      "updatedAt": "2025-04-02T09:22:37.957Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.669Z",
+    "deletedAt": null
+  },
+  {
+    "id": 65,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "star",
+    "color": "#cec58d",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Amoveo ut amplexus. Necessitatibus adipiscor virga concedo. Aveho quis spiculum attonbitus.",
+    "skill": 13,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-01-21T01:47:54.883Z",
+      "updatedAt": "2025-01-28T21:09:51.993Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.669Z",
+    "deletedAt": null
+  },
+  {
+    "id": 66,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "grade",
+    "color": "#2f89ff",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Cervus ambitus amitto degero deludo. Adeo sublime comitatus tumultus dedico admitto valens baiulus. Sulum civitas decet adsidue veritatis acerbitas.",
+    "skill": 14,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "strues minima"
+      },
+      {
+        "key": "difficulty",
+        "value": "cura dedico"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-11T15:27:24.436Z",
+      "updatedAt": "2024-12-14T20:57:30.568Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.669Z",
+    "deletedAt": null
+  },
+  {
+    "id": 67,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "star",
+    "color": "#57cede",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Demo demulceo harum carmen copiose clibanus. Compello infit valens ventosus cura articulus pecco comitatus admoneo. Aestas solutio quibusdam adiuvo tabesco.",
+    "skill": 14,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-12-03T09:34:28.540Z",
+      "updatedAt": "2025-03-17T11:53:05.444Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.669Z",
+    "deletedAt": null
+  },
+  {
+    "id": 68,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "trending_up",
+    "color": "#7b9bd8",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Amplexus toties titulus curtus cubo. Tabgo curso tabesco centum tutis tepesco demergo tergo depraedor aequus. Curso dolores laborum absens volubilis valeo.",
+    "skill": 14,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "vulnus fugiat"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-10T09:36:16.187Z",
+      "updatedAt": "2023-11-02T21:00:14.646Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.669Z",
+    "deletedAt": null
+  },
+  {
+    "id": 69,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "emoji_events",
+    "color": "#95c98f",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Trucido degenero contego cariosus derelinquo veritatis commodi coepi contra. Catena ustilo spectaculum dedico. Crur suscipio aeger.",
+    "skill": 14,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-10-07T21:01:33.121Z",
+      "updatedAt": "2025-04-13T10:35:27.676Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.669Z",
+    "deletedAt": null
+  },
+  {
+    "id": 70,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "grade",
+    "color": "#8434ac",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Advenio cubitum tero caecus vigilo vigor. Ubi absorbeo damnatio tardus adduco coniecto agnitio valde rem. Quas versus tamquam bene.",
+    "skill": 14,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-06-13T16:54:51.457Z",
+      "updatedAt": "2023-10-04T22:27:37.506Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.669Z",
+    "deletedAt": null
+  },
+  {
+    "id": 71,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "grade",
+    "color": "#724ecf",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Via explicabo spiculum delectus beatae adiuvo coepi tactus. Aeger benevolentia autem subnecto abstergo peior auctor. Clibanus ara solum cultellus curis cumque strenuus curto animus.",
+    "skill": 15,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-09-11T18:53:23.058Z",
+      "updatedAt": "2023-11-10T12:35:02.978Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.669Z",
+    "deletedAt": null
+  },
+  {
+    "id": 72,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "trending_up",
+    "color": "#edf43e",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Illum decipio adinventitias repellendus decretum. Accedo aestivus approbo. Demergo tunc nostrum quibusdam vinco verecundia cubo dapifer.",
+    "skill": 15,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-11-23T04:08:18.422Z",
+      "updatedAt": "2024-06-19T21:54:58.915Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.669Z",
+    "deletedAt": null
+  },
+  {
+    "id": 73,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "emoji_events",
+    "color": "#1c78a0",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Summopere amet aegre cedo sperno reiciendis assentator nihil eius. Tollo ex coruscus sollers aranea arbustum corrigo ducimus. Tergiversatio supellex sumo crapula desipio tenuis appositus.",
+    "skill": 15,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "suscipit cena"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-02-07T03:37:03.291Z",
+      "updatedAt": "2025-03-08T01:49:27.062Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.682Z",
+    "deletedAt": null
+  },
+  {
+    "id": 74,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "star",
+    "color": "#8ed192",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Tubineus angulus cubicularis cohaero similique capio. Temeritas astrum ars crur addo. Vinculum urbs credo vinitor assentator vulgaris peccatus vociferor armarium.",
+    "skill": 15,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-08-16T08:08:27.506Z",
+      "updatedAt": "2023-09-08T03:31:09.662Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.682Z",
+    "deletedAt": null
+  },
+  {
+    "id": 75,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "star",
+    "color": "#937cbb",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Vapulus fugiat non. Via agnitio veritatis. Admiratio subvenio eligendi aperio summa custodia delectatio.",
+    "skill": 15,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "amplus abduco"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-05T09:13:45.567Z",
+      "updatedAt": "2025-04-10T21:27:00.811Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.682Z",
+    "deletedAt": null
+  },
+  {
+    "id": 76,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "stars",
+    "color": "#d9ee1e",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Cruciamentum communis pauci strues ustilo ad deinde. Conqueror tabella brevis approbo cresco sordeo delicate. Advenio suus ascit angelus enim.",
+    "skill": 16,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "adsidue iusto"
+      },
+      {
+        "key": "relevance",
+        "value": "cenaculum ad"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-04T19:46:29.524Z",
+      "updatedAt": "2024-12-31T09:53:15.865Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.682Z",
+    "deletedAt": null
+  },
+  {
+    "id": 77,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "star",
+    "color": "#97bfd0",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Angulus amaritudo facilis maxime dolorem abeo titulus tollo curtus. Certe brevis fugiat aequus angulus utilis turbo repudiandae. Trucido solum ea arca curvo tergum eius caritas voluptas.",
+    "skill": 16,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "vulgivagus angulus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-29T19:49:28.634Z",
+      "updatedAt": "2025-04-13T03:37:19.438Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.682Z",
+    "deletedAt": null
+  },
+  {
+    "id": 78,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "stars",
+    "color": "#e1ddfa",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Vesco demergo depraedor carus substantia delego ancilla crepusculum videlicet. Vaco tamquam qui demo claro curriculum. Crapula arbustum infit suspendo adamo.",
+    "skill": 16,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "conor utique"
+      },
+      {
+        "key": "tag",
+        "value": "argentum patruus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-02-25T21:24:01.058Z",
+      "updatedAt": "2025-03-03T14:49:14.353Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.682Z",
+    "deletedAt": null
+  },
+  {
+    "id": 79,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "grade",
+    "color": "#c70c66",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Ipsum adaugeo coniuratio conturbo solus. Tres soluta video coma bibo. Inventore aqua audentia voluntarius aer tantum territo.",
+    "skill": 16,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "caritas aestivus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-12T22:13:02.770Z",
+      "updatedAt": "2024-02-16T15:04:49.335Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.682Z",
+    "deletedAt": null
+  },
+  {
+    "id": 80,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "star",
+    "color": "#87ecdf",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Demitto sit volutabrum super cubitum aestus umerus umerus. Vigor xiphias virtus vociferor. Concedo villa terra tumultus.",
+    "skill": 16,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "cetera ipsum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-11-02T10:44:47.192Z",
+      "updatedAt": "2024-12-24T11:39:31.885Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.682Z",
+    "deletedAt": null
+  },
+  {
+    "id": 81,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "trending_up",
+    "color": "#4a772d",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Amitto brevis theologus tristis earum derelinquo. Cito strues tum tribuo accusator veritas suggero appello. Candidus odit rerum doloremque tres.",
+    "skill": 17,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "tabgo patria"
+      },
+      {
+        "key": "priority",
+        "value": "curis amplexus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-24T14:07:04.947Z",
+      "updatedAt": "2025-05-05T03:22:53.944Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.683Z",
+    "deletedAt": null
+  },
+  {
+    "id": 82,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "grade",
+    "color": "#ad1bdc",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Tremo carus cogito consectetur amplexus. Astrum somniculosus unus virgo verto derideo vulgus. Valetudo conor xiphias caput attero vicissitudo arcus celebrer.",
+    "skill": 17,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-11-08T01:13:46.447Z",
+      "updatedAt": "2024-12-13T04:18:38.213Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.684Z",
+    "deletedAt": null
+  },
+  {
+    "id": 83,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "grade",
+    "color": "#e99ce3",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Bis via infit deleo. Atavus taedium certe soluta. Credo adaugeo iste adficio autus depono concedo undique clam.",
+    "skill": 17,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "aegrus voluptate"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-19T22:54:20.194Z",
+      "updatedAt": "2024-09-10T15:55:15.543Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.684Z",
+    "deletedAt": null
+  },
+  {
+    "id": 84,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "grade",
+    "color": "#acdaf7",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Congregatio super collum artificiose valetudo dedico volubilis depopulo mollitia. Ara distinctio vehemens antiquus atavus atqui. Votum iusto aperiam.",
+    "skill": 17,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "cognatus voluptates"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-12-29T15:22:46.470Z",
+      "updatedAt": "2024-04-20T13:21:31.456Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 85,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "stars",
+    "color": "#a06f5f",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Colligo strues comptus copiose vulticulus stella abscido denuo. Peior alienus thema dolores. Tersus amiculum exercitationem benigne tandem vado thymbra verto corrumpo trepide.",
+    "skill": 17,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "suppono vulticulus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-16T18:24:06.284Z",
+      "updatedAt": "2023-10-31T15:56:23.135Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 86,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "trending_up",
+    "color": "#71cbc5",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Arcus sufficio a labore. Asper repudiandae censura aeternus temporibus communis. Tener aeneus quae constans cupiditate turbo capillus patrocinor.",
+    "skill": 18,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "aestas turbo"
+      },
+      {
+        "key": "department",
+        "value": "communis bene"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-11-20T14:40:55.246Z",
+      "updatedAt": "2023-12-11T05:17:59.631Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 87,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "emoji_events",
+    "color": "#8b37dc",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Terebro adinventitias error complectus. Deserunt uter blanditiis corpus odit. Delinquo numquam vulnus curriculum.",
+    "skill": 18,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-11-30T13:36:05.647Z",
+      "updatedAt": "2024-09-29T15:09:25.860Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 88,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "star",
+    "color": "#9bfbca",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Victoria incidunt ex triduana supellex eos bestia canto. Virgo blanditiis turbo asporto cohors tersus tergeo expedita. Voluptatibus porro cibus demo.",
+    "skill": 18,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "vinco speciosus"
+      },
+      {
+        "key": "tag",
+        "value": "tenetur sulum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-25T00:55:01.795Z",
+      "updatedAt": "2025-05-03T12:06:32.245Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 89,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "star",
+    "color": "#3e50df",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Spero tamdiu vilis. Adfectus peior crinis tolero nihil. Tertius tergo accusamus aeger theca vapulus caries deficio cupiditate sollers.",
+    "skill": 18,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "despecto amplexus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-01-03T11:13:08.216Z",
+      "updatedAt": "2024-06-16T00:04:39.528Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 90,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "star",
+    "color": "#bfa18b",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Cogito capillus callide cruentus. Quam curso at solus color centum vicissitudo cura cras vociferor. Somniculosus territo est verus.",
+    "skill": 18,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "apud terga"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-18T20:11:07.207Z",
+      "updatedAt": "2024-09-24T08:42:09.469Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 91,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "grade",
+    "color": "#998dbb",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Arx caveo adicio. Cruciamentum assentator vae dolores ver textus asper tyrannus. Crux cetera corporis.",
+    "skill": 19,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-01-08T08:01:49.778Z",
+      "updatedAt": "2025-04-28T18:54:44.332Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 92,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "emoji_events",
+    "color": "#3dfbac",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Sono cribro esse aspicio varietas colligo ascit cohibeo. Anser defero ratione peccatus vix ullus alioqui tactus. Libero rem rem atqui valeo.",
+    "skill": 19,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-01-29T04:26:26.063Z",
+      "updatedAt": "2024-07-31T19:32:50.974Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 93,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "emoji_events",
+    "color": "#deedf2",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Cuius amplus deserunt acervus doloribus. Torqueo capto quibusdam cattus somnus sui voluptatem advenio defetiscor quas. Arbustum alo audentia deripio desipio aiunt absque annus suadeo consectetur.",
+    "skill": 19,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-09-10T00:16:29.516Z",
+      "updatedAt": "2025-02-17T12:29:10.158Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 94,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "grade",
+    "color": "#d57d7e",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Vita clibanus decipio corroboro valeo stillicidium solio claudeo trans tener. Sordeo sapiente tactus auxilium clarus aeternus despecto tener tempora. Titulus verumtamen cena nostrum clarus argentum adicio voco sono.",
+    "skill": 19,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "aggredior copiose"
+      },
+      {
+        "key": "relevance",
+        "value": "accedo saepe"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-16T06:47:30.825Z",
+      "updatedAt": "2025-05-01T15:56:15.851Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 95,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "emoji_events",
+    "color": "#c2b37f",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Animus ater aut vitae rem necessitatibus desidero odio adiuvo. Decet utilis credo talio vesper. Vos civitas solum thesaurus turpis venustas vindico vigor perspiciatis succedo.",
+    "skill": 19,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "desolo voluptatum"
+      },
+      {
+        "key": "difficulty",
+        "value": "cotidie iste"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-09-08T18:43:47.323Z",
+      "updatedAt": "2025-04-04T22:05:13.394Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 96,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "grade",
+    "color": "#cdfac7",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Conicio ademptio auctor tres odit error solio crapula maxime. Comminor atrox sponte ater aliquid. Termes suggero uxor odio pauper torrens varietas tener copiose.",
+    "skill": 20,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "amo traho"
+      },
+      {
+        "key": "source",
+        "value": "maxime odio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-05T22:05:56.559Z",
+      "updatedAt": "2024-05-28T12:43:56.389Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 97,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "emoji_events",
+    "color": "#8a2701",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Sustineo templum patria amicitia claro pauci dolorem eius. Tutis sophismata usus vulgo catena comburo. Volubilis dapifer demergo villa.",
+    "skill": 20,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "adversus civis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-11T17:50:06.992Z",
+      "updatedAt": "2024-07-12T23:15:21.685Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 98,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "grade",
+    "color": "#d2aeb9",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Dicta cognomen urbanus delectatio benevolentia certus venia avarus sublime tepidus. Quibusdam vacuus laudantium civitas censura statim. Umerus ventosus confido audax patruus.",
+    "skill": 20,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "beatus depromo"
+      },
+      {
+        "key": "department",
+        "value": "appono infit"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-05T12:30:16.893Z",
+      "updatedAt": "2025-03-28T19:14:42.920Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 99,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "emoji_events",
+    "color": "#e3baf4",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Verecundia cribro decimus cohors laborum. Necessitatibus compono cuppedia. Credo repudiandae deprecator pax corrupti ut cuius deduco.",
+    "skill": 20,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "clibanus tonsor"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-23T19:32:44.004Z",
+      "updatedAt": "2024-08-24T09:35:10.138Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 100,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "emoji_events",
+    "color": "#abebb7",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Claro culpo cogo taceo tyrannus vaco asperiores adficio carpo. Conculco reprehenderit sodalitas sono deputo accommodo sopor calamitas. Thesis vesper saepe.",
+    "skill": 20,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-08-08T18:34:26.899Z",
+      "updatedAt": "2024-08-26T15:01:09.674Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 101,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "stars",
+    "color": "#1a03d1",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Accusator strenuus audacia bellicus appositus carbo tamquam chirographum tantum decens. Casus vester volup tempus placeat curso aufero deduco ultra cupiditas. Tredecim quia curto.",
+    "skill": 21,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-09-02T23:38:30.585Z",
+      "updatedAt": "2025-04-17T22:57:53.522Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 102,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "star",
+    "color": "#a9b6dd",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Cubicularis conitor amo aperte cunae. Vitium degenero valde adficio decens. Comminor voluptate accusator.",
+    "skill": 21,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "corpus voluptates"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-01-29T02:37:17.084Z",
+      "updatedAt": "2024-06-05T11:53:23.845Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 103,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "star",
+    "color": "#0cdde1",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Charisma voluptatum avarus vehemens aeger facere. Voluptate spiritus copiose vulgaris appono creo tersus. Facere altus molestiae ager.",
+    "skill": 21,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "cena caste"
+      },
+      {
+        "key": "popularity",
+        "value": "trepide patrocinor"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-06-09T04:14:16.688Z",
+      "updatedAt": "2023-07-21T13:00:35.045Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 104,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "trending_up",
+    "color": "#dd8fdd",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Unus laborum annus. Desparatus volup avaritia vesper arca fugiat accommodo laboriosam sol alii. Sopor iusto corrupti illum attollo creo pecto degero cubo.",
+    "skill": 21,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-05-26T09:40:58.724Z",
+      "updatedAt": "2024-12-12T21:32:42.085Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": "2025-05-06T10:10:34.903Z"
+  },
+  {
+    "id": 105,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "emoji_events",
+    "color": "#cdbe0e",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Officiis undique crux tyrannus iusto cimentarius. Possimus despecto videlicet beatus centum aduro. Cunabula cometes apostolus casso tutis una agnosco angulus eveniet.",
+    "skill": 21,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "virgo crastinus"
+      },
+      {
+        "key": "popularity",
+        "value": "demergo amicitia"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-11-24T14:51:46.304Z",
+      "updatedAt": "2023-11-29T23:37:25.520Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 106,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "trending_up",
+    "color": "#dcd6ad",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Asporto veritas speculum aperio. Deripio amet delicate spero demulceo quaerat uberrime aurum. Curatio comprehendo summopere umbra amiculum sono thesis accendo dignissimos vesica.",
+    "skill": 22,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "occaecati voluptatibus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-11-05T23:58:57.534Z",
+      "updatedAt": "2024-11-17T19:00:43.896Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 107,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "star",
+    "color": "#fbb6a1",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Arca officia auditor consequuntur curo colligo tot ver casso sopor. Atque sono absque usitas subvenio depopulo aggero caecus currus conduco. Tutamen viscus valde defungo sono advoco strues bos.",
+    "skill": 22,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "placeat annus"
+      },
+      {
+        "key": "difficulty",
+        "value": "ut cometes"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-10T01:52:45.009Z",
+      "updatedAt": "2024-04-07T10:53:56.914Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 108,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "grade",
+    "color": "#c16ddb",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Crustulum aegrus coniecto cetera commemoro acsi delego patrocinor. Studio utique adhaero campana solium. Expedita deprimo avaritia sit solum ipsam colligo stabilis versus.",
+    "skill": 22,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "adinventitias territo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-07-30T19:52:42.307Z",
+      "updatedAt": "2025-01-29T22:01:54.400Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 109,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "emoji_events",
+    "color": "#ec9bbd",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Tertius surgo arceo praesentium sustineo arceo amiculum. Tener cimentarius amor velit stella voveo corrigo colligo. Denego somniculosus sortitus stillicidium deprimo ancilla creptio cena cognatus tego.",
+    "skill": 22,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "omnis suscipio"
+      },
+      {
+        "key": "popularity",
+        "value": "cedo delego"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-23T03:23:25.884Z",
+      "updatedAt": "2025-04-22T09:57:26.991Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 110,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "star",
+    "color": "#cb1073",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Supellex apostolus animus celo cauda tamdiu surculus. Adversus tergiversatio aeternus adeptio aegrus umerus corporis clibanus. Vis pectus sordeo.",
+    "skill": 22,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "vigor vita"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-08-28T21:53:45.024Z",
+      "updatedAt": "2024-09-02T03:42:43.990Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 111,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "stars",
+    "color": "#01f7fa",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Fuga varius territo consequatur astrum crastinus uterque aestas unde tergeo. Decumbo ancilla ago conservo crudelis abduco deduco. Demum sto socius acsi adsidue sollers.",
+    "skill": 23,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-09-17T23:28:30.230Z",
+      "updatedAt": "2025-01-23T14:17:36.186Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 112,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "grade",
+    "color": "#baa6ca",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Vespillo cupiditas paens currus conservo textus tenus comis cogito spectaculum. Suggero angulus ocer stips reiciendis. Adfero vobis trepide qui vilis.",
+    "skill": 23,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "umquam aiunt"
+      },
+      {
+        "key": "department",
+        "value": "creator acsi"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-28T15:03:10.192Z",
+      "updatedAt": "2024-11-27T22:19:32.888Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 113,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "stars",
+    "color": "#dddab7",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Arcus cura umbra vestrum tremo ceno ventito labore magni. Astrum arx thesis assentator verbera aer. Deprecator alter amaritudo dolorem thermae delibero vero repellendus.",
+    "skill": 23,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "crudelis quaerat"
+      },
+      {
+        "key": "priority",
+        "value": "aggero speciosus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-11T08:52:34.578Z",
+      "updatedAt": "2025-01-27T23:21:47.015Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 114,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "stars",
+    "color": "#2df6fb",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Venustas repellat atavus capto atrocitas modi decor. Nulla auctus vacuus amoveo vobis thema barba. Dolorem commodo antiquus astrum sordeo tardus ara adulescens corrumpo certus.",
+    "skill": 23,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "avarus sum"
+      },
+      {
+        "key": "priority",
+        "value": "excepturi aegrotatio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-22T02:27:43.570Z",
+      "updatedAt": "2023-10-29T08:41:28.316Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 115,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "emoji_events",
+    "color": "#a13f78",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Demergo vis turbo. Blandior validus iusto desino testimonium cunae dolor cubicularis temeritas sperno. Uter crur aranea utique.",
+    "skill": 23,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "trucido maiores"
+      },
+      {
+        "key": "relevance",
+        "value": "caput cena"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-02T17:17:25.556Z",
+      "updatedAt": "2025-04-02T04:42:07.794Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 116,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "emoji_events",
+    "color": "#aca16a",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Teres delectus alioqui deorsum recusandae. Accommodo rerum usus exercitationem demens armarium correptius articulus caute molestias. Solvo adulatio nulla vigor ambitus tergeo.",
+    "skill": 24,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "currus celebrer"
+      },
+      {
+        "key": "relevance",
+        "value": "suspendo tabernus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-12-22T13:13:32.058Z",
+      "updatedAt": "2024-02-05T22:12:03.722Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 117,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "stars",
+    "color": "#41b87c",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Bibo odio numquam deprimo quidem cognatus tutamen ocer. Amoveo somniculosus tantillus audacia. Quos viscus nihil.",
+    "skill": 24,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-02-15T17:42:09.710Z",
+      "updatedAt": "2024-11-03T04:35:18.797Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 118,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "stars",
+    "color": "#dbf987",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Claro vinco adficio eius aequitas quam acer cauda. Cibo culpo explicabo. Addo debitis surculus consectetur ubi patria demo deleniti.",
+    "skill": 24,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "eligendi denuo"
+      },
+      {
+        "key": "source",
+        "value": "voluptatum socius"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-25T15:48:47.316Z",
+      "updatedAt": "2024-06-18T13:23:29.968Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 119,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "star",
+    "color": "#e91073",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Amissio vaco cras ventus. Atqui voluptatem video bardus aequitas. Cuius delinquo cohors laboriosam porro cotidie decet timor.",
+    "skill": 24,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "subito taceo"
+      },
+      {
+        "key": "priority",
+        "value": "arbor tamquam"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-24T23:12:28.578Z",
+      "updatedAt": "2025-05-05T04:34:41.625Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.685Z",
+    "deletedAt": null
+  },
+  {
+    "id": 120,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "star",
+    "color": "#488bb4",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Coepi maiores utroque absorbeo vorax patior adeptio cito vix. Quos addo vorax cupio crebro territo carbo carbo abscido. Timor modi suppono verto appello vomica.",
+    "skill": 24,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-10-10T05:59:52.636Z",
+      "updatedAt": "2024-11-17T13:23:43.938Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.686Z",
+    "deletedAt": null
+  },
+  {
+    "id": 121,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "trending_up",
+    "color": "#b7371a",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Damno copia aliquam denego velut bibo versus. Tollo degero supra votum cribro. Sufficio saepe vulnus eveniet patrocinor temptatio dolores creo ventus aliquam.",
+    "skill": 25,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "angustus acervus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-27T05:02:09.978Z",
+      "updatedAt": "2024-05-18T02:59:52.658Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.686Z",
+    "deletedAt": "2025-05-06T13:43:57.312Z"
+  },
+  {
+    "id": 122,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "trending_up",
+    "color": "#04e2dc",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Ulterius varius crastinus patrocinor umerus. Carcer odio strues vulgo utique sum coniecto vir verumtamen video. Vesper aeternus canto caput trans arbitro sint animadverto possimus.",
+    "skill": 25,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "incidunt cimentarius"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-27T09:32:03.462Z",
+      "updatedAt": "2024-12-03T01:35:13.610Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.686Z",
+    "deletedAt": null
+  },
+  {
+    "id": 123,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "stars",
+    "color": "#e709fe",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Torrens cetera calamitas cresco sonitus usque victus ocer voluptates. Aspicio acsi ea super tempore. Appono curtus aedificium somnus.",
+    "skill": 25,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-07-13T17:06:20.729Z",
+      "updatedAt": "2024-06-07T00:32:04.563Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.686Z",
+    "deletedAt": null
+  },
+  {
+    "id": 124,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "star",
+    "color": "#ecc355",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Dolorem volaticus victoria tantum coruscus abundans. Conitor sol aliqua similique calamitas desipio dolore. Audeo vero caries tempora.",
+    "skill": 25,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "solus aliquid"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-11-30T20:04:32.721Z",
+      "updatedAt": "2025-03-13T22:44:32.892Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.686Z",
+    "deletedAt": null
+  },
+  {
+    "id": 125,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "trending_up",
+    "color": "#cd899d",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Degero deporto tego denuncio quas bellicus coaegresco. Surgo facilis temptatio defluo speciosus contra. Brevis sollicito eius coepi earum tenetur comprehendo vita quam.",
+    "skill": 25,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-11-26T08:33:30.470Z",
+      "updatedAt": "2023-12-27T02:44:47.005Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.686Z",
+    "deletedAt": null
+  },
+  {
+    "id": 126,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "trending_up",
+    "color": "#89370c",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Sopor teneo sed. Tumultus explicabo tremo voluptates ancilla articulus iure certe. Cupiditas cruciamentum ceno quasi complectus.",
+    "skill": 26,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "ab sint"
+      },
+      {
+        "key": "source",
+        "value": "adficio stultus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-07T16:17:26.680Z",
+      "updatedAt": "2024-10-06T20:37:06.487Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.686Z",
+    "deletedAt": null
+  },
+  {
+    "id": 127,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "grade",
+    "color": "#574e5d",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Aro ipsum thesis convoco. Beneficium aggredior virtus comitatus vos atqui. Angelus sto abeo summopere aqua harum atque depromo tremo.",
+    "skill": 26,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "vilicus terra"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-27T22:37:32.363Z",
+      "updatedAt": "2024-05-19T09:14:41.486Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.686Z",
+    "deletedAt": null
+  },
+  {
+    "id": 128,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "grade",
+    "color": "#f57dbf",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Culpo delicate cohibeo utrimque cumque audeo aliquam nemo cometes. Umbra spero tabgo tyrannus creator vulpes demum sequi ventosus balbus. Vulgaris carpo conservo explicabo beneficium abundans alveus arceo.",
+    "skill": 26,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "carmen earum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-12-22T20:48:55.716Z",
+      "updatedAt": "2024-08-13T17:03:37.839Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.686Z",
+    "deletedAt": null
+  },
+  {
+    "id": 129,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "grade",
+    "color": "#fbaff2",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Tergum territo sol. Omnis advoco socius ipsum eaque. Succurro turba verto sapiente ullam adamo avarus varius.",
+    "skill": 26,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "ratione solio"
+      },
+      {
+        "key": "source",
+        "value": "aranea aedificium"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-08-04T17:25:16.213Z",
+      "updatedAt": "2024-10-31T06:57:57.527Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.686Z",
+    "deletedAt": null
+  },
+  {
+    "id": 130,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "emoji_events",
+    "color": "#8b3d2c",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Adulescens suus excepturi voco tempus trans valeo aetas tricesimus. Temporibus aegrotatio conculco adipiscor. Speculum illo tricesimus officia.",
+    "skill": 26,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "video tero"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-09T06:28:07.656Z",
+      "updatedAt": "2025-02-15T14:56:04.032Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.686Z",
+    "deletedAt": null
+  },
+  {
+    "id": 131,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "grade",
+    "color": "#fc84ca",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Cognatus vitium vorago dicta similique solio sophismata decimus vacuus. Solum asporto alveus arguo. Animus cras veniam at corrupti.",
+    "skill": 27,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "vitae curis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-09-09T02:23:14.582Z",
+      "updatedAt": "2025-02-13T00:44:48.521Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.686Z",
+    "deletedAt": "2025-05-06T01:12:50.550Z"
+  },
+  {
+    "id": 132,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "emoji_events",
+    "color": "#f1bfe2",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Quibusdam bis vel pecco subito sollicito canis. Tabula cilicium vix candidus vel spero tenuis cauda viriliter. Vinitor soleo varius tempore sophismata collum.",
+    "skill": 27,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "vis vigor"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-10-23T19:56:00.108Z",
+      "updatedAt": "2024-11-27T20:00:00.894Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.686Z",
+    "deletedAt": null
+  },
+  {
+    "id": 133,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "emoji_events",
+    "color": "#c5419a",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Xiphias timidus coniecto adfectus decumbo vesica conventus surgo adhuc turbo. Decor aiunt absens vesco. Solutio vomito exercitationem nobis consequuntur sto usus.",
+    "skill": 27,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-04-03T13:46:08.722Z",
+      "updatedAt": "2024-07-24T11:06:58.252Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.686Z",
+    "deletedAt": null
+  },
+  {
+    "id": 134,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "trending_up",
+    "color": "#9f3736",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Placeat speciosus compello villa praesentium claustrum non. Aeternus altus celebrer villa decens cavus. Derideo aeger volutabrum beatus uter claro.",
+    "skill": 27,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "vorax demoror"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-15T21:37:37.821Z",
+      "updatedAt": "2024-06-07T12:46:18.547Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.686Z",
+    "deletedAt": null
+  },
+  {
+    "id": 135,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "star",
+    "color": "#8abcee",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Officia cariosus statua caecus conventus alii. Acceptus cohibeo adficio defungo amaritudo urbanus dens. Angulus victus consectetur perferendis talus.",
+    "skill": 27,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "arbustum corrumpo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-02-28T00:15:03.782Z",
+      "updatedAt": "2025-03-05T02:28:44.783Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 136,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "stars",
+    "color": "#3acb36",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Perspiciatis aer explicabo impedit sopor accedo creptio vilicus. Ipsum usitas solus. Cultura possimus asporto curriculum necessitatibus teneo theologus admoveo.",
+    "skill": 28,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "vinum bellum"
+      },
+      {
+        "key": "priority",
+        "value": "vix conservo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-27T02:10:35.681Z",
+      "updatedAt": "2024-12-04T17:35:42.925Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 137,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "trending_up",
+    "color": "#e2d1bd",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Pauci turpis nam antiquus totidem villa calamitas testimonium despecto. Dolor deripio nihil admitto comedo tyrannus attonbitus astrum asperiores certus. Pariatur coniuratio desidero tabernus.",
+    "skill": 28,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-09-10T15:28:44.280Z",
+      "updatedAt": "2024-02-09T02:00:52.790Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 138,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "grade",
+    "color": "#caac3f",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Accusator angustus curriculum vestrum. Defaeco viscus umerus comminor amor vitae vito cruentus vigor. Reiciendis eum inventore carcer crapula approbo contego.",
+    "skill": 28,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-12-05T14:43:54.933Z",
+      "updatedAt": "2024-12-10T00:43:58.811Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": "2025-05-05T15:49:20.933Z"
+  },
+  {
+    "id": 139,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "trending_up",
+    "color": "#a0501a",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Coniuratio coruscus error defessus degenero patior utpote timidus tamen. Clibanus patior paulatim. Voluptatem appono taceo non cursim valetudo conduco una.",
+    "skill": 28,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-03-19T07:10:38.157Z",
+      "updatedAt": "2024-08-14T20:08:44.709Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 140,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "grade",
+    "color": "#97fdc8",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Ambitus natus cunae cohors avaritia defleo tertius. Colo varius argentum. Vivo recusandae delectus libero voluptas.",
+    "skill": 28,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "tempus utpote"
+      },
+      {
+        "key": "difficulty",
+        "value": "adaugeo cito"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-01-19T05:54:35.270Z",
+      "updatedAt": "2024-12-05T13:18:42.869Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 141,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "stars",
+    "color": "#cb2a11",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Vulgivagus auxilium ademptio carpo. Cupio thermae nemo vero dicta distinctio explicabo casso aegrotatio. Tergum absque peccatus nam barba debeo tres desolo succedo non.",
+    "skill": 29,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "animi causa"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-03T18:47:05.214Z",
+      "updatedAt": "2025-05-01T19:54:50.713Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 142,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "grade",
+    "color": "#a5c5d5",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Umquam via atrocitas viridis creber. Toties deputo socius rem vigilo depraedor impedit nam animus. Voro excepturi cupiditate texo sed.",
+    "skill": 29,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-10-12T09:49:22.189Z",
+      "updatedAt": "2025-03-14T16:25:00.388Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 143,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "emoji_events",
+    "color": "#33a42b",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Tubineus torrens inflammatio minus voluptatem animadverto crastinus aiunt corporis. Tersus attero sol tamen. Adeo adiuvo deprecator vulnus tamquam maiores magnam.",
+    "skill": 29,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-12-01T16:22:00.905Z",
+      "updatedAt": "2024-02-14T06:44:40.405Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 144,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "stars",
+    "color": "#1be555",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Infit aliqua attollo. Victoria comptus basium. Admiratio atque blandior atrocitas.",
+    "skill": 29,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "nobis vilis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-17T13:23:26.341Z",
+      "updatedAt": "2025-03-06T10:06:05.825Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 145,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "grade",
+    "color": "#6db16b",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Supplanto adaugeo sodalitas aspicio urbanus vinitor. Thesis aliquam defluo. Carmen considero auctor.",
+    "skill": 29,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-01-28T19:34:49.941Z",
+      "updatedAt": "2024-12-28T20:13:03.358Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 146,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "grade",
+    "color": "#def008",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Cresco conforto ara sperno sint ustilo claudeo talus. Certe certe cresco. Vester abbas cattus amiculum deficio quam auxilium adeptio.",
+    "skill": 30,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "cavus depraedor"
+      },
+      {
+        "key": "source",
+        "value": "animi cuppedia"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-11T05:10:01.519Z",
+      "updatedAt": "2024-03-25T01:50:51.373Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": "2025-05-06T10:58:05.834Z"
+  },
+  {
+    "id": 147,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "trending_up",
+    "color": "#ecd0e4",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Supplanto quibusdam vulgaris aureus. Conforto conscendo auditor territo aranea acer charisma. Vehemens cunabula conqueror sapiente desidero ea.",
+    "skill": 30,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "deorsum aranea"
+      },
+      {
+        "key": "department",
+        "value": "totidem non"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-06-11T09:57:21.467Z",
+      "updatedAt": "2025-02-18T23:45:02.821Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 148,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "grade",
+    "color": "#67e36e",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Sursum damnatio tabula terror civitas comitatus temperantia textilis termes certus. Urbs vesica verto crudelis rem amplitudo vitae. Quisquam tripudio bos perferendis eius.",
+    "skill": 30,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-09-23T02:05:15.849Z",
+      "updatedAt": "2024-08-24T23:30:36.510Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 149,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "stars",
+    "color": "#e6369b",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Absum denuo eveniet enim tempus vado socius assumenda doloribus tersus. Angulus cado aggero tunc cado bis undique uter conservo. Volo coepi ante conventus iusto claustrum conculco.",
+    "skill": 30,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "desipio umbra"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-06-06T06:54:45.330Z",
+      "updatedAt": "2024-07-24T09:12:15.810Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 150,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "emoji_events",
+    "color": "#777dc4",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Caute sollers rerum terreo denego temeritas patrocinor ea charisma curtus. Tolero cernuus autus spiculum cunctatio antea. Teres aperte cupio ipsam vomito subvenio amor benigne amitto.",
+    "skill": 30,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "adficio audax"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-08-24T20:18:27.239Z",
+      "updatedAt": "2025-03-02T10:29:41.430Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 151,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "stars",
+    "color": "#d0c884",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Trepide demum adulatio pel officiis arbustum vae vitae. Eum cursus voco. Adficio absorbeo alias ulciscor ultra derelinquo.",
+    "skill": 31,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "audax temperantia"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-27T16:47:51.235Z",
+      "updatedAt": "2024-11-22T10:05:40.143Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 152,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "stars",
+    "color": "#f80c79",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Volva vulgaris illo sub suppono magnam compono victoria. Tenus antea assumenda aro ulterius inventore cum. Succurro causa deleo delibero tego adeptio.",
+    "skill": 31,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "tyrannus carmen"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-27T19:48:53.790Z",
+      "updatedAt": "2023-08-22T21:00:51.766Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 153,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "trending_up",
+    "color": "#81c6b2",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Ascisco crebro thalassinus umbra. Statua acquiro correptius caries amita sodalitas anser eos venio. Tutis id distinctio spoliatio adopto comptus derelinquo vester.",
+    "skill": 31,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-04-10T02:39:26.883Z",
+      "updatedAt": "2024-08-13T01:00:40.828Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 154,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "star",
+    "color": "#35c8fc",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Denuncio temeritas coniuratio vulgus benigne deprimo excepturi. Cruciamentum thymbra calcar assentator socius annus eius. Coniecto tollo caveo altus vero una sponte subseco.",
+    "skill": 31,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "tepidus alter"
+      },
+      {
+        "key": "source",
+        "value": "iure tener"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-19T08:03:28.583Z",
+      "updatedAt": "2025-01-12T02:19:55.137Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": "2025-05-05T16:39:35.729Z"
+  },
+  {
+    "id": 155,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "trending_up",
+    "color": "#92dfcf",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Suggero comptus tribuo quos. Acerbitas cinis uter tutis. Audentia cupiditas suspendo rem creator.",
+    "skill": 31,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "omnis crebro"
+      },
+      {
+        "key": "relevance",
+        "value": "carus corrumpo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-07-26T04:43:07.031Z",
+      "updatedAt": "2025-03-20T06:49:47.469Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 156,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "trending_up",
+    "color": "#abdd6e",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Auctor vel attero alias video. Volo nobis adversus ascit magnam dicta velut deficio ducimus. Curtus defungo collum conqueror.",
+    "skill": 32,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "tibi fugit"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-13T09:23:06.149Z",
+      "updatedAt": "2024-08-07T23:49:14.306Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 157,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "trending_up",
+    "color": "#4db2d5",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Curvo pax triduana sint defluo aperio urbanus. Eligendi assentator tergo paens deprimo vulpes verbum coadunatio veritatis adstringo. Amplitudo cogito suspendo stabilis tergiversatio argumentum demens testimonium.",
+    "skill": 32,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "amita molestiae"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-07T14:34:50.684Z",
+      "updatedAt": "2025-01-13T15:01:18.463Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 158,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "stars",
+    "color": "#c29eaf",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Celer bestia victoria veritas thorax eveniet auditor temptatio adeptio. Tabgo temperantia termes coerceo testimonium avarus. Ter supra quidem admoneo sol cubo.",
+    "skill": 32,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "talio cognatus"
+      },
+      {
+        "key": "relevance",
+        "value": "arguo curvo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-05-20T23:07:47.340Z",
+      "updatedAt": "2023-05-25T00:28:05.262Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 159,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "stars",
+    "color": "#f73ba3",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Aveho aranea contra tendo curis arca ciminatio defungo basium provident. Urbanus carus nobis delibero uredo acies animi vulnus auctus. Odio charisma confugo eligendi.",
+    "skill": 32,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "taceo vulgivagus"
+      },
+      {
+        "key": "priority",
+        "value": "adnuo at"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-08-18T10:49:43.576Z",
+      "updatedAt": "2024-12-06T12:08:20.145Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 160,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "stars",
+    "color": "#eade3b",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Denique voco amor culpo conspergo calcar. Spectaculum deputo tamen virga cultura degusto uter consequuntur. Contego amplexus voluptates.",
+    "skill": 32,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-08-13T04:30:23.448Z",
+      "updatedAt": "2025-04-09T23:23:07.448Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 161,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "grade",
+    "color": "#aa4331",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Adipiscor ducimus autus commodi auctus apud volup alias. Spargo antepono vinitor adopto atrox comes. Dolor video strenuus alioqui creptio artificiose.",
+    "skill": 33,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-03-26T21:16:23.415Z",
+      "updatedAt": "2025-04-05T16:36:17.628Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 162,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "emoji_events",
+    "color": "#322caa",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Conforto thorax admoveo admoneo artificiose cotidie conservo adimpleo aveho demitto. Decet arceo tertius uredo deludo super solum a claustrum. Benevolentia tutamen tendo ait versus vaco tum distinctio.",
+    "skill": 33,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "valeo beneficium"
+      },
+      {
+        "key": "difficulty",
+        "value": "pax voluptatem"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-29T16:33:39.927Z",
+      "updatedAt": "2024-05-07T07:53:28.850Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 163,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "stars",
+    "color": "#4b8dd9",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Officiis villa spoliatio sursum caterva demulceo ater suasoria coaegresco. Debeo cunctatio quis. Delectatio tenus vulnero defendo abbas.",
+    "skill": 33,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "contego laboriosam"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-07-05T13:07:20.701Z",
+      "updatedAt": "2025-03-02T11:00:31.495Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 164,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "emoji_events",
+    "color": "#b0a31a",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Certe numquam verumtamen terga contigo. Compono paens vulgaris subnecto. Denego tenus cresco vos voveo delicate.",
+    "skill": 33,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "adversus casus"
+      },
+      {
+        "key": "difficulty",
+        "value": "eum curtus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-13T22:43:39.160Z",
+      "updatedAt": "2024-12-05T23:25:08.720Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 165,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "stars",
+    "color": "#d2caa4",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Vorago adulescens vere conculco verbum adipisci impedit commemoro verbera. Antiquus atavus praesentium deputo tero curia non sophismata in vesper. Numquam virga tantillus mollitia attonbitus adduco atrocitas.",
+    "skill": 33,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-07-02T02:44:08.718Z",
+      "updatedAt": "2024-09-10T10:32:43.737Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 166,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "star",
+    "color": "#dd5cc0",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Utroque clarus urbs subito occaecati patior aufero validus venustas uter. Compono volo ulciscor. Usque quos cariosus.",
+    "skill": 34,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "paens vinitor"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-05-19T06:01:31.343Z",
+      "updatedAt": "2024-09-17T08:45:24.654Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 167,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "grade",
+    "color": "#95cafd",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Patruus catena callide thesis corrumpo despecto bellum contra cupio arcus. Cunae thesaurus collum comminor vinco turba vorax usus tibi cunabula. Sustineo comparo cena acies quos caterva nemo.",
+    "skill": 34,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-04-02T16:09:25.861Z",
+      "updatedAt": "2025-03-22T12:36:36.366Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 168,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "emoji_events",
+    "color": "#6fb8b3",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Utrimque veniam facere. Quia vorago tracto aureus asper. Modi depromo cometes eos.",
+    "skill": 34,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "deleo necessitatibus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-11-06T00:56:59.785Z",
+      "updatedAt": "2024-06-19T02:55:58.639Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 169,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "stars",
+    "color": "#34bca1",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Solum corona pecco desidero cura campana acsi. Considero subseco suffoco aureus callide. Copia advenio somnus velociter eos laborum totam stabilis solitudo aegrus.",
+    "skill": 34,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "uredo conicio"
+      },
+      {
+        "key": "popularity",
+        "value": "cilicium cernuus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-10T06:59:40.659Z",
+      "updatedAt": "2024-05-21T17:32:44.566Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 170,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "trending_up",
+    "color": "#e97aba",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Basium clam spero. Tumultus comitatus averto demo civitas despecto caelestis casso perferendis amplus. Desipio vis adulescens vado.",
+    "skill": 34,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "tam talio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-06-07T09:19:49.280Z",
+      "updatedAt": "2024-12-07T03:42:09.860Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 171,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "star",
+    "color": "#c27b97",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Arma tepesco pax calco abundans casso distinctio tribuo accommodo. Angelus super deludo spes votum arcesso degero. Debilito comburo sperno tricesimus.",
+    "skill": 35,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "magni anser"
+      },
+      {
+        "key": "difficulty",
+        "value": "dolore atrocitas"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-11-13T16:15:13.488Z",
+      "updatedAt": "2025-04-15T01:16:19.615Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 172,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "stars",
+    "color": "#ae6f13",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Arcesso reprehenderit subseco. Angustus praesentium sodalitas caelestis. Cernuus aptus audeo accendo degenero.",
+    "skill": 35,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-02-15T05:11:56.636Z",
+      "updatedAt": "2025-03-13T10:04:25.553Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 173,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "star",
+    "color": "#9d0aa0",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Arx demoror ter tamdiu canonicus anser atrocitas virga delego. Sordeo capitulus amet cultura benigne minima suspendo nisi vinculum una. Currus adipiscor conturbo architecto quod concedo demens caute tabernus.",
+    "skill": 35,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "abduco deserunt"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-02-05T03:18:30.616Z",
+      "updatedAt": "2025-02-22T15:40:54.398Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 174,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "emoji_events",
+    "color": "#fc4a6f",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Vivo voluptates succurro verumtamen tenus inflammatio vado harum adipiscor vitium. Amissio cribro toties. Curriculum utrum clamo umerus ambulo.",
+    "skill": 35,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "depulso aliquam"
+      },
+      {
+        "key": "popularity",
+        "value": "cursus commemoro"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-22T09:29:15.510Z",
+      "updatedAt": "2025-04-11T18:04:30.972Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 175,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "grade",
+    "color": "#fcd2fb",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Inventore aedificium appono. Creptio civitas solitudo candidus centum optio crastinus conforto tenetur coniecto. Nam thema amor illo.",
+    "skill": 35,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "arx vallum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-01-05T12:41:16.039Z",
+      "updatedAt": "2024-10-26T19:39:48.727Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.687Z",
+    "deletedAt": null
+  },
+  {
+    "id": 176,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "stars",
+    "color": "#a1209f",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Arbor cilicium solium conatus. Nesciunt velum capillus tener textor depraedor carpo solium confido tenuis. Voco quod quisquam supellex absque deporto soluta suppellex.",
+    "skill": 36,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-10-31T15:53:54.712Z",
+      "updatedAt": "2025-03-31T17:34:37.619Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.688Z",
+    "deletedAt": null
+  },
+  {
+    "id": 177,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "grade",
+    "color": "#7d9e6c",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Nostrum damnatio vester tabgo. Adnuo vigor acsi attonbitus ut. Tamisium tubineus nam taedium pax adversus sono verto auxilium.",
+    "skill": 36,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "capitulus amitto"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-01-30T23:43:11.410Z",
+      "updatedAt": "2024-05-21T00:29:29.782Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.688Z",
+    "deletedAt": null
+  },
+  {
+    "id": 178,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "emoji_events",
+    "color": "#17dbdc",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Comprehendo magnam aduro delego totus ceno suppono. Communis accedo aureus vigor dolores accendo statua coma demo cui. Verumtamen accommodo benigne.",
+    "skill": 36,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "odio uberrime"
+      },
+      {
+        "key": "relevance",
+        "value": "suscipio catena"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-01-08T12:34:50.781Z",
+      "updatedAt": "2024-11-03T23:42:34.326Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.688Z",
+    "deletedAt": null
+  },
+  {
+    "id": 179,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "star",
+    "color": "#c703e5",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Blanditiis comparo una timidus veritas cumque. Veritatis sponte conservo vos vilicus suggero tubineus illo temeritas. Bos timor arto verecundia aestas.",
+    "skill": 36,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "uxor catena"
+      },
+      {
+        "key": "difficulty",
+        "value": "ex sumptus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-07T19:26:57.076Z",
+      "updatedAt": "2024-10-28T03:34:10.171Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.688Z",
+    "deletedAt": null
+  },
+  {
+    "id": 180,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "trending_up",
+    "color": "#0a6ae7",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Distinctio thalassinus celebrer tero victus tandem. Crustulum turba cribro carbo patruus cubicularis arca patruus aqua. Aspicio aqua tepesco.",
+    "skill": 36,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-02-17T13:50:21.963Z",
+      "updatedAt": "2025-05-02T20:34:41.541Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.688Z",
+    "deletedAt": null
+  },
+  {
+    "id": 181,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "emoji_events",
+    "color": "#66125c",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Coniecto non correptius summopere creo comprehendo caterva accendo. Inflammatio cinis vilicus amitto nostrum. Trans tergum ait sumo considero turpis.",
+    "skill": 37,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-09-12T10:17:39.588Z",
+      "updatedAt": "2025-05-04T13:43:50.865Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.688Z",
+    "deletedAt": null
+  },
+  {
+    "id": 182,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "emoji_events",
+    "color": "#421570",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Vehemens depraedor abduco. Abbas alter arceo utroque. Turba custodia collum adinventitias careo.",
+    "skill": 37,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-06-18T08:44:27.133Z",
+      "updatedAt": "2024-02-14T04:09:28.331Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.688Z",
+    "deletedAt": null
+  },
+  {
+    "id": 183,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "stars",
+    "color": "#eddec5",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Ratione urbanus conor uredo brevis deporto. Vester speciosus barba suggero aegrotatio. Tamquam aptus volo xiphias victus sufficio.",
+    "skill": 37,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-08-30T21:16:18.252Z",
+      "updatedAt": "2025-05-04T01:32:57.996Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.688Z",
+    "deletedAt": null
+  },
+  {
+    "id": 184,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "stars",
+    "color": "#705ddc",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Succurro ara tersus vorax torqueo currus caries. Astrum ratione accusantium vel quaerat ait conculco summa. Impedit audentia tero vere denique vacuus expedita talio capitulus angustus.",
+    "skill": 37,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-02-25T19:08:09.792Z",
+      "updatedAt": "2024-06-11T11:54:54.520Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.688Z",
+    "deletedAt": null
+  },
+  {
+    "id": 185,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "emoji_events",
+    "color": "#d7d58c",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Sortitus abutor repudiandae facere vulnus argentum cohors alienus. Tabella mollitia apostolus undique verto umbra amplexus peccatus. Agnosco sed balbus illum.",
+    "skill": 37,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "pecto vito"
+      },
+      {
+        "key": "priority",
+        "value": "cauda beatus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-11-26T12:15:27.860Z",
+      "updatedAt": "2025-01-15T08:47:36.617Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.688Z",
+    "deletedAt": null
+  },
+  {
+    "id": 186,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "grade",
+    "color": "#d93f6b",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Libero undique crastinus video. Texo adstringo audio voluptatum deduco supellex tenuis contra defluo demum. Tumultus strenuus utor custodia thalassinus apparatus angulus statim venia.",
+    "skill": 38,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-08-01T06:17:32.537Z",
+      "updatedAt": "2024-10-14T03:20:07.333Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.688Z",
+    "deletedAt": null
+  },
+  {
+    "id": 187,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "grade",
+    "color": "#2effcc",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Básico, debes: Stella ventosus cognatus voluptatibus cibo cohibeo perferendis talus. Ager comminor tantillus tenus. Toties sperno depereo acquiro arbor culpa.",
+    "skill": 38,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-07-12T06:10:15.946Z",
+      "updatedAt": "2024-04-18T20:45:38.609Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.688Z",
+    "deletedAt": "2025-05-06T07:23:26.387Z"
+  },
+  {
+    "id": 188,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "trending_up",
+    "color": "#772b0f",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Carpo architecto subnecto. Libero curto voluptatem tersus tam stabilis suppono cornu validus triumphus. Adopto bestia tabgo sodalitas uredo voluptates veritas arguo desidero.",
+    "skill": 38,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-09-27T18:52:29.827Z",
+      "updatedAt": "2024-09-17T05:30:47.401Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.688Z",
+    "deletedAt": null
+  },
+  {
+    "id": 189,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "stars",
+    "color": "#41f44e",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Apostolus utroque inventore unde modi vindico tamisium. Omnis aggero trucido antea soluta defendo aequus desino labore toties. Solio capto varietas certe basium spectaculum canto corona depraedor.",
+    "skill": 38,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-11-16T07:56:15.018Z",
+      "updatedAt": "2025-01-31T16:10:04.290Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.689Z",
+    "deletedAt": null
+  },
+  {
+    "id": 190,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "stars",
+    "color": "#fe348a",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Demitto colo corporis viduo. Astrum vomito cupiditate sumptus virga expedita sodalitas totam. Soleo commodi carcer thymum.",
+    "skill": 38,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "thema clarus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-16T23:08:24.380Z",
+      "updatedAt": "2025-04-23T07:36:49.945Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.689Z",
+    "deletedAt": null
+  },
+  {
+    "id": 191,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "stars",
+    "color": "#002061",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Civitas velut pel valeo. Denique conculco ater conforto calcar sed cuppedia valetudo. Adfero baiulus tantillus admoneo audio vivo valens ater aedificium.",
+    "skill": 39,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "acerbitas culpo"
+      },
+      {
+        "key": "source",
+        "value": "clamo vae"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-25T01:00:58.103Z",
+      "updatedAt": "2025-03-05T17:29:02.499Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.689Z",
+    "deletedAt": null
+  },
+  {
+    "id": 192,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "star",
+    "color": "#20fd9c",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Vespillo paens coniecto exercitationem expedita abbas cinis varius aequus provident. Quas tres ascit vomer abundans tabella velum. Doloremque theologus adipisci est quia enim aer summisse.",
+    "skill": 39,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "beatae volva"
+      },
+      {
+        "key": "source",
+        "value": "patruus animi"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-02-28T21:26:41.935Z",
+      "updatedAt": "2025-04-17T03:23:10.524Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.690Z",
+    "deletedAt": null
+  },
+  {
+    "id": 193,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "emoji_events",
+    "color": "#0cdfa4",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Angulus bellicus aliqua nisi ascisco admoneo voluptatem. Vinco tergeo aiunt calcar nemo aggero. Vehemens virga ex excepturi abbas administratio.",
+    "skill": 39,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-01-16T22:15:29.713Z",
+      "updatedAt": "2024-03-13T08:17:52.313Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.690Z",
+    "deletedAt": null
+  },
+  {
+    "id": 194,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "stars",
+    "color": "#b6404c",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Ulterius audacia iure velociter atque via. Modi pax verto complectus. Credo canis accusamus.",
+    "skill": 39,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "cohibeo bellum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-18T05:44:54.936Z",
+      "updatedAt": "2024-04-21T20:07:15.276Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.690Z",
+    "deletedAt": null
+  },
+  {
+    "id": 195,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "emoji_events",
+    "color": "#beb2ac",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Summopere sublime cunabula balbus tendo. Uxor utpote carus careo. Acer asporto cibo tendo velut aedificium.",
+    "skill": 39,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "cotidie vulticulus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-05-26T23:30:47.384Z",
+      "updatedAt": "2024-07-23T21:01:46.466Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.690Z",
+    "deletedAt": null
+  },
+  {
+    "id": 196,
+    "name": "Principiante",
+    "description": "Conocimiento básico y familiaridad con los conceptos fundamentales",
+    "value": 1,
+    "icon": "grade",
+    "color": "#9fbbbf",
+    "isDefault": true,
+    "criteria": "Para alcanzar el nivel Principiante, debes: Aggero perspiciatis aliqua tot apparatus inventore. Ducimus thesaurus appositus coaegresco fugiat canis villa umbra contigo textor. Aut deduco expedita auxilium cinis theologus.",
+    "skill": 40,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "triumphus vis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-25T00:15:09.365Z",
+      "updatedAt": "2024-11-25T22:44:16.373Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.690Z",
+    "deletedAt": null
+  },
+  {
+    "id": 197,
+    "name": "Básico",
+    "description": "Capacidad para realizar tareas básicas con ayuda ocasional",
+    "value": 2,
+    "icon": "emoji_events",
+    "color": "#a3cfdc",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Básico, debes: Quaerat cupiditas vulnero architecto tyrannus spectaculum velociter. Commodo vito commemoro commodi angulus desino sequi verus. Adduco arbitro casus capto desolo suscipio saepe textus summopere.",
+    "skill": 40,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-03-23T04:54:49.750Z",
+      "updatedAt": "2025-04-23T10:05:24.289Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.690Z",
+    "deletedAt": null
+  },
+  {
+    "id": 198,
+    "name": "Intermedio",
+    "description": "Competencia para trabajar de forma independiente en la mayoría de las tareas",
+    "value": 3,
+    "icon": "stars",
+    "color": "#bb3eaf",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Intermedio, debes: Maiores aeneus ager denuncio vinco terreo. Cruciamentum demens spes teneo demonstro pecus aegrus apostolus. Vitae tardus ulterius pauper alias sumo ascisco.",
+    "skill": 40,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-03-05T22:44:58.294Z",
+      "updatedAt": "2024-06-18T00:27:29.846Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.691Z",
+    "deletedAt": null
+  },
+  {
+    "id": 199,
+    "name": "Avanzado",
+    "description": "Dominio profundo y capacidad para resolver problemas complejos",
+    "value": 4,
+    "icon": "emoji_events",
+    "color": "#1ab584",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Avanzado, debes: Demum ipsam curto una. Adipiscor arx addo cena tergiversatio cunabula tutamen. Quidem illum tempora claro conicio atque.",
+    "skill": 40,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "thesis comedo"
+      },
+      {
+        "key": "relevance",
+        "value": "bardus aranea"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-25T14:29:32.442Z",
+      "updatedAt": "2024-06-04T18:01:41.497Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.691Z",
+    "deletedAt": null
+  },
+  {
+    "id": 200,
+    "name": "Experto",
+    "description": "Maestría completa y capacidad para innovar y enseñar a otros",
+    "value": 5,
+    "icon": "emoji_events",
+    "color": "#beabef",
+    "isDefault": false,
+    "criteria": "Para alcanzar el nivel Experto, debes: Reiciendis reprehenderit aestus neque velut celebrer est cursus aeternus. Antepono abeo accusamus aut corrupti ducimus. Thalassinus ex aedificium esse.",
+    "skill": 40,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "cohors cogo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-05-26T16:25:07.733Z",
+      "updatedAt": "2024-03-23T08:44:06.530Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.691Z",
+    "deletedAt": null
+  }
+]

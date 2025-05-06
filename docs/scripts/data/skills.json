@@ -1,0 +1,1175 @@
+[
+  {
+    "id": 1,
+    "name": "PCB",
+    "description": "Tergum abbas dapifer praesentium vigor. Brevis coaegresco quos tumultus. Consectetur sed valetudo.",
+    "slug": "pcb",
+    "icon": "beaker",
+    "color": "#748f8d",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Vix comedo vester verbum delectus vobis valens culpo soluta. Suus conforto cui quidem vigilo spero bestia demum circumvenio temeritas. Approbo pectus verbera balbus vetus comis tactus adversus.",
+    "parentSkill": null,
+    "category": 3,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "baiulus arcesso"
+      },
+      {
+        "key": "department",
+        "value": "capto vita"
+      },
+      {
+        "key": "source",
+        "value": "delicate claro"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-05-29T08:07:06.870Z",
+      "updatedAt": "2025-01-18T02:15:06.976Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.619Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Fresado CNC",
+    "description": "Distinctio vito coma theologus pauci condico cupio utrum aperte. Asperiores appositus blandior vita accendo. Dolorum universe vobis vesper curto.",
+    "slug": "fresado-cnc",
+    "icon": "camera",
+    "color": "#65f4b1",
+    "isActive": false,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Vulariter tenax una suscipio cauda conservo. Fugiat talus theatrum abbas spoliatio teres contabesco. Eligendi conventus certus fugit.",
+    "parentSkill": null,
+    "category": 4,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "barba blandior"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-08-02T10:45:55.199Z",
+      "updatedAt": "2024-11-02T03:32:03.100Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.619Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Photoshop",
+    "description": "Explicabo versus urbanus capio. Articulus paulatim sum termes adhuc comburo denuncio uredo tabgo vorago. Trucido victus vallum crapula impedit.",
+    "slug": "photoshop",
+    "icon": "chip",
+    "color": "#0d5a7c",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Vulgivagus cubitum caterva laborum angustus. Tamquam teres culpo beatae tres triumphus adflicto benevolentia illo compello. Consectetur solium venio comitatus tamdiu voluptatum.",
+    "parentSkill": null,
+    "category": 2,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "cunae non"
+      },
+      {
+        "key": "tag",
+        "value": "solvo amor"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-01T16:29:59.682Z",
+      "updatedAt": "2024-04-20T14:53:40.064Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.619Z",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "name": "Fresado CNC 1",
+    "description": "Strues curia strenuus thermae derideo texo asperiores. Avaritia tergo optio attero defessus vinitor dens. Cito nobis occaecati vicinus demergo vomer torqueo venia subiungo surgo.",
+    "slug": "fresado-cnc-1",
+    "icon": "brush",
+    "color": "#ca3e0b",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": null,
+    "parentSkill": null,
+    "category": 4,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "coerceo succurro"
+      },
+      {
+        "key": "difficulty",
+        "value": "correptius corroboro"
+      },
+      {
+        "key": "difficulty",
+        "value": "tribuo peccatus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-07T01:03:24.906Z",
+      "updatedAt": "2023-10-28T08:00:28.819Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.619Z",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "name": "MQTT",
+    "description": "Vitiosus alter succurro astrum clam. Apparatus crudelis trepide decor despecto theologus cui. Tamen timidus coniuratio aequus labore subseco ultio centum adeptio sed.",
+    "slug": "mqtt",
+    "icon": "brush",
+    "color": "#48eafa",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": null,
+    "parentSkill": null,
+    "category": 7,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "sublime deorsum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-19T02:58:33.384Z",
+      "updatedAt": "2023-10-06T03:42:59.042Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.619Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "C++",
+    "description": "Sint autus eaque patrocinor. Desolo totidem cum pauci reiciendis colo. Aetas cotidie ad decretum antea.",
+    "slug": "c++",
+    "icon": "chip",
+    "color": "#cd600a",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Talus terebro curia ago volva demum eius. Demulceo decet conduco videlicet. Ventosus absens sublime cribro similique cum defluo a comitatus.",
+    "parentSkill": null,
+    "category": 1,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "color degusto"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-01-08T00:35:55.164Z",
+      "updatedAt": "2025-02-22T02:17:11.890Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.619Z",
+    "deletedAt": "2025-05-06T13:46:22.028Z"
+  },
+  {
+    "id": 7,
+    "name": "Circuitos",
+    "description": "Perferendis coniecto valens iusto despecto stipes neque. Utroque maiores accedo. Ex demonstro vinum sophismata quo cena curo cibo solus pecus.",
+    "slug": "circuitos",
+    "icon": "brush",
+    "color": "#ccb6d0",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Conduco tutis bellicus auctus usitas vae thymbra amplexus. Quis advoco corrigo. Rem tamquam ceno auditor abduco vereor terebro dolor odio tracto.",
+    "parentSkill": null,
+    "category": 3,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "umerus caelestis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-17T03:27:56.211Z",
+      "updatedAt": "2024-09-18T10:01:49.770Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.619Z",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "name": "Ruby",
+    "description": "Cohaero sollicito concido. Abduco candidus derelinquo esse carbo deporto velum. Cubicularis agnitio defungo denuncio trucido.",
+    "slug": "ruby",
+    "icon": "beaker",
+    "color": "#e58bbd",
+    "isActive": true,
+    "isVerifiable": false,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Velum adduco iusto varius mollitia. Vereor hic vesica sint curso catena. Appono tactus tutis curis voro desolo suffoco calculus autus.",
+    "parentSkill": null,
+    "category": 1,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-05-19T15:30:34.276Z",
+      "updatedAt": "2024-05-25T07:29:33.733Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.619Z",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "name": "Moldeado",
+    "description": "Sonitus amissio adhaero chirographum cado amo defessus cogo custodia. Sufficio tantum cresco. Valeo paulatim sopor succedo terreo virga caecus sponte decet.",
+    "slug": "moldeado",
+    "icon": "cloud",
+    "color": "#36d76d",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Tremo id cena validus comitatus cura avaritia vomer. Eum autus laborum credo. Acquiro atqui dedico.",
+    "parentSkill": null,
+    "category": 4,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "explicabo certe"
+      },
+      {
+        "key": "priority",
+        "value": "arbitro amor"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-07-15T02:34:45.375Z",
+      "updatedAt": "2025-04-13T03:35:31.231Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.619Z",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "name": "Big Data",
+    "description": "Necessitatibus articulus confido utrum alius amor brevis voluptas. Aeneus administratio ea stips sumo nulla ab suasoria. Decimus eos ancilla amita causa arceo comburo.",
+    "slug": "big-data",
+    "icon": "terminal",
+    "color": "#eb8a5e",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Eveniet timor attollo aqua auxilium absque aqua virtus tibi amiculum. Quaerat calco vito supellex summa cubicularis ea arma adsidue certus. Cito commemoro peior spiculum illum bis.",
+    "parentSkill": null,
+    "category": 8,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "ad quas"
+      },
+      {
+        "key": "priority",
+        "value": "ulciscor admiratio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-12-07T20:23:25.828Z",
+      "updatedAt": "2024-10-28T14:44:24.697Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.619Z",
+    "deletedAt": "2025-05-05T19:31:30.903Z"
+  },
+  {
+    "id": 11,
+    "name": "C++ 1",
+    "description": "Auxilium quia synagoga occaecati absconditus undique crepusculum allatus damno. Vulgivagus suppono provident coruscus repellendus quam tum voluptatem. Decet peior acervus.",
+    "slug": "c++-1",
+    "icon": "code",
+    "color": "#d274df",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Natus distinctio quos doloribus. Demonstro terga thermae perferendis. Conqueror admiratio ascit via.",
+    "parentSkill": null,
+    "category": 1,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "creptio xiphias"
+      },
+      {
+        "key": "tag",
+        "value": "apostolus angustus"
+      },
+      {
+        "key": "priority",
+        "value": "solutio culpo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-09-25T11:57:30.681Z",
+      "updatedAt": "2025-04-15T14:36:30.312Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.633Z",
+    "deletedAt": null
+  },
+  {
+    "id": 12,
+    "name": "SLA",
+    "description": "Color aqua aperio arbor suscipio suggero aegrotatio deserunt amissio tutis. Inventore eaque debilito vita cognatus coma libero theca. Vae verumtamen stabilis deinde totus laudantium.",
+    "slug": "sla",
+    "icon": "brush",
+    "color": "#5bed3e",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": null,
+    "parentSkill": null,
+    "category": 5,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "audacia alioqui"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-21T11:40:15.594Z",
+      "updatedAt": "2025-01-30T18:11:44.348Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.633Z",
+    "deletedAt": null
+  },
+  {
+    "id": 13,
+    "name": "PCB 1",
+    "description": "Comburo nihil commemoro trucido. Sponte quia eius vester decipio administratio coruscus attonbitus clamo. Iusto exercitationem conitor necessitatibus appono sonitus sum.",
+    "slug": "pcb-1",
+    "icon": "brush",
+    "color": "#ef07c1",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": null,
+    "parentSkill": null,
+    "category": 3,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "suus circumvenio"
+      },
+      {
+        "key": "relevance",
+        "value": "deinde omnis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-01-14T09:23:00.677Z",
+      "updatedAt": "2024-11-03T21:08:30.380Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.634Z",
+    "deletedAt": null
+  },
+  {
+    "id": 14,
+    "name": "Visualización",
+    "description": "Cresco minima autem antiquus aer animadverto. Avaritia vitiosus vilicus delicate tonsor eaque. Tredecim praesentium doloremque comedo aspicio alter iusto.",
+    "slug": "visualización",
+    "icon": "code",
+    "color": "#c221ac",
+    "isActive": true,
+    "isVerifiable": false,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Undique cogo demonstro succurro aegre cunctatio admitto placeat demergo vito. Tempora canonicus ait coerceo animadverto. Quasi coaegresco capillus beatus contabesco peior.",
+    "parentSkill": 10,
+    "category": 8,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-04-10T04:37:04.293Z",
+      "updatedAt": "2024-06-06T08:06:18.509Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.634Z",
+    "deletedAt": null
+  },
+  {
+    "id": 15,
+    "name": "MQTT 1",
+    "description": "Cras defluo venio videlicet animi vehemens corporis contra desipio abduco. Denuncio benigne sodalitas theologus tantillus. Adulescens at tener.",
+    "slug": "mqtt-1",
+    "icon": "pen",
+    "color": "#8d3db3",
+    "isActive": true,
+    "isVerifiable": false,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Sonitus asporto communis. Denego trepide viridis sint. Cogo solitudo concedo charisma caecus caelestis arto cresco.",
+    "parentSkill": null,
+    "category": 7,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-06-10T03:48:17.925Z",
+      "updatedAt": "2024-08-27T16:52:56.975Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.635Z",
+    "deletedAt": null
+  },
+  {
+    "id": 16,
+    "name": "MQTT 2",
+    "description": "Temeritas conduco sperno antea amitto ratione optio tunc addo ipsam. Temperantia tergeo ventito debitis vitiosus virga vulticulus. Sortitus cunctatio vinco vitium nam curiositas arceo ante officia defleo.",
+    "slug": "mqtt-2",
+    "icon": "camera",
+    "color": "#efacad",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Spes desparatus coadunatio cunae depulso consequatur cilicium allatus. Aggredior curso ceno voluntarius pecco ara. Cometes vomica damnatio tracto tibi corporis auditor arma optio.",
+    "parentSkill": null,
+    "category": 7,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "sto cito"
+      },
+      {
+        "key": "department",
+        "value": "ante angulus"
+      },
+      {
+        "key": "priority",
+        "value": "ascit voluptatum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-30T03:25:54.474Z",
+      "updatedAt": "2025-02-25T05:01:37.870Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.635Z",
+    "deletedAt": null
+  },
+  {
+    "id": 17,
+    "name": "Arduino",
+    "description": "Debitis cultura cresco doloremque debitis asporto aspernatur totam ullam aveho. Vere utpote thorax sodalitas voro approbo veritatis patruus delicate. Adstringo magnam arbor aiunt vulgus truculenter desino thymum.",
+    "slug": "arduino",
+    "icon": "cloud",
+    "color": "#2ea57e",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Quos aperte timor comedo ciminatio consectetur vulgivagus crepusculum deduco ulciscor. Vulpes eaque deputo videlicet tardus depereo aduro. Decor harum cuius animi succedo temeritas.",
+    "parentSkill": null,
+    "category": 3,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "tubineus vilicus"
+      },
+      {
+        "key": "popularity",
+        "value": "vulpes careo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-11T03:03:19.733Z",
+      "updatedAt": "2025-04-26T17:30:13.332Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.635Z",
+    "deletedAt": null
+  },
+  {
+    "id": 18,
+    "name": "Figma",
+    "description": "Comprehendo alioqui agnosco deripio degero viridis defaeco. Commemoro validus delego capto trepide volaticus defungo viridis. Amet tristis xiphias ulterius conqueror aestivus inflammatio cibus aggredior.",
+    "slug": "figma",
+    "icon": "database",
+    "color": "#f16bf0",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Spero titulus communis thalassinus umquam compello comburo admitto argumentum demo. Blanditiis iusto inflammatio dolor totus comprehendo ara voluptatum turbo. Accedo turbo verbera audio creber acquiro adsum qui vociferor.",
+    "parentSkill": null,
+    "category": 2,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "apostolus vulgaris"
+      },
+      {
+        "key": "priority",
+        "value": "cibus statua"
+      },
+      {
+        "key": "department",
+        "value": "tertius cohaero"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-15T15:11:03.814Z",
+      "updatedAt": "2025-03-11T11:36:17.907Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.636Z",
+    "deletedAt": null
+  },
+  {
+    "id": 19,
+    "name": "JavaScript",
+    "description": "Culpa thesis somniculosus arceo. Arx cunabula tumultus valens cultura sed subnecto color tenetur deprecator. Quaerat sint porro ustilo vulgo.",
+    "slug": "javascript",
+    "icon": "terminal",
+    "color": "#459ed5",
+    "isActive": false,
+    "isVerifiable": false,
+    "verificationCriteria": null,
+    "parentSkill": 8,
+    "category": 1,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "theca corona"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-19T02:12:15.135Z",
+      "updatedAt": "2025-01-17T16:06:47.721Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.638Z",
+    "deletedAt": null
+  },
+  {
+    "id": 20,
+    "name": "Fresado CNC 2",
+    "description": "Cetera tendo itaque cibus coepi adamo vespillo depono terebro ullus. Verus virgo laudantium tero demo. Aperio antiquus cariosus compello subnecto tego volva tepidus.",
+    "slug": "fresado-cnc-2",
+    "icon": "code",
+    "color": "#49f266",
+    "isActive": true,
+    "isVerifiable": false,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Adversus appositus denique veritatis decumbo. Trado amplus carpo textilis torqueo carus. Tricesimus thymbra angustus.",
+    "parentSkill": null,
+    "category": 4,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "arguo casus"
+      },
+      {
+        "key": "department",
+        "value": "abstergo ultra"
+      },
+      {
+        "key": "source",
+        "value": "talus undique"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-26T08:40:41.925Z",
+      "updatedAt": "2025-05-03T19:51:39.474Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.639Z",
+    "deletedAt": null
+  },
+  {
+    "id": 21,
+    "name": "Automatización",
+    "description": "Validus peccatus ex curia agnitio constans quasi coma. Cornu pecto alioqui umbra tracto deleo curis. Supplanto ter sint virgo.",
+    "slug": "automatización",
+    "icon": "wrench",
+    "color": "#3dcccc",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Tabesco adhaero voveo. Utrimque communis tero volutabrum utpote absorbeo incidunt suggero subvenio. Aestas dolore delectus culpo succurro.",
+    "parentSkill": null,
+    "category": 6,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "aeternus conforto"
+      },
+      {
+        "key": "relevance",
+        "value": "comis amita"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-21T23:49:09.076Z",
+      "updatedAt": "2025-02-20T21:10:00.328Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.640Z",
+    "deletedAt": null
+  },
+  {
+    "id": 22,
+    "name": "SLA 1",
+    "description": "Ager fugit vesper. Synagoga bene ascisco stips commemoro succurro tepesco aperte natus ancilla. Celebrer altus decor adfectus consequuntur commodi.",
+    "slug": "sla-1",
+    "icon": "pen",
+    "color": "#8eebd3",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": null,
+    "parentSkill": null,
+    "category": 5,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "suadeo cotidie"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-10T11:16:01.184Z",
+      "updatedAt": "2025-04-20T16:26:43.557Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.640Z",
+    "deletedAt": null
+  },
+  {
+    "id": 23,
+    "name": "InDesign",
+    "description": "Tyrannus vulticulus vomer benevolentia voluptates defero corrupti aequitas voco enim. Cruentus appello tabula bellicus. Adeo ascisco utroque traho caterva.",
+    "slug": "indesign",
+    "icon": "code",
+    "color": "#8ff47c",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Eius acervus thalassinus eum tam. Vix ea adversus bene coaegresco tamisium deripio terreo. Benevolentia minus auctor dolor animus correptius numquam spiritus constans caelestis.",
+    "parentSkill": null,
+    "category": 2,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "certe accusamus"
+      },
+      {
+        "key": "priority",
+        "value": "demergo in"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-06-02T03:55:47.169Z",
+      "updatedAt": "2023-09-06T11:26:49.864Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.642Z",
+    "deletedAt": null
+  },
+  {
+    "id": 24,
+    "name": "PCB 2",
+    "description": "Templum arceo certus numquam viduo cuius tenax. Arcesso theatrum tego conturbo allatus derelinquo vere comes. Cognatus tubineus defleo aspernatur celebrer.",
+    "slug": "pcb-2",
+    "icon": "pen",
+    "color": "#b8c8d8",
+    "isActive": true,
+    "isVerifiable": false,
+    "verificationCriteria": null,
+    "parentSkill": null,
+    "category": 3,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "catena pecco"
+      },
+      {
+        "key": "priority",
+        "value": "autus una"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-01-12T06:08:33.440Z",
+      "updatedAt": "2025-02-18T21:40:54.535Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.642Z",
+    "deletedAt": null
+  },
+  {
+    "id": 25,
+    "name": "ROS",
+    "description": "Acidus tui arceo textilis ducimus terebro vorax vel tepidus optio. Apparatus arcus comminor voluptatibus cum sapiente qui anser crustulum comburo. Theca excepturi succurro aestus eaque advenio tandem video cognomen victoria.",
+    "slug": "ros",
+    "icon": "chip",
+    "color": "#b98721",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": null,
+    "parentSkill": null,
+    "category": 6,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-01-28T09:23:55.102Z",
+      "updatedAt": "2025-03-17T14:33:58.474Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.642Z",
+    "deletedAt": "2025-05-06T07:08:15.720Z"
+  },
+  {
+    "id": 26,
+    "name": "Diseño Web",
+    "description": "Solio bonus cumque amplitudo subiungo cattus angulus. Abundans abeo arbitro defaeco tutis fugit. Coma totidem demonstro vulnus tenus cultellus corrigo.",
+    "slug": "diseño-web",
+    "icon": "wrench",
+    "color": "#e8b7d4",
+    "isActive": true,
+    "isVerifiable": false,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Vero abduco sumo causa suspendo demitto perspiciatis claustrum utrimque. Circumvenio damnatio via esse quod creo et cur asporto. Culpo ancilla auctus.",
+    "parentSkill": 3,
+    "category": 2,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "crudelis accendo"
+      },
+      {
+        "key": "source",
+        "value": "defessus bardus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-02T03:55:56.193Z",
+      "updatedAt": "2024-09-14T18:47:11.313Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.642Z",
+    "deletedAt": null
+  },
+  {
+    "id": 27,
+    "name": "FDM",
+    "description": "Thorax creta expedita appositus. Conturbo crur maiores causa eos cresco cotidie eos adfectus universe. Trans deprimo stabilis cernuus ustulo quas volutabrum causa curso.",
+    "slug": "fdm",
+    "icon": "code",
+    "color": "#0e163f",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Vespillo sum tersus solitudo absens cubicularis quod fugit termes. Tabella vapulus sol theologus animus crebro. Volutabrum curis tricesimus tabesco claustrum.",
+    "parentSkill": null,
+    "category": 5,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "alienus demergo"
+      },
+      {
+        "key": "difficulty",
+        "value": "conitor confugo"
+      },
+      {
+        "key": "relevance",
+        "value": "aufero canonicus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-15T07:07:38.618Z",
+      "updatedAt": "2024-12-16T12:06:02.291Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.642Z",
+    "deletedAt": "2025-05-06T07:37:58.452Z"
+  },
+  {
+    "id": 28,
+    "name": "Arduino 1",
+    "description": "Civitas vacuus voluptatibus deripio utor. Sponte culpo tenetur constans somnus. Acidus supra uredo aro vix sumo amplus coadunatio.",
+    "slug": "arduino-1",
+    "icon": "database",
+    "color": "#7e12da",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": null,
+    "parentSkill": null,
+    "category": 3,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "tener sonitus"
+      },
+      {
+        "key": "relevance",
+        "value": "aetas auxilium"
+      },
+      {
+        "key": "difficulty",
+        "value": "tertius abstergo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-14T11:21:57.332Z",
+      "updatedAt": "2023-11-28T21:21:41.643Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.642Z",
+    "deletedAt": null
+  },
+  {
+    "id": 29,
+    "name": "Slicing",
+    "description": "Aliqua caput aureus totus. Rerum attollo ago est capitulus adhuc depopulo. Aliquam sufficio turba cum aranea decor corroboro summa sunt.",
+    "slug": "slicing",
+    "icon": "database",
+    "color": "#5dba61",
+    "isActive": true,
+    "isVerifiable": false,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Odit sunt dedico harum agnitio caries adversus cunae. Surgo color trans. Corrumpo expedita auctus deludo.",
+    "parentSkill": null,
+    "category": 5,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "animus adnuo"
+      },
+      {
+        "key": "priority",
+        "value": "sponte spero"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-15T13:59:34.507Z",
+      "updatedAt": "2024-05-05T22:51:15.779Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.642Z",
+    "deletedAt": null
+  },
+  {
+    "id": 30,
+    "name": "Visualización 1",
+    "description": "Vita quam venia cito. Cedo absorbeo commemoro clementia arguo conventus abstergo adnuo. Aveho voveo custodia crebro voluptate adduco adipisci adhaero tabesco eveniet.",
+    "slug": "visualización-1",
+    "icon": "pen",
+    "color": "#cc65ce",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Basium illum terebro titulus. Vulgo velum benigne quas laborum. Canis consuasor averto crur commodo confugo solutio.",
+    "parentSkill": null,
+    "category": 8,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "bene depono"
+      },
+      {
+        "key": "department",
+        "value": "spiculum absens"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-08-30T23:30:25.179Z",
+      "updatedAt": "2024-09-15T14:27:38.779Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.642Z",
+    "deletedAt": null
+  },
+  {
+    "id": 31,
+    "name": "Visión Artificial",
+    "description": "Commodi cedo amita alo accedo statim. Admoveo volubilis supra. Bos coniecto trucido subito aro depraedor.",
+    "slug": "visión-artificial",
+    "icon": "pen",
+    "color": "#0f67ac",
+    "isActive": true,
+    "isVerifiable": false,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Beatus vilicus sit vere cogito debitis. Arbor clementia curia carus curto tergiversatio quibusdam antepono decet stillicidium. Acerbitas sollers taceo vado angustus.",
+    "parentSkill": null,
+    "category": 6,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-12-14T04:31:35.563Z",
+      "updatedAt": "2025-03-27T05:09:47.095Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.642Z",
+    "deletedAt": null
+  },
+  {
+    "id": 32,
+    "name": "Moldeado 1",
+    "description": "Tantum quo crepusculum vulgus facilis doloribus tabesco. Aperio amplexus alii totam sumo volo conspergo brevis. Decimus depraedor acceptus acquiro defaeco subnecto vinum commemoro cavus acerbitas.",
+    "slug": "moldeado-1",
+    "icon": "wrench",
+    "color": "#ca4d5f",
+    "isActive": true,
+    "isVerifiable": false,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Tardus ab comprehendo viscus accendo. Amaritudo depono cunae. Decet arbustum suffoco titulus contra contra venustas.",
+    "parentSkill": null,
+    "category": 4,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "volup rem"
+      },
+      {
+        "key": "priority",
+        "value": "debitis crepusculum"
+      },
+      {
+        "key": "relevance",
+        "value": "voluptatibus suppellex"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-31T16:33:31.168Z",
+      "updatedAt": "2025-04-18T11:25:04.227Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.642Z",
+    "deletedAt": "2025-05-06T11:07:59.887Z"
+  },
+  {
+    "id": 33,
+    "name": "PCB 3",
+    "description": "Caelestis benevolentia alveus capio tepidus. Creo aeternus natus vetus tamdiu. Totus optio vilicus cognatus sublime.",
+    "slug": "pcb-3",
+    "icon": "beaker",
+    "color": "#0e8560",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": null,
+    "parentSkill": null,
+    "category": 3,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-06-20T19:44:08.371Z",
+      "updatedAt": "2025-02-24T08:26:13.841Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.642Z",
+    "deletedAt": null
+  },
+  {
+    "id": 34,
+    "name": "TensorFlow",
+    "description": "Venio alo ulterius circumvenio possimus compono dapifer patruus cupiditate. Sapiente numquam deprimo decor tui. Delibero comminor bene qui tantillus brevis ager sol.",
+    "slug": "tensorflow",
+    "icon": "cloud",
+    "color": "#2e1c5f",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": null,
+    "parentSkill": null,
+    "category": 8,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "cupiditate verumtamen"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-08-08T11:37:45.917Z",
+      "updatedAt": "2025-01-12T11:40:01.298Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.643Z",
+    "deletedAt": null
+  },
+  {
+    "id": 35,
+    "name": "InDesign 1",
+    "description": "Agnitio advenio considero rerum armarium iste cariosus utrum. Absum alo amplus iure asperiores facere attollo. Conscendo adduco thymbra denique unus.",
+    "slug": "indesign-1",
+    "icon": "beaker",
+    "color": "#1b87a4",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Aliquam truculenter absorbeo. Aufero tibi arcus victoria creator vir altus eius solvo verbera. Demo statim calcar delectus caelestis maiores nemo tres confido qui.",
+    "parentSkill": null,
+    "category": 2,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-10-12T18:13:34.886Z",
+      "updatedAt": "2024-12-24T22:46:28.802Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.645Z",
+    "deletedAt": null
+  },
+  {
+    "id": 36,
+    "name": "Sketch",
+    "description": "Usus depereo harum argentum verecundia. Aestus casso speciosus pel audax. Una cupiditate trepide versus comburo tolero virgo.",
+    "slug": "sketch",
+    "icon": "database",
+    "color": "#a42e2e",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": null,
+    "parentSkill": null,
+    "category": 2,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "animus ancilla"
+      },
+      {
+        "key": "relevance",
+        "value": "sublime ab"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-09-12T03:45:00.708Z",
+      "updatedAt": "2024-11-11T16:05:39.202Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.645Z",
+    "deletedAt": null
+  },
+  {
+    "id": 37,
+    "name": "Sensores",
+    "description": "Ratione trepide nemo. Cornu debeo demergo sumo ciminatio est carbo statua. Tabula ater calcar bellum atrocitas deleo derideo ventus numquam.",
+    "slug": "sensores",
+    "icon": "brush",
+    "color": "#b7dd29",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Astrum aspernatur animadverto torrens asporto socius cohaero voluptas capitulus. Sumo sollicito cariosus abbas uberrime ver. Spiculum adversus conicio a tollo statim cunabula soleo cena.",
+    "parentSkill": null,
+    "category": 3,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "curvo tolero"
+      },
+      {
+        "key": "popularity",
+        "value": "uterque laudantium"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-06T08:49:28.376Z",
+      "updatedAt": "2025-03-25T16:09:26.348Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.645Z",
+    "deletedAt": null
+  },
+  {
+    "id": 38,
+    "name": "Corte Láser",
+    "description": "Cuius crustulum uter decretum admitto. Aveho via eum vinco supra canto. Uredo tracto celo colligo cupiditas.",
+    "slug": "corte-láser",
+    "icon": "camera",
+    "color": "#b66ddf",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": null,
+    "parentSkill": null,
+    "category": 4,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "corrupti crinis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-11T02:41:01.028Z",
+      "updatedAt": "2025-04-02T21:58:43.154Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.645Z",
+    "deletedAt": null
+  },
+  {
+    "id": 39,
+    "name": "Circuitos 1",
+    "description": "Minus sed atrocitas uterque. Adaugeo nobis spoliatio laboriosam sordeo viridis tantum. Strenuus agnosco pectus ad repudiandae suffragium.",
+    "slug": "circuitos-1",
+    "icon": "pen",
+    "color": "#ceeadf",
+    "isActive": true,
+    "isVerifiable": false,
+    "verificationCriteria": null,
+    "parentSkill": null,
+    "category": 3,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "vicinus vobis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-03T10:11:00.368Z",
+      "updatedAt": "2024-07-09T00:05:14.807Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.645Z",
+    "deletedAt": null
+  },
+  {
+    "id": 40,
+    "name": "Ruby 1",
+    "description": "Cubo bestia pauper suus cimentarius villa blandior vorago validus victoria. Calamitas vigor autus conventus stips iure tandem sed error. Cognatus subnecto aliquid astrum cotidie cerno.",
+    "slug": "ruby-1",
+    "icon": "terminal",
+    "color": "#af4c7f",
+    "isActive": true,
+    "isVerifiable": true,
+    "verificationCriteria": "Para verificar esta habilidad, el miembro debe: Ab dedico itaque taedium. Admiratio usitas demergo anser totidem vero amaritudo cinis annus cupiditate. Vilis tondeo congregatio explicabo ago suscipit subito vesco pariatur.",
+    "parentSkill": 8,
+    "category": 1,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "provident stipes"
+      },
+      {
+        "key": "source",
+        "value": "avaritia abutor"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-07T13:30:23.407Z",
+      "updatedAt": "2025-01-27T14:07:57.991Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.645Z",
+    "deletedAt": null
+  }
+]

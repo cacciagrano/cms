@@ -1,0 +1,726 @@
+[
+  {
+    "id": 1,
+    "name": "Iniciativa: App 1",
+    "description": "Surculus animadverto maiores molestiae. Cunctatio suasoria tandem sufficio ambulo maiores depromo sub temptatio angulus. Vix vivo cuppedia thema pariatur tredecim.\nConservo conatus doloremque tumultus consuasor. Vilitas sed charisma. Ubi demoror non cometes.",
+    "projectType": "collaborative",
+    "category": "software",
+    "startDate": "2024-08-15T10:46:14.008Z",
+    "endDate": "2024-09-19T08:18:53.768Z",
+    "leader": 35,
+    "team": [
+      13,
+      21,
+      35
+    ],
+    "status": "archived",
+    "progress": 28,
+    "isPublic": true,
+    "requiredSkills": [
+      34,
+      13
+    ],
+    "tags": [
+      21,
+      3,
+      29,
+      23
+    ],
+    "repositoryUrl": null,
+    "websiteUrl": null,
+    "budget": null,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "atavus uxor"
+      },
+      {
+        "key": "popularity",
+        "value": "adhuc curo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-28T06:48:55.021Z",
+      "updatedAt": "2024-11-15T01:31:47.259Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.872Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Creación: Plataforma 2",
+    "description": "Voluptate terminatio censura capitulus spoliatio fugiat. Tredecim angelus utrum aequitas doloremque aperte audax. Pauci aliquid coruscus eos deputo excepturi averto vae sponte via.\nComptus demum virgo sophismata. Cruciamentum hic minus consectetur optio tempora carmen. Conqueror solio trepide aurum demens volutabrum stips quis accendo avarus.",
+    "projectType": "personal",
+    "category": "hardware",
+    "startDate": "2024-07-31T00:14:14.679Z",
+    "endDate": "2025-03-20T02:18:05.542Z",
+    "leader": 40,
+    "team": [
+      11,
+      40
+    ],
+    "status": "completed",
+    "progress": 100,
+    "isPublic": true,
+    "requiredSkills": [
+      20
+    ],
+    "tags": [
+      20,
+      30
+    ],
+    "repositoryUrl": "https://github.com/makerspace/creacion-plataforma-2",
+    "websiteUrl": null,
+    "budget": 1878.7767896619275,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "vereor depraedor"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-07-28T22:37:22.267Z",
+      "updatedAt": "2025-01-15T23:34:49.827Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.872Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Experimento con Instalación 3",
+    "description": "Agnitio corrupti altus teneo molestias. Clibanus cibo carmen vinco excepturi derelinquo culpo. Vacuus virgo contra non.\nAlii voluptatibus acidus avaritia calamitas viscus. Tero degero spectaculum corona corrupti anser unus bellum comparo. Admitto adstringo animadverto dolore vulgivagus.",
+    "projectType": "personal",
+    "category": "social",
+    "startDate": "2025-01-29T00:30:48.560Z",
+    "endDate": "2025-04-05T14:29:46.237Z",
+    "leader": 48,
+    "team": [
+      32,
+      1,
+      48
+    ],
+    "status": "completed",
+    "progress": 100,
+    "isPublic": true,
+    "requiredSkills": [
+      38,
+      10,
+      7,
+      14
+    ],
+    "tags": [
+      3,
+      12,
+      18,
+      13
+    ],
+    "repositoryUrl": null,
+    "websiteUrl": "https://experimento-con-instalacion-3.makerspace.org",
+    "budget": 7809.712964823641,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-01-08T01:14:32.502Z",
+      "updatedAt": "2025-02-27T05:36:01.974Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.872Z",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "name": "Producto: Instalación 4",
+    "description": "Atqui vulgus conatus vomito alter sed vesco aperio currus unde. Ipsa comis constans avarus voluntarius. Adsidue vesco coma.\nApprobo thalassinus claudeo temporibus. Praesentium tersus sunt spoliatio acerbitas quaerat. Cariosus ambitus vito cedo damnatio una pecco ater eum.",
+    "projectType": "commercial",
+    "category": "social",
+    "startDate": "2024-02-06T11:24:34.538Z",
+    "endDate": null,
+    "leader": 49,
+    "team": [
+      21,
+      49
+    ],
+    "status": "on_hold",
+    "progress": 81,
+    "isPublic": true,
+    "requiredSkills": [
+      6,
+      13,
+      31,
+      19
+    ],
+    "tags": [
+      30,
+      15,
+      26
+    ],
+    "repositoryUrl": "https://github.com/makerspace/producto-instalacion-4",
+    "websiteUrl": "https://producto-instalacion-4.makerspace.org",
+    "budget": 6498.193630014082,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-10-17T20:35:38.439Z",
+      "updatedAt": "2024-09-12T21:33:26.718Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.872Z",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "name": "Servicio: App 5",
+    "description": "Solus complectus corpus aegrus ocer curvo allatus cubitum. Confido toties annus auctor. Aegrus audeo admitto suspendo aliquam sol votum valens.\nCorreptius inventore subseco. Creo cogito magnam verto capillus balbus cito vesco comis. Talio avaritia socius facilis patrocinor crastinus aetas viscus demitto.",
+    "projectType": "commercial",
+    "category": "other",
+    "startDate": "2024-04-28T04:07:42.741Z",
+    "endDate": null,
+    "leader": 28,
+    "team": [
+      6,
+      21,
+      35,
+      37,
+      28
+    ],
+    "status": "planning",
+    "progress": 32,
+    "isPublic": true,
+    "requiredSkills": [
+      15,
+      2,
+      19,
+      33,
+      6
+    ],
+    "tags": [
+      12,
+      25,
+      8,
+      9
+    ],
+    "repositoryUrl": null,
+    "websiteUrl": null,
+    "budget": 6261.611542901668,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "arx curto"
+      },
+      {
+        "key": "department",
+        "value": "viridis vomer"
+      },
+      {
+        "key": "popularity",
+        "value": "arbor alo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-02T01:52:32.785Z",
+      "updatedAt": "2024-07-16T01:47:09.574Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.873Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Mi proyecto de Plataforma 6",
+    "description": "Arbor deduco libero. Vorax advoco amo vomito toties. Astrum itaque cedo cerno tenetur ratione ea texo.\nTunc capitulus ustulo. Carpo suppellex celebrer. Sto vulariter aro a taedium cubo ipsam deludo.",
+    "projectType": "personal",
+    "category": "art",
+    "startDate": "2024-02-04T22:40:55.919Z",
+    "endDate": "2024-02-12T23:04:52.811Z",
+    "leader": 10,
+    "team": [
+      46,
+      36,
+      22,
+      10
+    ],
+    "status": "archived",
+    "progress": 99,
+    "isPublic": true,
+    "requiredSkills": [
+      34,
+      23,
+      18
+    ],
+    "tags": [
+      2,
+      11,
+      3,
+      21,
+      17
+    ],
+    "repositoryUrl": "https://github.com/makerspace/mi-proyecto-de-plataforma-6",
+    "websiteUrl": "https://mi-proyecto-de-plataforma-6.makerspace.org",
+    "budget": 6744.478610475831,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "cometes curo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-02-19T03:38:48.907Z",
+      "updatedAt": "2025-03-29T17:53:54.906Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.873Z",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "name": "Iniciativa local: App 7",
+    "description": "Tum adeo bellicus coma viriliter distinctio cultellus assentator. Torrens callide tepesco pauper pecto. Advoco defero vesco modi aeternus.\nVetus uberrime depereo cimentarius cotidie. Vos surgo carbo adficio vere. Articulus credo aggero solutio conspergo admoveo beneficium coniecto magnam spero.",
+    "projectType": "community",
+    "category": "social",
+    "startDate": "2025-02-01T15:14:33.094Z",
+    "endDate": "2025-03-26T20:45:23.001Z",
+    "leader": 40,
+    "team": [
+      21,
+      35,
+      18,
+      40
+    ],
+    "status": "completed",
+    "progress": 100,
+    "isPublic": false,
+    "requiredSkills": [
+      11,
+      36,
+      22,
+      26,
+      9
+    ],
+    "tags": [
+      1,
+      20
+    ],
+    "repositoryUrl": "https://github.com/makerspace/iniciativa-local-app-7",
+    "websiteUrl": null,
+    "budget": 7113.6970134458215,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-01-17T18:36:51.235Z",
+      "updatedAt": "2025-01-18T18:49:07.501Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.873Z",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "name": "Proyecto colaborativo: App 8",
+    "description": "Vestigium vitae ambitus volaticus. Amet vulariter audacia statim tantum pauper totam thema aliquid. Arbitro damnatio talio aperte at basium vere utroque veniam acceptus.\nVirtus cilicium summa patria comparo comes asperiores contra libero. Officia volaticus maiores infit. Coerceo adhaero charisma doloribus speciosus alveus spes copia.",
+    "projectType": "collaborative",
+    "category": "science",
+    "startDate": "2024-02-05T03:04:12.460Z",
+    "endDate": null,
+    "leader": 1,
+    "team": [
+      50,
+      32,
+      13,
+      33,
+      1
+    ],
+    "status": "planning",
+    "progress": 61,
+    "isPublic": true,
+    "requiredSkills": [
+      33,
+      1,
+      14,
+      8
+    ],
+    "tags": [
+      12,
+      8,
+      17,
+      17
+    ],
+    "repositoryUrl": null,
+    "websiteUrl": null,
+    "budget": null,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "super vel"
+      },
+      {
+        "key": "source",
+        "value": "adicio tondeo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-13T21:43:23.281Z",
+      "updatedAt": "2025-04-07T06:13:09.321Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.873Z",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "name": "Proyecto educativo: App 9",
+    "description": "Causa cupressus bibo volva amo conventus suadeo combibo cura. Cimentarius suffoco deficio virtus omnis utrum cattus absorbeo. Agnitio aveho aestus curso antepono vito usus turbo taedium.\nAestas casso altus terebro. Ventito nostrum accusator. Facere bene cattus condico defero tutis iusto varietas dignissimos totus.",
+    "projectType": "educational",
+    "category": "social",
+    "startDate": "2024-11-12T07:30:30.251Z",
+    "endDate": null,
+    "leader": 26,
+    "team": [
+      35,
+      26
+    ],
+    "status": "on_hold",
+    "progress": 14,
+    "isPublic": true,
+    "requiredSkills": [
+      39,
+      3
+    ],
+    "tags": [
+      25,
+      14,
+      5,
+      25
+    ],
+    "repositoryUrl": null,
+    "websiteUrl": "https://proyecto-educativo-app-9.makerspace.org",
+    "budget": null,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "accedo suadeo"
+      },
+      {
+        "key": "priority",
+        "value": "conforto antepono"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-22T20:46:46.780Z",
+      "updatedAt": "2025-01-20T08:01:52.916Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.873Z",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "name": "Proyecto educativo: Sistema 10",
+    "description": "Ad timidus inflammatio amiculum sto minus censura approbo aliquid. Tertius esse ea vomica est supellex stella. Testimonium verbera teneo cunctatio recusandae neque labore celebrer versus.\nHarum compello debilito audentia triduana. Caute vitium carmen textilis ocer caveo. Deludo calamitas tamen trado suus sonitus.",
+    "projectType": "educational",
+    "category": "art",
+    "startDate": "2024-04-01T16:56:43.530Z",
+    "endDate": "2024-06-24T19:40:02.263Z",
+    "leader": 39,
+    "team": [
+      40,
+      50,
+      46,
+      47,
+      27,
+      39
+    ],
+    "status": "archived",
+    "progress": 23,
+    "isPublic": false,
+    "requiredSkills": [
+      15,
+      11
+    ],
+    "tags": [
+      13
+    ],
+    "repositoryUrl": null,
+    "websiteUrl": "https://proyecto-educativo-sistema-10.makerspace.org",
+    "budget": 8867.953590157369,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "peccatus explicabo"
+      },
+      {
+        "key": "priority",
+        "value": "enim cubo"
+      },
+      {
+        "key": "difficulty",
+        "value": "commodo pax"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-10-17T15:59:22.821Z",
+      "updatedAt": "2024-11-09T19:19:55.959Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.873Z",
+    "deletedAt": null
+  },
+  {
+    "id": 11,
+    "name": "Proyecto colaborativo: Sistema 11",
+    "description": "Vivo caterva arcus valde defendo deputo acerbitas summa cribro. Deficio tendo comis uter cernuus cogo theatrum valde sophismata. Annus ascisco celo cruciamentum ceno.\nVitiosus conturbo pectus. Auctus debitis itaque adduco spero cunctatio aperte debeo centum. Subnecto tremo adeptio.",
+    "projectType": "collaborative",
+    "category": "art",
+    "startDate": "2023-05-08T06:27:02.619Z",
+    "endDate": "2023-11-28T02:09:55.105Z",
+    "leader": 36,
+    "team": [
+      29,
+      14,
+      36
+    ],
+    "status": "archived",
+    "progress": 8,
+    "isPublic": true,
+    "requiredSkills": [
+      25,
+      16,
+      6
+    ],
+    "tags": [
+      21,
+      9
+    ],
+    "repositoryUrl": null,
+    "websiteUrl": null,
+    "budget": 1429.1202937774942,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "sint supplanto"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-08T18:22:57.865Z",
+      "updatedAt": "2024-04-02T14:10:44.170Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.873Z",
+    "deletedAt": null
+  },
+  {
+    "id": 12,
+    "name": "Tutorial de Instalación 12",
+    "description": "Absum addo caelestis numquam desino. Cognatus sophismata supellex tracto vestigium cohors crapula tertius convoco votum. Reprehenderit amiculum depulso copia.\nTextus demum trado totam astrum aurum asper. Ulciscor velum cuius arbustum tunc minima caelum cavus caute. Eligendi articulus aptus quaerat doloremque peior dolores.",
+    "projectType": "educational",
+    "category": "other",
+    "startDate": "2025-02-19T00:15:48.637Z",
+    "endDate": null,
+    "leader": 43,
+    "team": [
+      30,
+      26,
+      27,
+      18,
+      43
+    ],
+    "status": "planning",
+    "progress": 19,
+    "isPublic": false,
+    "requiredSkills": [
+      27,
+      40,
+      1
+    ],
+    "tags": [
+      5,
+      14,
+      26,
+      17,
+      1
+    ],
+    "repositoryUrl": "https://github.com/makerspace/tutorial-de-instalacion-12",
+    "websiteUrl": null,
+    "budget": 9509.732515029113,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "beneficium beatus"
+      },
+      {
+        "key": "priority",
+        "value": "vindico theologus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-23T05:15:22.855Z",
+      "updatedAt": "2024-08-06T19:35:12.515Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.873Z",
+    "deletedAt": null
+  },
+  {
+    "id": 13,
+    "name": "Iniciativa: Sistema 13",
+    "description": "Pauper defetiscor valde carmen capto subiungo. Cattus patria repudiandae peior adamo curriculum. Timidus incidunt sustineo fugiat.\nAggero vado degero argumentum delectus aperte conturbo tempora thymum. Trans coruscus synagoga. Vulticulus theologus nesciunt tibi.",
+    "projectType": "collaborative",
+    "category": "other",
+    "startDate": "2024-04-21T03:09:32.246Z",
+    "endDate": "2024-07-06T08:33:46.715Z",
+    "leader": 34,
+    "team": [
+      3,
+      46,
+      48,
+      10,
+      23,
+      34
+    ],
+    "status": "archived",
+    "progress": 85,
+    "isPublic": true,
+    "requiredSkills": [
+      22
+    ],
+    "tags": [
+      18,
+      25,
+      14,
+      20,
+      16
+    ],
+    "repositoryUrl": "https://github.com/makerspace/iniciativa-sistema-13",
+    "websiteUrl": "https://iniciativa-sistema-13.makerspace.org",
+    "budget": 6509.647643427592,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "concido adfero"
+      },
+      {
+        "key": "popularity",
+        "value": "inventore sed"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-01-14T16:05:29.467Z",
+      "updatedAt": "2025-02-23T23:36:38.744Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.874Z",
+    "deletedAt": null
+  },
+  {
+    "id": 14,
+    "name": "Proyecto comunitario: Plataforma 14",
+    "description": "Confero cubicularis stipes corpus fuga theatrum terga summopere color adsum. Cilicium aptus terra conatus tenus cervus vomer commodo doloremque. Tempus ratione temporibus.\nVado neque tui annus incidunt una vesco tametsi. Territo deludo audeo ullus coerceo sapiente. Doloremque carus creator subnecto subito dens confugo thermae aegrus.",
+    "projectType": "community",
+    "category": "art",
+    "startDate": "2024-09-26T01:21:03.722Z",
+    "endDate": null,
+    "leader": 24,
+    "team": [
+      26,
+      10,
+      36,
+      24
+    ],
+    "status": "in_progress",
+    "progress": 46,
+    "isPublic": false,
+    "requiredSkills": [
+      5,
+      18
+    ],
+    "tags": [
+      19,
+      8,
+      21,
+      13
+    ],
+    "repositoryUrl": null,
+    "websiteUrl": null,
+    "budget": 3621.0062024572335,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "calco iure"
+      },
+      {
+        "key": "priority",
+        "value": "subnecto cruentus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-10-25T03:31:11.979Z",
+      "updatedAt": "2024-11-11T11:37:21.819Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.874Z",
+    "deletedAt": null
+  },
+  {
+    "id": 15,
+    "name": "Startup: App 15",
+    "description": "Contego ver thema vereor deserunt. Approbo aetas atque candidus sodalitas. Commodi cinis comprehendo deludo.\nDelectus tot antea ascit succedo. Animadverto aperiam pecco virgo calculus. Unus magnam via sortitus causa tendo deduco cinis tricesimus combibo.",
+    "projectType": "commercial",
+    "category": "science",
+    "startDate": "2023-11-22T04:21:22.482Z",
+    "endDate": "2024-12-09T19:45:27.749Z",
+    "leader": 29,
+    "team": [
+      49,
+      29
+    ],
+    "status": "completed",
+    "progress": 100,
+    "isPublic": false,
+    "requiredSkills": [
+      10,
+      25,
+      3,
+      14
+    ],
+    "tags": [
+      2
+    ],
+    "repositoryUrl": "https://github.com/makerspace/startup-app-15",
+    "websiteUrl": null,
+    "budget": 640.5582609371746,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "saepe audacia"
+      },
+      {
+        "key": "difficulty",
+        "value": "reiciendis armarium"
+      },
+      {
+        "key": "relevance",
+        "value": "depraedor concedo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-02T22:19:03.213Z",
+      "updatedAt": "2025-04-07T01:44:56.836Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.874Z",
+    "deletedAt": null
+  }
+]

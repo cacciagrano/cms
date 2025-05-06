@@ -1,0 +1,1907 @@
+[
+  {
+    "id": 1,
+    "name": "Zona 1",
+    "description": "Volva cilicium volaticus spiritus vos alii constans textus. Consuasor vorago bene vinum quibusdam carmen. Solio agnosco vitiosus.",
+    "isActive": true,
+    "code": "A001",
+    "color": "azul",
+    "slug": "zona-1",
+    "geoLocation": {
+      "latitude": 74.7793,
+      "longitude": 26.9673,
+      "address": "74692 Pfannerstill Motorway",
+      "city": "Fort Moriahcester",
+      "state": "Delaware",
+      "postalCode": "27722",
+      "country": "Tuvalu",
+      "formattedAddress": "197 Schaden Via, Port Lelafurt, Missouri 86948"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": null,
+    "space": 8,
+    "tags": [
+      24,
+      23
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-04-05T13:55:47.863Z",
+      "updatedAt": "2025-04-06T07:22:34.674Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "areaStatus": "closed",
+    "statusChangedAt": "2025-05-04T23:50:07.629Z",
+    "previousStatus": "closed",
+    "statusHistory": [
+      {
+        "status": "maintenance",
+        "changedAt": "2025-05-04T23:50:07.629Z",
+        "changedBy": "maintenance",
+        "reason": "Cierre temporal"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2025-04-19T11:32:51.229Z",
+        "changedBy": "maintenance",
+        "reason": "Cierre temporal"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-04-01T18:48:08.829Z",
+        "changedBy": "scheduler",
+        "reason": "Uso por miembro"
+      },
+      {
+        "status": "available",
+        "changedAt": "2024-09-09T01:47:13.214Z",
+        "changedBy": "maintenance",
+        "reason": "Mantenimiento programado"
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2024-06-17T09:45:04.795Z",
+        "changedBy": "system",
+        "reason": null
+      }
+    ],
+    "requiredSkillLevel": "beginner",
+    "additionalSupervisors": [],
+    "publishedAt": "2025-05-06T15:29:51.777Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Sector 2",
+    "description": "Correptius tamquam denego attonbitus voluptatum perferendis cras quam. Vado curatio conforto cerno demens iure xiphias acies. Acsi crux amiculum terreo defungo.",
+    "isActive": true,
+    "code": "A002",
+    "color": "blanco",
+    "slug": "sector-2",
+    "geoLocation": {
+      "latitude": 47.9354,
+      "longitude": 120.946,
+      "address": "5723 Smith Street",
+      "city": "Schmidtshire",
+      "state": "Montana",
+      "postalCode": "74968",
+      "country": "France",
+      "formattedAddress": "1187 O'Connell Rapid, South Amos, Illinois 08416-1881"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": 32,
+    "space": 3,
+    "tags": [
+      5,
+      6,
+      22
+    ],
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "deprimo tertius"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-09T07:35:33.392Z",
+      "updatedAt": "2025-04-28T17:08:57.775Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "areaStatus": "occupied",
+    "statusChangedAt": "2025-05-02T09:12:49.515Z",
+    "previousStatus": "reserved",
+    "statusHistory": [
+      {
+        "status": "occupied",
+        "changedAt": "2025-05-02T09:12:49.515Z",
+        "changedBy": "system",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2025-04-23T05:13:03.878Z",
+        "changedBy": "scheduler",
+        "reason": null
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2025-03-27T20:03:23.398Z",
+        "changedBy": "maintenance",
+        "reason": "Uso por miembro"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2024-12-23T12:07:12.157Z",
+        "changedBy": "scheduler",
+        "reason": "Uso por miembro"
+      }
+    ],
+    "requiredSkillLevel": "advanced",
+    "additionalSupervisors": [
+      33,
+      29,
+      41
+    ],
+    "publishedAt": "2025-05-06T15:29:51.777Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Estación de Trabajo 3",
+    "description": "Vae beatus necessitatibus cursus combibo quibusdam celo suscipit defendo. Synagoga incidunt curvo vallum speciosus tepidus ante cura. Suggero texo infit verbum speciosus defessus.",
+    "isActive": true,
+    "code": "A003",
+    "color": "azul",
+    "slug": "estación-de-trabajo-3",
+    "geoLocation": {
+      "latitude": -5.4953,
+      "longitude": -17.8399,
+      "address": "2016 Shyann Mountains",
+      "city": "Lake Rachellefort",
+      "state": "Florida",
+      "postalCode": "52242-4278",
+      "country": "Palestine",
+      "formattedAddress": "596 Stehr Row, Warner Robins, Kentucky 55355-1196"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": null,
+    "space": 6,
+    "tags": [
+      7
+    ],
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "deorsum aegrus"
+      },
+      {
+        "key": "tag",
+        "value": "pel audentia"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-12T20:29:41.091Z",
+      "updatedAt": "2023-12-07T18:28:29.499Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "areaStatus": "reserved",
+    "statusChangedAt": "2025-04-23T02:23:30.159Z",
+    "previousStatus": "occupied",
+    "statusHistory": [
+      {
+        "status": "maintenance",
+        "changedAt": "2025-04-23T02:23:30.159Z",
+        "changedBy": "maintenance",
+        "reason": "Cierre temporal"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2025-04-05T19:08:41.904Z",
+        "changedBy": "admin",
+        "reason": "Finalización de mantenimiento"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2025-03-19T19:49:51.063Z",
+        "changedBy": "scheduler",
+        "reason": "Uso por miembro"
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2025-02-15T16:15:02.353Z",
+        "changedBy": "admin",
+        "reason": "Disponibilidad restaurada"
+      }
+    ],
+    "requiredSkillLevel": "advanced",
+    "additionalSupervisors": [],
+    "publishedAt": "2025-05-06T15:29:51.777Z",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "name": "Sección 4",
+    "description": "Solutio sono clibanus. Colligo consuasor speciosus vomer articulus quasi carus cuppedia. Tutis adulatio tubineus.",
+    "isActive": true,
+    "code": "A004",
+    "color": "amarillo",
+    "slug": "sección-4",
+    "geoLocation": {
+      "latitude": 73.5895,
+      "longitude": 19.9865,
+      "address": "46196 Herman Bridge",
+      "city": "Friesenfurt",
+      "state": "Arkansas",
+      "postalCode": "14321",
+      "country": "Denmark",
+      "formattedAddress": "980 Willow Close, Cypress, Pennsylvania 47426"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": 11,
+    "space": 3,
+    "tags": [
+      18,
+      29
+    ],
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "dolorem illo"
+      },
+      {
+        "key": "tag",
+        "value": "ipsa statua"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-11-25T14:17:08.574Z",
+      "updatedAt": "2025-01-26T06:56:33.047Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "areaStatus": "available",
+    "statusChangedAt": "2025-04-30T23:11:21.636Z",
+    "previousStatus": "closed",
+    "statusHistory": [
+      {
+        "status": "closed",
+        "changedAt": "2025-04-30T23:11:21.636Z",
+        "changedBy": "system",
+        "reason": null
+      },
+      {
+        "status": "closed",
+        "changedAt": "2025-04-25T09:17:59.889Z",
+        "changedBy": "maintenance",
+        "reason": null
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2025-01-29T03:22:14.529Z",
+        "changedBy": "admin",
+        "reason": "Uso por miembro"
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2024-12-15T19:44:10.122Z",
+        "changedBy": "admin",
+        "reason": "Mantenimiento programado"
+      }
+    ],
+    "requiredSkillLevel": "intermediate",
+    "additionalSupervisors": [
+      41
+    ],
+    "publishedAt": "2025-05-06T15:29:51.777Z",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "name": "Sección 5",
+    "description": "Veritas usitas distinctio. Esse vestrum cui. Succurro deleniti doloremque tumultus umquam abutor usitas temperantia.",
+    "isActive": true,
+    "code": "A005",
+    "color": "blanco",
+    "slug": "sección-5",
+    "geoLocation": {
+      "latitude": -45.4249,
+      "longitude": -52.7573,
+      "address": "67396 Deckow River",
+      "city": "West Laylahaven",
+      "state": "Nevada",
+      "postalCode": "32122",
+      "country": "Cocos (Keeling) Islands",
+      "formattedAddress": "51331 Garden Close, Fort Fae, Iowa 26429-6733"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": 20,
+    "space": 9,
+    "tags": [
+      16,
+      27,
+      21
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-04-25T11:09:19.599Z",
+      "updatedAt": "2024-06-29T11:22:00.434Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "areaStatus": "available",
+    "statusChangedAt": "2025-04-17T02:21:02.351Z",
+    "previousStatus": "maintenance",
+    "statusHistory": [
+      {
+        "status": "available",
+        "changedAt": "2025-04-17T02:21:02.351Z",
+        "changedBy": "scheduler",
+        "reason": "Finalización de mantenimiento"
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2025-03-20T19:36:36.499Z",
+        "changedBy": "maintenance",
+        "reason": "Finalización de mantenimiento"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-01-13T05:39:22.039Z",
+        "changedBy": "admin",
+        "reason": "Finalización de mantenimiento"
+      }
+    ],
+    "requiredSkillLevel": "none",
+    "additionalSupervisors": [],
+    "publishedAt": "2025-05-06T15:29:51.777Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Sector 6",
+    "description": "Alo aperio bellum amaritudo provident usque uter vaco. Quaerat cupressus averto beatus modi voluptatibus itaque cogito. Defaeco concido attonbitus advoco stultus.",
+    "isActive": true,
+    "code": "A006",
+    "color": "naranja",
+    "slug": "sector-6",
+    "geoLocation": {
+      "latitude": 78.1115,
+      "longitude": -38.8114,
+      "address": "86789 Nathanial Route",
+      "city": "South Burnice",
+      "state": "New Hampshire",
+      "postalCode": "70586",
+      "country": "South Africa",
+      "formattedAddress": "285 Hazel Grove, New Lucascester, Kansas 04395-1872"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": null,
+    "space": 1,
+    "tags": [
+      13
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-08-05T09:39:30.116Z",
+      "updatedAt": "2024-08-05T21:07:25.335Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "areaStatus": "available",
+    "statusChangedAt": "2025-05-03T14:43:53.037Z",
+    "previousStatus": "occupied",
+    "statusHistory": [
+      {
+        "status": "reserved",
+        "changedAt": "2025-05-03T14:43:53.037Z",
+        "changedBy": "scheduler",
+        "reason": "Mantenimiento programado"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2025-05-03T14:34:57.909Z",
+        "changedBy": "admin",
+        "reason": "Uso por miembro"
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2025-04-26T13:24:36.463Z",
+        "changedBy": "maintenance",
+        "reason": null
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-02-21T06:04:07.105Z",
+        "changedBy": "admin",
+        "reason": "Uso por miembro"
+      }
+    ],
+    "requiredSkillLevel": "beginner",
+    "additionalSupervisors": [
+      37,
+      28
+    ],
+    "publishedAt": "2025-05-06T15:29:51.777Z",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "name": "Zona 7",
+    "description": "Ambulo textus tempore inflammatio vulgaris adimpleo. Et verbera contigo apostolus repellendus sum considero valetudo decet carbo. Adflicto anser arbitro repellat stultus nam.",
+    "isActive": true,
+    "code": "A007",
+    "color": "verde",
+    "slug": "zona-7",
+    "geoLocation": {
+      "latitude": 19.2987,
+      "longitude": -12.9007,
+      "address": "349 Ash Street",
+      "city": "North Ervinton",
+      "state": "Wisconsin",
+      "postalCode": "86866-5205",
+      "country": "Kenya",
+      "formattedAddress": "5029 Trinity Road, Schuppechester, Ohio 28215-9925"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": 38,
+    "space": 3,
+    "tags": [
+      5,
+      16
+    ],
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "quam avaritia"
+      },
+      {
+        "key": "priority",
+        "value": "repudiandae usitas"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-01-27T04:12:06.503Z",
+      "updatedAt": "2025-03-18T06:03:28.600Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "areaStatus": "available",
+    "statusChangedAt": "2025-05-02T02:30:47.547Z",
+    "previousStatus": "occupied",
+    "statusHistory": [
+      {
+        "status": "maintenance",
+        "changedAt": "2025-05-02T02:30:47.547Z",
+        "changedBy": "admin",
+        "reason": "Cierre temporal"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2025-01-16T19:52:42.313Z",
+        "changedBy": "maintenance",
+        "reason": "Finalización de mantenimiento"
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2024-06-30T08:38:20.268Z",
+        "changedBy": "maintenance",
+        "reason": "Disponibilidad restaurada"
+      }
+    ],
+    "requiredSkillLevel": "beginner",
+    "additionalSupervisors": [
+      40,
+      50
+    ],
+    "publishedAt": "2025-05-06T15:29:51.777Z",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "name": "Zona de Experimentación 8",
+    "description": "Carcer suscipio verbum decor aveho occaecati. Necessitatibus architecto stultus averto eius nostrum vae. Unus alienus demum eius cupiditate.",
+    "isActive": false,
+    "code": "A008",
+    "color": "naranja",
+    "slug": "zona-de-experimentación-8",
+    "geoLocation": {
+      "latitude": 18.0423,
+      "longitude": -2.6694,
+      "address": "726 Bramble Close",
+      "city": "Lake Antoniafurt",
+      "state": "Texas",
+      "postalCode": "44878-9275",
+      "country": "Turks and Caicos Islands",
+      "formattedAddress": "3027 S 1st Avenue, Chandler, Mississippi 02373-8807"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": null,
+    "space": 4,
+    "tags": [
+      17
+    ],
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "perferendis praesentium"
+      },
+      {
+        "key": "priority",
+        "value": "corporis patior"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-21T11:43:34.477Z",
+      "updatedAt": "2024-05-29T05:38:23.077Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "areaStatus": "maintenance",
+    "statusChangedAt": "2025-01-23T21:22:00.052Z",
+    "previousStatus": "available",
+    "statusHistory": [
+      {
+        "status": "closed",
+        "changedAt": "2025-01-23T21:22:00.052Z",
+        "changedBy": "maintenance",
+        "reason": "Cierre temporal"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-01-07T15:27:34.934Z",
+        "changedBy": "system",
+        "reason": null
+      }
+    ],
+    "requiredSkillLevel": "beginner",
+    "additionalSupervisors": [
+      33,
+      39
+    ],
+    "publishedAt": "2025-05-06T15:29:51.778Z",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "name": "Módulo 9",
+    "description": "Explicabo vetus careo ipsa cognatus. Vociferor animi bellicus deprimo defleo urbanus contego aestas sapiente quod. Antiquus defungo facere vigilo molestiae earum vigilo urbs adhuc.",
+    "isActive": true,
+    "code": "A009",
+    "color": "gris",
+    "slug": "módulo-9",
+    "geoLocation": {
+      "latitude": 49.8666,
+      "longitude": 119.3847,
+      "address": "8340 Palma Path",
+      "city": "East Waldo",
+      "state": "Alabama",
+      "postalCode": "75726-8912",
+      "country": "Turkmenistan",
+      "formattedAddress": "48386 Schaden Knolls, Wildermanboro, Idaho 24866"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": null,
+    "space": 10,
+    "tags": [
+      8,
+      25,
+      8
+    ],
+    "metadata": [
+      {
+        "key": "department",
+        "value": "convoco bibo"
+      },
+      {
+        "key": "tag",
+        "value": "cubo causa"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-10-28T15:14:20.204Z",
+      "updatedAt": "2024-12-30T03:59:40.776Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "areaStatus": "available",
+    "statusChangedAt": "2025-02-03T04:53:58.107Z",
+    "previousStatus": "closed",
+    "statusHistory": [
+      {
+        "status": "occupied",
+        "changedAt": "2025-02-03T04:53:58.107Z",
+        "changedBy": "system",
+        "reason": "Finalización de mantenimiento"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2024-12-03T22:56:59.464Z",
+        "changedBy": "scheduler",
+        "reason": "Disponibilidad restaurada"
+      }
+    ],
+    "requiredSkillLevel": "beginner",
+    "additionalSupervisors": [],
+    "publishedAt": "2025-05-06T15:29:51.779Z",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "name": "Sector 10",
+    "description": "Solitudo suscipio vulgivagus decet aliquam ullus trado aggero. Sub solitudo armarium. Quod totam asporto constans auxilium vestrum tredecim.",
+    "isActive": true,
+    "code": "A010",
+    "color": "negro",
+    "slug": "sector-10",
+    "geoLocation": {
+      "latitude": -82.1015,
+      "longitude": 77.7082,
+      "address": "626 Sarah Path",
+      "city": "Port Charlotte",
+      "state": "Texas",
+      "postalCode": "35082-1084",
+      "country": "Nigeria",
+      "formattedAddress": "3113 N Elm Street, South Brendonmouth, Alabama 38320"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": null,
+    "space": 3,
+    "tags": [
+      21,
+      24
+    ],
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "velut venio"
+      },
+      {
+        "key": "priority",
+        "value": "thalassinus constans"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-26T08:27:30.277Z",
+      "updatedAt": "2023-10-07T22:48:02.644Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "areaStatus": "maintenance",
+    "statusChangedAt": "2025-05-02T00:38:08.742Z",
+    "previousStatus": "occupied",
+    "statusHistory": [
+      {
+        "status": "available",
+        "changedAt": "2025-05-02T00:38:08.742Z",
+        "changedBy": "maintenance",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2025-01-15T09:36:18.676Z",
+        "changedBy": "admin",
+        "reason": null
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2024-10-16T21:52:38.527Z",
+        "changedBy": "maintenance",
+        "reason": "Finalización de mantenimiento"
+      }
+    ],
+    "requiredSkillLevel": "beginner",
+    "additionalSupervisors": [
+      50,
+      38
+    ],
+    "publishedAt": "2025-05-06T15:29:51.779Z",
+    "deletedAt": null
+  },
+  {
+    "id": 11,
+    "name": "Estación de Trabajo 11",
+    "description": "Sui utrimque sufficio tabgo aut deputo crastinus tersus. Acidus stipes spectaculum vae facere autus beatus caste cena esse. Aegrotatio asporto admitto tardus volubilis.",
+    "isActive": false,
+    "code": "A011",
+    "color": "celeste",
+    "slug": "estación-de-trabajo-11",
+    "geoLocation": {
+      "latitude": 44.5441,
+      "longitude": -55.266,
+      "address": "919 Chestnut Grove",
+      "city": "Burdettefort",
+      "state": "Alabama",
+      "postalCode": "11369",
+      "country": "Singapore",
+      "formattedAddress": "964 Nash Parkways, Perth Amboy, Kansas 51662"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": 34,
+    "space": 6,
+    "tags": [
+      1
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "absum alias"
+      },
+      {
+        "key": "popularity",
+        "value": "defessus clibanus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-31T08:44:43.639Z",
+      "updatedAt": "2024-12-10T12:33:08.886Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "areaStatus": "maintenance",
+    "statusChangedAt": "2025-04-16T05:44:38.442Z",
+    "previousStatus": "maintenance",
+    "statusHistory": [
+      {
+        "status": "reserved",
+        "changedAt": "2025-04-16T05:44:38.442Z",
+        "changedBy": "scheduler",
+        "reason": "Finalización de mantenimiento"
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2024-11-25T05:32:32.759Z",
+        "changedBy": "admin",
+        "reason": "Cierre temporal"
+      }
+    ],
+    "requiredSkillLevel": "none",
+    "additionalSupervisors": [],
+    "publishedAt": "2025-05-06T15:29:51.779Z",
+    "deletedAt": null
+  },
+  {
+    "id": 12,
+    "name": "Zona de Experimentación 12",
+    "description": "Tergiversatio amor saepe. Calculus deludo pariatur attero vindico. Ago atqui bos quod thema venio avaritia.",
+    "isActive": false,
+    "code": "A012",
+    "color": "naranja",
+    "slug": "zona-de-experimentación-12",
+    "geoLocation": {
+      "latitude": -64.9161,
+      "longitude": -69.7084,
+      "address": "14300 Sigurd Drive",
+      "city": "Konopelskiview",
+      "state": "California",
+      "postalCode": "85967",
+      "country": "Bonaire, Sint Eustatius and Saba",
+      "formattedAddress": "233 S Main Avenue, Lake Jeremyport, Missouri 15973"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": 3,
+    "space": 4,
+    "tags": [
+      2,
+      5,
+      2
+    ],
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "asporto cetera"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-01-15T07:01:55.335Z",
+      "updatedAt": "2025-02-10T05:18:22.361Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "areaStatus": "reserved",
+    "statusChangedAt": "2025-04-28T13:00:37.003Z",
+    "previousStatus": "reserved",
+    "statusHistory": [
+      {
+        "status": "reserved",
+        "changedAt": "2025-04-28T13:00:37.003Z",
+        "changedBy": "scheduler",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2025-04-08T22:46:21.508Z",
+        "changedBy": "maintenance",
+        "reason": null
+      },
+      {
+        "status": "available",
+        "changedAt": "2024-11-25T23:42:58.879Z",
+        "changedBy": "admin",
+        "reason": "Cierre temporal"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2024-11-23T00:31:22.030Z",
+        "changedBy": "maintenance",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2024-10-16T07:49:29.109Z",
+        "changedBy": "maintenance",
+        "reason": null
+      }
+    ],
+    "requiredSkillLevel": "expert",
+    "additionalSupervisors": [
+      1,
+      21,
+      6
+    ],
+    "publishedAt": "2025-05-06T15:29:51.779Z",
+    "deletedAt": null
+  },
+  {
+    "id": 13,
+    "name": "Sector 13",
+    "description": "Alius consuasor suus acsi decerno umbra. Congregatio vetus allatus aequus speculum desino. Occaecati creber vaco amoveo sulum verumtamen bibo quod.",
+    "isActive": false,
+    "code": "A013",
+    "color": "azul",
+    "slug": "sector-13",
+    "geoLocation": {
+      "latitude": -36.385,
+      "longitude": 66.3754,
+      "address": "148 Derwent Close",
+      "city": "Aurora",
+      "state": "New Jersey",
+      "postalCode": "23187",
+      "country": "Western Sahara",
+      "formattedAddress": "516 Clifford Ford, Cronaborough, Connecticut 32883-9303"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": null,
+    "space": 3,
+    "tags": [
+      22
+    ],
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "traho careo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-07-20T06:29:54.399Z",
+      "updatedAt": "2024-11-25T02:07:56.112Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "areaStatus": "maintenance",
+    "statusChangedAt": "2025-05-05T03:23:21.979Z",
+    "previousStatus": "available",
+    "statusHistory": [
+      {
+        "status": "maintenance",
+        "changedAt": "2025-05-05T03:23:21.979Z",
+        "changedBy": "admin",
+        "reason": "Uso por miembro"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-05-05T01:20:56.160Z",
+        "changedBy": "maintenance",
+        "reason": null
+      },
+      {
+        "status": "closed",
+        "changedAt": "2025-04-20T15:45:55.428Z",
+        "changedBy": "maintenance",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2025-04-12T13:38:30.724Z",
+        "changedBy": "scheduler",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2025-03-31T18:54:22.965Z",
+        "changedBy": "scheduler",
+        "reason": "Cierre temporal"
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2024-12-24T15:25:55.533Z",
+        "changedBy": "admin",
+        "reason": "Cierre temporal"
+      }
+    ],
+    "requiredSkillLevel": "advanced",
+    "additionalSupervisors": [
+      37,
+      24,
+      35
+    ],
+    "publishedAt": "2025-05-06T15:29:51.780Z",
+    "deletedAt": null
+  },
+  {
+    "id": 14,
+    "name": "Sección 14",
+    "description": "Vorago contigo solus conitor tenuis. Uberrime vinum tam. Video sumo ipsum virgo paulatim catena amplitudo cognomen votum earum.",
+    "isActive": true,
+    "code": "A014",
+    "color": "azul",
+    "slug": "sección-14",
+    "geoLocation": {
+      "latitude": 36.0665,
+      "longitude": 175.5142,
+      "address": "128 N Harrison Street",
+      "city": "South Nataliecester",
+      "state": "New Mexico",
+      "postalCode": "41557-6477",
+      "country": "Bolivia",
+      "formattedAddress": "164 3rd Avenue, Burien, Idaho 66923-8719"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": false,
+    "primarySupervisor": null,
+    "space": 5,
+    "tags": [
+      27,
+      9,
+      24
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-02-14T13:44:01.970Z",
+      "updatedAt": "2025-05-02T10:23:36.086Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "areaStatus": "available",
+    "statusChangedAt": "2025-05-01T02:06:12.154Z",
+    "previousStatus": "available",
+    "statusHistory": [
+      {
+        "status": "occupied",
+        "changedAt": "2025-05-01T02:06:12.154Z",
+        "changedBy": "admin",
+        "reason": "Uso por miembro"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-04-29T17:21:04.521Z",
+        "changedBy": "scheduler",
+        "reason": "Uso por miembro"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-04-20T05:14:04.509Z",
+        "changedBy": "maintenance",
+        "reason": "Mantenimiento programado"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2025-04-14T13:11:12.921Z",
+        "changedBy": "admin",
+        "reason": "Finalización de mantenimiento"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2024-10-28T04:57:32.320Z",
+        "changedBy": "admin",
+        "reason": "Mantenimiento programado"
+      }
+    ],
+    "requiredSkillLevel": "intermediate",
+    "additionalSupervisors": [
+      45,
+      36,
+      18
+    ],
+    "publishedAt": "2025-05-06T15:29:51.780Z",
+    "deletedAt": null
+  },
+  {
+    "id": 15,
+    "name": "Puesto 15",
+    "description": "Antiquus comminor adfero aegre spargo taedium allatus iste. Usus rerum aliquid perspiciatis quam apostolus asperiores bonus. Callide solium ater dicta aperiam aufero.",
+    "isActive": true,
+    "code": "A015",
+    "color": "rojo",
+    "slug": "puesto-15",
+    "geoLocation": {
+      "latitude": -12.6361,
+      "longitude": -89.4443,
+      "address": "91405 Beer Crest",
+      "city": "Houston",
+      "state": "South Carolina",
+      "postalCode": "01268",
+      "country": "Colombia",
+      "formattedAddress": "733 West Underpass, Estrellafield, Virginia 43611"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": null,
+    "space": 6,
+    "tags": [
+      15,
+      6,
+      27
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-10-27T06:27:12.630Z",
+      "updatedAt": "2025-02-03T17:04:02.121Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "areaStatus": "available",
+    "statusChangedAt": "2025-05-06T15:28:31.927Z",
+    "previousStatus": "available",
+    "statusHistory": [
+      {
+        "status": "closed",
+        "changedAt": "2025-05-06T15:28:31.927Z",
+        "changedBy": "system",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-05-06T15:28:12.505Z",
+        "changedBy": "system",
+        "reason": "Cierre temporal"
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2025-05-06T09:11:02.169Z",
+        "changedBy": "admin",
+        "reason": "Finalización de mantenimiento"
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2025-05-05T04:28:23.917Z",
+        "changedBy": "maintenance",
+        "reason": "Uso por miembro"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2025-05-04T10:46:29.771Z",
+        "changedBy": "maintenance",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2025-04-22T09:39:40.581Z",
+        "changedBy": "admin",
+        "reason": "Uso por miembro"
+      }
+    ],
+    "requiredSkillLevel": "advanced",
+    "additionalSupervisors": [],
+    "publishedAt": "2025-05-06T15:29:51.780Z",
+    "deletedAt": null
+  },
+  {
+    "id": 16,
+    "name": "Área 16",
+    "description": "Aspicio subiungo currus vulpes turbo ait nemo damno viridis. Turba desino amplus facere vigor. Supplanto theatrum vero demens vos beatus adsidue demulceo.",
+    "isActive": true,
+    "code": "A016",
+    "color": "amarillo",
+    "slug": "área-16",
+    "geoLocation": {
+      "latitude": -73.0268,
+      "longitude": 11.6275,
+      "address": "34687 Nathanial Place",
+      "city": "Lake Alville",
+      "state": "New Mexico",
+      "postalCode": "94336",
+      "country": "Eswatini",
+      "formattedAddress": "6277 Ernie Haven, South Jailynport, Utah 79169"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": 1,
+    "space": 3,
+    "tags": [
+      5
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-10-01T13:50:41.168Z",
+      "updatedAt": "2025-01-14T22:26:11.441Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "areaStatus": "closed",
+    "statusChangedAt": "2025-04-19T12:07:19.327Z",
+    "previousStatus": "maintenance",
+    "statusHistory": [
+      {
+        "status": "available",
+        "changedAt": "2025-04-19T12:07:19.327Z",
+        "changedBy": "system",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2025-04-06T10:12:45.616Z",
+        "changedBy": "admin",
+        "reason": "Mantenimiento programado"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2025-03-06T12:41:15.976Z",
+        "changedBy": "maintenance",
+        "reason": "Cierre temporal"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-02-24T08:41:43.856Z",
+        "changedBy": "scheduler",
+        "reason": "Uso por miembro"
+      },
+      {
+        "status": "available",
+        "changedAt": "2024-10-27T12:11:07.231Z",
+        "changedBy": "scheduler",
+        "reason": "Uso por miembro"
+      }
+    ],
+    "requiredSkillLevel": "beginner",
+    "additionalSupervisors": [
+      37,
+      48,
+      43
+    ],
+    "publishedAt": "2025-05-06T15:29:51.780Z",
+    "deletedAt": null
+  },
+  {
+    "id": 17,
+    "name": "Sector 17",
+    "description": "Acidus cito ea voco soleo totam amor attero. Charisma ustulo amplexus tertius usque vobis. Arma cohibeo astrum denuncio.",
+    "isActive": true,
+    "code": "A017",
+    "color": "naranja",
+    "slug": "sector-17",
+    "geoLocation": {
+      "latitude": 28.3695,
+      "longitude": 121.9605,
+      "address": "1283 Ferne Underpass",
+      "city": "Blaine",
+      "state": "Ohio",
+      "postalCode": "26832-9685",
+      "country": "Sierra Leone",
+      "formattedAddress": "6620 Barton Viaduct, East Lorenfurt, New York 77878"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": null,
+    "space": 8,
+    "tags": [
+      20,
+      22
+    ],
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "appello alioqui"
+      },
+      {
+        "key": "source",
+        "value": "confero vicissitudo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-10-12T17:51:06.041Z",
+      "updatedAt": "2024-11-21T12:50:00.092Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "areaStatus": "occupied",
+    "statusChangedAt": "2025-05-04T13:15:57.673Z",
+    "previousStatus": "reserved",
+    "statusHistory": [
+      {
+        "status": "closed",
+        "changedAt": "2025-05-04T13:15:57.673Z",
+        "changedBy": "admin",
+        "reason": "Cierre temporal"
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2025-05-01T14:48:16.964Z",
+        "changedBy": "maintenance",
+        "reason": "Uso por miembro"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2025-04-22T11:54:29.661Z",
+        "changedBy": "system",
+        "reason": "Cierre temporal"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2025-04-07T09:44:28.612Z",
+        "changedBy": "admin",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2024-11-24T03:45:43.501Z",
+        "changedBy": "system",
+        "reason": "Uso por miembro"
+      }
+    ],
+    "requiredSkillLevel": "advanced",
+    "additionalSupervisors": [
+      10,
+      22
+    ],
+    "publishedAt": "2025-05-06T15:29:51.780Z",
+    "deletedAt": null
+  },
+  {
+    "id": 18,
+    "name": "Sección 18",
+    "description": "Magnam cornu vinco hic. Territo turpis accusator admitto vitium cum considero. Stella odio unus.",
+    "isActive": false,
+    "code": "A018",
+    "color": "rojo",
+    "slug": "sección-18",
+    "geoLocation": {
+      "latitude": -47.9064,
+      "longitude": 128.4259,
+      "address": "416 Jacobs Camp",
+      "city": "Lake Jedidiahchester",
+      "state": "Hawaii",
+      "postalCode": "03087-3803",
+      "country": "Cambodia",
+      "formattedAddress": "392 Linwood Shore, Alyceborough, Alaska 33930"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": false,
+    "primarySupervisor": 45,
+    "space": 7,
+    "tags": [
+      8,
+      28,
+      24
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-08-03T06:25:10.322Z",
+      "updatedAt": "2025-03-31T02:51:22.845Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "areaStatus": "maintenance",
+    "statusChangedAt": "2025-05-05T00:35:36.496Z",
+    "previousStatus": "reserved",
+    "statusHistory": [
+      {
+        "status": "available",
+        "changedAt": "2025-05-05T00:35:36.496Z",
+        "changedBy": "admin",
+        "reason": null
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2025-05-04T22:41:23.981Z",
+        "changedBy": "system",
+        "reason": null
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2025-04-23T21:46:13.835Z",
+        "changedBy": "maintenance",
+        "reason": "Cierre temporal"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2025-03-30T08:13:23.331Z",
+        "changedBy": "system",
+        "reason": "Mantenimiento programado"
+      }
+    ],
+    "requiredSkillLevel": "advanced",
+    "additionalSupervisors": [
+      36,
+      49,
+      29
+    ],
+    "publishedAt": "2025-05-06T15:29:51.781Z",
+    "deletedAt": null
+  },
+  {
+    "id": 19,
+    "name": "Sección 19",
+    "description": "Doloribus ut conitor theologus debeo callide solio decumbo adeo infit. Adversus vomer deleniti. Deludo celebrer solvo.",
+    "isActive": true,
+    "code": "A019",
+    "color": "amarillo",
+    "slug": "sección-19",
+    "geoLocation": {
+      "latitude": 19.3615,
+      "longitude": -73.6165,
+      "address": "844 Lucio Harbor",
+      "city": "Walkerburgh",
+      "state": "California",
+      "postalCode": "87873-2981",
+      "country": "Svalbard & Jan Mayen Islands",
+      "formattedAddress": "7148 Hayes Dale, New Koleboro, Washington 18390"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": false,
+    "primarySupervisor": null,
+    "space": 2,
+    "tags": [
+      21,
+      3
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-09-27T02:01:04.183Z",
+      "updatedAt": "2024-08-07T01:37:44.634Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "areaStatus": "occupied",
+    "statusChangedAt": "2025-05-06T00:22:59.904Z",
+    "previousStatus": "reserved",
+    "statusHistory": [
+      {
+        "status": "maintenance",
+        "changedAt": "2025-05-06T00:22:59.904Z",
+        "changedBy": "system",
+        "reason": null
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2025-04-29T15:20:10.099Z",
+        "changedBy": "system",
+        "reason": "Finalización de mantenimiento"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-04-28T02:38:27.787Z",
+        "changedBy": "maintenance",
+        "reason": "Mantenimiento programado"
+      }
+    ],
+    "requiredSkillLevel": "intermediate",
+    "additionalSupervisors": [],
+    "publishedAt": "2025-05-06T15:29:51.781Z",
+    "deletedAt": null
+  },
+  {
+    "id": 20,
+    "name": "Área 20",
+    "description": "Audeo calculus verus surgo tepesco amplus. Voluptatem cognomen debitis vita sonitus talus clam totus omnis candidus. Textilis commodi volva vulnus.",
+    "isActive": true,
+    "code": "A020",
+    "color": "blanco",
+    "slug": "área-20",
+    "geoLocation": {
+      "latitude": -66.5521,
+      "longitude": -169.9814,
+      "address": "675 Dalton Corner",
+      "city": "Lake Juana",
+      "state": "Idaho",
+      "postalCode": "11306-5082",
+      "country": "Mayotte",
+      "formattedAddress": "23767 N 5th Street, East Lowell, Kentucky 68627-8844"
+    },
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "isReservable": true,
+    "primarySupervisor": null,
+    "space": 3,
+    "tags": [
+      4,
+      10,
+      2
+    ],
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "antea vilitas"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-08T01:22:47.723Z",
+      "updatedAt": "2025-04-24T12:18:23.007Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "areaStatus": "maintenance",
+    "statusChangedAt": "2024-12-30T09:41:05.349Z",
+    "previousStatus": "maintenance",
+    "statusHistory": [
+      {
+        "status": "reserved",
+        "changedAt": "2024-12-30T09:41:05.349Z",
+        "changedBy": "scheduler",
+        "reason": "Cierre temporal"
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2024-12-08T07:23:21.699Z",
+        "changedBy": "admin",
+        "reason": "Finalización de mantenimiento"
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2024-09-02T09:41:43.793Z",
+        "changedBy": "system",
+        "reason": "Cierre temporal"
+      }
+    ],
+    "requiredSkillLevel": "expert",
+    "additionalSupervisors": [
+      24
+    ],
+    "publishedAt": "2025-05-06T15:29:51.781Z",
+    "deletedAt": null
+  }
+]

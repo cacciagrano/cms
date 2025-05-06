@@ -1,0 +1,1177 @@
+[
+  {
+    "id": 1,
+    "name": "Presentación: Impresión 3D 1",
+    "description": "Ventosus aranea antea amo spiculum censura peccatus depopulo ratione. Chirographum artificiose vicissitudo ambitus vomer despecto caste vitiosus vespillo cubitum. Arguo stella temeritas infit causa labore arcus facere id cinis.\nFacere adfero deporto deduco ascit. Viridis toties utrimque venia vivo caveo depraedor terminatio defleo molestiae. Tripudio defleo currus accusantium vito admoneo advoco.",
+    "eventType": "conference",
+    "startDate": "2025-11-06T08:58:42.804Z",
+    "endDate": "2025-11-07T00:58:42.804Z",
+    "location": 6,
+    "organizer": 19,
+    "capacity": 23,
+    "attendees": [
+      6,
+      46,
+      30,
+      21,
+      3,
+      40,
+      19,
+      22,
+      12,
+      2,
+      45,
+      50,
+      14,
+      27,
+      36,
+      25,
+      31,
+      43,
+      32
+    ],
+    "price": 92.95837461944285,
+    "isFree": false,
+    "isPublic": false,
+    "registrationRequired": false,
+    "registrationDeadline": "2025-08-27T15:18:08.704Z",
+    "status": "cancelled",
+    "tags": [
+      21,
+      27,
+      27,
+      7,
+      21
+    ],
+    "requiredSkills": [
+      40,
+      27,
+      38
+    ],
+    "providedSkills": [
+      35
+    ],
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "appositus auctus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-06-01T07:23:44.459Z",
+      "updatedAt": "2023-12-06T09:10:06.697Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Formación en Prototipado 2",
+    "description": "Vestigium deripio careo ambitus vigilo canis confugo accommodo ademptio adicio. Antea aureus animadverto verbera aegrotatio. Tolero statua cunctatio nulla.\nVulpes auctor consequatur turba annus acquiro ager. Aegrus absconditus aeneus tres antea. Ago thesis vomica ocer quaerat dens.",
+    "eventType": "course",
+    "startDate": "2026-01-05T13:52:10.733Z",
+    "endDate": "2026-01-05T17:52:10.733Z",
+    "location": 4,
+    "organizer": 19,
+    "capacity": 43,
+    "attendees": [
+      48,
+      33,
+      46,
+      9,
+      7,
+      22,
+      4,
+      8,
+      17,
+      45,
+      41
+    ],
+    "price": 162.72218650718375,
+    "isFree": false,
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-06-10T16:38:04.693Z",
+    "status": "scheduled",
+    "tags": [
+      6
+    ],
+    "requiredSkills": [],
+    "providedSkills": [],
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "deleniti quo"
+      },
+      {
+        "key": "tag",
+        "value": "vinitor talis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-03T08:27:09.965Z",
+      "updatedAt": "2025-05-06T13:49:54.924Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Curso de Electrónica 3",
+    "description": "Sui comitatus copia defetiscor aequus. Vestrum blandior creo verecundia urbanus praesentium auditor vox excepturi cupiditate. Denique considero cetera vulariter deludo defaeco curriculum.\nAer thema spes veritas damno adulescens dicta quisquam auctor caries. Arbor vetus censura aer. Conventus fugiat titulus verecundia surculus suppellex tum defessus.",
+    "eventType": "course",
+    "startDate": "2026-04-19T21:44:09.653Z",
+    "endDate": "2026-04-20T00:44:09.653Z",
+    "location": 8,
+    "organizer": 15,
+    "capacity": 29,
+    "attendees": [
+      40,
+      26,
+      24,
+      41,
+      46,
+      32,
+      4,
+      31,
+      25,
+      43
+    ],
+    "price": 148.30647028774212,
+    "isFree": false,
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-07-22T23:57:03.191Z",
+    "status": "scheduled",
+    "tags": [
+      13
+    ],
+    "requiredSkills": [
+      15,
+      1,
+      38
+    ],
+    "providedSkills": [
+      1,
+      16
+    ],
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "vorax conventus"
+      },
+      {
+        "key": "priority",
+        "value": "atque ubi"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-11-04T22:48:31.216Z",
+      "updatedAt": "2024-12-05T21:51:06.135Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "name": "Jornada de puertas abiertas IA 4",
+    "description": "Explicabo repellendus vix abbas advoco tremo vinum. Constans circumvenio quaerat tam vivo magnam. Umerus cibus arbor usus nulla collum statua audentia consectetur vester.\nTermes earum aeneus bardus temperantia magni totus. Attollo voluptatem terga bos cariosus benigne totidem summisse. Benevolentia pauper cohors addo nam sunt cui acer.",
+    "eventType": "open_day",
+    "startDate": "2025-09-20T09:28:00.791Z",
+    "endDate": "2025-09-22T09:28:00.791Z",
+    "location": 3,
+    "organizer": 16,
+    "capacity": 10,
+    "attendees": [
+      38,
+      24,
+      41,
+      7
+    ],
+    "price": 24.780038307424856,
+    "isFree": false,
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-05-22T21:07:23.941Z",
+    "status": "postponed",
+    "tags": [
+      8,
+      22,
+      24,
+      17
+    ],
+    "requiredSkills": [
+      3,
+      11,
+      15
+    ],
+    "providedSkills": [
+      33
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "contego volo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-06-17T17:12:38.010Z",
+      "updatedAt": "2024-11-05T05:17:42.853Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "name": "Demostración de Diseño 5",
+    "description": "Adfectus careo astrum super sonitus demonstro. Arbor ullus veniam voluntarius cetera facere demens. Victus cernuus patior quod vilitas cura cubitum vulticulus beatus.\nThermae aegrotatio compono delectatio suffragium adfectus assentator stultus succedo. Abbas talio aveho cattus volubilis clam supplanto. Beatus desidero suffoco consectetur crudelis.",
+    "eventType": "demo_day",
+    "startDate": "2025-12-03T10:30:20.737Z",
+    "endDate": "2025-12-03T18:30:20.737Z",
+    "location": 4,
+    "organizer": 29,
+    "capacity": 28,
+    "attendees": [
+      48,
+      15,
+      38,
+      27,
+      36,
+      40,
+      47,
+      21
+    ],
+    "price": 0,
+    "isFree": true,
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-08-13T22:56:23.932Z",
+    "status": "scheduled",
+    "tags": [
+      27,
+      24
+    ],
+    "requiredSkills": [],
+    "providedSkills": [
+      11
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-12-17T13:50:35.966Z",
+      "updatedAt": "2025-02-02T23:33:44.606Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Aprende Programación 6",
+    "description": "Vivo comitatus stultus cribro quibusdam voco cursim. Sono porro coruscus arcus alveus sustineo tolero aer. Itaque crepusculum decipio subseco pauper caries.\nSordeo voveo tempus velut tui necessitatibus vestigium laudantium vulgus. Admoneo caelum catena vesco. Odio cernuus caveo tamquam.",
+    "eventType": "course",
+    "startDate": "2025-12-04T00:28:24.212Z",
+    "endDate": "2025-12-04T01:28:24.212Z",
+    "location": 6,
+    "organizer": 26,
+    "capacity": 41,
+    "attendees": [
+      24
+    ],
+    "price": 0,
+    "isFree": true,
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-07-17T09:39:06.731Z",
+    "status": "postponed",
+    "tags": [
+      13,
+      25
+    ],
+    "requiredSkills": [
+      17,
+      29
+    ],
+    "providedSkills": [],
+    "metadata": [
+      {
+        "key": "department",
+        "value": "caveo theologus"
+      },
+      {
+        "key": "department",
+        "value": "textor supplanto"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-21T19:59:14.196Z",
+      "updatedAt": "2023-11-17T19:07:31.614Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "name": "Encuentro de Arduino 7",
+    "description": "Vulariter aperiam terga adversus subito victoria admitto cultura succurro consequuntur. Votum suppellex auctor vulpes argentum anser vel mollitia somniculosus. Tristis ambitus acervus adeo facilis tantum vos tres nulla.\nTepidus velit coaegresco utique desolo ara tamquam corona virgo. Creo bibo curatio temperantia nihil. Apud ipsa theologus.",
+    "eventType": "meetup",
+    "startDate": "2025-05-27T19:18:08.965Z",
+    "endDate": "2025-05-27T22:18:08.965Z",
+    "location": 2,
+    "organizer": 12,
+    "capacity": 30,
+    "attendees": [
+      32,
+      43,
+      15,
+      6,
+      14,
+      40,
+      5,
+      42
+    ],
+    "price": 42.49077879788565,
+    "isFree": false,
+    "isPublic": true,
+    "registrationRequired": false,
+    "registrationDeadline": "2025-05-19T20:59:07.450Z",
+    "status": "scheduled",
+    "tags": [
+      1,
+      3,
+      28,
+      15,
+      5
+    ],
+    "requiredSkills": [
+      36
+    ],
+    "providedSkills": [
+      1,
+      39,
+      9
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-11-23T18:36:52.478Z",
+      "updatedAt": "2024-12-15T09:21:24.992Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": "2025-05-06T00:34:43.398Z"
+  },
+  {
+    "id": 8,
+    "name": "Taller de IA 8",
+    "description": "Aranea aveho stillicidium unde varius pecco adipisci talio vulnero crepusculum. Beatae subvenio deleniti spes benevolentia xiphias curiositas aeneus ut atque. Ab auctus caecus vero.\nAro vulpes causa calamitas comparo bonus denuncio pariatur arcus conicio. Ager coadunatio eos coniuratio adficio ambitus ter vir. Tepidus summopere clarus molestias.",
+    "eventType": "workshop",
+    "startDate": "2025-08-15T08:32:46.174Z",
+    "endDate": "2025-08-16T08:32:46.174Z",
+    "location": 7,
+    "organizer": 10,
+    "capacity": 50,
+    "attendees": [
+      5,
+      32,
+      8,
+      33,
+      47,
+      46,
+      43,
+      34,
+      30,
+      16,
+      6
+    ],
+    "price": 33.14802549647436,
+    "isFree": false,
+    "isPublic": true,
+    "registrationRequired": false,
+    "registrationDeadline": "2025-07-27T20:45:10.384Z",
+    "status": "scheduled",
+    "tags": [
+      29,
+      6,
+      28,
+      9,
+      28
+    ],
+    "requiredSkills": [
+      38
+    ],
+    "providedSkills": [
+      38
+    ],
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "statua vetus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-02-18T13:44:29.610Z",
+      "updatedAt": "2025-04-09T02:13:35.423Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "name": "Reto: Diseño 9",
+    "description": "Suscipio alveus ocer tredecim catena viscus carmen. Defluo utroque adsuesco curvo. Cinis basium vulgus eos thesis totidem tonsor.\nUlciscor theatrum corrigo apostolus sollicito. Advoco ullus magnam solutio vita saepe surculus tempore timor adsuesco. Demonstro comburo vos patruus tabesco aveho cimentarius cibus.",
+    "eventType": "hackathon",
+    "startDate": "2026-01-10T14:25:23.243Z",
+    "endDate": "2026-01-10T22:25:23.243Z",
+    "location": 10,
+    "organizer": 35,
+    "capacity": 45,
+    "attendees": [],
+    "price": 0,
+    "isFree": true,
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-09-01T21:40:04.122Z",
+    "status": "completed",
+    "tags": [
+      24,
+      4,
+      15
+    ],
+    "requiredSkills": [],
+    "providedSkills": [
+      14
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-05-18T22:30:19.270Z",
+      "updatedAt": "2024-06-26T13:27:19.531Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "name": "Visita el makerspace IA 10",
+    "description": "Absens sub timidus clarus astrum. Creber varius decipio deprecator. Ceno cunctatio adicio optio uberrime.\nDolorem tondeo sonitus surgo alioqui demulceo summopere. Tantillus tum atqui esse cumque solum. Sodalitas volutabrum magnam cresco.",
+    "eventType": "open_day",
+    "startDate": "2025-06-09T23:28:34.713Z",
+    "endDate": "2025-06-11T23:28:34.713Z",
+    "location": 1,
+    "organizer": 37,
+    "capacity": 43,
+    "attendees": [
+      19,
+      1,
+      28,
+      31,
+      33,
+      24,
+      32,
+      23,
+      11,
+      6,
+      18,
+      38,
+      46,
+      29,
+      14,
+      8,
+      16,
+      17,
+      48,
+      45,
+      26,
+      15,
+      7,
+      21,
+      3,
+      44,
+      9,
+      36,
+      2
+    ],
+    "price": 198.6591922880272,
+    "isFree": false,
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-05-16T07:18:47.346Z",
+    "status": "completed",
+    "tags": [
+      25,
+      26,
+      12
+    ],
+    "requiredSkills": [
+      11,
+      5,
+      20
+    ],
+    "providedSkills": [
+      1,
+      12,
+      8
+    ],
+    "metadata": [
+      {
+        "key": "department",
+        "value": "video aptus"
+      },
+      {
+        "key": "tag",
+        "value": "aestivus coniecto"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-05T22:39:07.257Z",
+      "updatedAt": "2025-01-11T15:18:07.302Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 11,
+    "name": "Introducción a Arduino 11",
+    "description": "Utrum verto averto. Approbo colo denuncio. Volaticus decerno vallum porro aegrotatio victoria coaegresco alii cibo complectus.\nAmor tenetur delibero magnam thalassinus capitulus dolores vesco villa tracto. Defero defungo angelus vindico curiositas credo asperiores perferendis. Conspergo apud vorago astrum.",
+    "eventType": "workshop",
+    "startDate": "2025-10-12T07:48:22.055Z",
+    "endDate": "2025-10-12T11:48:22.055Z",
+    "location": 4,
+    "organizer": 12,
+    "capacity": 28,
+    "attendees": [
+      6,
+      18,
+      42,
+      31,
+      3,
+      27,
+      15,
+      39,
+      41,
+      12,
+      43,
+      1,
+      37,
+      5,
+      28,
+      8,
+      48,
+      30,
+      36,
+      40,
+      17,
+      20,
+      38,
+      49,
+      45
+    ],
+    "price": 82.97536084569697,
+    "isFree": false,
+    "isPublic": true,
+    "registrationRequired": false,
+    "registrationDeadline": "2025-06-24T16:18:31.389Z",
+    "status": "scheduled",
+    "tags": [
+      20
+    ],
+    "requiredSkills": [
+      26,
+      3
+    ],
+    "providedSkills": [],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-04-15T18:45:07.326Z",
+      "updatedAt": "2024-04-16T01:40:23.159Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 12,
+    "name": "Charla de Programación 12",
+    "description": "Cum suffragium alioqui hic capio temperantia tum vestrum cubitum vilicus. Mollitia sublime quod cado vester. Cicuta creber ex cunabula vociferor super.\nCinis caveo deprimo theatrum. Valeo cito aduro cariosus crinis attollo taedium thema talis tertius. Pecto tempore sopor ultio abduco cognatus atqui argentum nesciunt.",
+    "eventType": "conference",
+    "startDate": "2025-06-18T12:15:55.872Z",
+    "endDate": "2025-06-18T14:15:55.872Z",
+    "location": 5,
+    "organizer": 23,
+    "capacity": 22,
+    "attendees": [
+      19,
+      5,
+      48,
+      6,
+      28,
+      12,
+      8,
+      37,
+      13,
+      16,
+      46,
+      11,
+      25,
+      36,
+      10,
+      44,
+      45,
+      38,
+      4,
+      31
+    ],
+    "price": 0,
+    "isFree": true,
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-06-09T16:56:49.506Z",
+    "status": "postponed",
+    "tags": [
+      6,
+      27,
+      10,
+      18
+    ],
+    "requiredSkills": [],
+    "providedSkills": [
+      31,
+      8
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "caelum torqueo"
+      },
+      {
+        "key": "source",
+        "value": "expedita cuppedia"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-01T12:48:34.479Z",
+      "updatedAt": "2025-01-02T17:37:36.561Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 13,
+    "name": "Aprende Diseño 13",
+    "description": "Auctus voluptatem usitas accommodo nemo coma vulgus. Voveo arbustum defendo. Concido titulus bellum sono apto aedificium alius.\nEligendi candidus urbanus enim amicitia tamen thermae amet. Confido comprehendo contabesco articulus validus socius cupiditate varietas denique. Textus audacia bestia tenax thorax ter creator turpis amo cohors.",
+    "eventType": "course",
+    "startDate": "2025-12-03T01:49:27.148Z",
+    "endDate": "2025-12-03T04:49:27.148Z",
+    "location": 8,
+    "organizer": 30,
+    "capacity": 35,
+    "attendees": [
+      18,
+      37,
+      22,
+      38,
+      46,
+      34,
+      10,
+      7,
+      41,
+      17,
+      25,
+      31,
+      11
+    ],
+    "price": 137.44157449059955,
+    "isFree": false,
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-06-29T21:24:21.788Z",
+    "status": "cancelled",
+    "tags": [
+      3
+    ],
+    "requiredSkills": [],
+    "providedSkills": [
+      9
+    ],
+    "metadata": [
+      {
+        "key": "department",
+        "value": "eligendi traho"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-08-26T18:55:01.677Z",
+      "updatedAt": "2025-04-23T03:32:20.100Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 14,
+    "name": "Evento especial: IA 14",
+    "description": "Cur vicinus caelum bardus vapulus iste autus charisma. Toties peior derideo. Adflicto crinis comes sapiente vomer eos sequi.\nTres crepusculum conforto debitis laboriosam deduco suffragium temeritas. Tenuis aliquid voluptates cumque speciosus. Desipio corona casso.",
+    "eventType": "other",
+    "startDate": "2026-01-17T07:56:25.194Z",
+    "endDate": "2026-01-17T23:56:25.194Z",
+    "location": 2,
+    "organizer": 22,
+    "capacity": 35,
+    "attendees": [
+      45,
+      32,
+      8,
+      1,
+      42,
+      31,
+      46,
+      24
+    ],
+    "price": 44.969361783265796,
+    "isFree": false,
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-06-09T12:51:00.381Z",
+    "status": "cancelled",
+    "tags": [
+      19,
+      22
+    ],
+    "requiredSkills": [
+      34,
+      28,
+      25
+    ],
+    "providedSkills": [
+      11,
+      24,
+      40
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-07-29T13:24:21.705Z",
+      "updatedAt": "2024-11-14T15:50:25.797Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 15,
+    "name": "Hackathon: IoT 15",
+    "description": "Uberrime stabilis similique tui tollo sint concedo carcer cibo. Advenio dolore adsuesco avaritia. Cattus attollo adduco.\nAuctor minima audax cicuta pauci talus spectaculum annus defero. Comminor incidunt vix super cupiditas minima. Tot clarus tutis cubicularis defleo.",
+    "eventType": "hackathon",
+    "startDate": "2025-07-17T07:15:25.457Z",
+    "endDate": "2025-07-17T15:15:25.457Z",
+    "location": 10,
+    "organizer": 29,
+    "capacity": 43,
+    "attendees": [
+      8,
+      42,
+      12,
+      3,
+      6,
+      25,
+      32,
+      44
+    ],
+    "price": 96.32507560250423,
+    "isFree": false,
+    "isPublic": false,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-06-23T22:31:55.218Z",
+    "status": "scheduled",
+    "tags": [
+      2,
+      9
+    ],
+    "requiredSkills": [
+      6,
+      10
+    ],
+    "providedSkills": [
+      2,
+      34,
+      27
+    ],
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "aperiam quasi"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-05-22T09:15:16.323Z",
+      "updatedAt": "2025-04-07T12:21:34.970Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": "2025-05-06T06:48:27.608Z"
+  },
+  {
+    "id": 16,
+    "name": "Visita el makerspace Programación 16",
+    "description": "Atqui careo usque adsidue carus vitae ustulo cedo. Deprecator temporibus dignissimos. Adsum antiquus iusto volubilis culpa.\nAbeo saepe reiciendis adversus videlicet turbo aer certe. Aspernatur accommodo acervus abundans tego damno confido talis. Candidus tener creator careo aequus.",
+    "eventType": "open_day",
+    "startDate": "2025-10-09T22:54:08.449Z",
+    "endDate": "2025-10-10T14:54:08.449Z",
+    "location": 9,
+    "organizer": 24,
+    "capacity": 40,
+    "attendees": [
+      10,
+      15,
+      27,
+      8,
+      48,
+      50,
+      39,
+      17,
+      3,
+      4,
+      25,
+      23,
+      35,
+      13,
+      44,
+      14,
+      9,
+      24,
+      49,
+      37,
+      26,
+      30,
+      2,
+      18,
+      47,
+      29,
+      32,
+      16,
+      19,
+      7,
+      6,
+      11,
+      38,
+      33,
+      1,
+      42,
+      31,
+      45,
+      40
+    ],
+    "price": 31.84646418842032,
+    "isFree": false,
+    "isPublic": true,
+    "registrationRequired": false,
+    "registrationDeadline": "2025-05-29T04:40:59.241Z",
+    "status": "scheduled",
+    "tags": [
+      28,
+      9
+    ],
+    "requiredSkills": [
+      29,
+      23,
+      39
+    ],
+    "providedSkills": [
+      24,
+      22,
+      35
+    ],
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "comminor admitto"
+      },
+      {
+        "key": "source",
+        "value": "nesciunt tyrannus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-11-30T10:54:34.012Z",
+      "updatedAt": "2024-02-27T21:15:14.291Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 17,
+    "name": "Hands-on Impresión 3D 17",
+    "description": "Decens enim credo. Vomica vilicus appono crapula coepi amiculum animi. Quae verus aperte talio.\nVilitas tunc defungo necessitatibus tamisium supplanto expedita veritatis celo. Aduro tonsor video vivo admitto. Sub adamo sed vesica claudeo infit vergo itaque tener tantillus.",
+    "eventType": "workshop",
+    "startDate": "2026-04-07T02:17:18.764Z",
+    "endDate": "2026-04-07T06:17:18.764Z",
+    "location": 6,
+    "organizer": 31,
+    "capacity": 19,
+    "attendees": [
+      7,
+      29,
+      8,
+      37,
+      36,
+      28,
+      35,
+      26,
+      14,
+      9,
+      24,
+      46,
+      1,
+      21,
+      45,
+      49,
+      12,
+      4,
+      17
+    ],
+    "price": 182.06128923592908,
+    "isFree": false,
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2026-04-04T07:11:44.690Z",
+    "status": "cancelled",
+    "tags": [
+      22,
+      15,
+      10
+    ],
+    "requiredSkills": [
+      20,
+      24,
+      32
+    ],
+    "providedSkills": [
+      10
+    ],
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "verumtamen vir"
+      },
+      {
+        "key": "relevance",
+        "value": "aperio corroboro"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-21T12:15:20.588Z",
+      "updatedAt": "2025-02-14T03:27:46.480Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 18,
+    "name": "Experiencia: Diseño 18",
+    "description": "Corrupti capitulus succedo thermae crux tredecim auditor suggero acquiro. Barba quos cohors tabernus angustus claustrum. Derideo torrens ultio constans vito assentator amita.\nValidus trepide suffragium torqueo adhaero volva calamitas capillus. Tempus contigo adficio cui explicabo sortitus decerno deputo. Basium debilito capio amo absque adnuo minus cursim statua avaritia.",
+    "eventType": "other",
+    "startDate": "2025-05-11T03:01:48.597Z",
+    "endDate": "2025-05-13T03:01:48.597Z",
+    "location": 10,
+    "organizer": 43,
+    "capacity": 23,
+    "attendees": [
+      14,
+      13,
+      1,
+      21,
+      37,
+      26,
+      19,
+      24,
+      34,
+      45,
+      9,
+      44,
+      41,
+      12,
+      40,
+      6,
+      7,
+      36,
+      38,
+      8
+    ],
+    "price": 150.4120189052665,
+    "isFree": false,
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-05-08T15:35:17.037Z",
+    "status": "scheduled",
+    "tags": [
+      5,
+      22
+    ],
+    "requiredSkills": [
+      37
+    ],
+    "providedSkills": [
+      7
+    ],
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "cruentus virtus"
+      },
+      {
+        "key": "difficulty",
+        "value": "patrocinor cruciamentum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-05-14T10:43:23.919Z",
+      "updatedAt": "2024-03-05T12:26:58.853Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 19,
+    "name": "Visita el makerspace IoT 19",
+    "description": "Adhaero barba tempore. Socius utique pecco spoliatio. Virtus sollers supra aranea ars tener adsuesco.\nCarmen omnis defluo desolo aufero. Veritatis unus cauda vos beatae aegre cariosus vinculum tui corrumpo. Corrigo conatus casso desipio attero.",
+    "eventType": "open_day",
+    "startDate": "2025-09-20T04:11:38.599Z",
+    "endDate": "2025-09-20T12:11:38.599Z",
+    "location": 10,
+    "organizer": 45,
+    "capacity": 23,
+    "attendees": [
+      26,
+      29,
+      1,
+      23,
+      6,
+      8,
+      33,
+      13
+    ],
+    "price": 0,
+    "isFree": true,
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-06-15T02:12:38.174Z",
+    "status": "postponed",
+    "tags": [
+      12,
+      27,
+      22
+    ],
+    "requiredSkills": [],
+    "providedSkills": [],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "carcer calcar"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-05-08T17:08:34.885Z",
+      "updatedAt": "2023-07-29T20:52:52.182Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": 20,
+    "name": "Encuentro de IA 20",
+    "description": "Delinquo vitium cupiditas demens vehemens eveniet sublime adulatio. Accommodo terreo deputo crebro supellex conspergo. Tot denego spes creta.\nCorroboro cui demum cognatus molestiae aliquid sum. Inventore adsuesco rem. Appositus desparatus denuo tepidus tondeo absum centum demo crastinus.",
+    "eventType": "meetup",
+    "startDate": "2025-08-27T10:17:57.288Z",
+    "endDate": "2025-08-28T10:17:57.288Z",
+    "location": 4,
+    "organizer": 15,
+    "capacity": 46,
+    "attendees": [
+      13,
+      14,
+      19,
+      44,
+      30,
+      43,
+      49,
+      34,
+      41,
+      9,
+      40,
+      48,
+      50,
+      8,
+      7,
+      20,
+      39,
+      36,
+      17,
+      38,
+      6,
+      47,
+      22,
+      11,
+      23,
+      32,
+      2,
+      1,
+      31,
+      37,
+      27,
+      15
+    ],
+    "price": 160.0446088168991,
+    "isFree": false,
+    "isPublic": true,
+    "registrationRequired": false,
+    "registrationDeadline": "2025-07-25T22:31:46.556Z",
+    "status": "scheduled",
+    "tags": [
+      14
+    ],
+    "requiredSkills": [],
+    "providedSkills": [
+      21,
+      14,
+      26
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-08-28T02:49:01.475Z",
+      "updatedAt": "2025-01-05T06:26:02.306Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.871Z",
+    "deletedAt": null
+  }
+]

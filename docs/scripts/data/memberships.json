@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Básica",
+    "level": "basic",
+    "description": "Vereor demum versus. Aequus cubo aduro. Aurum anser adsidue aliquam avarus.",
+    "price": 154,
+    "duration": 12,
+    "benefits": [
+      "Odit calcar crustulum auctus tergeo cur.",
+      "Suscipio victus patruus vero sumo vehemens adfero.",
+      "Crustulum suppellex talio magnam depono ratione verbera.",
+      "Conservo ager videlicet exercitationem eum appono amaritudo.",
+      "Delectus triumphus contra textus desparatus congregatio talio iure veniam.",
+      "Tui corpus tantillus cimentarius bos."
+    ],
+    "isActive": true,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "deporto iste"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-11T10:36:31.023Z",
+      "updatedAt": "2025-04-28T23:39:09.768Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.698Z"
+  },
+  {
+    "id": 2,
+    "name": "Estándar",
+    "level": "standard",
+    "description": "Tubineus aperio aufero tricesimus currus spiculum. Itaque advoco sophismata alioqui crapula caries coruscus. Vulgivagus cuppedia vel soluta tero viridis subito.",
+    "price": 493,
+    "duration": 1,
+    "benefits": [
+      "Vesper beatae tepidus delectus quasi.",
+      "Defleo thymum cursim esse benevolentia conventus colligo ceno.",
+      "Dolorem super ambulo decor creator vulgaris adstringo clamo comprehendo.",
+      "Uxor tripudio conor annus aetas eaque tubineus claro sint.",
+      "Acerbitas depromo dens civitas delinquo repellendus ater cruentus."
+    ],
+    "isActive": true,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "cena veritatis"
+      },
+      {
+        "key": "tag",
+        "value": "dapifer velum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-12-19T01:22:47.515Z",
+      "updatedAt": "2025-03-28T00:15:55.161Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.698Z"
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "level": "premium",
+    "description": "Viduo denuo comprehendo ambitus. Tantillus veritas tutamen summopere. Accedo curiositas tredecim illum.",
+    "price": 498,
+    "duration": 6,
+    "benefits": [
+      "Utrimque atavus cervus tardus dignissimos bis coerceo aperiam vilitas.",
+      "Voluptatum conatus verto coaegresco amita.",
+      "Delibero desipio dedico suus ara absens.",
+      "Aspernatur brevis demulceo vivo eveniet uterque sortitus tribuo.",
+      "Volutabrum curiositas inventore commemoro.",
+      "Territo vere verumtamen textilis appositus.",
+      "Sapiente solitudo confugo adsuesco copiose capto corroboro supellex."
+    ],
+    "isActive": true,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-01-16T20:07:13.671Z",
+      "updatedAt": "2024-12-07T17:45:01.133Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.699Z"
+  },
+  {
+    "id": 4,
+    "name": "Corporativa",
+    "level": "premium",
+    "description": "Quia tergo apud antea talis conspergo suasoria. Solio texo caste occaecati labore spero ventosus. Ager causa angulus.",
+    "price": 440,
+    "duration": 3,
+    "benefits": [
+      "Certe cicuta cognomen vita excepturi verus contra sollicito suus.",
+      "Tabernus tametsi coma villa corona complectus pecco apud stultus ut.",
+      "Aperte cumque officia antiquus attonbitus xiphias quisquam angelus nemo comparo.",
+      "Officia capillus tersus aeternus vicissitudo caelestis architecto absconditus solio."
+    ],
+    "isActive": true,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-09-23T21:40:14.487Z",
+      "updatedAt": "2024-11-29T08:29:47.074Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.700Z"
+  }
+]

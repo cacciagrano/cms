@@ -1,0 +1,3669 @@
+[
+  {
+    "id": 1,
+    "member": 1,
+    "skill": 21,
+    "level": 102,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 8.462797935490912,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Admitto supra spiculum ea thermae ratione. Sursum ascit utor comptus. Tamdiu numquam adiuvo conduco cruentus ut supellex volubilis agnitio.",
+    "audit": {
+      "createdAt": "2023-10-22T23:10:55.350Z",
+      "updatedAt": "2024-04-05T13:41:34.132Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 2,
+    "member": 1,
+    "skill": 12,
+    "level": 57,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 9.987936158913994,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Aut deprecator arceo decretum ara umbra. Conventus assentator tibi tener adfectus textor audentia voluptatum depopulo nesciunt. Ducimus dolor comburo curo sortitus arca.",
+    "audit": {
+      "createdAt": "2023-05-09T06:29:08.108Z",
+      "updatedAt": "2025-04-26T03:55:18.828Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 3,
+    "member": 1,
+    "skill": 37,
+    "level": 181,
+    "isVerified": true,
+    "verifiedBy": null,
+    "verifiedAt": "2025-04-20T20:52:03.705Z",
+    "yearsExperience": 0.7564724137556931,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Tunc cruciamentum conor curis socius aveho. Comparo est ara debeo antiquus celo facilis carpo versus. Thermae avarus deleo vado.",
+    "audit": {
+      "createdAt": "2023-06-12T04:09:10.142Z",
+      "updatedAt": "2023-07-05T15:40:30.025Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 4,
+    "member": 1,
+    "skill": 34,
+    "level": 168,
+    "isVerified": true,
+    "verifiedBy": null,
+    "verifiedAt": "2025-04-12T00:16:05.392Z",
+    "yearsExperience": 14.76799182333456,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Casus adeo thesaurus. Dicta vobis conspergo vomito vinitor. Desparatus amor tyrannus magnam.",
+    "audit": {
+      "createdAt": "2025-01-01T13:01:16.188Z",
+      "updatedAt": "2025-04-29T01:37:40.474Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 11,
+    "member": 2,
+    "skill": 11,
+    "level": 51,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 4.742904069106691,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Vacuus cunae ultra ademptio fuga solio aetas vix. Theatrum cilicium callide vir traho sortitus conforto cauda utroque. Tabula sopor venia convoco.",
+    "audit": {
+      "createdAt": "2024-11-01T11:56:22.765Z",
+      "updatedAt": "2024-12-19T03:51:52.449Z",
+      "createdBy": null,
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 21,
+    "member": 3,
+    "skill": 18,
+    "level": 87,
+    "isVerified": true,
+    "verifiedBy": 2,
+    "verifiedAt": "2025-05-04T18:23:41.280Z",
+    "yearsExperience": 13.39991469854626,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-08-11T20:50:07.035Z",
+      "updatedAt": "2025-04-14T09:24:07.344Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 31,
+    "member": 4,
+    "skill": 22,
+    "level": 110,
+    "isVerified": true,
+    "verifiedBy": 2,
+    "verifiedAt": "2024-07-20T09:18:20.587Z",
+    "yearsExperience": 5.883022302120566,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-06-07T10:11:32.608Z",
+      "updatedAt": "2025-01-26T01:09:33.061Z",
+      "createdBy": "import",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 32,
+    "member": 4,
+    "skill": 3,
+    "level": 13,
+    "isVerified": true,
+    "verifiedBy": 3,
+    "verifiedAt": "2025-03-15T11:29:35.621Z",
+    "yearsExperience": 7.085513248492368,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": "Bellum ratione canonicus uxor delectus. Fuga usque usque spoliatio aegrotatio artificiose. Careo super cicuta statua trado ubi anser autus.",
+    "audit": {
+      "createdAt": "2024-06-09T08:43:55.561Z",
+      "updatedAt": "2024-07-24T07:44:28.446Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 33,
+    "member": 4,
+    "skill": 33,
+    "level": 161,
+    "isVerified": true,
+    "verifiedBy": 2,
+    "verifiedAt": "2025-04-27T06:11:12.406Z",
+    "yearsExperience": 0.7088894193393929,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-09-22T15:38:56.877Z",
+      "updatedAt": "2024-06-24T17:04:18.027Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 41,
+    "member": 5,
+    "skill": 24,
+    "level": 118,
+    "isVerified": true,
+    "verifiedBy": 3,
+    "verifiedAt": "2024-12-01T12:57:22.192Z",
+    "yearsExperience": 12.58955995653005,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": "Ambitus atavus arguo. Ubi coepi aestas temptatio caelum appono non sono. Amplitudo admoveo utor curso.",
+    "audit": {
+      "createdAt": "2024-08-16T17:36:44.386Z",
+      "updatedAt": "2025-02-11T21:38:32.678Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 42,
+    "member": 5,
+    "skill": 29,
+    "level": 143,
+    "isVerified": true,
+    "verifiedBy": 2,
+    "verifiedAt": "2025-04-14T18:42:23.442Z",
+    "yearsExperience": 3.6623307645200915,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-09-06T04:28:57.631Z",
+      "updatedAt": "2024-05-15T17:03:21.123Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 43,
+    "member": 5,
+    "skill": 12,
+    "level": 58,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 0.6641306681687628,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-12-29T22:37:38.336Z",
+      "updatedAt": "2024-10-11T02:21:05.626Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 44,
+    "member": 5,
+    "skill": 28,
+    "level": 136,
+    "isVerified": true,
+    "verifiedBy": 4,
+    "verifiedAt": "2025-02-11T14:13:05.641Z",
+    "yearsExperience": 7.726319742389032,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-12-16T02:38:57.329Z",
+      "updatedAt": "2025-02-15T22:04:24.688Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 51,
+    "member": 6,
+    "skill": 34,
+    "level": 167,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 1.8284570697913298,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-10-12T11:08:51.960Z",
+      "updatedAt": "2025-02-09T13:37:30.031Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 61,
+    "member": 7,
+    "skill": 30,
+    "level": 147,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 3.3691199777123098,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-07-14T04:03:45.663Z",
+      "updatedAt": "2024-12-24T17:21:25.586Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 71,
+    "member": 8,
+    "skill": 28,
+    "level": 136,
+    "isVerified": true,
+    "verifiedBy": 5,
+    "verifiedAt": "2024-10-30T18:59:23.110Z",
+    "yearsExperience": 8.54676999150466,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-05-24T05:08:36.243Z",
+      "updatedAt": "2023-09-14T06:50:50.905Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 72,
+    "member": 8,
+    "skill": 31,
+    "level": 151,
+    "isVerified": true,
+    "verifiedBy": 4,
+    "verifiedAt": "2025-03-24T22:45:50.527Z",
+    "yearsExperience": 3.854364085594023,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-04-03T21:14:05.679Z",
+      "updatedAt": "2025-04-14T18:37:36.398Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 73,
+    "member": 8,
+    "skill": 37,
+    "level": 181,
+    "isVerified": true,
+    "verifiedBy": 2,
+    "verifiedAt": "2025-03-16T04:57:26.319Z",
+    "yearsExperience": 6.3720428995550416,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Veniam hic cohaero voluptatem. Synagoga culpo aranea baiulus. Aqua apto adhuc turba neque.",
+    "audit": {
+      "createdAt": "2024-03-22T17:47:02.967Z",
+      "updatedAt": "2024-03-31T18:19:04.108Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 74,
+    "member": 8,
+    "skill": 1,
+    "level": 3,
+    "isVerified": true,
+    "verifiedBy": 3,
+    "verifiedAt": "2025-04-24T14:35:03.865Z",
+    "yearsExperience": 9.58334549411553,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-12-05T12:05:15.394Z",
+      "updatedAt": "2025-03-08T11:46:27.027Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 75,
+    "member": 8,
+    "skill": 39,
+    "level": 192,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 11.601744692547017,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-03-24T06:07:50.675Z",
+      "updatedAt": "2025-04-15T20:56:02.788Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 76,
+    "member": 8,
+    "skill": 23,
+    "level": 112,
+    "isVerified": true,
+    "verifiedBy": 1,
+    "verifiedAt": "2024-09-07T20:22:09.150Z",
+    "yearsExperience": 11.849198309772948,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-11-02T06:33:06.020Z",
+      "updatedAt": "2025-03-31T03:35:25.643Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 77,
+    "member": 8,
+    "skill": 11,
+    "level": 54,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 8.549424662494012,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Accusamus patria caelestis hic sol sonitus quidem ter. Caterva comparo cito ocer magni terror averto. Caste tabula facere.",
+    "audit": {
+      "createdAt": "2025-01-04T11:20:56.776Z",
+      "updatedAt": "2025-02-24T02:16:12.281Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 78,
+    "member": 8,
+    "skill": 40,
+    "level": 197,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 1.9282502383860167,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-10-26T16:51:50.891Z",
+      "updatedAt": "2024-12-23T02:26:23.835Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 81,
+    "member": 9,
+    "skill": 34,
+    "level": 168,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 1.4459102369507375,
+    "isPublic": false,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-01-12T22:13:01.055Z",
+      "updatedAt": "2025-04-15T14:13:52.683Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 82,
+    "member": 9,
+    "skill": 27,
+    "level": 133,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 5.988973118424889,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-11-14T04:14:27.942Z",
+      "updatedAt": "2023-12-31T22:03:06.320Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 83,
+    "member": 9,
+    "skill": 4,
+    "level": 18,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 2.449670345698162,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Basium coaegresco tristis demitto audio confero. Iusto magnam comminor dignissimos voluptate demitto exercitationem decimus aeternus adipisci. Amplitudo decretum consequuntur.",
+    "audit": {
+      "createdAt": "2024-07-04T13:21:16.734Z",
+      "updatedAt": "2024-11-26T19:56:29.920Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 84,
+    "member": 9,
+    "skill": 8,
+    "level": 38,
+    "isVerified": true,
+    "verifiedBy": 7,
+    "verifiedAt": "2025-04-27T22:47:29.794Z",
+    "yearsExperience": 10.498151514953245,
+    "isPublic": false,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-09-26T08:53:33.684Z",
+      "updatedAt": "2024-12-02T21:31:50.912Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 85,
+    "member": 9,
+    "skill": 6,
+    "level": 30,
+    "isVerified": true,
+    "verifiedBy": 3,
+    "verifiedAt": "2025-04-22T17:27:21.342Z",
+    "yearsExperience": 3.8487295036818545,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-06-18T10:32:53.433Z",
+      "updatedAt": "2024-11-27T14:45:58.048Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 86,
+    "member": 9,
+    "skill": 28,
+    "level": 137,
+    "isVerified": true,
+    "verifiedBy": 8,
+    "verifiedAt": "2025-04-14T02:49:44.915Z",
+    "yearsExperience": 14.9745771610354,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Solutio arbustum ars copia caries vorago tripudio. Distinctio iure curatio quaerat vesco tutis. Suadeo mollitia viridis calculus charisma.",
+    "audit": {
+      "createdAt": "2023-10-20T01:00:38.469Z",
+      "updatedAt": "2024-09-06T14:54:20.312Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 87,
+    "member": 9,
+    "skill": 40,
+    "level": 199,
+    "isVerified": true,
+    "verifiedBy": 3,
+    "verifiedAt": "2024-07-30T14:04:28.541Z",
+    "yearsExperience": 14.955676192663176,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Demo conturbo defendo et tertius vetus tabula. Tibi comedo barba cupiditas quia vigilo aperio defaeco cupressus. Sublime spiritus abbas cupiditate aurum debilito.",
+    "audit": {
+      "createdAt": "2025-02-09T04:49:52.226Z",
+      "updatedAt": "2025-04-06T03:00:17.165Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 91,
+    "member": 10,
+    "skill": 11,
+    "level": 51,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 8.867662117006814,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-03-03T01:00:08.502Z",
+      "updatedAt": "2025-03-15T14:45:32.954Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 92,
+    "member": 10,
+    "skill": 32,
+    "level": 159,
+    "isVerified": true,
+    "verifiedBy": 2,
+    "verifiedAt": "2025-02-21T04:09:03.089Z",
+    "yearsExperience": 2.9672059106543687,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-08-07T07:51:20.183Z",
+      "updatedAt": "2024-09-29T04:29:28.241Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 93,
+    "member": 10,
+    "skill": 40,
+    "level": 199,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 5.5661556468597135,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-03-26T22:31:26.923Z",
+      "updatedAt": "2024-06-10T08:08:05.449Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 101,
+    "member": 11,
+    "skill": 26,
+    "level": 126,
+    "isVerified": true,
+    "verifiedBy": 2,
+    "verifiedAt": "2024-06-23T00:22:00.891Z",
+    "yearsExperience": 6.8034653012710935,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-03-10T14:44:10.635Z",
+      "updatedAt": "2025-04-28T19:29:10.548Z",
+      "createdBy": "import",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 102,
+    "member": 11,
+    "skill": 10,
+    "level": 50,
+    "isVerified": true,
+    "verifiedBy": 3,
+    "verifiedAt": "2025-02-06T05:02:35.049Z",
+    "yearsExperience": 1.6491644701481485,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": "Amplus conqueror repellendus occaecati amplexus adeptio delinquo tener custodia turpis. Volaticus colo complectus tamisium. Subvenio vulnero quia optio comburo adduco absque ustulo.",
+    "audit": {
+      "createdAt": "2024-07-06T01:14:24.701Z",
+      "updatedAt": "2025-03-24T21:11:22.467Z",
+      "createdBy": "import",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 103,
+    "member": 11,
+    "skill": 29,
+    "level": 143,
+    "isVerified": true,
+    "verifiedBy": 6,
+    "verifiedAt": "2025-02-15T19:45:39.877Z",
+    "yearsExperience": 9.782450098590532,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-04-09T05:54:55.330Z",
+      "updatedAt": "2025-04-21T18:17:59.993Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 104,
+    "member": 11,
+    "skill": 1,
+    "level": 2,
+    "isVerified": true,
+    "verifiedBy": 6,
+    "verifiedAt": "2024-08-20T15:09:39.059Z",
+    "yearsExperience": 9.303390131877375,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-10-20T02:36:01.424Z",
+      "updatedAt": "2024-12-06T19:23:38.665Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 105,
+    "member": 11,
+    "skill": 32,
+    "level": 156,
+    "isVerified": true,
+    "verifiedBy": 2,
+    "verifiedAt": "2025-04-26T13:27:35.468Z",
+    "yearsExperience": 6.500840387278472,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-01-17T20:19:35.895Z",
+      "updatedAt": "2024-12-31T05:09:16.159Z",
+      "createdBy": "import",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 111,
+    "member": 12,
+    "skill": 24,
+    "level": 120,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 4.8960188938785905,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Utique illo amita. Arbor cernuus demergo voluptas laborum candidus atqui. Illo neque vitium deficio beatus acsi eveniet sponte.",
+    "audit": {
+      "createdAt": "2023-12-11T12:59:32.351Z",
+      "updatedAt": "2025-01-30T05:09:00.407Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 112,
+    "member": 12,
+    "skill": 9,
+    "level": 41,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 3.3992141023512397,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-03-10T22:58:07.588Z",
+      "updatedAt": "2025-04-17T18:24:32.959Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 113,
+    "member": 12,
+    "skill": 11,
+    "level": 53,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 7.592224360610925,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-11-27T17:15:10.165Z",
+      "updatedAt": "2024-03-14T19:48:24.793Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 114,
+    "member": 12,
+    "skill": 28,
+    "level": 139,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 3.027720986588178,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Fugiat magni pectus amplexus desolo umbra. Error tredecim doloremque. Dignissimos magnam asperiores amoveo aeneus viduo ver angelus quo.",
+    "audit": {
+      "createdAt": "2025-01-13T08:59:23.945Z",
+      "updatedAt": "2025-04-21T10:34:17.938Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 115,
+    "member": 12,
+    "skill": 31,
+    "level": 152,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 12.911586398766058,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Vulticulus constans taceo clarus. Culpo crapula comminor coepi. Supra quam tibi depraedor.",
+    "audit": {
+      "createdAt": "2025-02-15T07:47:34.223Z",
+      "updatedAt": "2025-02-25T03:08:44.922Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 116,
+    "member": 12,
+    "skill": 10,
+    "level": 48,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 10.826774991867918,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-11-06T02:05:57.880Z",
+      "updatedAt": "2025-01-20T18:26:21.234Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 121,
+    "member": 13,
+    "skill": 16,
+    "level": 78,
+    "isVerified": true,
+    "verifiedBy": 11,
+    "verifiedAt": "2024-12-07T04:55:42.673Z",
+    "yearsExperience": 11.965119136056018,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-12-30T12:07:01.561Z",
+      "updatedAt": "2025-02-24T19:22:03.578Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 122,
+    "member": 13,
+    "skill": 19,
+    "level": 92,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 10.469629317302045,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Vix nulla angelus magnam una beneficium ultio. Depereo aedificium veritas theologus tempus copia cuius artificiose conqueror. Tempora atque candidus tener aequus.",
+    "audit": {
+      "createdAt": "2025-05-03T00:16:28.430Z",
+      "updatedAt": "2025-05-03T15:26:51.544Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 123,
+    "member": 13,
+    "skill": 29,
+    "level": 145,
+    "isVerified": true,
+    "verifiedBy": 7,
+    "verifiedAt": "2025-05-04T04:49:24.454Z",
+    "yearsExperience": 11.973180572771238,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Aperiam crustulum nisi amiculum cupiditate viduo adeo. Absens aestas vinum est solium occaecati. Attonbitus rerum alter toties acies.",
+    "audit": {
+      "createdAt": "2024-12-10T06:30:22.878Z",
+      "updatedAt": "2025-02-11T01:43:29.711Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 131,
+    "member": 14,
+    "skill": 28,
+    "level": 140,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 2.126579841885849,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Ambitus cito defluo concido ambulo deduco decimus tergeo vorax thymbra. Balbus nemo tardus deleo numquam ducimus vomica aspernatur. Corona capitulus contra cuius vomica taedium valeo optio patior consuasor.",
+    "audit": {
+      "createdAt": "2024-11-01T03:54:13.879Z",
+      "updatedAt": "2025-01-11T21:09:45.810Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 132,
+    "member": 14,
+    "skill": 21,
+    "level": 103,
+    "isVerified": true,
+    "verifiedBy": 10,
+    "verifiedAt": "2025-03-30T17:04:26.754Z",
+    "yearsExperience": 1.7473565853769015,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-01-12T17:57:41.540Z",
+      "updatedAt": "2025-04-17T13:35:25.073Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 133,
+    "member": 14,
+    "skill": 22,
+    "level": 108,
+    "isVerified": true,
+    "verifiedBy": 12,
+    "verifiedAt": "2025-04-27T20:42:32.114Z",
+    "yearsExperience": 0.5410035059258423,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-05-09T18:00:31.119Z",
+      "updatedAt": "2025-03-23T20:27:39.429Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 134,
+    "member": 14,
+    "skill": 32,
+    "level": 160,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 13.71079912582147,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-01-01T17:47:59.925Z",
+      "updatedAt": "2025-01-25T19:31:27.996Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 135,
+    "member": 14,
+    "skill": 36,
+    "level": 178,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 13.948851192831713,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-08-02T08:33:13.830Z",
+      "updatedAt": "2024-12-27T11:47:29.340Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 136,
+    "member": 14,
+    "skill": 5,
+    "level": 22,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 5.188866617160605,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-02-11T04:08:35.258Z",
+      "updatedAt": "2025-03-21T19:04:51.993Z",
+      "createdBy": null,
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 141,
+    "member": 15,
+    "skill": 7,
+    "level": 31,
+    "isVerified": true,
+    "verifiedBy": 10,
+    "verifiedAt": "2025-05-01T13:23:43.770Z",
+    "yearsExperience": 3.4639974605269135,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Coaegresco curso dolores alienus crux terreo. Amaritudo damno terra cinis adflicto amissio. Excepturi adimpleo culpo causa triduana.",
+    "audit": {
+      "createdAt": "2023-05-31T09:13:10.685Z",
+      "updatedAt": "2024-06-04T12:07:24.612Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 142,
+    "member": 15,
+    "skill": 28,
+    "level": 138,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 6.345505117016872,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-10-20T04:57:47.774Z",
+      "updatedAt": "2025-01-12T17:45:20.994Z",
+      "createdBy": "import",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 143,
+    "member": 15,
+    "skill": 24,
+    "level": 120,
+    "isVerified": true,
+    "verifiedBy": 7,
+    "verifiedAt": "2025-04-19T11:07:04.218Z",
+    "yearsExperience": 1.9241226169444254,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Socius summopere barba ancilla crustulum cometes reprehenderit. Commodo comitatus adamo. Aufero coerceo ex cito collum.",
+    "audit": {
+      "createdAt": "2023-05-23T06:49:08.476Z",
+      "updatedAt": "2024-02-06T06:38:20.293Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 151,
+    "member": 16,
+    "skill": 1,
+    "level": 1,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 9.949238291001556,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Cavus aliquam curis cultellus aeneus creptio pectus. Turba coaegresco culpo celer decimus error quis. Civis unus amor illum demonstro cenaculum.",
+    "audit": {
+      "createdAt": "2023-09-14T11:04:28.080Z",
+      "updatedAt": "2025-04-17T02:58:18.682Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 161,
+    "member": 17,
+    "skill": 32,
+    "level": 157,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 2.6537109667765253,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-01-16T22:45:48.014Z",
+      "updatedAt": "2025-03-20T05:16:48.234Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 171,
+    "member": 18,
+    "skill": 23,
+    "level": 113,
+    "isVerified": true,
+    "verifiedBy": 1,
+    "verifiedAt": "2025-03-17T18:41:12.006Z",
+    "yearsExperience": 9.816828673158769,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-12-24T22:30:02.180Z",
+      "updatedAt": "2024-09-16T16:54:26.700Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 172,
+    "member": 18,
+    "skill": 2,
+    "level": 10,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 12.868860517323874,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-01-13T03:08:35.043Z",
+      "updatedAt": "2025-04-04T00:25:48.316Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 173,
+    "member": 18,
+    "skill": 13,
+    "level": 62,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 11.944465882435853,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-07-07T23:30:40.956Z",
+      "updatedAt": "2024-09-15T04:40:39.280Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 174,
+    "member": 18,
+    "skill": 36,
+    "level": 176,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 11.7237982184223,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-09-28T15:28:24.031Z",
+      "updatedAt": "2024-01-06T14:18:27.366Z",
+      "createdBy": null,
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 181,
+    "member": 19,
+    "skill": 7,
+    "level": 31,
+    "isVerified": true,
+    "verifiedBy": 16,
+    "verifiedAt": "2025-01-29T06:19:03.794Z",
+    "yearsExperience": 1.8056329530674209,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-10-28T21:54:06.526Z",
+      "updatedAt": "2024-07-25T23:43:56.094Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 182,
+    "member": 19,
+    "skill": 35,
+    "level": 173,
+    "isVerified": true,
+    "verifiedBy": 1,
+    "verifiedAt": "2024-08-11T07:45:32.457Z",
+    "yearsExperience": 10.727403278579454,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-03-01T20:48:40.475Z",
+      "updatedAt": "2024-05-26T04:53:37.153Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 183,
+    "member": 19,
+    "skill": 8,
+    "level": 40,
+    "isVerified": true,
+    "verifiedBy": 13,
+    "verifiedAt": "2025-01-10T03:50:20.360Z",
+    "yearsExperience": 14.497297128790386,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Compello nobis illo saepe rerum sodalitas curatio. Custodia pax super nisi amor patior color pecto. Tergeo asporto tabgo cursim consuasor.",
+    "audit": {
+      "createdAt": "2024-06-19T23:35:19.876Z",
+      "updatedAt": "2024-11-07T02:48:51.733Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 184,
+    "member": 19,
+    "skill": 18,
+    "level": 86,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 9.241830063088752,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Crudelis creptio vos tempore texo deserunt advoco. Deficio amissio aureus cur curto cubicularis tersus bardus. Tantillus defleo deprecator.",
+    "audit": {
+      "createdAt": "2023-10-18T00:05:27.343Z",
+      "updatedAt": "2024-07-02T10:19:51.326Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 185,
+    "member": 19,
+    "skill": 4,
+    "level": 18,
+    "isVerified": true,
+    "verifiedBy": 8,
+    "verifiedAt": "2025-01-22T04:11:23.396Z",
+    "yearsExperience": 1.300569499475502,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-03-17T09:15:49.415Z",
+      "updatedAt": "2024-09-09T09:29:40.797Z",
+      "createdBy": null,
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 186,
+    "member": 19,
+    "skill": 15,
+    "level": 75,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 1.7573628456113397,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-02-22T20:00:37.289Z",
+      "updatedAt": "2025-03-22T10:50:00.136Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 187,
+    "member": 19,
+    "skill": 9,
+    "level": 43,
+    "isVerified": true,
+    "verifiedBy": 10,
+    "verifiedAt": "2025-02-16T17:42:58.651Z",
+    "yearsExperience": 12.704736327389428,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-04-07T04:32:51.100Z",
+      "updatedAt": "2025-05-05T18:42:51.533Z",
+      "createdBy": "import",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 191,
+    "member": 20,
+    "skill": 3,
+    "level": 14,
+    "isVerified": true,
+    "verifiedBy": 2,
+    "verifiedAt": "2025-04-11T01:56:09.032Z",
+    "yearsExperience": 12.86790471789619,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-10-22T02:54:14.883Z",
+      "updatedAt": "2024-08-04T21:41:22.235Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 192,
+    "member": 20,
+    "skill": 17,
+    "level": 82,
+    "isVerified": true,
+    "verifiedBy": 13,
+    "verifiedAt": "2025-03-07T00:20:28.903Z",
+    "yearsExperience": 10.402588599309528,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-05-11T14:27:15.130Z",
+      "updatedAt": "2024-01-08T07:03:32.094Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 201,
+    "member": 21,
+    "skill": 9,
+    "level": 45,
+    "isVerified": true,
+    "verifiedBy": 16,
+    "verifiedAt": "2024-10-30T00:12:24.934Z",
+    "yearsExperience": 3.4242272039525896,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Patria viscus conitor theologus sortitus adeptio aestus ullus. Admoveo vulgo cubitum vomica. Dolor delectus suffragium addo paens stabilis thymbra curtus tenuis voluptatem.",
+    "audit": {
+      "createdAt": "2024-04-10T02:29:29.047Z",
+      "updatedAt": "2024-12-04T19:35:05.051Z",
+      "createdBy": null,
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 202,
+    "member": 21,
+    "skill": 4,
+    "level": 17,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 8.300576416918252,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-11-01T16:36:09.134Z",
+      "updatedAt": "2024-12-19T01:42:58.451Z",
+      "createdBy": null,
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 203,
+    "member": 21,
+    "skill": 34,
+    "level": 167,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 5.5369404524260295,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Crebro textilis alius comburo volutabrum. Tubineus et tremo claustrum. Tenetur facere chirographum adsum thymbra.",
+    "audit": {
+      "createdAt": "2025-02-21T18:42:46.461Z",
+      "updatedAt": "2025-03-27T22:04:18.049Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 204,
+    "member": 21,
+    "skill": 16,
+    "level": 76,
+    "isVerified": true,
+    "verifiedBy": 4,
+    "verifiedAt": "2025-02-23T16:26:42.692Z",
+    "yearsExperience": 11.1961518714213,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-10-28T21:48:28.433Z",
+      "updatedAt": "2025-03-15T20:56:28.270Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 205,
+    "member": 21,
+    "skill": 31,
+    "level": 151,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 8.785120565454019,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Vulpes decumbo succurro. Thymum vapulus viriliter sum calculus colligo usus admiratio supra ago. Tenax claro subiungo venustas defendo ubi suffragium avarus aspernatur.",
+    "audit": {
+      "createdAt": "2025-03-31T22:06:50.278Z",
+      "updatedAt": "2025-04-04T09:46:44.275Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 211,
+    "member": 22,
+    "skill": 36,
+    "level": 179,
+    "isVerified": true,
+    "verifiedBy": 7,
+    "verifiedAt": "2025-03-10T11:32:11.952Z",
+    "yearsExperience": 11.779627870222093,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-12-25T03:54:24.178Z",
+      "updatedAt": "2025-02-26T13:06:42.770Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 212,
+    "member": 22,
+    "skill": 9,
+    "level": 42,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 6.175583385910226,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-02-03T00:20:37.529Z",
+      "updatedAt": "2025-04-09T00:42:04.990Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 213,
+    "member": 22,
+    "skill": 37,
+    "level": 183,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 2.6826543977416333,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-09-30T03:08:07.836Z",
+      "updatedAt": "2024-01-22T01:09:53.189Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 221,
+    "member": 23,
+    "skill": 24,
+    "level": 120,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 10.08512803880516,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": "Temporibus reiciendis certe. Alii sollers vobis vester talio earum velut quidem calcar. Alveus ocer sodalitas mollitia.",
+    "audit": {
+      "createdAt": "2024-05-11T03:43:45.262Z",
+      "updatedAt": "2024-07-31T09:00:01.241Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 222,
+    "member": 23,
+    "skill": 38,
+    "level": 186,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 8.215907022407382,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-12-20T20:45:08.488Z",
+      "updatedAt": "2024-04-30T01:24:18.445Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 223,
+    "member": 23,
+    "skill": 26,
+    "level": 128,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 14.293616018732124,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-01-05T03:34:36.507Z",
+      "updatedAt": "2025-01-17T08:19:02.073Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 224,
+    "member": 23,
+    "skill": 37,
+    "level": 183,
+    "isVerified": true,
+    "verifiedBy": 4,
+    "verifiedAt": "2025-03-27T14:27:09.928Z",
+    "yearsExperience": 3.040304459487913,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-07-07T21:10:40.415Z",
+      "updatedAt": "2024-09-14T16:29:03.396Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 225,
+    "member": 23,
+    "skill": 6,
+    "level": 29,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 10.612018671061202,
+    "isPublic": false,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-06-01T18:35:28.347Z",
+      "updatedAt": "2025-03-07T10:41:12.856Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 226,
+    "member": 23,
+    "skill": 23,
+    "level": 112,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 6.360279197447557,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Beatae tondeo nam congregatio averto veniam. Vacuus animadverto acquiro apud. Fugit blandior virgo textus bonus assumenda.",
+    "audit": {
+      "createdAt": "2024-07-08T04:31:41.769Z",
+      "updatedAt": "2024-12-03T20:29:47.291Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 231,
+    "member": 24,
+    "skill": 15,
+    "level": 72,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 14.749107210485764,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-04-05T16:20:46.506Z",
+      "updatedAt": "2025-02-16T18:11:02.562Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 232,
+    "member": 24,
+    "skill": 2,
+    "level": 7,
+    "isVerified": true,
+    "verifiedBy": 23,
+    "verifiedAt": "2024-08-25T08:54:05.617Z",
+    "yearsExperience": 4.6181005288307855,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Vicinus vulticulus adimpleo spiculum avarus curatio paens. Pax cras adicio tergiversatio eum aeneus asporto corrigo arbustum. Deputo veritatis stella.",
+    "audit": {
+      "createdAt": "2025-01-10T15:07:17.133Z",
+      "updatedAt": "2025-04-17T02:26:27.411Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 233,
+    "member": 24,
+    "skill": 4,
+    "level": 18,
+    "isVerified": true,
+    "verifiedBy": 10,
+    "verifiedAt": "2025-04-26T02:51:24.247Z",
+    "yearsExperience": 6.2596010358304035,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-01-14T02:42:37.263Z",
+      "updatedAt": "2025-01-22T23:50:38.830Z",
+      "createdBy": null,
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 234,
+    "member": 24,
+    "skill": 6,
+    "level": 30,
+    "isVerified": true,
+    "verifiedBy": 17,
+    "verifiedAt": "2025-03-27T07:39:26.005Z",
+    "yearsExperience": 3.563344273174063,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-11-20T17:14:55.106Z",
+      "updatedAt": "2024-04-16T03:57:34.995Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 241,
+    "member": 25,
+    "skill": 5,
+    "level": 21,
+    "isVerified": true,
+    "verifiedBy": 18,
+    "verifiedAt": "2025-04-13T02:51:48.980Z",
+    "yearsExperience": 9.344192371453882,
+    "isPublic": false,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-11-16T09:15:34.185Z",
+      "updatedAt": "2024-12-13T07:55:30.372Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 251,
+    "member": 26,
+    "skill": 24,
+    "level": 120,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 10.62397177538044,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-12-04T07:23:45.622Z",
+      "updatedAt": "2023-12-27T06:12:08.989Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 252,
+    "member": 26,
+    "skill": 9,
+    "level": 43,
+    "isVerified": true,
+    "verifiedBy": 12,
+    "verifiedAt": "2025-04-07T11:55:19.096Z",
+    "yearsExperience": 8.496183511573545,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-03-26T18:04:08.220Z",
+      "updatedAt": "2024-05-21T06:01:52.210Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 253,
+    "member": 26,
+    "skill": 13,
+    "level": 65,
+    "isVerified": true,
+    "verifiedBy": 3,
+    "verifiedAt": "2025-03-24T02:31:42.001Z",
+    "yearsExperience": 8.802249646874133,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-06-25T00:10:24.566Z",
+      "updatedAt": "2023-09-13T11:23:10.066Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 254,
+    "member": 26,
+    "skill": 15,
+    "level": 71,
+    "isVerified": true,
+    "verifiedBy": 14,
+    "verifiedAt": "2025-02-05T09:36:30.245Z",
+    "yearsExperience": 6.410600897142702,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-01-21T23:05:35.985Z",
+      "updatedAt": "2025-03-15T20:06:05.967Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 261,
+    "member": 27,
+    "skill": 11,
+    "level": 55,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 6.859820810602271,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-03-16T00:50:25.443Z",
+      "updatedAt": "2024-10-06T19:15:54.029Z",
+      "createdBy": "import",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 262,
+    "member": 27,
+    "skill": 12,
+    "level": 58,
+    "isVerified": true,
+    "verifiedBy": 6,
+    "verifiedAt": "2025-04-14T13:50:49.362Z",
+    "yearsExperience": 10.21547873464474,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Cubicularis curriculum tener totidem defessus ipsam. Valetudo audacia vos umbra tunc acidus usitas clementia. Chirographum vester adduco iusto conqueror repellat.",
+    "audit": {
+      "createdAt": "2023-11-22T20:54:45.539Z",
+      "updatedAt": "2025-05-05T18:59:18.690Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 263,
+    "member": 27,
+    "skill": 32,
+    "level": 157,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 12.266139906392615,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Delego ager dens adfectus utrum vulariter. Alias sordeo turbo voluntarius temporibus stips ultio undique pecto auxilium. Certus demo pauper tego ubi.",
+    "audit": {
+      "createdAt": "2023-08-10T16:41:30.041Z",
+      "updatedAt": "2025-02-02T10:06:45.959Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 264,
+    "member": 27,
+    "skill": 21,
+    "level": 104,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 5.779968773446089,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-10-19T08:26:55.917Z",
+      "updatedAt": "2023-10-30T11:25:25.975Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 265,
+    "member": 27,
+    "skill": 17,
+    "level": 82,
+    "isVerified": true,
+    "verifiedBy": 3,
+    "verifiedAt": "2025-04-15T17:54:18.197Z",
+    "yearsExperience": 6.148662637938263,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-09-14T14:54:27.911Z",
+      "updatedAt": "2025-03-28T15:11:09.071Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 266,
+    "member": 27,
+    "skill": 28,
+    "level": 138,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 12.91967632993689,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Vado tam cupiditas ter acquiro baiulus despecto aestivus quas sublime. Vere admoveo umbra compono. Conicio speculum totam aptus.",
+    "audit": {
+      "createdAt": "2023-11-05T19:45:29.384Z",
+      "updatedAt": "2024-12-01T10:53:47.996Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 271,
+    "member": 28,
+    "skill": 30,
+    "level": 148,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 4.706352847560132,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-07-12T23:00:49.967Z",
+      "updatedAt": "2025-04-20T06:59:20.651Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 272,
+    "member": 28,
+    "skill": 35,
+    "level": 171,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 4.049204381046479,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-10-29T12:31:28.745Z",
+      "updatedAt": "2024-10-04T03:47:32.631Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 273,
+    "member": 28,
+    "skill": 37,
+    "level": 182,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 11.291230973971503,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-08-19T01:06:42.731Z",
+      "updatedAt": "2024-09-18T00:47:52.319Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 274,
+    "member": 28,
+    "skill": 22,
+    "level": 106,
+    "isVerified": true,
+    "verifiedBy": 15,
+    "verifiedAt": "2024-11-19T21:47:08.654Z",
+    "yearsExperience": 12.708427971258931,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Deduco sumo sponte considero. Laboriosam aufero tepidus attonbitus acies similique. Socius tabula succedo adnuo.",
+    "audit": {
+      "createdAt": "2024-05-10T23:02:51.060Z",
+      "updatedAt": "2024-07-22T06:17:00.215Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 275,
+    "member": 28,
+    "skill": 9,
+    "level": 44,
+    "isVerified": true,
+    "verifiedBy": 7,
+    "verifiedAt": "2024-12-26T04:04:42.646Z",
+    "yearsExperience": 11.485866337635223,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-05-24T02:12:12.232Z",
+      "updatedAt": "2024-05-28T22:11:42.294Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 276,
+    "member": 28,
+    "skill": 10,
+    "level": 47,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 0.5503338790016244,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": "Addo coadunatio iure tendo credo velit quasi. Torqueo cohaero suadeo testimonium quos delego tabgo. Recusandae contabesco adamo appono talio appono venio attero vitae.",
+    "audit": {
+      "createdAt": "2025-04-19T11:20:43.987Z",
+      "updatedAt": "2025-04-29T11:13:04.868Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 277,
+    "member": 28,
+    "skill": 15,
+    "level": 73,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 0.962898165480838,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-06-19T02:07:34.862Z",
+      "updatedAt": "2024-07-07T09:36:26.050Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 281,
+    "member": 29,
+    "skill": 35,
+    "level": 175,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 6.355359588631298,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-03-06T14:34:05.343Z",
+      "updatedAt": "2025-04-22T02:30:17.783Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 282,
+    "member": 29,
+    "skill": 28,
+    "level": 136,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 10.416961066511448,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-03-14T00:25:51.109Z",
+      "updatedAt": "2024-11-10T20:48:16.666Z",
+      "createdBy": "import",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 283,
+    "member": 29,
+    "skill": 25,
+    "level": 125,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 5.620172376663588,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-05-11T09:22:37.739Z",
+      "updatedAt": "2024-06-15T13:40:40.825Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 284,
+    "member": 29,
+    "skill": 30,
+    "level": 148,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 8.275158384725747,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-08-24T14:50:12.631Z",
+      "updatedAt": "2024-09-24T16:59:35.378Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 285,
+    "member": 29,
+    "skill": 39,
+    "level": 194,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 8.920517107460771,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-05-12T03:13:54.005Z",
+      "updatedAt": "2024-07-14T15:03:22.444Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 286,
+    "member": 29,
+    "skill": 32,
+    "level": 158,
+    "isVerified": true,
+    "verifiedBy": 18,
+    "verifiedAt": "2024-10-15T20:59:20.017Z",
+    "yearsExperience": 0.6559875769803548,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-12-10T01:04:55.729Z",
+      "updatedAt": "2024-11-03T23:42:34.312Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 287,
+    "member": 29,
+    "skill": 7,
+    "level": 35,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 4.759035848126779,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Pariatur fugit vae angulus sublime audeo aut deprecator. Cenaculum adnuo confero tubineus vitium. Solium ventosus sustineo venia.",
+    "audit": {
+      "createdAt": "2024-08-01T03:12:26.360Z",
+      "updatedAt": "2025-04-29T16:59:38.269Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 291,
+    "member": 30,
+    "skill": 1,
+    "level": 1,
+    "isVerified": true,
+    "verifiedBy": 5,
+    "verifiedAt": "2025-03-18T12:22:36.869Z",
+    "yearsExperience": 13.21717966491209,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": "Color vester concedo solutio crux curo. Adamo depereo voluntarius dolore. Vallum sollicito summa venia cresco villa.",
+    "audit": {
+      "createdAt": "2023-06-14T21:26:12.043Z",
+      "updatedAt": "2025-03-26T21:14:07.206Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 301,
+    "member": 31,
+    "skill": 2,
+    "level": 10,
+    "isVerified": true,
+    "verifiedBy": 10,
+    "verifiedAt": "2025-04-05T23:56:11.254Z",
+    "yearsExperience": 10.691044142266545,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-02-24T09:33:16.073Z",
+      "updatedAt": "2025-04-30T22:51:29.507Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 302,
+    "member": 31,
+    "skill": 37,
+    "level": 185,
+    "isVerified": true,
+    "verifiedBy": 16,
+    "verifiedAt": "2025-04-01T14:24:15.048Z",
+    "yearsExperience": 4.896875730711709,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-07-08T09:04:20.697Z",
+      "updatedAt": "2024-12-10T02:40:43.034Z",
+      "createdBy": "import",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 303,
+    "member": 31,
+    "skill": 8,
+    "level": 39,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 5.494365957971418,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-04-05T22:48:05.797Z",
+      "updatedAt": "2024-04-21T18:28:46.632Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 304,
+    "member": 31,
+    "skill": 9,
+    "level": 44,
+    "isVerified": true,
+    "verifiedBy": 20,
+    "verifiedAt": "2024-08-30T20:16:07.900Z",
+    "yearsExperience": 13.118770440835307,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-07-19T04:22:56.193Z",
+      "updatedAt": "2025-03-05T17:19:30.127Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 305,
+    "member": 31,
+    "skill": 17,
+    "level": 83,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 14.090583648117898,
+    "isPublic": false,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-03-28T01:36:32.135Z",
+      "updatedAt": "2025-04-07T02:31:19.885Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 306,
+    "member": 31,
+    "skill": 6,
+    "level": 28,
+    "isVerified": true,
+    "verifiedBy": 7,
+    "verifiedAt": "2024-12-26T00:59:17.884Z",
+    "yearsExperience": 14.11777743899405,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-03-21T15:36:15.036Z",
+      "updatedAt": "2025-04-06T23:46:47.594Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 307,
+    "member": 31,
+    "skill": 7,
+    "level": 32,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 4.8530308288999295,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-07-29T00:51:42.226Z",
+      "updatedAt": "2025-02-02T14:08:13.217Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 311,
+    "member": 32,
+    "skill": 33,
+    "level": 164,
+    "isVerified": true,
+    "verifiedBy": 6,
+    "verifiedAt": "2024-09-05T04:38:07.726Z",
+    "yearsExperience": 3.841410861757586,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-08-04T10:14:22.903Z",
+      "updatedAt": "2025-01-20T10:41:36.026Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 321,
+    "member": 33,
+    "skill": 14,
+    "level": 67,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 1.2766553139280572,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-06-10T08:15:12.720Z",
+      "updatedAt": "2023-06-18T01:50:39.273Z",
+      "createdBy": null,
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 322,
+    "member": 33,
+    "skill": 11,
+    "level": 55,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 4.535584606011439,
+    "isPublic": false,
+    "isAvailableForProjects": true,
+    "notes": "Ara censura pauper adflicto. Vergo delibero adsum templum tendo comminor aetas beatus aequus. Arma super tersus dedecor.",
+    "audit": {
+      "createdAt": "2024-02-21T13:37:02.595Z",
+      "updatedAt": "2025-01-03T14:22:06.074Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 323,
+    "member": 33,
+    "skill": 19,
+    "level": 93,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 3.952981112103546,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Ullus ipsa thalassinus doloribus non somnus xiphias. Curvo cavus defungo vomito sonitus colo succurro thema vaco. Combibo vinculum taceo auditor uberrime.",
+    "audit": {
+      "createdAt": "2024-07-21T07:35:55.389Z",
+      "updatedAt": "2024-12-05T02:24:24.707Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 331,
+    "member": 34,
+    "skill": 29,
+    "level": 142,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 1.9987293666831634,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Ulciscor stabilis solus aedificium titulus balbus at. Veritatis basium aspicio clibanus caelum dolorem solium creo comedo aiunt. Casso audentia taceo aeternus.",
+    "audit": {
+      "createdAt": "2023-08-03T06:19:58.760Z",
+      "updatedAt": "2023-08-04T18:32:40.626Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 332,
+    "member": 34,
+    "skill": 8,
+    "level": 36,
+    "isVerified": true,
+    "verifiedBy": 17,
+    "verifiedAt": "2024-12-13T01:13:16.674Z",
+    "yearsExperience": 2.151617347235597,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Conculco acceptus atrocitas amitto tergo sono ago statua arguo ultra. Stultus videlicet tendo eaque cogito attero. Conitor tubineus acies.",
+    "audit": {
+      "createdAt": "2023-10-15T14:53:51.953Z",
+      "updatedAt": "2024-12-17T07:49:19.182Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 341,
+    "member": 35,
+    "skill": 16,
+    "level": 79,
+    "isVerified": true,
+    "verifiedBy": 33,
+    "verifiedAt": "2024-11-28T14:38:50.926Z",
+    "yearsExperience": 10.9590244848739,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Caute coniecto vitiosus. Vicinus temporibus varietas titulus fugit verecundia cohors volup. Sint volaticus adimpleo vel a velociter creber curriculum.",
+    "audit": {
+      "createdAt": "2024-09-03T10:38:50.233Z",
+      "updatedAt": "2025-01-13T11:22:36.675Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 342,
+    "member": 35,
+    "skill": 15,
+    "level": 72,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 13.519447041459449,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Currus tergeo totam adsidue texo depopulo vis. Dedico vitiosus careo repellendus super sollers cunctatio decipio spero. Arbitro crudelis pax thesis voluptatum usus peior stella sodalitas.",
+    "audit": {
+      "createdAt": "2024-01-14T12:01:12.922Z",
+      "updatedAt": "2024-04-12T05:53:29.059Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 343,
+    "member": 35,
+    "skill": 20,
+    "level": 99,
+    "isVerified": true,
+    "verifiedBy": 28,
+    "verifiedAt": "2024-07-30T19:17:26.154Z",
+    "yearsExperience": 12.467455203527196,
+    "isPublic": false,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-10-26T21:32:07.959Z",
+      "updatedAt": "2025-03-12T22:44:14.489Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 344,
+    "member": 35,
+    "skill": 8,
+    "level": 39,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 7.364211242929536,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-12-29T17:51:25.252Z",
+      "updatedAt": "2025-03-03T03:32:21.355Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 345,
+    "member": 35,
+    "skill": 6,
+    "level": 29,
+    "isVerified": true,
+    "verifiedBy": 16,
+    "verifiedAt": "2024-11-07T21:58:32.727Z",
+    "yearsExperience": 14.944602958983937,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-01-28T04:23:49.811Z",
+      "updatedAt": "2024-06-25T19:02:36.567Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 346,
+    "member": 35,
+    "skill": 19,
+    "level": 95,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 13.690004683510416,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-09-26T02:19:31.450Z",
+      "updatedAt": "2024-08-02T21:40:15.946Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 347,
+    "member": 35,
+    "skill": 5,
+    "level": 22,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 0.6369939162869787,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Eveniet vomica truculenter defleo ciminatio auctor virgo aequitas suspendo chirographum. Viridis tantillus asper auctor beatus causa candidus altus adeo sol. Voco ago solus vulnus clamo patruus addo acsi tametsi theologus.",
+    "audit": {
+      "createdAt": "2024-06-22T03:21:03.264Z",
+      "updatedAt": "2025-03-22T02:42:06.566Z",
+      "createdBy": null,
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 351,
+    "member": 36,
+    "skill": 24,
+    "level": 117,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 7.93386546946438,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Sapiente consuasor validus cattus sophismata votum temptatio deripio alias tergiversatio. Undique sapiente vulariter carcer turbo tondeo corpus. Creo copiose aequus studio ad decet.",
+    "audit": {
+      "createdAt": "2023-07-21T17:53:46.183Z",
+      "updatedAt": "2023-09-12T21:51:20.055Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 352,
+    "member": 36,
+    "skill": 39,
+    "level": 193,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 3.003524919665484,
+    "isPublic": false,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-10-06T16:10:12.937Z",
+      "updatedAt": "2025-01-10T17:02:48.662Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 353,
+    "member": 36,
+    "skill": 7,
+    "level": 32,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 2.1093181645124925,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-09-20T00:47:30.637Z",
+      "updatedAt": "2024-03-28T10:22:50.790Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 354,
+    "member": 36,
+    "skill": 23,
+    "level": 111,
+    "isVerified": true,
+    "verifiedBy": 7,
+    "verifiedAt": "2025-03-23T07:23:18.298Z",
+    "yearsExperience": 5.477752701459458,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-03-28T15:38:43.908Z",
+      "updatedAt": "2025-04-11T07:18:22.261Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 355,
+    "member": 36,
+    "skill": 29,
+    "level": 145,
+    "isVerified": true,
+    "verifiedBy": 15,
+    "verifiedAt": "2025-03-26T15:21:28.950Z",
+    "yearsExperience": 3.624504505514972,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-06-05T05:22:36.865Z",
+      "updatedAt": "2024-12-16T21:37:23.086Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 361,
+    "member": 37,
+    "skill": 32,
+    "level": 159,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 4.442705227683484,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-07-28T20:16:14.659Z",
+      "updatedAt": "2024-10-30T18:26:49.536Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 362,
+    "member": 37,
+    "skill": 5,
+    "level": 25,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 12.120740594385559,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Curso arma tamen crepusculum curis. Et decerno ocer. Vergo caveo spectaculum quod tenax sopor atavus.",
+    "audit": {
+      "createdAt": "2024-12-28T22:52:45.747Z",
+      "updatedAt": "2025-05-06T11:22:01.721Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 363,
+    "member": 37,
+    "skill": 7,
+    "level": 35,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 2.9996225322932037,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Aperio cunctatio temporibus acsi arceo aspernatur animadverto vomica. Cubitum eos appono decretum. Vulticulus cariosus angelus quia.",
+    "audit": {
+      "createdAt": "2025-04-02T04:54:29.934Z",
+      "updatedAt": "2025-04-08T05:52:11.908Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 364,
+    "member": 37,
+    "skill": 26,
+    "level": 130,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 12.313435221173213,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-07-31T03:40:36.753Z",
+      "updatedAt": "2024-11-10T04:24:04.946Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 365,
+    "member": 37,
+    "skill": 37,
+    "level": 185,
+    "isVerified": true,
+    "verifiedBy": 1,
+    "verifiedAt": "2025-03-05T21:58:51.125Z",
+    "yearsExperience": 10.423382632016732,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-09-25T19:36:52.411Z",
+      "updatedAt": "2024-05-22T23:22:30.792Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 366,
+    "member": 37,
+    "skill": 35,
+    "level": 172,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 10.246268460775857,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-07-20T13:20:04.261Z",
+      "updatedAt": "2024-12-12T13:28:34.726Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 367,
+    "member": 37,
+    "skill": 13,
+    "level": 62,
+    "isVerified": true,
+    "verifiedBy": 35,
+    "verifiedAt": "2025-03-26T20:19:04.904Z",
+    "yearsExperience": 8.031036646191806,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Beatae acquiro acies sit amitto. Cunae fuga vis adhuc quisquam audacia. Spes allatus tumultus modi.",
+    "audit": {
+      "createdAt": "2025-01-08T01:55:51.230Z",
+      "updatedAt": "2025-04-14T05:18:35.269Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 371,
+    "member": 38,
+    "skill": 26,
+    "level": 127,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 4.665532157904248,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Spiculum sunt cunabula demulceo vetus velum subnecto. Terebro capio vesco. Vesper ventito soluta chirographum deficio creo.",
+    "audit": {
+      "createdAt": "2023-12-20T21:30:56.602Z",
+      "updatedAt": "2025-01-03T21:03:01.935Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 372,
+    "member": 38,
+    "skill": 38,
+    "level": 188,
+    "isVerified": true,
+    "verifiedBy": 8,
+    "verifiedAt": "2025-04-17T22:32:25.378Z",
+    "yearsExperience": 5.893644911709679,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-05-12T15:14:34.577Z",
+      "updatedAt": "2024-08-30T15:13:26.869Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 373,
+    "member": 38,
+    "skill": 33,
+    "level": 162,
+    "isVerified": true,
+    "verifiedBy": 16,
+    "verifiedAt": "2024-07-08T00:02:14.212Z",
+    "yearsExperience": 7.439642886547358,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-06-10T13:57:23.116Z",
+      "updatedAt": "2023-11-24T09:27:48.462Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 374,
+    "member": 38,
+    "skill": 21,
+    "level": 102,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 6.694434100198384,
+    "isPublic": false,
+    "isAvailableForProjects": true,
+    "notes": "Sui itaque thalassinus harum tredecim attonbitus. Titulus volup terra supra. Votum ipsa crur pauci vomito universe ars acsi.",
+    "audit": {
+      "createdAt": "2024-12-14T18:23:05.123Z",
+      "updatedAt": "2025-01-26T01:37:34.745Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 375,
+    "member": 38,
+    "skill": 8,
+    "level": 40,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 7.560299508823632,
+    "isPublic": false,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-10-29T06:26:22.964Z",
+      "updatedAt": "2025-03-20T17:20:47.464Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 376,
+    "member": 38,
+    "skill": 28,
+    "level": 140,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 3.0109414420175593,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-04-18T02:40:43.448Z",
+      "updatedAt": "2025-04-21T12:19:13.126Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 381,
+    "member": 39,
+    "skill": 23,
+    "level": 115,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 10.464780907216683,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Curis acceptus ascit. Dolore comprehendo cogito denique conatus unde deleo delicate. Somnus alveus claro ars ancilla tergo.",
+    "audit": {
+      "createdAt": "2024-04-19T05:56:49.354Z",
+      "updatedAt": "2024-10-31T14:30:50.988Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 382,
+    "member": 39,
+    "skill": 35,
+    "level": 171,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 11.697706490591035,
+    "isPublic": false,
+    "isAvailableForProjects": true,
+    "notes": "Verecundia voco claro vorax abscido ventito. Argumentum cicuta eaque agnitio delego. Tristis labore corporis catena comminor volaticus dens socius terga quasi.",
+    "audit": {
+      "createdAt": "2024-11-17T02:26:33.506Z",
+      "updatedAt": "2025-01-24T19:22:46.582Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 383,
+    "member": 39,
+    "skill": 6,
+    "level": 28,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 12.125795895500655,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-03-22T22:43:39.889Z",
+      "updatedAt": "2025-04-18T14:44:58.274Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 391,
+    "member": 40,
+    "skill": 12,
+    "level": 57,
+    "isVerified": true,
+    "verifiedBy": 26,
+    "verifiedAt": "2025-02-02T22:46:38.774Z",
+    "yearsExperience": 11.233647796890976,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-01-29T11:39:07.328Z",
+      "updatedAt": "2024-10-08T18:12:53.990Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 392,
+    "member": 40,
+    "skill": 6,
+    "level": 27,
+    "isVerified": true,
+    "verifiedBy": 39,
+    "verifiedAt": "2025-04-08T06:09:12.844Z",
+    "yearsExperience": 10.558041412103503,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Vereor porro patria crudelis. Tersus dolor nam toties. Tabesco patria vere ambitus talis caute.",
+    "audit": {
+      "createdAt": "2024-10-22T14:46:46.372Z",
+      "updatedAt": "2025-01-10T08:28:13.927Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 401,
+    "member": 41,
+    "skill": 38,
+    "level": 186,
+    "isVerified": true,
+    "verifiedBy": 2,
+    "verifiedAt": "2025-01-26T07:03:11.541Z",
+    "yearsExperience": 3.513108123839888,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Benevolentia ter consuasor demitto. Dolorem arbor bene. Bene illo totidem video.",
+    "audit": {
+      "createdAt": "2024-03-06T06:52:14.243Z",
+      "updatedAt": "2024-11-04T19:27:55.100Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 402,
+    "member": 41,
+    "skill": 27,
+    "level": 132,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 14.459932350063667,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Curso cornu ventus. Surgo voco vulariter amet natus. Abscido vergo comis.",
+    "audit": {
+      "createdAt": "2023-06-11T20:09:20.666Z",
+      "updatedAt": "2024-02-19T15:02:59.682Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 403,
+    "member": 41,
+    "skill": 23,
+    "level": 112,
+    "isVerified": true,
+    "verifiedBy": 29,
+    "verifiedAt": "2024-09-09T16:56:52.015Z",
+    "yearsExperience": 10.748964066408139,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Reiciendis delectatio debeo. Cometes caterva numquam. Accusator conitor admoneo turba ascit spectaculum vicinus sono animadverto vereor.",
+    "audit": {
+      "createdAt": "2023-07-15T09:18:08.707Z",
+      "updatedAt": "2024-05-24T11:44:36.163Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 404,
+    "member": 41,
+    "skill": 39,
+    "level": 192,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 1.5688614670432783,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Celo ascit non vigor verbera templum delinquo. Possimus ambitus aptus termes tolero sunt spargo aequitas stabilis calco. Studio cimentarius solvo vacuus depereo vinum animadverto.",
+    "audit": {
+      "createdAt": "2023-05-30T02:45:46.770Z",
+      "updatedAt": "2024-12-12T21:36:34.808Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 405,
+    "member": 41,
+    "skill": 20,
+    "level": 100,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 1.765341518347754,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-12-21T05:20:17.415Z",
+      "updatedAt": "2025-03-29T15:53:43.841Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 406,
+    "member": 41,
+    "skill": 40,
+    "level": 198,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 11.430888941946575,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-04-17T19:32:00.696Z",
+      "updatedAt": "2025-05-02T02:44:36.597Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 411,
+    "member": 42,
+    "skill": 21,
+    "level": 104,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 14.816557694921558,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Trans appello acervus aeternus arbustum. Verbum terreo est defungo. Tendo utpote suppono taedium coaegresco ultio cernuus sursum paulatim carpo.",
+    "audit": {
+      "createdAt": "2023-12-20T07:32:03.169Z",
+      "updatedAt": "2025-03-11T10:54:55.228Z",
+      "createdBy": "import",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 412,
+    "member": 42,
+    "skill": 28,
+    "level": 137,
+    "isVerified": true,
+    "verifiedBy": 19,
+    "verifiedAt": "2024-06-26T01:42:28.417Z",
+    "yearsExperience": 9.02252439968291,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-03-30T08:11:24.786Z",
+      "updatedAt": "2024-12-03T11:00:06.456Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 413,
+    "member": 42,
+    "skill": 19,
+    "level": 95,
+    "isVerified": true,
+    "verifiedBy": 20,
+    "verifiedAt": "2024-07-22T05:49:56.369Z",
+    "yearsExperience": 13.644100040218078,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": "Coadunatio tantillus sortitus defendo sui officiis aeternus. Beatae vaco adsidue conduco coadunatio bibo celebrer vulgus. Derelinquo audeo clam celo acies claudeo studio ulterius spiritus iusto.",
+    "audit": {
+      "createdAt": "2024-02-17T00:59:43.584Z",
+      "updatedAt": "2024-03-18T22:56:33.074Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 414,
+    "member": 42,
+    "skill": 2,
+    "level": 7,
+    "isVerified": true,
+    "verifiedBy": 20,
+    "verifiedAt": "2025-03-10T15:25:01.597Z",
+    "yearsExperience": 6.223701029538276,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Tunc ascisco anser adfero terga argentum blanditiis adulescens modi. Teneo comptus vilis corrupti una aeternus damno cupiditate. Coma caelum antea bene ago antepono possimus angulus.",
+    "audit": {
+      "createdAt": "2024-04-12T15:06:25.306Z",
+      "updatedAt": "2024-10-13T02:53:11.979Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 415,
+    "member": 42,
+    "skill": 10,
+    "level": 46,
+    "isVerified": true,
+    "verifiedBy": 31,
+    "verifiedAt": "2024-10-26T23:42:47.926Z",
+    "yearsExperience": 4.7285042524172365,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-07-21T22:21:47.374Z",
+      "updatedAt": "2025-03-10T15:51:41.615Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 416,
+    "member": 42,
+    "skill": 25,
+    "level": 122,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 0.8147040782992216,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Tepidus tamen decor atrox triumphus cinis. Aro virgo debitis tabula vomer desipio distinctio et. Aspicio velit cursim cotidie.",
+    "audit": {
+      "createdAt": "2025-04-05T12:36:50.969Z",
+      "updatedAt": "2025-04-28T03:41:21.738Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 421,
+    "member": 43,
+    "skill": 2,
+    "level": 7,
+    "isVerified": true,
+    "verifiedBy": 16,
+    "verifiedAt": "2024-07-22T03:36:24.738Z",
+    "yearsExperience": 4.081678468786603,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-02-06T11:24:07.627Z",
+      "updatedAt": "2025-03-24T07:46:47.017Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 422,
+    "member": 43,
+    "skill": 19,
+    "level": 92,
+    "isVerified": true,
+    "verifiedBy": 8,
+    "verifiedAt": "2024-12-15T18:49:44.558Z",
+    "yearsExperience": 13.467558685765406,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-02-14T20:58:34.045Z",
+      "updatedAt": "2025-02-28T01:52:46.720Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 423,
+    "member": 43,
+    "skill": 10,
+    "level": 47,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 14.053588612954314,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-09-20T18:36:08.414Z",
+      "updatedAt": "2023-10-22T10:01:22.320Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 424,
+    "member": 43,
+    "skill": 39,
+    "level": 194,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 3.232847602102946,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-07-26T13:03:08.202Z",
+      "updatedAt": "2023-10-26T05:01:05.466Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 431,
+    "member": 44,
+    "skill": 33,
+    "level": 163,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 4.232637645960456,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-07-31T06:07:27.427Z",
+      "updatedAt": "2024-12-16T04:05:37.758Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 432,
+    "member": 44,
+    "skill": 26,
+    "level": 129,
+    "isVerified": true,
+    "verifiedBy": 1,
+    "verifiedAt": "2024-12-26T11:58:27.576Z",
+    "yearsExperience": 4.8578692951405005,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Denique sapiente claustrum exercitationem vigor paens crux officiis. Cras aequitas sui sint ceno condico. Aeneus cogo pel degenero argentum curto subseco appono aliquid.",
+    "audit": {
+      "createdAt": "2024-04-29T09:38:02.765Z",
+      "updatedAt": "2024-07-12T12:34:18.067Z",
+      "createdBy": "system",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 441,
+    "member": 45,
+    "skill": 26,
+    "level": 130,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 6.460189812178222,
+    "isPublic": false,
+    "isAvailableForProjects": false,
+    "notes": "Error admiratio cilicium texo acceptus turba tremo accommodo. Deficio valetudo sordeo addo optio strenuus cura confero. Cornu cubicularis denuncio viduo vapulus cometes.",
+    "audit": {
+      "createdAt": "2023-06-14T22:35:32.003Z",
+      "updatedAt": "2024-06-26T11:28:57.287Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 442,
+    "member": 45,
+    "skill": 30,
+    "level": 149,
+    "isVerified": true,
+    "verifiedBy": 31,
+    "verifiedAt": "2025-02-17T04:23:56.406Z",
+    "yearsExperience": 6.636749913122905,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-06-01T15:19:19.461Z",
+      "updatedAt": "2024-11-13T05:09:14.262Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 443,
+    "member": 45,
+    "skill": 7,
+    "level": 33,
+    "isVerified": true,
+    "verifiedBy": 18,
+    "verifiedAt": "2025-04-08T22:32:04.106Z",
+    "yearsExperience": 14.587101618893453,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-03-31T04:14:39.184Z",
+      "updatedAt": "2025-04-13T13:58:57.204Z",
+      "createdBy": null,
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 451,
+    "member": 46,
+    "skill": 23,
+    "level": 115,
+    "isVerified": true,
+    "verifiedBy": 3,
+    "verifiedAt": "2024-11-13T14:11:52.632Z",
+    "yearsExperience": 7.507108172598048,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Architecto inflammatio aegrotatio denique apparatus tracto ciminatio. Non commodi decerno celo cogo appello est unde. Earum tabesco celo curvo tener blandior tripudio vestrum summa.",
+    "audit": {
+      "createdAt": "2024-01-14T02:30:26.210Z",
+      "updatedAt": "2024-03-16T10:40:10.117Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 452,
+    "member": 46,
+    "skill": 40,
+    "level": 200,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 12.783107099402956,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Corpus veniam volup. Catena contego complectus despecto custodia. Aspernatur caries dolor.",
+    "audit": {
+      "createdAt": "2024-08-11T21:46:55.599Z",
+      "updatedAt": "2025-03-15T00:10:52.408Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 453,
+    "member": 46,
+    "skill": 5,
+    "level": 24,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 3.497665443515475,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "In theca certus vapulus vilitas tristis capio carmen aegrus solitudo. Aspernatur custodia amissio. Copiose confero suppellex surgo complectus delectus eius degusto vicissitudo careo.",
+    "audit": {
+      "createdAt": "2023-08-17T17:03:50.050Z",
+      "updatedAt": "2024-06-05T22:07:21.837Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 454,
+    "member": 46,
+    "skill": 17,
+    "level": 83,
+    "isVerified": true,
+    "verifiedBy": 30,
+    "verifiedAt": "2025-04-13T08:07:00.261Z",
+    "yearsExperience": 10.584939425020803,
+    "isPublic": false,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-03-25T08:30:36.330Z",
+      "updatedAt": "2025-04-28T11:11:20.138Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 461,
+    "member": 47,
+    "skill": 23,
+    "level": 115,
+    "isVerified": true,
+    "verifiedBy": 7,
+    "verifiedAt": "2025-03-03T11:00:40.499Z",
+    "yearsExperience": 3.5513380827586145,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Campana peior suscipio absque supellex. Venio templum coniuratio claustrum tabernus sophismata verecundia sumptus teneo saepe. Quibusdam asper assentator advoco.",
+    "audit": {
+      "createdAt": "2024-12-23T00:07:32.369Z",
+      "updatedAt": "2025-02-23T11:29:13.806Z",
+      "createdBy": "import",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 462,
+    "member": 47,
+    "skill": 35,
+    "level": 171,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 5.988056249681752,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-11-14T16:16:20.157Z",
+      "updatedAt": "2024-12-25T17:32:57.217Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 463,
+    "member": 47,
+    "skill": 33,
+    "level": 163,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 9.391346692283683,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-04-01T05:10:33.380Z",
+      "updatedAt": "2025-05-04T23:26:31.821Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 471,
+    "member": 48,
+    "skill": 18,
+    "level": 88,
+    "isVerified": true,
+    "verifiedBy": 13,
+    "verifiedAt": "2025-04-26T17:26:34.804Z",
+    "yearsExperience": 11.92205822057659,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-07-29T22:25:48.976Z",
+      "updatedAt": "2023-10-05T00:18:57.015Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 472,
+    "member": 48,
+    "skill": 11,
+    "level": 52,
+    "isVerified": true,
+    "verifiedBy": 30,
+    "verifiedAt": "2025-03-21T18:04:58.442Z",
+    "yearsExperience": 13.24894861534117,
+    "isPublic": false,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-08-17T19:28:52.988Z",
+      "updatedAt": "2023-12-14T10:37:12.263Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 481,
+    "member": 49,
+    "skill": 24,
+    "level": 117,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 13.786500980575129,
+    "isPublic": true,
+    "isAvailableForProjects": false,
+    "notes": null,
+    "audit": {
+      "createdAt": "2025-04-13T18:26:25.299Z",
+      "updatedAt": "2025-04-24T17:15:46.489Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    }
+  },
+  {
+    "id": 482,
+    "member": 49,
+    "skill": 36,
+    "level": 179,
+    "isVerified": true,
+    "verifiedBy": 39,
+    "verifiedAt": "2025-04-21T05:01:34.104Z",
+    "yearsExperience": 3.50865240349973,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-07-02T02:10:49.546Z",
+      "updatedAt": "2024-05-10T11:57:22.602Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    }
+  },
+  {
+    "id": 483,
+    "member": 49,
+    "skill": 8,
+    "level": 37,
+    "isVerified": true,
+    "verifiedBy": 35,
+    "verifiedAt": "2024-09-20T06:41:24.876Z",
+    "yearsExperience": 8.161931811458231,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2023-07-26T17:40:50.757Z",
+      "updatedAt": "2023-11-16T22:11:53.117Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    }
+  },
+  {
+    "id": 484,
+    "member": 49,
+    "skill": 16,
+    "level": 79,
+    "isVerified": true,
+    "verifiedBy": 47,
+    "verifiedAt": "2024-07-31T19:19:56.075Z",
+    "yearsExperience": 2.8853561171217117,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": "Ciminatio possimus aranea accusamus sponte. Temptatio vicissitudo dicta cinis dens voco congregatio. Amitto adopto utpote coniuratio infit.",
+    "audit": {
+      "createdAt": "2024-09-21T07:37:12.897Z",
+      "updatedAt": "2025-04-12T03:15:18.926Z",
+      "createdBy": "import",
+      "updatedBy": null
+    }
+  },
+  {
+    "id": 491,
+    "member": 50,
+    "skill": 31,
+    "level": 155,
+    "isVerified": false,
+    "verifiedBy": null,
+    "verifiedAt": null,
+    "yearsExperience": 5.70568241407115,
+    "isPublic": true,
+    "isAvailableForProjects": true,
+    "notes": null,
+    "audit": {
+      "createdAt": "2024-09-14T00:07:32.888Z",
+      "updatedAt": "2024-09-16T21:50:16.956Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    }
+  }
+]

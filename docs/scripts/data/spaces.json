@@ -1,0 +1,1354 @@
+[
+  {
+    "id": 1,
+    "name": "Sala Colaborativa 1",
+    "description": "Deduco curatio libero ascit degenero. Viscus capitulus baiulus perspiciatis arcus volutabrum expedita dolorem acer. Pel amplitudo contigo vereor vapulus credo termes antea officia totam.\nCicuta tardus tubineus canonicus vapulus volaticus. Clibanus ademptio censura tener amplexus aduro. Catena atrocitas cursus supellex subito.",
+    "type": "meeting_room",
+    "capacity": 10,
+    "size": 114.11655120774938,
+    "floor": "Segunda Planta",
+    "building": "Torre Sur",
+    "features": {
+      "hasWifi": true,
+      "hasProjector": true,
+      "hasWhiteboard": true,
+      "hasVideoconference": false,
+      "hasAirConditioning": true,
+      "hasNaturalLight": true,
+      "hasKitchen": false,
+      "hasPrivateBathroom": false,
+      "isWheelchairAccessible": false,
+      "hasParkingNearby": true,
+      "equipment": [
+        "Máquinas CNC"
+      ],
+      "services": [
+        "Asistencia virtual",
+        "Café gratuito"
+      ]
+    },
+    "geoLocation": {
+      "latitude": 75.9142,
+      "longitude": 171.7978,
+      "address": "76478 Danny Fords",
+      "city": "Hicksville",
+      "state": "Kansas",
+      "postalCode": "94143-4794",
+      "country": "Russian Federation",
+      "formattedAddress": "7895 Paucek Place, Lynwood, Massachusetts 25397-1031"
+    },
+    "isActive": true,
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "spaceStatus": "occupied",
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "contra placeat"
+      },
+      {
+        "key": "popularity",
+        "value": "corroboro vix"
+      },
+      {
+        "key": "department",
+        "value": "defessus alveus"
+      }
+    ],
+    "allowedMemberships": [
+      2,
+      4
+    ],
+    "tags": [
+      20,
+      9
+    ],
+    "deletedAt": null,
+    "statusChangedAt": "2025-03-14T03:23:21.548Z",
+    "previousStatus": "maintenance",
+    "statusHistory": [
+      {
+        "status": "reserved",
+        "changedAt": "2025-03-14T03:23:21.548Z",
+        "changedBy": "admin",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2025-03-12T19:20:05.346Z",
+        "changedBy": "maintenance",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2025-03-06T23:46:34.553Z",
+        "changedBy": "system",
+        "reason": "Finalización de mantenimiento"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2024-11-26T17:21:59.151Z",
+        "changedBy": "admin",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2024-09-18T00:07:34.004Z",
+        "changedBy": "scheduler",
+        "reason": "Reserva de cliente"
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2024-08-15T10:18:34.353Z",
+        "changedBy": "maintenance",
+        "reason": "Cierre temporal"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-26T13:57:01.266Z",
+      "updatedAt": "2025-05-05T14:12:26.805Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "requiredMembershipLevel": "all",
+    "accessRestrictions": null,
+    "publishedAt": "2025-05-06T15:29:51.773Z"
+  },
+  {
+    "id": 2,
+    "name": "Oficina Privada 1 2",
+    "description": "Quam deduco supplanto crur auditor decet autus una cohibeo derelinquo. Tego tego beatus blandior vergo tabgo ademptio. Una cenaculum adipiscor vix statua currus.\nDeprecator astrum tabula aer. Conventus pauper universe xiphias tendo delego tamisium. Mollitia taceo atqui urbs atrocitas adaugeo capto traho ipsam synagoga.",
+    "type": "office",
+    "capacity": 18,
+    "size": 95.30108131636631,
+    "floor": "Sótano",
+    "building": "Torre Sur",
+    "features": {
+      "hasWifi": true,
+      "hasProjector": false,
+      "hasWhiteboard": false,
+      "hasVideoconference": false,
+      "hasAirConditioning": true,
+      "hasNaturalLight": true,
+      "hasKitchen": false,
+      "hasPrivateBathroom": false,
+      "isWheelchairAccessible": true,
+      "hasParkingNearby": true,
+      "equipment": [
+        "Estaciones de trabajo",
+        "Ordenador",
+        "Máquinas CNC"
+      ],
+      "services": []
+    },
+    "geoLocation": {
+      "latitude": 88.927,
+      "longitude": 116.727,
+      "address": "3016 Charlotte Circles",
+      "city": "Reichertville",
+      "state": "North Dakota",
+      "postalCode": "66913",
+      "country": "United Kingdom",
+      "formattedAddress": "248 N Front Street, Lake Lillianborough, Connecticut 85466-2507"
+    },
+    "isActive": true,
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "spaceStatus": "occupied",
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "officiis suggero"
+      },
+      {
+        "key": "priority",
+        "value": "amet denique"
+      }
+    ],
+    "allowedMemberships": [
+      4
+    ],
+    "tags": [
+      21,
+      7,
+      28,
+      13,
+      17
+    ],
+    "deletedAt": null,
+    "statusChangedAt": "2025-05-06T00:44:26.899Z",
+    "previousStatus": "closed",
+    "statusHistory": [
+      {
+        "status": "closed",
+        "changedAt": "2025-05-06T00:44:26.899Z",
+        "changedBy": "scheduler",
+        "reason": "Mantenimiento programado"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2025-05-05T02:26:54.814Z",
+        "changedBy": "system",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2025-04-09T15:15:04.839Z",
+        "changedBy": "system",
+        "reason": "Reserva de cliente"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-03-06T04:49:59.645Z",
+        "changedBy": "maintenance",
+        "reason": "Mantenimiento programado"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2024-10-29T17:47:49.711Z",
+        "changedBy": "maintenance",
+        "reason": "Reserva de cliente"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2024-09-07T01:51:47.199Z",
+        "changedBy": "scheduler",
+        "reason": "Cierre temporal"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-08-05T12:05:36.016Z",
+      "updatedAt": "2025-04-20T15:39:18.879Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "requiredMembershipLevel": "basic",
+    "accessRestrictions": null,
+    "publishedAt": "2025-05-06T15:29:51.774Z"
+  },
+  {
+    "id": 3,
+    "name": "Sala de Proyectos 3",
+    "description": "Qui advoco terror caries. Vulpes antiquus veniam pariatur benigne deleniti territo ater vel creber. Quasi cur creta uredo solutio decens tepidus cursus spes vulticulus.\nAllatus somniculosus amita accendo spectaculum aegrus sordeo molestiae. Socius adversus aetas correptius comedo verbum correptius. Amplitudo amoveo repellat sumptus appositus quisquam tergiversatio verus blanditiis.",
+    "type": "meeting_room",
+    "capacity": 37,
+    "size": 136.29770840210705,
+    "floor": "Primera Planta",
+    "building": "Campus Este",
+    "features": {
+      "hasWifi": true,
+      "hasProjector": true,
+      "hasWhiteboard": false,
+      "hasVideoconference": false,
+      "hasAirConditioning": true,
+      "hasNaturalLight": false,
+      "hasKitchen": false,
+      "hasPrivateBathroom": false,
+      "isWheelchairAccessible": true,
+      "hasParkingNearby": false,
+      "equipment": [
+        "Estaciones de trabajo",
+        "Sillas ergonómicas",
+        "Mesa de reuniones",
+        "Herramientas"
+      ],
+      "services": []
+    },
+    "geoLocation": {
+      "latitude": -0.4394,
+      "longitude": -176.0634,
+      "address": "383 Spring Gardens",
+      "city": "South Albin",
+      "state": "Georgia",
+      "postalCode": "74855-8380",
+      "country": "Fiji",
+      "formattedAddress": "81841 Lakin Park, Nolaland, Minnesota 69337"
+    },
+    "isActive": true,
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "spaceStatus": "occupied",
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "demulceo viduo"
+      }
+    ],
+    "allowedMemberships": [
+      4
+    ],
+    "tags": [
+      7,
+      11
+    ],
+    "deletedAt": null,
+    "statusChangedAt": "2025-05-03T21:57:23.622Z",
+    "previousStatus": "maintenance",
+    "statusHistory": [
+      {
+        "status": "closed",
+        "changedAt": "2025-05-03T21:57:23.622Z",
+        "changedBy": "maintenance",
+        "reason": "Mantenimiento programado"
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2025-04-23T04:39:06.284Z",
+        "changedBy": "scheduler",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2025-04-09T22:20:54.879Z",
+        "changedBy": "admin",
+        "reason": null
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-01-03T23:42:02.489Z",
+        "changedBy": "admin",
+        "reason": "Mantenimiento programado"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2024-08-28T12:39:50.655Z",
+        "changedBy": "system",
+        "reason": "Disponibilidad restaurada"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-18T00:39:39.956Z",
+      "updatedAt": "2024-09-27T07:58:19.745Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "requiredMembershipLevel": "premium",
+    "accessRestrictions": null,
+    "publishedAt": "2025-05-06T15:29:51.774Z"
+  },
+  {
+    "id": 4,
+    "name": "Laboratorio de Innovación 4",
+    "description": "Tonsor quae derelinquo decipio. Creber vis subnecto aut crudelis socius pel pax decumbo. Impedit temperantia audax absconditus cubo sopor versus umbra.\nId amicitia commemoro subvenio tunc cedo aveho tenuis suppono aliquid. Desolo tunc alienus paulatim non admoneo consectetur socius quas amiculum. Tripudio ait verbera aveho.",
+    "type": "lab",
+    "capacity": 17,
+    "size": 73.50683489385126,
+    "floor": "Ático",
+    "building": "Torre Sur",
+    "features": {
+      "hasWifi": true,
+      "hasProjector": false,
+      "hasWhiteboard": true,
+      "hasVideoconference": true,
+      "hasAirConditioning": true,
+      "hasNaturalLight": false,
+      "hasKitchen": true,
+      "hasPrivateBathroom": false,
+      "isWheelchairAccessible": true,
+      "hasParkingNearby": false,
+      "equipment": [
+        "Mesa de reuniones",
+        "Sistema de sonido",
+        "Pizarra digital"
+      ],
+      "services": [
+        "Café gratuito",
+        "Catering bajo demanda",
+        "Catering bajo demanda"
+      ]
+    },
+    "geoLocation": {
+      "latitude": 24.9837,
+      "longitude": 63.1378,
+      "address": "2728 Hector Pines",
+      "city": "Tremblayboro",
+      "state": "North Carolina",
+      "postalCode": "84086-7815",
+      "country": "Saint Lucia",
+      "formattedAddress": "86962 Wilhelmine Islands, Goldaboro, Wisconsin 87329"
+    },
+    "isActive": true,
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "spaceStatus": "reserved",
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "cariosus casus"
+      },
+      {
+        "key": "difficulty",
+        "value": "clam urbs"
+      }
+    ],
+    "allowedMemberships": [
+      2
+    ],
+    "tags": [
+      14,
+      18
+    ],
+    "deletedAt": null,
+    "statusChangedAt": "2025-05-05T14:21:46.561Z",
+    "previousStatus": "maintenance",
+    "statusHistory": [
+      {
+        "status": "maintenance",
+        "changedAt": "2025-05-05T14:21:46.561Z",
+        "changedBy": "admin",
+        "reason": "Reserva de cliente"
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2025-05-02T16:19:45.610Z",
+        "changedBy": "scheduler",
+        "reason": "Mantenimiento programado"
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2025-04-28T03:43:16.388Z",
+        "changedBy": "system",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2025-04-27T05:37:39.681Z",
+        "changedBy": "system",
+        "reason": "Mantenimiento programado"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2024-12-09T00:16:48.546Z",
+        "changedBy": "maintenance",
+        "reason": "Finalización de mantenimiento"
+      },
+      {
+        "status": "available",
+        "changedAt": "2024-11-23T14:25:41.757Z",
+        "changedBy": "scheduler",
+        "reason": "Reserva de cliente"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-01-29T13:35:51.814Z",
+      "updatedAt": "2025-02-27T22:47:07.768Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "requiredMembershipLevel": "all",
+    "accessRestrictions": null,
+    "publishedAt": "2025-05-06T15:29:51.775Z"
+  },
+  {
+    "id": 5,
+    "name": "Espacio Educativo 5",
+    "description": "Patruus desino bis sperno deserunt defluo sufficio textus denego. Deprimo tolero denuo cresco ubi cuius tergiversatio quae. Adduco cognatus impedit delicate acer ater viriliter.\nTeres nemo tristis sumptus temporibus. Unde curis tutamen. Quasi depono nihil vapulus dolor aer ut fugiat volup.",
+    "type": "classroom",
+    "capacity": 33,
+    "size": 47.76787233442574,
+    "floor": "Segunda Planta",
+    "building": "Torre Sur",
+    "features": {
+      "hasWifi": true,
+      "hasProjector": false,
+      "hasWhiteboard": false,
+      "hasVideoconference": false,
+      "hasAirConditioning": true,
+      "hasNaturalLight": true,
+      "hasKitchen": true,
+      "hasPrivateBathroom": true,
+      "isWheelchairAccessible": true,
+      "hasParkingNearby": false,
+      "equipment": [
+        "Máquinas CNC",
+        "Sistema de sonido",
+        "Pantalla interactiva",
+        "Estaciones de trabajo"
+      ],
+      "services": [
+        "Soporte técnico",
+        "Catering bajo demanda",
+        "Recepción de paquetería"
+      ]
+    },
+    "geoLocation": {
+      "latitude": 39.5837,
+      "longitude": -167.1985,
+      "address": "48122 S 1st Avenue",
+      "city": "Fort Carlotta",
+      "state": "Wyoming",
+      "postalCode": "88198-1237",
+      "country": "Sierra Leone",
+      "formattedAddress": "6950 Heaven Union, Nicoletteborough, Virginia 53554-5411"
+    },
+    "isActive": true,
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "spaceStatus": "maintenance",
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "decretum tutis"
+      },
+      {
+        "key": "relevance",
+        "value": "defero deserunt"
+      },
+      {
+        "key": "priority",
+        "value": "coaegresco animadverto"
+      }
+    ],
+    "allowedMemberships": [
+      1,
+      2,
+      3,
+      1
+    ],
+    "tags": [
+      23,
+      26,
+      28,
+      19,
+      16
+    ],
+    "deletedAt": null,
+    "statusChangedAt": "2025-05-06T12:09:26.031Z",
+    "previousStatus": "available",
+    "statusHistory": [
+      {
+        "status": "occupied",
+        "changedAt": "2025-05-06T12:09:26.031Z",
+        "changedBy": "admin",
+        "reason": "Mantenimiento programado"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-05-06T07:18:34.324Z",
+        "changedBy": "scheduler",
+        "reason": "Finalización de mantenimiento"
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2025-05-05T21:44:19.116Z",
+        "changedBy": "admin",
+        "reason": null
+      },
+      {
+        "status": "closed",
+        "changedAt": "2025-05-05T18:48:21.750Z",
+        "changedBy": "system",
+        "reason": "Mantenimiento programado"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-05-01T13:34:55.885Z",
+        "changedBy": "maintenance",
+        "reason": "Mantenimiento programado"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-04-29T19:38:37.375Z",
+        "changedBy": "admin",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2025-04-26T23:00:41.635Z",
+        "changedBy": "admin",
+        "reason": "Cierre temporal"
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2025-03-22T12:19:43.279Z",
+        "changedBy": "scheduler",
+        "reason": "Disponibilidad restaurada"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-05-13T00:14:20.190Z",
+      "updatedAt": "2024-12-23T15:02:16.625Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "requiredMembershipLevel": "all",
+    "accessRestrictions": {
+      "timeRestrictions": null,
+      "membershipRestrictions": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.775Z"
+  },
+  {
+    "id": 6,
+    "name": "Zona de Trabajo Manual 6",
+    "description": "Cura theologus constans talio tergiversatio illo repudiandae adaugeo. Causa nisi colligo. Aegre decipio crastinus consectetur delectus statua aurum.\nComplectus spiritus careo votum totam ullus. Titulus stultus trans blanditiis. Est timidus degero sumptus brevis carmen.",
+    "type": "workshop",
+    "capacity": 34,
+    "size": 163.19084998593902,
+    "floor": "Primera Planta",
+    "building": "Campus Este",
+    "features": {
+      "hasWifi": true,
+      "hasProjector": false,
+      "hasWhiteboard": false,
+      "hasVideoconference": true,
+      "hasAirConditioning": true,
+      "hasNaturalLight": true,
+      "hasKitchen": false,
+      "hasPrivateBathroom": false,
+      "isWheelchairAccessible": true,
+      "hasParkingNearby": true,
+      "equipment": [
+        "Pizarra digital",
+        "Impresora 3D"
+      ],
+      "services": [
+        "Asistencia virtual",
+        "Servicio de impresión"
+      ]
+    },
+    "geoLocation": {
+      "latitude": -75.703,
+      "longitude": -168.8808,
+      "address": "6875 E 5th Street",
+      "city": "Marlinstad",
+      "state": "Kentucky",
+      "postalCode": "13084",
+      "country": "Sierra Leone",
+      "formattedAddress": "33089 Wolf Union, North Hoseaworth, Maryland 14684-9638"
+    },
+    "isActive": true,
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "spaceStatus": "closed",
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "usitas celebrer"
+      },
+      {
+        "key": "difficulty",
+        "value": "una amoveo"
+      }
+    ],
+    "allowedMemberships": [
+      1,
+      3
+    ],
+    "tags": [
+      2,
+      10,
+      18,
+      24
+    ],
+    "deletedAt": null,
+    "statusChangedAt": "2025-03-27T15:44:46.821Z",
+    "previousStatus": "occupied",
+    "statusHistory": [
+      {
+        "status": "available",
+        "changedAt": "2025-03-27T15:44:46.821Z",
+        "changedBy": "maintenance",
+        "reason": null
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2025-01-04T16:14:14.166Z",
+        "changedBy": "system",
+        "reason": null
+      },
+      {
+        "status": "available",
+        "changedAt": "2024-12-09T01:56:49.066Z",
+        "changedBy": "admin",
+        "reason": "Cierre temporal"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-01-12T08:26:37.245Z",
+      "updatedAt": "2025-04-30T10:21:52.875Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "requiredMembershipLevel": "basic",
+    "accessRestrictions": {
+      "timeRestrictions": {
+        "maxHoursPerDay": 4,
+        "maxBookingsPerWeek": 3
+      },
+      "membershipRestrictions": {
+        "minMembershipDuration": 1,
+        "requiresApproval": false
+      }
+    },
+    "publishedAt": "2025-05-06T15:29:51.775Z"
+  },
+  {
+    "id": 7,
+    "name": "Espacio Educativo 7",
+    "description": "Theca curo vapulus statim tamisium. Viscus aer surgo deleo contigo condico adsuesco. Umbra eius adfectus delectus tenetur tot verbum convoco bonus.\nDesidero argumentum curso usque coniecto. Arcesso temporibus tamquam decipio aut traho vestrum carmen. Ventosus bibo crebro cauda.",
+    "type": "classroom",
+    "capacity": 25,
+    "size": 66.5211149181915,
+    "floor": "Sótano",
+    "building": "Centro de Innovación",
+    "features": {
+      "hasWifi": false,
+      "hasProjector": false,
+      "hasWhiteboard": false,
+      "hasVideoconference": true,
+      "hasAirConditioning": true,
+      "hasNaturalLight": false,
+      "hasKitchen": false,
+      "hasPrivateBathroom": true,
+      "isWheelchairAccessible": true,
+      "hasParkingNearby": true,
+      "equipment": [
+        "Ordenador",
+        "Máquinas CNC",
+        "Mesa de reuniones",
+        "Sillas ergonómicas",
+        "Estaciones de trabajo"
+      ],
+      "services": []
+    },
+    "geoLocation": {
+      "latitude": -3.8742,
+      "longitude": 77.574,
+      "address": "5067 Mac Center",
+      "city": "Batzchester",
+      "state": "Ohio",
+      "postalCode": "32651",
+      "country": "Albania",
+      "formattedAddress": "31605 Freeda Shoal, Hodkiewiczshire, New Hampshire 84142-2275"
+    },
+    "isActive": true,
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "spaceStatus": "reserved",
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "audax abeo"
+      },
+      {
+        "key": "relevance",
+        "value": "sperno candidus"
+      },
+      {
+        "key": "priority",
+        "value": "allatus approbo"
+      }
+    ],
+    "allowedMemberships": [
+      1,
+      2,
+      4,
+      1
+    ],
+    "tags": [
+      27
+    ],
+    "deletedAt": null,
+    "statusChangedAt": "2025-02-28T12:48:55.941Z",
+    "previousStatus": "reserved",
+    "statusHistory": [
+      {
+        "status": "closed",
+        "changedAt": "2025-02-28T12:48:55.941Z",
+        "changedBy": "maintenance",
+        "reason": null
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2025-02-19T22:03:14.873Z",
+        "changedBy": "system",
+        "reason": null
+      },
+      {
+        "status": "closed",
+        "changedAt": "2025-02-11T22:20:15.202Z",
+        "changedBy": "scheduler",
+        "reason": "Reserva de cliente"
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2024-07-13T23:15:36.720Z",
+        "changedBy": "admin",
+        "reason": "Cierre temporal"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-16T19:08:02.932Z",
+      "updatedAt": "2025-03-24T23:38:04.398Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "requiredMembershipLevel": "all",
+    "accessRestrictions": null,
+    "publishedAt": "2025-05-06T15:29:51.775Z"
+  },
+  {
+    "id": 8,
+    "name": "Espacio Educativo 8",
+    "description": "Nam denego cuius comminor vorax demergo ustulo succedo. Adinventitias hic defleo defleo coruscus vito aestivus. Crastinus sodalitas antepono ubi animus deleo spiritus vado acerbitas.\nPecus comprehendo arca autus traho arbitro cursus. Damnatio beatae tergum expedita barba constans quaerat vestrum aggero titulus. Vitiosus vinco decet creator esse curia voluntarius natus.",
+    "type": "classroom",
+    "capacity": 29,
+    "size": 86.12724517215055,
+    "floor": "Sótano",
+    "building": "Centro de Innovación",
+    "features": {
+      "hasWifi": false,
+      "hasProjector": false,
+      "hasWhiteboard": true,
+      "hasVideoconference": false,
+      "hasAirConditioning": true,
+      "hasNaturalLight": false,
+      "hasKitchen": true,
+      "hasPrivateBathroom": false,
+      "isWheelchairAccessible": true,
+      "hasParkingNearby": true,
+      "equipment": [
+        "Estaciones de trabajo",
+        "Impresora 3D",
+        "Impresora 3D",
+        "Ordenador"
+      ],
+      "services": [
+        "Recepción de paquetería",
+        "Catering bajo demanda"
+      ]
+    },
+    "geoLocation": {
+      "latitude": -49.1722,
+      "longitude": 20.6105,
+      "address": "803 Phoebe Street",
+      "city": "Grand Prairie",
+      "state": "Wyoming",
+      "postalCode": "69749",
+      "country": "Finland",
+      "formattedAddress": "373 Grant Parkways, Aliciashire, West Virginia 75477-8201"
+    },
+    "isActive": true,
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "spaceStatus": "available",
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "vehemens amo"
+      }
+    ],
+    "allowedMemberships": [
+      4,
+      1,
+      4,
+      1
+    ],
+    "tags": [
+      1,
+      18,
+      23,
+      28,
+      29
+    ],
+    "deletedAt": null,
+    "statusChangedAt": "2025-05-06T15:29:41.163Z",
+    "previousStatus": "closed",
+    "statusHistory": [
+      {
+        "status": "occupied",
+        "changedAt": "2025-05-06T15:29:41.163Z",
+        "changedBy": "admin",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "closed",
+        "changedAt": "2025-05-06T15:29:31.342Z",
+        "changedBy": "maintenance",
+        "reason": "Reserva de cliente"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2025-05-06T15:24:37.270Z",
+        "changedBy": "system",
+        "reason": null
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-05-05T17:01:54.648Z",
+        "changedBy": "maintenance",
+        "reason": "Cierre temporal"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2025-04-25T20:23:28.220Z",
+        "changedBy": "maintenance",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-04-25T14:04:19.182Z",
+        "changedBy": "scheduler",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-03-11T06:56:23.021Z",
+        "changedBy": "scheduler",
+        "reason": "Mantenimiento programado"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-02-06T00:22:31.836Z",
+        "changedBy": "maintenance",
+        "reason": "Mantenimiento programado"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-14T02:57:42.057Z",
+      "updatedAt": "2025-04-27T17:33:06.722Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "requiredMembershipLevel": "standard",
+    "accessRestrictions": null,
+    "publishedAt": "2025-05-06T15:29:51.775Z"
+  },
+  {
+    "id": 9,
+    "name": "Espacio Educativo 9",
+    "description": "Verto decumbo peccatus ut teres. Calcar sollers tametsi quas cogo viduo conitor pectus arbor defaeco. Solutio maiores commodi tremo error quis adflicto argumentum.\nAdicio aequitas cogito. Molestiae sulum quaerat ambulo adsidue. Virtus cenaculum crux claro vergo auditor cado est ancilla.",
+    "type": "classroom",
+    "capacity": 33,
+    "size": 165.2591368137267,
+    "floor": "Primera Planta",
+    "building": "Torre Sur",
+    "features": {
+      "hasWifi": false,
+      "hasProjector": true,
+      "hasWhiteboard": false,
+      "hasVideoconference": false,
+      "hasAirConditioning": true,
+      "hasNaturalLight": true,
+      "hasKitchen": true,
+      "hasPrivateBathroom": false,
+      "isWheelchairAccessible": true,
+      "hasParkingNearby": true,
+      "equipment": [
+        "Mesa de reuniones",
+        "Ordenador",
+        "Máquinas CNC",
+        "Pizarra digital"
+      ],
+      "services": []
+    },
+    "geoLocation": {
+      "latitude": -69.8151,
+      "longitude": -142.0772,
+      "address": "5714 Hauck Lodge",
+      "city": "Jupiter",
+      "state": "New Mexico",
+      "postalCode": "52999",
+      "country": "Curacao",
+      "formattedAddress": "6449 Manor Gardens, Destanyboro, Michigan 76951-4275"
+    },
+    "isActive": true,
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "spaceStatus": "closed",
+    "metadata": [],
+    "allowedMemberships": [
+      1,
+      2
+    ],
+    "tags": [
+      13,
+      18,
+      14,
+      30,
+      12
+    ],
+    "deletedAt": null,
+    "statusChangedAt": "2025-03-03T17:59:52.873Z",
+    "previousStatus": "maintenance",
+    "statusHistory": [
+      {
+        "status": "maintenance",
+        "changedAt": "2025-03-03T17:59:52.873Z",
+        "changedBy": "scheduler",
+        "reason": null
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2025-01-08T12:52:38.019Z",
+        "changedBy": "scheduler",
+        "reason": "Finalización de mantenimiento"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2024-07-27T12:26:17.726Z",
+        "changedBy": "maintenance",
+        "reason": "Reserva de cliente"
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2024-07-23T19:50:38.106Z",
+        "changedBy": "scheduler",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2024-07-14T06:43:12.789Z",
+        "changedBy": "scheduler",
+        "reason": "Reserva de cliente"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-09T23:32:56.055Z",
+      "updatedAt": "2024-12-18T12:54:22.862Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "requiredMembershipLevel": "premium",
+    "accessRestrictions": null,
+    "publishedAt": "2025-05-06T15:29:51.775Z"
+  },
+  {
+    "id": 10,
+    "name": "Hub Central 10",
+    "description": "Vestrum caries distinctio. Impedit laboriosam audacia culpa aptus. Peccatus adhuc aedificium taceo.\nSuppono adversus solvo deludo. Vitae suasoria constans cito aliquam ustilo depromo. Vomer illo accusator decerno facere temptatio viridis fuga error capillus.",
+    "type": "coworking",
+    "capacity": 49,
+    "size": 67.05471913459297,
+    "floor": "Planta Baja",
+    "building": "Torre Sur",
+    "features": {
+      "hasWifi": true,
+      "hasProjector": true,
+      "hasWhiteboard": false,
+      "hasVideoconference": true,
+      "hasAirConditioning": true,
+      "hasNaturalLight": true,
+      "hasKitchen": false,
+      "hasPrivateBathroom": false,
+      "isWheelchairAccessible": true,
+      "hasParkingNearby": true,
+      "equipment": [
+        "Pantalla interactiva",
+        "Herramientas",
+        "Estaciones de trabajo",
+        "Pizarra digital"
+      ],
+      "services": [
+        "Café gratuito",
+        "Catering bajo demanda",
+        "Asistencia virtual"
+      ]
+    },
+    "geoLocation": {
+      "latitude": -70.7598,
+      "longitude": -38.5076,
+      "address": "572 Susana Forges",
+      "city": "Haliecester",
+      "state": "Nevada",
+      "postalCode": "10100-3910",
+      "country": "Cocos (Keeling) Islands",
+      "formattedAddress": "194 Tennyson Road, South America, Massachusetts 58698"
+    },
+    "isActive": true,
+    "openingHours": {
+      "monday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "friday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "spaceStatus": "occupied",
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "cursus caveo"
+      },
+      {
+        "key": "popularity",
+        "value": "adsum quam"
+      }
+    ],
+    "allowedMemberships": [
+      4,
+      4,
+      2
+    ],
+    "tags": [
+      16
+    ],
+    "deletedAt": null,
+    "statusChangedAt": "2025-05-06T12:20:03.836Z",
+    "previousStatus": "reserved",
+    "statusHistory": [
+      {
+        "status": "occupied",
+        "changedAt": "2025-05-06T12:20:03.836Z",
+        "changedBy": "system",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2025-05-06T11:36:30.888Z",
+        "changedBy": "admin",
+        "reason": "Mantenimiento programado"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-05-06T09:20:33.469Z",
+        "changedBy": "system",
+        "reason": null
+      },
+      {
+        "status": "reserved",
+        "changedAt": "2025-05-05T18:23:56.872Z",
+        "changedBy": "admin",
+        "reason": "Mantenimiento programado"
+      },
+      {
+        "status": "available",
+        "changedAt": "2025-05-04T14:43:49.612Z",
+        "changedBy": "admin",
+        "reason": "Cierre temporal"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2025-05-04T13:20:58.531Z",
+        "changedBy": "maintenance",
+        "reason": "Reserva de cliente"
+      },
+      {
+        "status": "maintenance",
+        "changedAt": "2025-04-13T13:53:20.105Z",
+        "changedBy": "admin",
+        "reason": "Disponibilidad restaurada"
+      },
+      {
+        "status": "occupied",
+        "changedAt": "2024-12-18T10:55:31.791Z",
+        "changedBy": "scheduler",
+        "reason": "Finalización de mantenimiento"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-01-12T02:01:35.048Z",
+      "updatedAt": "2025-02-06T18:05:14.332Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "requiredMembershipLevel": "premium",
+    "accessRestrictions": null,
+    "publishedAt": "2025-05-06T15:29:51.776Z"
+  }
+]

@@ -1,0 +1,1496 @@
+[
+  {
+    "id": 1,
+    "member": 17,
+    "resourceType": "area",
+    "resourceId": 19,
+    "startDate": "2025-10-09T12:42:30.174Z",
+    "endDate": "2025-10-09T16:42:30.174Z",
+    "status": "cancelled",
+    "reservationType": "event",
+    "attendeeCount": 10,
+    "purpose": "Cras candidus sapiente.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-12-18T23:16:52.617Z",
+      "updatedAt": "2025-04-22T00:18:11.819Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.874Z",
+    "deletedAt": "2025-05-06T09:47:12.122Z"
+  },
+  {
+    "id": 2,
+    "member": 37,
+    "resourceType": "space",
+    "resourceId": 10,
+    "startDate": "2025-08-11T20:17:37.905Z",
+    "endDate": "2025-08-11T21:17:37.905Z",
+    "status": "pending",
+    "reservationType": "individual",
+    "attendeeCount": 1,
+    "purpose": "Vesper impedit tyrannus.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": "daily",
+    "recurrenceEndDate": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-06-15T00:31:27.657Z",
+      "updatedAt": "2023-08-05T09:38:36.895Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.874Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "member": 14,
+    "resourceType": "space",
+    "resourceId": 3,
+    "startDate": "2025-11-16T05:54:28.244Z",
+    "endDate": "2025-11-16T09:54:28.244Z",
+    "status": "pending",
+    "reservationType": "individual",
+    "attendeeCount": 1,
+    "purpose": "Correptius pecus molestiae assumenda commemoro adamo utrum utor.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": "2026-06-21T18:40:01.122Z",
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "incidunt cenaculum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-10-23T14:07:06.538Z",
+      "updatedAt": "2024-10-31T05:44:19.774Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.874Z",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "member": 29,
+    "resourceType": "space",
+    "resourceId": 2,
+    "startDate": "2025-11-02T09:34:24.622Z",
+    "endDate": "2025-11-02T12:34:24.622Z",
+    "status": "pending",
+    "reservationType": "group",
+    "attendeeCount": 7,
+    "purpose": "Admoneo acerbitas tracto itaque.",
+    "notes": "Curia attero uter surgo verbera amita degenero ulterius vix vaco. Vicissitudo corrupti demulceo beatae numquam creptio civitas bos curatio. Esse adnuo viriliter conqueror tactus tracto.",
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": "2026-05-07T03:31:41.729Z",
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "curo quisquam"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-10T10:20:22.611Z",
+      "updatedAt": "2025-04-24T00:47:12.097Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "member": 7,
+    "resourceType": "area",
+    "resourceId": 8,
+    "startDate": "2025-07-31T13:13:42.553Z",
+    "endDate": "2025-07-31T14:13:42.553Z",
+    "status": "completed",
+    "reservationType": "group",
+    "attendeeCount": 8,
+    "purpose": "Tempora repudiandae cenaculum creber angustus concido voluptas veritas speciosus decimus.",
+    "notes": "Creta aliquid voco. Aperiam deorsum alioqui ago. Ventito paulatim chirographum sed.",
+    "isRecurring": false,
+    "recurrencePattern": "biweekly",
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "incidunt suscipio"
+      },
+      {
+        "key": "tag",
+        "value": "conscendo curriculum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-09-24T01:14:40.311Z",
+      "updatedAt": "2025-04-08T01:35:25.035Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "member": 5,
+    "resourceType": "space",
+    "resourceId": 7,
+    "startDate": "2025-09-03T15:26:13.225Z",
+    "endDate": "2025-09-03T16:26:13.225Z",
+    "status": "confirmed",
+    "reservationType": "maintenance",
+    "attendeeCount": 10,
+    "purpose": "Avarus aequus aestus subito.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "aegre volutabrum"
+      },
+      {
+        "key": "difficulty",
+        "value": "tergiversatio vel"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-07-25T02:32:09.792Z",
+      "updatedAt": "2025-02-14T12:59:15.428Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "member": 27,
+    "resourceType": "area",
+    "resourceId": 9,
+    "startDate": "2025-10-07T09:58:39.000Z",
+    "endDate": "2025-10-07T10:58:39.000Z",
+    "status": "confirmed",
+    "reservationType": "individual",
+    "attendeeCount": 1,
+    "purpose": "Aer atqui vestigium civis stillicidium tui titulus alioqui avaritia facere.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "iusto avarus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-07-10T02:28:27.349Z",
+      "updatedAt": "2024-08-02T02:29:19.473Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "member": 43,
+    "resourceType": "space",
+    "resourceId": 8,
+    "startDate": "2026-03-27T16:04:41.900Z",
+    "endDate": "2026-03-27T20:04:41.900Z",
+    "status": "cancelled",
+    "reservationType": "individual",
+    "attendeeCount": 1,
+    "purpose": "Cruentus molestias adflicto magni tibi molestiae verus voluptates.",
+    "notes": "Vitiosus uredo cibus. Cultura illo tredecim testimonium ullus acidus. Vehemens uter suppellex accusator conculco trans aro sono.",
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "coerceo vicissitudo"
+      },
+      {
+        "key": "relevance",
+        "value": "tui qui"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-14T00:21:55.883Z",
+      "updatedAt": "2025-03-19T03:12:20.284Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "member": 42,
+    "resourceType": "area",
+    "resourceId": 12,
+    "startDate": "2026-03-31T17:11:56.551Z",
+    "endDate": "2026-03-31T19:11:56.551Z",
+    "status": "cancelled",
+    "reservationType": "maintenance",
+    "attendeeCount": 16,
+    "purpose": "Adeo deripio umquam tempus arto alius brevis solus.",
+    "notes": "Complectus spiculum coadunatio antiquus molestiae abutor talis corroboro uredo. Tertius admiratio attollo surgo timidus deserunt depono solitudo stabilis vigor. Talio comptus nulla deficio architecto ubi universe addo verus.",
+    "isRecurring": false,
+    "recurrencePattern": "monthly",
+    "recurrenceEndDate": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-04-09T00:23:44.656Z",
+      "updatedAt": "2025-04-20T19:31:41.928Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "member": 30,
+    "resourceType": "space",
+    "resourceId": 3,
+    "startDate": "2025-10-31T17:39:47.726Z",
+    "endDate": "2025-10-31T19:39:47.726Z",
+    "status": "pending",
+    "reservationType": "group",
+    "attendeeCount": 8,
+    "purpose": "Carpo comis celo.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": "2026-09-23T01:39:18.083Z",
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "currus corrigo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-02-17T06:46:25.493Z",
+      "updatedAt": "2025-03-22T06:49:10.358Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 11,
+    "member": 1,
+    "resourceType": "area",
+    "resourceId": 5,
+    "startDate": "2025-07-23T04:13:39.358Z",
+    "endDate": "2025-07-23T12:13:39.358Z",
+    "status": "pending",
+    "reservationType": "group",
+    "attendeeCount": 5,
+    "purpose": "Debilito curso adulatio voluntarius adnuo.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-12-04T13:37:11.321Z",
+      "updatedAt": "2025-02-18T01:13:43.641Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 12,
+    "member": 8,
+    "resourceType": "space",
+    "resourceId": 4,
+    "startDate": "2025-11-06T05:54:31.595Z",
+    "endDate": "2025-11-06T08:54:31.595Z",
+    "status": "cancelled",
+    "reservationType": "group",
+    "attendeeCount": 5,
+    "purpose": "Sordeo bis sub aggredior viriliter crur amitto truculenter acerbitas.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "amita xiphias"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-09-13T22:53:25.052Z",
+      "updatedAt": "2024-11-28T08:20:31.652Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 13,
+    "member": 33,
+    "resourceType": "space",
+    "resourceId": 5,
+    "startDate": "2025-07-26T17:29:36.941Z",
+    "endDate": "2025-07-26T18:29:36.941Z",
+    "status": "confirmed",
+    "reservationType": "maintenance",
+    "attendeeCount": 7,
+    "purpose": "Universe acquiro cogo vinitor enim ago.",
+    "notes": null,
+    "isRecurring": true,
+    "recurrencePattern": "daily",
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "comprehendo excepturi"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-19T17:12:53.849Z",
+      "updatedAt": "2024-02-08T09:04:22.570Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 14,
+    "member": 32,
+    "resourceType": "space",
+    "resourceId": 2,
+    "startDate": "2025-07-28T08:14:39.331Z",
+    "endDate": "2025-07-28T11:14:39.331Z",
+    "status": "cancelled",
+    "reservationType": "event",
+    "attendeeCount": 14,
+    "purpose": "Subiungo talus similique clibanus.",
+    "notes": "Dapifer terminatio quia spectaculum conscendo vesco debilito. Pecus vilis clibanus cohaero solitudo clarus aer modi. Theatrum bos consequatur.",
+    "isRecurring": true,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-10-30T18:26:24.162Z",
+      "updatedAt": "2025-01-04T17:13:41.262Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 15,
+    "member": 34,
+    "resourceType": "space",
+    "resourceId": 4,
+    "startDate": "2025-05-28T14:59:08.334Z",
+    "endDate": "2025-05-28T18:59:08.334Z",
+    "status": "completed",
+    "reservationType": "group",
+    "attendeeCount": 11,
+    "purpose": "Absconditus tempore aspernatur molestiae molestiae argentum causa votum alveus.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-09-27T00:13:59.126Z",
+      "updatedAt": "2023-12-28T15:27:54.548Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 16,
+    "member": 28,
+    "resourceType": "space",
+    "resourceId": 5,
+    "startDate": "2025-09-03T17:51:34.222Z",
+    "endDate": "2025-09-03T18:51:34.222Z",
+    "status": "cancelled",
+    "reservationType": "event",
+    "attendeeCount": 18,
+    "purpose": "Quo subvenio canonicus defleo laboriosam ambitus nostrum amitto acidus.",
+    "notes": "Vilitas solio amiculum quos laborum cursus dens. Tersus tripudio bardus collum. Odit considero volubilis.",
+    "isRecurring": true,
+    "recurrencePattern": "biweekly",
+    "recurrenceEndDate": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-10-25T18:01:26.201Z",
+      "updatedAt": "2023-12-07T04:36:46.816Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 17,
+    "member": 15,
+    "resourceType": "space",
+    "resourceId": 5,
+    "startDate": "2026-04-02T07:30:39.637Z",
+    "endDate": "2026-04-02T15:30:39.637Z",
+    "status": "completed",
+    "reservationType": "maintenance",
+    "attendeeCount": 19,
+    "purpose": "Vacuus quod audio acer calamitas thermae anser antiquus carmen aggredior.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "ultio conservo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-06-14T08:10:02.663Z",
+      "updatedAt": "2025-01-19T18:42:28.687Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 18,
+    "member": 43,
+    "resourceType": "space",
+    "resourceId": 5,
+    "startDate": "2025-07-18T05:37:53.263Z",
+    "endDate": "2025-07-18T09:37:53.263Z",
+    "status": "completed",
+    "reservationType": "individual",
+    "attendeeCount": 1,
+    "purpose": "At terminatio paulatim victoria odit thymbra amita facilis.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "cedo corrupti"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-08T05:44:57.529Z",
+      "updatedAt": "2025-04-17T17:07:36.413Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 19,
+    "member": 35,
+    "resourceType": "area",
+    "resourceId": 17,
+    "startDate": "2025-10-20T19:45:04.030Z",
+    "endDate": "2025-10-20T23:45:04.030Z",
+    "status": "completed",
+    "reservationType": "individual",
+    "attendeeCount": 1,
+    "purpose": "Solitudo amicitia deficio trado astrum combibo votum corrumpo.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "aqua caveo"
+      },
+      {
+        "key": "source",
+        "value": "vaco cervus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-06-23T07:14:09.103Z",
+      "updatedAt": "2023-08-29T02:22:51.112Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 20,
+    "member": 33,
+    "resourceType": "space",
+    "resourceId": 10,
+    "startDate": "2026-04-21T10:24:56.520Z",
+    "endDate": "2026-04-21T14:24:56.520Z",
+    "status": "confirmed",
+    "reservationType": "event",
+    "attendeeCount": 7,
+    "purpose": "Cubitum ascisco tener caveo beatae.",
+    "notes": null,
+    "isRecurring": true,
+    "recurrencePattern": "daily",
+    "recurrenceEndDate": "2027-03-11T19:34:54.004Z",
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-05-15T20:38:19.407Z",
+      "updatedAt": "2024-12-01T15:48:04.802Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 21,
+    "member": 14,
+    "resourceType": "area",
+    "resourceId": 5,
+    "startDate": "2026-03-27T02:00:39.338Z",
+    "endDate": "2026-03-27T04:00:39.338Z",
+    "status": "completed",
+    "reservationType": "group",
+    "attendeeCount": 8,
+    "purpose": "Thymum cibo defendo.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "adeo umquam"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-01T06:08:22.478Z",
+      "updatedAt": "2025-04-16T04:21:45.381Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 22,
+    "member": 7,
+    "resourceType": "space",
+    "resourceId": 1,
+    "startDate": "2025-06-08T07:11:05.969Z",
+    "endDate": "2025-06-08T11:11:05.969Z",
+    "status": "completed",
+    "reservationType": "maintenance",
+    "attendeeCount": 9,
+    "purpose": "Curto curis cresco argentum sunt ea iure statua tergo ustulo.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "umerus tunc"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-24T06:51:21.404Z",
+      "updatedAt": "2025-04-20T06:04:44.557Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 23,
+    "member": 34,
+    "resourceType": "area",
+    "resourceId": 19,
+    "startDate": "2025-08-23T21:17:10.646Z",
+    "endDate": "2025-08-24T00:17:10.646Z",
+    "status": "confirmed",
+    "reservationType": "individual",
+    "attendeeCount": 1,
+    "purpose": "Vomito repudiandae dedecor aeger.",
+    "notes": "Basium vulariter repellat spiritus tenax triduana patruus tam. Convoco cribro nobis altus charisma pectus auditor. Correptius vinitor eaque amaritudo vix delego.",
+    "isRecurring": true,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-08-16T19:40:26.258Z",
+      "updatedAt": "2025-01-14T07:50:19.863Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 24,
+    "member": 16,
+    "resourceType": "area",
+    "resourceId": 5,
+    "startDate": "2025-06-03T09:50:49.810Z",
+    "endDate": "2025-06-03T17:50:49.810Z",
+    "status": "confirmed",
+    "reservationType": "event",
+    "attendeeCount": 12,
+    "purpose": "Suscipit veritatis verbum cimentarius suscipio.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "dolore amiculum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-12-09T05:23:38.296Z",
+      "updatedAt": "2025-04-09T16:34:22.860Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 25,
+    "member": 11,
+    "resourceType": "area",
+    "resourceId": 20,
+    "startDate": "2026-04-14T16:59:54.530Z",
+    "endDate": "2026-04-14T17:59:54.530Z",
+    "status": "cancelled",
+    "reservationType": "event",
+    "attendeeCount": 15,
+    "purpose": "Benevolentia exercitationem aureus valde adsidue terreo.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": "2026-11-21T04:51:05.830Z",
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "demergo cohibeo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-01T18:46:12.027Z",
+      "updatedAt": "2024-08-31T16:46:07.852Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 26,
+    "member": 37,
+    "resourceType": "space",
+    "resourceId": 3,
+    "startDate": "2025-07-30T20:07:24.203Z",
+    "endDate": "2025-07-30T23:07:24.203Z",
+    "status": "cancelled",
+    "reservationType": "event",
+    "attendeeCount": 18,
+    "purpose": "Cernuus communis aspernatur taedium colligo dolorem.",
+    "notes": "Thymbra ater atrocitas. Bellicus minus allatus cotidie curis delectatio tredecim demulceo. Spiritus copia vox solum.",
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "department",
+        "value": "utrimque absens"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-08-05T16:44:05.014Z",
+      "updatedAt": "2025-01-19T17:59:07.907Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 27,
+    "member": 4,
+    "resourceType": "space",
+    "resourceId": 5,
+    "startDate": "2026-02-10T12:14:32.380Z",
+    "endDate": "2026-02-10T13:14:32.380Z",
+    "status": "completed",
+    "reservationType": "group",
+    "attendeeCount": 11,
+    "purpose": "Placeat tondeo subvenio teneo beatus ratione theologus ulterius.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "at adsum"
+      },
+      {
+        "key": "source",
+        "value": "comptus strues"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-24T14:05:40.855Z",
+      "updatedAt": "2025-03-17T15:53:43.177Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 28,
+    "member": 41,
+    "resourceType": "area",
+    "resourceId": 9,
+    "startDate": "2025-12-22T01:42:27.454Z",
+    "endDate": "2025-12-22T03:42:27.454Z",
+    "status": "pending",
+    "reservationType": "maintenance",
+    "attendeeCount": 19,
+    "purpose": "Centum tutis ulciscor viscus fugit canto concido decretum.",
+    "notes": "Tantum appono considero teres charisma architecto. Inflammatio tamquam contabesco. Vero modi caelum theatrum taedium tempus aggero adeo cunae atavus.",
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "vulnus argentum"
+      },
+      {
+        "key": "difficulty",
+        "value": "aetas adstringo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-07T01:08:28.834Z",
+      "updatedAt": "2025-04-20T03:35:03.967Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 29,
+    "member": 12,
+    "resourceType": "space",
+    "resourceId": 7,
+    "startDate": "2026-03-04T00:28:13.184Z",
+    "endDate": "2026-03-04T02:28:13.184Z",
+    "status": "confirmed",
+    "reservationType": "individual",
+    "attendeeCount": 1,
+    "purpose": "Vesica cedo quidem atrox comprehendo benigne aestivus.",
+    "notes": null,
+    "isRecurring": true,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-11-26T21:00:23.151Z",
+      "updatedAt": "2025-01-10T21:08:49.316Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 30,
+    "member": 47,
+    "resourceType": "space",
+    "resourceId": 1,
+    "startDate": "2025-06-11T23:13:47.390Z",
+    "endDate": "2025-06-12T01:13:47.390Z",
+    "status": "cancelled",
+    "reservationType": "event",
+    "attendeeCount": 5,
+    "purpose": "Vacuus cuius sto volup aufero ascisco absorbeo.",
+    "notes": "Approbo admiratio spiritus. Administratio tribuo claudeo tonsor claro subiungo ciminatio audacia. Dolorum cumque combibo valeo conitor tergo spiculum.",
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "vestrum aliquid"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-08T20:24:57.397Z",
+      "updatedAt": "2025-04-26T19:25:24.315Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 31,
+    "member": 31,
+    "resourceType": "space",
+    "resourceId": 10,
+    "startDate": "2026-04-16T21:06:21.357Z",
+    "endDate": "2026-04-17T05:06:21.357Z",
+    "status": "cancelled",
+    "reservationType": "event",
+    "attendeeCount": 20,
+    "purpose": "Adipiscor quaerat spoliatio ager laborum tutamen depulso ipsam victus supplanto.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": "2026-11-29T19:40:29.148Z",
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "turpis vigor"
+      },
+      {
+        "key": "priority",
+        "value": "libero animi"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-05T03:59:22.837Z",
+      "updatedAt": "2025-03-30T05:21:58.546Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 32,
+    "member": 33,
+    "resourceType": "area",
+    "resourceId": 3,
+    "startDate": "2026-01-04T19:03:03.054Z",
+    "endDate": "2026-01-04T23:03:03.054Z",
+    "status": "cancelled",
+    "reservationType": "event",
+    "attendeeCount": 6,
+    "purpose": "Aggredior callide tutamen abundans talis.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": "daily",
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "adicio debeo"
+      },
+      {
+        "key": "popularity",
+        "value": "vulpes celer"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-16T17:02:00.000Z",
+      "updatedAt": "2025-04-21T10:00:07.873Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 33,
+    "member": 3,
+    "resourceType": "space",
+    "resourceId": 5,
+    "startDate": "2025-08-14T03:39:20.095Z",
+    "endDate": "2025-08-14T11:39:20.095Z",
+    "status": "pending",
+    "reservationType": "maintenance",
+    "attendeeCount": 7,
+    "purpose": "Argentum torrens vestigium vinitor tendo quos ancilla.",
+    "notes": null,
+    "isRecurring": true,
+    "recurrencePattern": "biweekly",
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "cibus ustilo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-11-18T03:25:48.855Z",
+      "updatedAt": "2025-04-17T03:22:56.868Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 34,
+    "member": 8,
+    "resourceType": "space",
+    "resourceId": 6,
+    "startDate": "2025-09-26T02:30:31.815Z",
+    "endDate": "2025-09-26T04:30:31.815Z",
+    "status": "confirmed",
+    "reservationType": "event",
+    "attendeeCount": 18,
+    "purpose": "Compello capio tempora talio.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "testimonium complectus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-09-18T15:15:10.431Z",
+      "updatedAt": "2024-12-26T04:58:49.606Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 35,
+    "member": 42,
+    "resourceType": "area",
+    "resourceId": 7,
+    "startDate": "2025-08-10T19:53:52.362Z",
+    "endDate": "2025-08-10T23:53:52.362Z",
+    "status": "cancelled",
+    "reservationType": "event",
+    "attendeeCount": 9,
+    "purpose": "Adeptio admoneo cavus.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": "2026-02-18T06:58:33.165Z",
+    "metadata": [
+      {
+        "key": "department",
+        "value": "cohaero subnecto"
+      },
+      {
+        "key": "department",
+        "value": "depopulo ultio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-06-02T18:45:40.373Z",
+      "updatedAt": "2024-04-18T03:40:42.942Z",
+      "createdBy": "system",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 36,
+    "member": 38,
+    "resourceType": "area",
+    "resourceId": 15,
+    "startDate": "2026-01-10T14:38:26.242Z",
+    "endDate": "2026-01-10T22:38:26.242Z",
+    "status": "confirmed",
+    "reservationType": "event",
+    "attendeeCount": 20,
+    "purpose": "Incidunt antea conicio attollo aeger cicuta corroboro aufero.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": "2026-11-24T01:49:46.638Z",
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-09-30T01:45:34.093Z",
+      "updatedAt": "2024-06-09T06:57:55.898Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 37,
+    "member": 44,
+    "resourceType": "area",
+    "resourceId": 20,
+    "startDate": "2025-05-27T10:10:55.782Z",
+    "endDate": "2025-05-27T13:10:55.782Z",
+    "status": "cancelled",
+    "reservationType": "group",
+    "attendeeCount": 6,
+    "purpose": "Vitiosus angustus defero autus.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "conservo thesaurus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-07-21T19:42:15.828Z",
+      "updatedAt": "2024-08-12T02:50:22.364Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 38,
+    "member": 41,
+    "resourceType": "area",
+    "resourceId": 13,
+    "startDate": "2026-03-01T19:46:03.302Z",
+    "endDate": "2026-03-01T22:46:03.302Z",
+    "status": "confirmed",
+    "reservationType": "event",
+    "attendeeCount": 20,
+    "purpose": "Vesco stipes corpus saepe adipiscor vergo supellex voluptas credo.",
+    "notes": "Truculenter officia commodi voveo. Cernuus aetas in turbo cervus dolorem constans. Comprehendo tunc crebro deleniti aeger.",
+    "isRecurring": false,
+    "recurrencePattern": "daily",
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "vomica combibo"
+      },
+      {
+        "key": "tag",
+        "value": "attero deripio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-07T05:25:36.218Z",
+      "updatedAt": "2025-03-25T01:18:11.860Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 39,
+    "member": 41,
+    "resourceType": "area",
+    "resourceId": 4,
+    "startDate": "2026-02-03T18:54:33.178Z",
+    "endDate": "2026-02-03T22:54:33.178Z",
+    "status": "completed",
+    "reservationType": "maintenance",
+    "attendeeCount": 14,
+    "purpose": "Calculus voco solvo.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "cotidie neque"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-03-31T04:49:51.478Z",
+      "updatedAt": "2025-04-07T14:18:23.417Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 40,
+    "member": 39,
+    "resourceType": "area",
+    "resourceId": 8,
+    "startDate": "2025-11-13T05:17:03.275Z",
+    "endDate": "2025-11-13T06:17:03.275Z",
+    "status": "cancelled",
+    "reservationType": "maintenance",
+    "attendeeCount": 12,
+    "purpose": "Subseco valde brevis.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": "2026-09-21T11:15:58.254Z",
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "maiores virtus"
+      },
+      {
+        "key": "popularity",
+        "value": "suasoria adicio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-05-09T06:13:57.843Z",
+      "updatedAt": "2024-07-09T13:39:37.893Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 41,
+    "member": 33,
+    "resourceType": "area",
+    "resourceId": 7,
+    "startDate": "2026-02-15T21:02:52.891Z",
+    "endDate": "2026-02-16T00:02:52.891Z",
+    "status": "pending",
+    "reservationType": "event",
+    "attendeeCount": 6,
+    "purpose": "Demonstro cibo cohaero angustus optio termes.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "utilis totus"
+      },
+      {
+        "key": "source",
+        "value": "adfectus tenetur"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-02-23T00:40:53.100Z",
+      "updatedAt": "2024-03-05T16:22:52.944Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 42,
+    "member": 9,
+    "resourceType": "space",
+    "resourceId": 4,
+    "startDate": "2025-10-08T09:12:01.762Z",
+    "endDate": "2025-10-08T17:12:01.762Z",
+    "status": "pending",
+    "reservationType": "maintenance",
+    "attendeeCount": 10,
+    "purpose": "Tam convoco bonus tricesimus balbus reiciendis.",
+    "notes": null,
+    "isRecurring": true,
+    "recurrencePattern": "monthly",
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "speculum tandem"
+      },
+      {
+        "key": "tag",
+        "value": "utilis bene"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-12-24T17:38:28.484Z",
+      "updatedAt": "2024-09-27T00:48:00.087Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 43,
+    "member": 42,
+    "resourceType": "space",
+    "resourceId": 5,
+    "startDate": "2025-12-09T00:18:22.542Z",
+    "endDate": "2025-12-09T03:18:22.542Z",
+    "status": "completed",
+    "reservationType": "individual",
+    "attendeeCount": 1,
+    "purpose": "Coniuratio decor tenuis comprehendo vallum.",
+    "notes": "Abstergo aequitas quas auctor vilitas vulgaris. Caveo tribuo tempore advenio aequus sum chirographum quibusdam vos. Curtus valeo peccatus voro magnam barba carbo timor.",
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "aliqua tredecim"
+      },
+      {
+        "key": "difficulty",
+        "value": "admoveo vinculum"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-31T20:28:27.112Z",
+      "updatedAt": "2025-01-20T04:28:21.278Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 44,
+    "member": 5,
+    "resourceType": "area",
+    "resourceId": 8,
+    "startDate": "2025-06-28T04:28:57.528Z",
+    "endDate": "2025-06-28T06:28:57.528Z",
+    "status": "cancelled",
+    "reservationType": "group",
+    "attendeeCount": 5,
+    "purpose": "Angustus damnatio conturbo.",
+    "notes": null,
+    "isRecurring": true,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-11-26T23:25:14.170Z",
+      "updatedAt": "2024-05-17T13:07:10.930Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 45,
+    "member": 22,
+    "resourceType": "space",
+    "resourceId": 3,
+    "startDate": "2025-07-01T16:10:17.255Z",
+    "endDate": "2025-07-01T20:10:17.255Z",
+    "status": "pending",
+    "reservationType": "event",
+    "attendeeCount": 16,
+    "purpose": "Vereor caput conicio textilis confero cilicium sui temeritas censura abduco.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-05-25T23:24:11.597Z",
+      "updatedAt": "2024-03-11T02:02:25.130Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 46,
+    "member": 5,
+    "resourceType": "space",
+    "resourceId": 2,
+    "startDate": "2025-07-25T17:52:58.893Z",
+    "endDate": "2025-07-26T01:52:58.893Z",
+    "status": "cancelled",
+    "reservationType": "individual",
+    "attendeeCount": 1,
+    "purpose": "Architecto defluo aliqua delectus.",
+    "notes": "Temporibus usus absorbeo vulgo pel debilito alioqui delectatio ascit vinitor. Hic adimpleo minus tricesimus defendo civitas vivo asperiores. Templum creber aliquam cernuus iure vereor aqua aspicio.",
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "attollo adaugeo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-20T15:47:22.332Z",
+      "updatedAt": "2025-04-29T14:55:19.993Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 47,
+    "member": 12,
+    "resourceType": "area",
+    "resourceId": 12,
+    "startDate": "2026-02-04T14:51:17.530Z",
+    "endDate": "2026-02-04T22:51:17.530Z",
+    "status": "completed",
+    "reservationType": "maintenance",
+    "attendeeCount": 20,
+    "purpose": "Deludo spoliatio thalassinus.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "clibanus torqueo"
+      },
+      {
+        "key": "tag",
+        "value": "censura copia"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-08-19T18:36:35.078Z",
+      "updatedAt": "2024-11-23T15:41:33.067Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 48,
+    "member": 6,
+    "resourceType": "area",
+    "resourceId": 14,
+    "startDate": "2025-07-21T09:25:13.583Z",
+    "endDate": "2025-07-21T10:25:13.583Z",
+    "status": "confirmed",
+    "reservationType": "maintenance",
+    "attendeeCount": 15,
+    "purpose": "Arceo allatus corpus tunc.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-11-16T09:51:38.846Z",
+      "updatedAt": "2025-01-12T13:04:58.019Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 49,
+    "member": 43,
+    "resourceType": "space",
+    "resourceId": 7,
+    "startDate": "2025-07-29T03:34:24.910Z",
+    "endDate": "2025-07-29T06:34:24.910Z",
+    "status": "pending",
+    "reservationType": "individual",
+    "attendeeCount": 1,
+    "purpose": "Sodalitas amplus titulus.",
+    "notes": "Volva caste cimentarius aequitas nostrum. Exercitationem comitatus succurro adfero. Argumentum turbo confero autus clam conturbo aggero terebro utrimque voro.",
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "aegre adstringo"
+      },
+      {
+        "key": "relevance",
+        "value": "ater damno"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-01-09T02:36:00.448Z",
+      "updatedAt": "2025-03-31T13:16:37.997Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  },
+  {
+    "id": 50,
+    "member": 1,
+    "resourceType": "area",
+    "resourceId": 10,
+    "startDate": "2026-03-28T17:38:48.528Z",
+    "endDate": "2026-03-28T19:38:48.528Z",
+    "status": "pending",
+    "reservationType": "event",
+    "attendeeCount": 6,
+    "purpose": "Accusamus aro tutis.",
+    "notes": null,
+    "isRecurring": false,
+    "recurrencePattern": null,
+    "recurrenceEndDate": null,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "tot tenax"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-08T21:37:07.487Z",
+      "updatedAt": "2024-12-26T21:57:00.711Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.875Z",
+    "deletedAt": null
+  }
+]

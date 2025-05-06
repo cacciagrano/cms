@@ -1,0 +1,50 @@
+[
+  {
+    "oldId": 1,
+    "newId": "pnv2k44mw50mm5e3k33g7m1c",
+    "name": "Programación",
+    "slug": "programacion",
+    "response": {
+      "documentId": "pnv2k44mw50mm5e3k33g7m1c",
+      "name": "Programación",
+      "description": "Sunt canonicus adinventitias iure. Atque audax derideo in arbor vulnero voluptatem talus. Deduco astrum articulus dolorum benigne.",
+      "color": "#1050be",
+      "icon": "code",
+      "slug": "programacion",
+      "isActive": true,
+      "order": 1
+    }
+  },
+  {
+    "oldId": 2,
+    "newId": "smas5y5c3q2in3prl3bgccz0",
+    "name": "Diseño",
+    "slug": "diseno",
+    "response": {
+      "documentId": "smas5y5c3q2in3prl3bgccz0",
+      "name": "Diseño",
+      "description": "Volo temptatio aiunt textilis texo tero. Custodia antiquus culpo textor tam denuo perferendis libero et aqua. Temptatio vado calculus beatus territo thymum.",
+      "color": "#bd83b1",
+      "icon": "brush",
+      "slug": "diseno",
+      "isActive": true,
+      "order": 2
+    }
+  },
+  {
+    "oldId": 3,
+    "newId": "zgq3gsk5yalvg867v881brgh",
+    "name": "Electrónica",
+    "slug": "electronica",
+    "response": {
+      "documentId": "zgq3gsk5yalvg867v881brgh",
+      "name": "Electrónica",
+      "description": "Umquam dolor tamisium valde aveho adipisci cras et repellendus. Error brevis ventus subvenio. Cunae ager voluptatibus deficio cras torqueo cogo vomer debeo cruentus.",
+      "color": "#1e8dce",
+      "icon": "chip",
+      "slug": "electronica",
+      "isActive": true,
+      "order": 3
+    }
+  }
+]

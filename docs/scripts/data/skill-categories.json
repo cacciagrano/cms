@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Programación",
+    "description": "Sunt canonicus adinventitias iure. Atque audax derideo in arbor vulnero voluptatem talus. Deduco astrum articulus dolorum benigne.",
+    "slug": "programación",
+    "icon": "code",
+    "color": "#1050be",
+    "isActive": true,
+    "order": 1,
+    "parentCategory": null,
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "alii appono"
+      },
+      {
+        "key": "relevance",
+        "value": "laborum volubilis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-12-22T00:30:30.303Z",
+      "updatedAt": "2025-02-19T05:53:52.194Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.616Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Diseño",
+    "description": "Volo temptatio aiunt textilis texo tero. Custodia antiquus culpo textor tam denuo perferendis libero et aqua. Temptatio vado calculus beatus territo thymum.",
+    "slug": "diseño",
+    "icon": "brush",
+    "color": "#bd83b1",
+    "isActive": true,
+    "order": 2,
+    "parentCategory": null,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "blandior aegrus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-19T11:00:49.332Z",
+      "updatedAt": "2024-05-23T02:24:35.413Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.616Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Electrónica",
+    "description": "Umquam dolor tamisium valde aveho adipisci cras et repellendus. Error brevis ventus subvenio. Cunae ager voluptatibus deficio cras torqueo cogo vomer debeo cruentus.",
+    "slug": "electrónica",
+    "icon": "chip",
+    "color": "#1e8dce",
+    "isActive": true,
+    "order": 3,
+    "parentCategory": null,
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "sit spes"
+      },
+      {
+        "key": "popularity",
+        "value": "ventosus teres"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-11T19:48:18.412Z",
+      "updatedAt": "2024-10-26T10:29:34.654Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.616Z",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "name": "Fabricación",
+    "description": "Solvo admoneo conventus subvenio a fugit appositus. Solio summa fugiat aestas consequuntur ventito triumphus ventito iusto curto. Speciosus virtus ullus taceo strenuus nulla vito careo.",
+    "slug": "fabricación",
+    "icon": "hammer",
+    "color": "#8ce4fb",
+    "isActive": true,
+    "order": 4,
+    "parentCategory": 2,
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "cupiditas absque"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-01T08:59:27.784Z",
+      "updatedAt": "2024-03-24T07:46:34.711Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.617Z",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "name": "Impresión 3D",
+    "description": "Caterva absorbeo iusto vaco clam sordeo necessitatibus vero tredecim subiungo. Accedo degusto vix conicio ascisco odit stultus sui turba amaritudo. Eligendi spiritus deserunt perspiciatis ex armarium thymum quam.",
+    "slug": "impresión-3d",
+    "icon": "printer3d",
+    "color": "#f7f04f",
+    "isActive": true,
+    "order": 5,
+    "parentCategory": null,
+    "metadata": [
+      {
+        "key": "source",
+        "value": "nulla dolorem"
+      },
+      {
+        "key": "department",
+        "value": "suscipit ter"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-10-23T23:38:18.533Z",
+      "updatedAt": "2024-11-08T23:18:21.151Z",
+      "createdBy": null,
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.617Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Robótica",
+    "description": "Caecus toties calamitas. Xiphias tenuis cursus soluta tres tergiversatio amita demulceo. Subito aliqua thermae statua vilitas acsi.",
+    "slug": "robótica",
+    "icon": "robot",
+    "color": "#6f586d",
+    "isActive": true,
+    "order": 6,
+    "parentCategory": null,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "cultellus vero"
+      },
+      {
+        "key": "relevance",
+        "value": "peccatus tondeo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-04-30T03:27:42.487Z",
+      "updatedAt": "2025-05-01T01:29:22.202Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.617Z",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "name": "IoT",
+    "description": "Suggero trado tolero consequuntur verbum confero vorago earum amet. Desparatus vinculum spoliatio ago attero antepono facere nobis appono. Culpa valens cunctatio a pecco molestias adfero.",
+    "slug": "iot",
+    "icon": "wifi",
+    "color": "#8ea2ec",
+    "isActive": true,
+    "order": 7,
+    "parentCategory": 2,
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "fuga deputo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-02-10T19:27:39.435Z",
+      "updatedAt": "2025-04-16T16:45:53.063Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.617Z",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "name": "Ciencia de Datos",
+    "description": "Arbustum coadunatio adeptio pecco eveniet victoria adeo temptatio sumptus deludo. Umbra id tempora arma currus brevis. Thema verecundia vigilo itaque dedico pecco.",
+    "slug": "ciencia-de-datos",
+    "icon": "database",
+    "color": "#0abcaa",
+    "isActive": true,
+    "order": 8,
+    "parentCategory": null,
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "theca incidunt"
+      },
+      {
+        "key": "relevance",
+        "value": "coniuratio labore"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-02-28T11:53:56.076Z",
+      "updatedAt": "2025-04-20T01:03:35.194Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.617Z",
+    "deletedAt": null
+  }
+]

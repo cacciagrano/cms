@@ -1,0 +1,1290 @@
+[
+  {
+    "id": 1,
+    "name": "Pantalla 1",
+    "description": "Tutamen cogo combibo adfero circumvenio. Nostrum paens contabesco decens decipio facilis. Somniculosus antiquus sonitus capitulus ait degusto dignissimos venia angulus.",
+    "assetInfo": {
+      "inventoryNumber": "INV-DDJKDGRH",
+      "acquisitionDate": "2022-03-29",
+      "acquisitionCost": 6413.611048751632,
+      "currentValue": 7626.281612760449,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-11-04",
+        "provider": "Stamm - Krajcik"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": null
+    },
+    "internalCode": "EQ-0001",
+    "locationType": "shared",
+    "currentUser": 31,
+    "area": 6,
+    "tags": [
+      22,
+      30
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "validus itaque"
+      },
+      {
+        "key": "difficulty",
+        "value": "delego veniam"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-07-28T22:14:11.887Z",
+      "updatedAt": "2024-12-27T03:13:46.829Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.785Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Ordenador 2",
+    "description": "Eius cresco carpo tabgo benigne peccatus. Defleo adulescens aliquam sto cubitum arceo cunabula. Repellendus catena delego civis succedo.",
+    "assetInfo": {
+      "inventoryNumber": "INV-BZ6RPDET",
+      "acquisitionDate": "2021-05-30",
+      "acquisitionCost": 7650.313785752794,
+      "currentValue": 7640.738305520054,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-02-20",
+        "provider": "Bayer, Paucek and Gottlieb"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Calculus via cribro strues summopere. Apostolus adnuo desino ademptio utique volaticus neque stips vestigium debitis. Stella omnis civitas adopto calamitas vox cattus cibus.\nThymbra aliqua denuncio varietas iusto quod baiulus. Civis et bibo cinis concido quisquam odit creptio crur. Talis viduo bellicus crudelis ceno brevis sumo.",
+      "safetyGuidelines": "Demo abduco utroque curiositas tamen conduco studio. Utique cito vallum absum atque tyrannus talio subvenio. Depopulo synagoga torrens."
+    },
+    "internalCode": "EQ-0002",
+    "locationType": "shared",
+    "currentUser": 31,
+    "area": 10,
+    "tags": [
+      30
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "debeo crastinus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2025-05-03T14:47:33.062Z",
+      "updatedAt": "2025-05-04T08:21:20.204Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.785Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Escáner 3",
+    "description": "Vapulus maxime utroque modi caput aliquid. Pecco contigo tracto stips celebrer alienus curvo arma sollers. Nobis administratio creo.",
+    "assetInfo": {
+      "inventoryNumber": "INV-66GBARDJ",
+      "acquisitionDate": "2024-08-28",
+      "acquisitionCost": 5944.663108002605,
+      "currentValue": 7045.7422013177875,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-06-25",
+        "provider": "Wiegand, Abernathy and Boehm"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": null
+    },
+    "internalCode": "EQ-0003",
+    "locationType": "mobile",
+    "currentUser": 14,
+    "area": 16,
+    "tags": [
+      11
+    ],
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "talus impedit"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-08-15T11:10:40.543Z",
+      "updatedAt": "2025-04-16T21:41:59.380Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.785Z",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "name": "Sistema de audio 4",
+    "description": "Tergum voluptas spoliatio caste crepusculum collum voluntarius impedit auditor. Asporto illo impedit aro usus aer. Thymum fuga cruciamentum amplitudo vesper demoror aro.",
+    "assetInfo": {
+      "inventoryNumber": "INV-JGMCRMUI",
+      "acquisitionDate": "2024-08-10",
+      "acquisitionCost": 4508.497235938468,
+      "currentValue": 7500.511689735246,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-08-22",
+        "provider": "Greenfelder, Raynor and Kunde"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Averto timidus condico theatrum acidus subnecto porro vehemens demens. Quo demoror thesis talis. Creator tonsor victoria ubi succurro defluo spoliatio degusto.\nTempore color uredo volubilis vacuus pel. Vulpes vivo ascisco curiositas. Iure usitas ambulo concedo.",
+      "safetyGuidelines": "Demulceo pecus denuncio vado sopor. Vinculum conqueror deputo amita alius urbs titulus ullam ago. Suppono ex sed ultio adipisci deludo acidus."
+    },
+    "internalCode": "EQ-0004",
+    "locationType": "shared",
+    "currentUser": null,
+    "area": 12,
+    "tags": [
+      4
+    ],
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "talio arcesso"
+      },
+      {
+        "key": "department",
+        "value": "usque utpote"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-05-11T00:55:05.998Z",
+      "updatedAt": "2024-08-21T03:53:50.310Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.785Z",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "name": "Cámara 5",
+    "description": "Aperiam quos ubi praesentium custodia defendo subnecto iure. Solitudo occaecati coadunatio possimus crapula ab. Sortitus totidem alveus vestrum arbustum expedita candidus eligendi absque.",
+    "assetInfo": {
+      "inventoryNumber": "INV-Z1HJNW4I",
+      "acquisitionDate": "2021-05-26",
+      "acquisitionCost": 476.9790016039569,
+      "currentValue": 4713.891611502458,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-02-23",
+        "provider": "Cummerata Group"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Truculenter accendo acer ad. Absum tersus aeger totidem complectus. Votum turpis tamisium terreo auditor sol carpo solio creta enim."
+    },
+    "internalCode": "EQ-0005",
+    "locationType": "shared",
+    "currentUser": null,
+    "area": 5,
+    "tags": [
+      29
+    ],
+    "metadata": [
+      {
+        "key": "department",
+        "value": "tardus summa"
+      },
+      {
+        "key": "difficulty",
+        "value": "timor totam"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-05T14:41:04.025Z",
+      "updatedAt": "2024-08-23T05:33:22.750Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.785Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Cámara 6",
+    "description": "Clementia commodi illum denique dens cetera apparatus coniuratio velociter spargo. Venia usque est sol. Amor tertius angulus denuo capillus.",
+    "assetInfo": {
+      "inventoryNumber": "INV-XZVTDOBI",
+      "acquisitionDate": "2021-01-21",
+      "acquisitionCost": 8435.75739422571,
+      "currentValue": 1377.015218436598,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-08-27",
+        "provider": "Runolfsdottir - Wintheiser"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Dedico curriculum combibo tum odio carus eveniet virgo ultio adstringo. Vilicus excepturi tres textus viriliter appono. Acer tonsor tracto vomer vigilo.\nCerno acidus thalassinus. Ait catena varietas admitto. Caput sto tubineus sumptus calculus contra subito turbo tabernus.",
+      "safetyGuidelines": "Aliquam caveo ultio attonbitus summa velut impedit vaco impedit. Velociter cognomen creator canis dolorum harum adulatio angulus. Eligendi curso vicinus peccatus tutamen peccatus terreo necessitatibus tabula territo."
+    },
+    "internalCode": "EQ-0006",
+    "locationType": "mobile",
+    "currentUser": null,
+    "area": 13,
+    "tags": [
+      23,
+      1,
+      24
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "sonitus carbo"
+      },
+      {
+        "key": "source",
+        "value": "autus vesica"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-09-14T00:14:21.915Z",
+      "updatedAt": "2024-12-11T02:17:37.111Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.786Z",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "name": "Pantalla 7",
+    "description": "Caste consequatur civitas barba acsi ea dolorem. Spoliatio talis sequi damno audeo quisquam amplus cunae. Carpo excepturi amitto custodia.",
+    "assetInfo": {
+      "inventoryNumber": "INV-VAHUZP8S",
+      "acquisitionDate": "2022-06-15",
+      "acquisitionCost": 6956.345570299833,
+      "currentValue": 7019.761153288683,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2027-03-28",
+        "provider": "Altenwerth - Hyatt"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Cohaero ver magni sumo. Ascit amplexus cunabula optio pel vitae. Abutor dapifer pecus ustilo amo canonicus deserunt laboriosam culpa."
+    },
+    "internalCode": "EQ-0007",
+    "locationType": "mobile",
+    "currentUser": null,
+    "area": 1,
+    "tags": [
+      6,
+      16,
+      1
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-01-31T13:20:47.023Z",
+      "updatedAt": "2024-10-17T19:34:54.350Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.786Z",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "name": "Pantalla 8",
+    "description": "Thermae repudiandae vulnero sponte campana uterque undique tabesco. Adulatio tredecim stultus capto audax ulterius calco. Cervus bis nemo thymbra textor.",
+    "assetInfo": {
+      "inventoryNumber": "INV-8VFYXJ00",
+      "acquisitionDate": "2024-06-04",
+      "acquisitionCost": 2119.5218320705653,
+      "currentValue": 2210.4864514301585,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-03-06",
+        "provider": "Shields Group"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Compono solio coniuratio argentum templum. Doloremque crapula crapula barba tandem adsidue tempora statim demens. Capto tergum facere.\nAdsuesco contego suggero volup numquam. Taedium cognatus ceno aestas quam soleo utroque maxime. Totam aqua triumphus.",
+      "safetyGuidelines": "Delego quidem terra calamitas sollers necessitatibus cohibeo bardus volup. Bene coadunatio cur. Peior ubi benigne advoco."
+    },
+    "internalCode": "EQ-0008",
+    "locationType": "shared",
+    "currentUser": 35,
+    "area": 17,
+    "tags": [
+      14,
+      14
+    ],
+    "metadata": [
+      {
+        "key": "department",
+        "value": "veritas toties"
+      },
+      {
+        "key": "tag",
+        "value": "optio vesper"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-08-24T16:57:39.004Z",
+      "updatedAt": "2024-09-19T04:17:38.191Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.786Z",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "name": "Cámara 9",
+    "description": "Beneficium auditor certe quis super causa sequi solio adaugeo cariosus. Commodi supplanto ab suffoco delectus vester. Bellicus auctor tener tero bene tyrannus.",
+    "assetInfo": {
+      "inventoryNumber": "INV-3SIOJOEN",
+      "acquisitionDate": "2020-06-02",
+      "acquisitionCost": 3058.3823389303684,
+      "currentValue": 1715.2620848093095,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-07-01",
+        "provider": "Padberg, Abbott and Mosciski"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Defaeco demergo vulnus convoco. Tutamen coniecto tergiversatio adeptio patruus. Conatus tui vulgivagus verbum capto verbum atque amicitia.\nCreptio coniuratio demulceo provident angulus textus itaque. Coniecto quis saepe sublime depopulo similique cogo appono tepesco victoria. Eaque vorax pauper coaegresco amiculum bene aestivus coepi enim ventus.",
+      "safetyGuidelines": null
+    },
+    "internalCode": "EQ-0009",
+    "locationType": "mobile",
+    "currentUser": null,
+    "area": 18,
+    "tags": [
+      14
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-05-01T09:31:56.408Z",
+      "updatedAt": "2025-05-02T15:29:08.651Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.786Z",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "name": "Cámara 10",
+    "description": "Blanditiis cohibeo terga consectetur subiungo quo paens. Supellex atqui temperantia defessus stillicidium adflicto corrigo curriculum suffragium. Cumque voluptatum amplus bos aptus bis casso ventosus cohaero.",
+    "assetInfo": {
+      "inventoryNumber": "INV-1L5EK3PB",
+      "acquisitionDate": "2024-03-11",
+      "acquisitionCost": 4267.9010746260155,
+      "currentValue": 2609.335078428842,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-10-29",
+        "provider": "Wilkinson, Becker and Conroy"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Quaerat amissio admoveo tergo aspicio summopere harum itaque clarus. Thesis calco tubineus. Complectus asperiores crux aureus carus pecus verbera administratio.\nStips cursus calamitas acervus adnuo casso cariosus caecus. Delectus aetas utpote deleo. Molestias admiratio vobis.",
+      "safetyGuidelines": null
+    },
+    "internalCode": "EQ-0010",
+    "locationType": "mobile",
+    "currentUser": 19,
+    "area": 16,
+    "tags": [
+      2
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-03-08T23:48:42.298Z",
+      "updatedAt": "2025-04-30T00:53:23.495Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.786Z",
+    "deletedAt": null
+  },
+  {
+    "id": 11,
+    "name": "Pantalla 11",
+    "description": "Absorbeo audacia caecus abeo deludo quod. Arbor adicio ante summa iure voco comes deficio subito admoneo. Tam avarus defaeco dolore animus coniuratio appono.",
+    "assetInfo": {
+      "inventoryNumber": "INV-MATDGIWG",
+      "acquisitionDate": "2022-11-26",
+      "acquisitionCost": 4079.633416240274,
+      "currentValue": 3156.4512142603444,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2025-07-15",
+        "provider": "Schumm - Abshire"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Speculum adulatio amaritudo. Vitiosus defessus minus vulnus vestigium cui tego. Vos timor audeo unus.\nTui adsuesco canis non cotidie. Curto solus calco cogo. Theatrum convoco convoco sodalitas tabernus.",
+      "safetyGuidelines": null
+    },
+    "internalCode": "EQ-0011",
+    "locationType": "mobile",
+    "currentUser": 13,
+    "area": 15,
+    "tags": [
+      21,
+      4
+    ],
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "sit carbo"
+      },
+      {
+        "key": "source",
+        "value": "terga absconditus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-08-13T20:07:12.635Z",
+      "updatedAt": "2025-04-04T17:04:26.275Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.786Z",
+    "deletedAt": null
+  },
+  {
+    "id": 12,
+    "name": "Sistema de audio 12",
+    "description": "Commemoro molestias vilis usque rerum sol quisquam. Xiphias tabesco solium caries succedo calamitas coaegresco. Amplus bellicus cogito tripudio decretum contego una voco tempore.",
+    "assetInfo": {
+      "inventoryNumber": "INV-KHLIDJFW",
+      "acquisitionDate": "2022-02-03",
+      "acquisitionCost": 1565.1692071941004,
+      "currentValue": 1065.9227364191026,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-02-15",
+        "provider": "Jast Inc"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Tergeo utpote abutor celer corrupti vacuus natus sollers adicio vulgivagus. Sui solutio ambitus eligendi et ancilla. Vociferor supra sequi aurum tendo ciminatio carpo eos crustulum tego."
+    },
+    "internalCode": "EQ-0012",
+    "locationType": "mobile",
+    "currentUser": null,
+    "area": 13,
+    "tags": [
+      29
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "quidem virga"
+      },
+      {
+        "key": "source",
+        "value": "argumentum abbas"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-06-13T19:38:10.038Z",
+      "updatedAt": "2024-12-25T07:32:02.902Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.786Z",
+    "deletedAt": null
+  },
+  {
+    "id": 13,
+    "name": "Cámara 13",
+    "description": "Campana benevolentia subito velit arbustum defaeco ulterius. Ut coadunatio ascisco coniecto appositus sapiente. Adduco video celebrer deleniti decor utilis cohors quo.",
+    "assetInfo": {
+      "inventoryNumber": "INV-UMZEPCSK",
+      "acquisitionDate": "2022-12-26",
+      "acquisitionCost": 3926.9392802421016,
+      "currentValue": 3932.973094754339,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-08-07",
+        "provider": "Lynch - Christiansen"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Reiciendis beatae spero quia thema. Arceo vomito armarium sperno vir demo tepidus civis complectus. Vinculum corrumpo cruentus trado patruus universe careo cribro bestia."
+    },
+    "internalCode": "EQ-0013",
+    "locationType": "fixed",
+    "currentUser": 14,
+    "area": 11,
+    "tags": [
+      4,
+      5,
+      12
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-01-13T23:28:51.116Z",
+      "updatedAt": "2025-04-14T21:07:10.775Z",
+      "createdBy": "import",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.786Z",
+    "deletedAt": null
+  },
+  {
+    "id": 14,
+    "name": "Proyector 14",
+    "description": "Adulatio umbra adfectus deleo earum quasi sit denuncio quae. Tabernus contabesco volo rem celer blandior. Soluta creator contego spargo aer contego aggredior quisquam.",
+    "assetInfo": {
+      "inventoryNumber": "INV-O62IMPUB",
+      "acquisitionDate": "2021-09-23",
+      "acquisitionCost": 7488.044616501188,
+      "currentValue": 2840.531247801277,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-02-06",
+        "provider": "DuBuque, O'Hara and Armstrong"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Deprimo beatus porro aggero theologus aranea vita quos. Thema candidus credo suspendo dolor ipsum deorsum coaegresco ventito. Asporto dedico bibo addo denique molestias."
+    },
+    "internalCode": "EQ-0014",
+    "locationType": "mobile",
+    "currentUser": null,
+    "area": 14,
+    "tags": [
+      18
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-08-21T14:04:53.095Z",
+      "updatedAt": "2025-02-18T03:05:59.494Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.786Z",
+    "deletedAt": null
+  },
+  {
+    "id": 15,
+    "name": "Sistema de audio 15",
+    "description": "Ab tergum ventosus texo. Aeger atque vulpes thermae ultra culpa alter. Cavus in aggredior trepide bene.",
+    "assetInfo": {
+      "inventoryNumber": "INV-BCSJKC2K",
+      "acquisitionDate": "2022-08-14",
+      "acquisitionCost": 3600.4494686044104,
+      "currentValue": 4804.795471707436,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-12-02",
+        "provider": "Witting, Monahan and Lehner"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Auxilium sublime temptatio adipiscor. Vel tametsi desidero. Nemo quo iste molestiae inventore aeger demum amor caelum.\nSuggero traho usque solutio amiculum cibo soluta depereo. Centum termes cupiditas compello cultura. Aestivus velum curis temperantia arto creator sponte.",
+      "safetyGuidelines": null
+    },
+    "internalCode": "EQ-0015",
+    "locationType": "mobile",
+    "currentUser": null,
+    "area": 12,
+    "tags": [
+      9,
+      18,
+      21
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-08-04T08:43:52.793Z",
+      "updatedAt": "2025-02-24T11:54:05.792Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.786Z",
+    "deletedAt": null
+  },
+  {
+    "id": 16,
+    "name": "Cámara 16",
+    "description": "Verto officiis somniculosus somniculosus stultus terreo canto. Uredo sol defetiscor talus defero defetiscor cognatus celer tot deprimo. Carus atrox sit rerum pariatur vinco apparatus vado conventus.",
+    "assetInfo": {
+      "inventoryNumber": "INV-PUOEEHB8",
+      "acquisitionDate": "2023-03-07",
+      "acquisitionCost": 7972.685076794539,
+      "currentValue": 6344.980233488251,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-06-07",
+        "provider": "Schiller Inc"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Cimentarius sint arma averto cohaero chirographum sumptus perspiciatis comprehendo spectaculum. Corroboro blanditiis nam tunc strenuus. Debitis demulceo ancilla."
+    },
+    "internalCode": "EQ-0016",
+    "locationType": "fixed",
+    "currentUser": 33,
+    "area": 12,
+    "tags": [
+      18,
+      20
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-01-03T16:02:04.924Z",
+      "updatedAt": "2025-03-03T13:00:23.559Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.786Z",
+    "deletedAt": null
+  },
+  {
+    "id": 17,
+    "name": "Escáner 17",
+    "description": "Nemo aeternus copia clarus angelus. Textus fuga virtus balbus tergeo curia crapula absque praesentium amitto. Soluta ubi vita creta varietas calco ager.",
+    "assetInfo": {
+      "inventoryNumber": "INV-WJJBYRJY",
+      "acquisitionDate": "2024-08-12",
+      "acquisitionCost": 9398.114305308658,
+      "currentValue": 3707.7427336320216,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2025-10-16",
+        "provider": "Wisozk, Carter and Wintheiser"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Sit depereo catena culpo ventito patria supellex anser cado enim. Agnitio abstergo approbo charisma. Super terminatio beatae enim soluta crepusculum summisse sonitus coepi agnosco."
+    },
+    "internalCode": "EQ-0017",
+    "locationType": "shared",
+    "currentUser": null,
+    "area": 15,
+    "tags": [
+      16,
+      15
+    ],
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "porro auctor"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-11-13T08:27:16.039Z",
+      "updatedAt": "2025-01-29T22:24:34.504Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.786Z",
+    "deletedAt": null
+  },
+  {
+    "id": 18,
+    "name": "Sistema de audio 18",
+    "description": "Vester cribro impedit acervus baiulus ocer vereor. Corona consuasor cunae bardus vulariter quis nisi theca defleo demo. Adversus altus vito.",
+    "assetInfo": {
+      "inventoryNumber": "INV-HITTDBNK",
+      "acquisitionDate": "2022-04-11",
+      "acquisitionCost": 1005.5998612860585,
+      "currentValue": 4455.41953455111,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2025-08-02",
+        "provider": "Sipes - Erdman"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": null
+    },
+    "internalCode": "EQ-0018",
+    "locationType": "fixed",
+    "currentUser": null,
+    "area": 14,
+    "tags": [
+      29,
+      18,
+      3
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "appello comminor"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-06-28T01:19:12.764Z",
+      "updatedAt": "2025-01-25T03:13:39.283Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.786Z",
+    "deletedAt": null
+  },
+  {
+    "id": 19,
+    "name": "Proyector 19",
+    "description": "Possimus depopulo bos demum ante. Suscipit cometes conservo cupiditas cogito quas. Decor cunae cras torqueo traho termes celebrer tribuo auctus.",
+    "assetInfo": {
+      "inventoryNumber": "INV-O8MZCB2F",
+      "acquisitionDate": "2021-01-17",
+      "acquisitionCost": 9633.663311017643,
+      "currentValue": 6725.845941712072,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-12-14",
+        "provider": "Fritsch - Wisoky"
+      },
+      "maintenanceSchedule": "biannual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Voco tandem clarus deleo aqua civis laudantium vindico. Curso benigne derideo deripio pax victoria vitium velut ubi vito. Allatus deficio ipsum sint summisse culpa comedo.\nClaro tempora comedo aufero facilis. Victoria alo bellum velit. Tumultus bardus dolorem ara tremo tantum tollo argentum.",
+      "safetyGuidelines": "Acerbitas solio bibo vulticulus est cena demonstro deprimo. Ara tolero pauci aro magni patrocinor vulgus sonitus. Astrum tactus vulnero cattus barba distinctio ipsam."
+    },
+    "internalCode": "EQ-0019",
+    "locationType": "fixed",
+    "currentUser": null,
+    "area": 16,
+    "tags": [
+      18,
+      24
+    ],
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "cicuta comis"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-05-22T10:28:03.965Z",
+      "updatedAt": "2024-10-11T00:48:32.399Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.787Z",
+    "deletedAt": null
+  },
+  {
+    "id": 20,
+    "name": "Pantalla 20",
+    "description": "Deludo bellum vilicus substantia sophismata ducimus patrocinor nostrum vulgaris. Clibanus copiose atqui quod cedo. Conduco utrimque amicitia angulus surgo.",
+    "assetInfo": {
+      "inventoryNumber": "INV-29RRUKQS",
+      "acquisitionDate": "2022-07-23",
+      "acquisitionCost": 7123.180550361261,
+      "currentValue": 5487.932063158169,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-01-20",
+        "provider": "Nikolaus - Jenkins"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": null
+    },
+    "internalCode": "EQ-0020",
+    "locationType": "shared",
+    "currentUser": null,
+    "area": 15,
+    "tags": [
+      25,
+      20,
+      17
+    ],
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "pax stella"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-01T07:38:19.835Z",
+      "updatedAt": "2023-10-27T03:04:57.652Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.787Z",
+    "deletedAt": null
+  },
+  {
+    "id": 21,
+    "name": "Sistema de audio 21",
+    "description": "Error tenuis dens civis adsidue. Amplexus quis conforto damno cognomen vesco. Depraedor amitto cattus aveho odio amplitudo aveho defleo constans rem.",
+    "assetInfo": {
+      "inventoryNumber": "INV-YBG8AZP3",
+      "acquisitionDate": "2024-06-14",
+      "acquisitionCost": 9524.789432379424,
+      "currentValue": 4182.24585715725,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-04-16",
+        "provider": "Jacobs Group"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Voluptatibus laborum nisi talus utilis spero. Accusator capto appono defluo deprimo. Paulatim vulgivagus cernuus.\nCharisma valde caste artificiose deserunt cavus spiritus. Sumo impedit vomer impedit pel debitis minus tandem temperantia. Sono comedo amita adsuesco.",
+      "safetyGuidelines": null
+    },
+    "internalCode": "EQ-0021",
+    "locationType": "shared",
+    "currentUser": null,
+    "area": 9,
+    "tags": [
+      12,
+      28
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "antiquus curtus"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-20T02:52:31.935Z",
+      "updatedAt": "2025-04-22T20:39:05.180Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.787Z",
+    "deletedAt": null
+  },
+  {
+    "id": 22,
+    "name": "Escáner 22",
+    "description": "Totus vomica viridis terreo deprecator baiulus comedo thymum. Thermae caecus virgo tamen repellat. Ustilo alter votum subnecto ascit cogo vulgus.",
+    "assetInfo": {
+      "inventoryNumber": "INV-YNNQDAFN",
+      "acquisitionDate": "2023-04-27",
+      "acquisitionCost": 852.8315187787531,
+      "currentValue": 3134.3593341146875,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2027-04-16",
+        "provider": "Douglas, Blick and Parker"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Dolore custodia adhaero somniculosus tum beneficium tum cinis dolore solio. Suppellex vereor cognomen repudiandae iste temporibus aureus. Claudeo damno utor.\nUberrime dicta bos decipio absconditus aeger dolores cultura thermae corona. Timor animus thema ter certus tabernus absens cena ara sunt. Vomito totus ubi vespillo aestas constans tunc aestivus doloribus.",
+      "safetyGuidelines": "Sodalitas suffoco crastinus cicuta terreo ater. Ver sodalitas curis commodi. Terra defero tactus appello vinculum depulso subvenio."
+    },
+    "internalCode": "EQ-0022",
+    "locationType": "fixed",
+    "currentUser": 46,
+    "area": 14,
+    "tags": [
+      23
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-12-03T22:47:47.428Z",
+      "updatedAt": "2024-04-16T06:20:54.539Z",
+      "createdBy": "import",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.787Z",
+    "deletedAt": null
+  },
+  {
+    "id": 23,
+    "name": "Escáner 23",
+    "description": "Altus turbo sto. Solum censura teneo advenio auditor deficio virtus crinis quibusdam aetas. Tumultus conitor arca accusamus acer acer uredo desino.",
+    "assetInfo": {
+      "inventoryNumber": "INV-TWJVBCFW",
+      "acquisitionDate": "2021-11-03",
+      "acquisitionCost": 7845.434157168912,
+      "currentValue": 324.15940544429543,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-04-13",
+        "provider": "Gerlach, Brekke and Koss"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Taedium quos degero maxime varius vinum triumphus. Socius dignissimos vulgivagus vindico debeo. Modi contigo templum tutamen tardus cui censura carpo talio amiculum.\nCapio minima absens ventito. Quis abbas arbustum aeneus ratione ipsam coerceo paens. Tabula delego creo combibo vigor sodalitas aperio ventosus sed.",
+      "safetyGuidelines": "Succedo peior ait perspiciatis annus comptus capto. Argumentum auctor concedo placeat aliqua cuppedia addo cedo ratione. Curo at stillicidium caput crur veniam nulla."
+    },
+    "internalCode": "EQ-0023",
+    "locationType": "mobile",
+    "currentUser": null,
+    "area": 17,
+    "tags": [
+      15,
+      16
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2024-08-14T16:42:45.118Z",
+      "updatedAt": "2024-09-02T22:52:47.452Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.787Z",
+    "deletedAt": null
+  },
+  {
+    "id": 24,
+    "name": "Pantalla 24",
+    "description": "Antea alioqui aggredior statua. Voluptate placeat colligo stella comes clibanus. Theatrum communis adficio conicio dignissimos triduana.",
+    "assetInfo": {
+      "inventoryNumber": "INV-XBTAPLXV",
+      "acquisitionDate": "2023-05-13",
+      "acquisitionCost": 1568.1881590866076,
+      "currentValue": 372.37586306763814,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-09-02",
+        "provider": "Gerlach Inc"
+      },
+      "maintenanceSchedule": null,
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Callide creber suffragium spiritus. Campana admitto canonicus arcesso. Benigne umbra sunt cohors usque.\nDeleo dapifer sequi vulpes magni minima stipes denuncio temeritas artificiose. Denuo abutor illum vivo clibanus summopere error. Claro ustulo inflammatio arto delego vester congregatio uter defungo aurum.",
+      "safetyGuidelines": "Sum tabgo derideo. Ancilla tertius solitudo asperiores umbra. Speciosus amaritudo magni carcer aspicio conservo vilis celebrer virtus."
+    },
+    "internalCode": "EQ-0024",
+    "locationType": "mobile",
+    "currentUser": 1,
+    "area": 7,
+    "tags": [
+      2,
+      25
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-03-07T19:42:05.612Z",
+      "updatedAt": "2025-04-29T20:20:50.717Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.787Z",
+    "deletedAt": null
+  },
+  {
+    "id": 25,
+    "name": "Sistema de audio 25",
+    "description": "Pariatur defendo summisse textor capto repudiandae. Desipio stips uredo synagoga compono solum iste ambitus demergo. Demo commemoro caelum sufficio crudelis totidem cornu atrocitas usus.",
+    "assetInfo": {
+      "inventoryNumber": "INV-KY4QTEDN",
+      "acquisitionDate": "2024-11-17",
+      "acquisitionCost": 6410.529955894275,
+      "currentValue": 353.9602784592682,
+      "condition": "excellent",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-12-11",
+        "provider": "Schimmel, Lesch and Funk"
+      },
+      "maintenanceSchedule": "annual",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Cuius rerum balbus cedo suadeo facere damno caritas vomito ulterius. Aggero corpus curia deporto umquam demonstro communis virga vigilo. Sponte coruscus vociferor decretum paens decet appono vulgivagus crepusculum vobis.\nTamquam viduo ultra campana cometes officia triumphus truculenter comptus cena. Aggredior totam nulla cerno aperio toties cupio. Neque pauci depereo repudiandae vulgus cui absorbeo communis.",
+      "safetyGuidelines": "Cibo validus aperiam delego angulus atrocitas deduco verbum thesaurus aequitas. Vallum cariosus dedico creator arca abstergo est et. Voluptatum cito alii alius laborum spes creo."
+    },
+    "internalCode": "EQ-0025",
+    "locationType": "fixed",
+    "currentUser": null,
+    "area": 11,
+    "tags": [
+      13,
+      16
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-06-19T22:02:37.063Z",
+      "updatedAt": "2024-05-01T23:15:09.434Z",
+      "createdBy": "admin",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.787Z",
+    "deletedAt": null
+  },
+  {
+    "id": 26,
+    "name": "Pantalla 26",
+    "description": "Asporto cimentarius comparo sono adamo vesica utor. Quasi universe vestigium antiquus tenus cotidie ultra. Et assumenda commodi absens arbitro.",
+    "assetInfo": {
+      "inventoryNumber": "INV-JCOZH5AC",
+      "acquisitionDate": "2023-08-02",
+      "acquisitionCost": 2375.8260462942244,
+      "currentValue": 7839.460331306479,
+      "condition": "new",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-09-06",
+        "provider": "Bernier Group"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": null,
+      "safetyGuidelines": null
+    },
+    "internalCode": "EQ-0026",
+    "locationType": "shared",
+    "currentUser": 30,
+    "area": 1,
+    "tags": [
+      1,
+      15,
+      15
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-04-24T09:38:55.996Z",
+      "updatedAt": "2025-04-30T23:58:34.445Z",
+      "createdBy": "import",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.787Z",
+    "deletedAt": null
+  },
+  {
+    "id": 27,
+    "name": "Proyector 27",
+    "description": "Adstringo arbor sursum ante. Sto excepturi arx curia aliquid ventosus. Quod patria caritas cultura absens temporibus nisi argumentum corporis toties.",
+    "assetInfo": {
+      "inventoryNumber": "INV-DMXI9ZMW",
+      "acquisitionDate": "2025-01-14",
+      "acquisitionCost": 4459.7273084495455,
+      "currentValue": 7515.833305006585,
+      "condition": "fair",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-12-11",
+        "provider": "Bogan, Lakin and Monahan"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": null,
+      "safetyGuidelines": "Tonsor varietas venio tempore peior dapifer aeternus. Cohibeo deludo cunae urbs desparatus deleo celer bardus. Thesis quos condico ascisco adopto delectatio dapifer color canto aestus."
+    },
+    "internalCode": "EQ-0027",
+    "locationType": "mobile",
+    "currentUser": null,
+    "area": 5,
+    "tags": [
+      3,
+      1,
+      23
+    ],
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "absque cui"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-01T20:27:39.092Z",
+      "updatedAt": "2025-01-24T06:34:06.275Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.787Z",
+    "deletedAt": null
+  },
+  {
+    "id": 28,
+    "name": "Sistema de audio 28",
+    "description": "Patrocinor vel amplitudo circumvenio itaque conatus verbum. Terminatio turba deficio ea brevis admoveo cognatus. Odit sequi vetus tempore vacuus tener titulus asporto assentator.",
+    "assetInfo": {
+      "inventoryNumber": "INV-GFACEUSR",
+      "acquisitionDate": "2024-10-29",
+      "acquisitionCost": 509.47376284660896,
+      "currentValue": 1130.0438783331729,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": false,
+        "expirationDate": "2026-02-27",
+        "provider": "McCullough, Moore and Baumbach"
+      },
+      "maintenanceSchedule": "monthly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": "Adamo cauda valeo alii curia nam. Uterque possimus crinis pauper crastinus depopulo. Solvo copia ex occaecati acsi cicuta.\nDamnatio conscendo coepi cuppedia sunt curiositas caries assumenda acquiro. Solvo comedo abscido tyrannus tremo centum comminor aequitas. Conqueror iste concedo.",
+      "safetyGuidelines": null
+    },
+    "internalCode": "EQ-0028",
+    "locationType": "mobile",
+    "currentUser": 40,
+    "area": 1,
+    "tags": [
+      23,
+      30,
+      27
+    ],
+    "metadata": [
+      {
+        "key": "tag",
+        "value": "sufficio conservo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-06-16T18:31:24.838Z",
+      "updatedAt": "2025-04-08T19:48:37.791Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.787Z",
+    "deletedAt": null
+  },
+  {
+    "id": 29,
+    "name": "Proyector 29",
+    "description": "Spoliatio conservo constans altus vorago utpote somnus tollo commodi. Curis vorax textus amet maxime defleo colligo uredo utroque. Nemo theca civis consectetur quam celer caste audio anser artificiose.",
+    "assetInfo": {
+      "inventoryNumber": "INV-UY4DL9SS",
+      "acquisitionDate": "2024-08-01",
+      "acquisitionCost": 6451.062559406236,
+      "currentValue": 5043.275512518173,
+      "condition": "poor",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2026-01-07",
+        "provider": "Cummings and Sons"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-06",
+      "nextMaintenance": "2025-05-06",
+      "instructions": "Deleo aptus cetera cinis. Stabilis tondeo tonsor vicissitudo nisi statua ustulo necessitatibus coma. Ullus terror aegrus decerno conforto.\nTerga verbum canonicus crustulum vilitas toties id. Subiungo aegre vox cum. Acies quod placeat corona sophismata accommodo aperio tenax.",
+      "safetyGuidelines": "Nesciunt trado tribuo cibo. Vigilo comprehendo acsi crux acerbitas tenus somnus vita ratione. Angelus depromo volutabrum absum."
+    },
+    "internalCode": "EQ-0029",
+    "locationType": "mobile",
+    "currentUser": 44,
+    "area": 14,
+    "tags": [
+      25,
+      19
+    ],
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "amoveo aureus"
+      },
+      {
+        "key": "difficulty",
+        "value": "corrupti amissio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-10-06T09:14:50.968Z",
+      "updatedAt": "2024-07-19T04:02:46.435Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.787Z",
+    "deletedAt": null
+  },
+  {
+    "id": 30,
+    "name": "Pantalla 30",
+    "description": "Tersus sursum eum accommodo speculum cubitum clibanus tamdiu. Possimus considero decet sunt volutabrum tepesco laborum. Adhuc quod condico ultio abduco sollers cumque cultellus vobis victoria.",
+    "assetInfo": {
+      "inventoryNumber": "INV-UGXEUNNP",
+      "acquisitionDate": "2024-05-09",
+      "acquisitionCost": 3006.6142550448008,
+      "currentValue": 2715.5933271075614,
+      "condition": "good",
+      "warranty": {
+        "hasWarranty": true,
+        "expirationDate": "2025-06-01",
+        "provider": "Nienow - Connelly"
+      },
+      "maintenanceSchedule": "quarterly",
+      "lastMaintenance": "2025-05-05",
+      "nextMaintenance": "2025-05-07",
+      "instructions": null,
+      "safetyGuidelines": "Doloribus adduco vitae ultra. Annus tremo curso verbera vomito tracto tribuo verto verto. Strues vociferor debeo curatio deserunt."
+    },
+    "internalCode": "EQ-0030",
+    "locationType": "fixed",
+    "currentUser": null,
+    "area": 13,
+    "tags": [
+      17,
+      10,
+      10
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-06-11T09:15:25.422Z",
+      "updatedAt": "2025-02-19T07:49:19.170Z",
+      "createdBy": "import",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.787Z",
+    "deletedAt": null
+  }
+]

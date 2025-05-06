@@ -1,0 +1,619 @@
+[
+  {
+    "id": 1,
+    "name": "Asesoría en Circuitos 1",
+    "description": "Aro depono maiores ultio claudeo colo appello denique una uberrime. Capillus suppono auctor color claro. Perspiciatis thymum bos adflicto arx demulceo cruentus dapifer rem vaco.\nSpectaculum perferendis cauda. Theologus coniecto sulum tergiversatio surgo. Caveo ustilo blandior solum.",
+    "trainingType": "mentorship",
+    "skill": 7,
+    "difficultyLevel": "intermediate",
+    "duration": 4,
+    "sessions": 1,
+    "startDate": "2026-04-10T07:08:12.595Z",
+    "endDate": "2026-04-10T07:08:12.595Z",
+    "instructor": 49,
+    "capacity": 11,
+    "price": 0,
+    "isFree": true,
+    "isOnline": false,
+    "location": 10,
+    "prerequisites": [
+      "Ocer assentator conatus.",
+      "Viscus centum optio vir tergeo voluptates.",
+      "Centum valetudo comminor similique sperno cariosus totus tolero."
+    ],
+    "learningOutcomes": [
+      "Eius vereor vehemens varietas.",
+      "Adicio crepusculum tenuis facere conor ocer civis aduro.",
+      "Stips adeo urbanus tam vilitas viscus timor studio aliquid decens.",
+      "Thema non subiungo corporis atavus."
+    ],
+    "materials": [],
+    "status": "cancelled",
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-11-13T13:41:40.755Z",
+    "tags": [
+      18
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "ut audeo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-03-05T10:23:34.844Z",
+      "updatedAt": "2025-04-16T22:37:13.787Z",
+      "createdBy": null,
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.877Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Workshop de Arduino 2",
+    "description": "Basium abscido deludo amoveo libero aliquid voro patrocinor decens. Conturbo articulus vigor ustulo corporis varius consuasor. Solus tristis cogo virgo curatio vomica iure amiculum angulus tumultus.\nDolore atqui clementia cognomen. Suasoria unus comes cupio valens. Desidero suus viscus a pecto complectus officiis desino.",
+    "trainingType": "workshop",
+    "skill": 17,
+    "difficultyLevel": "expert",
+    "duration": 7,
+    "sessions": 2,
+    "startDate": "2025-11-05T09:41:14.409Z",
+    "endDate": "2025-11-06T09:41:14.409Z",
+    "instructor": 45,
+    "capacity": 16,
+    "price": 0,
+    "isFree": true,
+    "isOnline": true,
+    "location": null,
+    "prerequisites": [
+      "Comprehendo pariatur viduo tenax fuga asporto volutabrum.",
+      "Tersus turba coniuratio utrimque caput consuasor adopto solum."
+    ],
+    "learningOutcomes": [
+      "Caute constans sollers certe tamdiu sursum aequitas.",
+      "Solus territo sophismata.",
+      "Cursus tempus apparatus."
+    ],
+    "materials": [
+      "Carmen capitulus suppono thorax venia tui occaecati voluptatibus.",
+      "Cavus tui dignissimos addo tandem."
+    ],
+    "status": "scheduled",
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-08-15T15:08:34.030Z",
+    "tags": [
+      6,
+      18,
+      15
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2025-04-07T11:02:26.280Z",
+      "updatedAt": "2025-04-22T05:11:49.336Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.877Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Tutorial de Fresado CNC 2 3",
+    "description": "Consequuntur omnis tamdiu cuius crapula eaque excepturi celer subnecto termes. Torrens tantillus voluptates contego constans voluptatibus dignissimos adnuo ante. Venustas temeritas quia templum claudeo derideo vigor.\nAstrum cohibeo cupio ver. Caute vomer textor virtus auxilium validus abstergo. Sponte cibo officiis bellum bibo urbanus clibanus cur carpo arcesso.",
+    "trainingType": "tutorial",
+    "skill": 20,
+    "difficultyLevel": "expert",
+    "duration": 39,
+    "sessions": 10,
+    "startDate": "2026-01-16T14:19:26.145Z",
+    "endDate": "2026-01-25T14:19:26.145Z",
+    "instructor": 39,
+    "capacity": 27,
+    "price": 106.02735001329974,
+    "isFree": false,
+    "isOnline": false,
+    "location": null,
+    "prerequisites": [
+      "Quibusdam considero comis demum advoco coniecto capitulus adhuc cervus.",
+      "Caelestis currus laborum derideo vomer comitatus sollicito rerum dolore.",
+      "Vilicus ultio copia corporis deprimo volva autem abutor laboriosam."
+    ],
+    "learningOutcomes": [
+      "Colo suus copiose patria ratione.",
+      "Denego temptatio eaque astrum sopor volubilis cito surculus ventus denuo.",
+      "Volaticus audentia temporibus."
+    ],
+    "materials": [
+      "Strues acsi comedo cattus coadunatio alo demum bellum arcus assentator.",
+      "Aeger sonitus textilis hic tendo caecus et claro amplitudo alius.",
+      "Deficio demens adsum decipio aedificium."
+    ],
+    "status": "cancelled",
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-07-25T16:46:24.479Z",
+    "tags": [
+      26
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-12-02T10:05:22.334Z",
+      "updatedAt": "2024-07-01T22:19:49.909Z",
+      "createdBy": null,
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.877Z",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "name": "Hands-on Visualización 1 4",
+    "description": "Censura terebro umerus contra vesper. Sumo tabernus defero aveho architecto libero appello cupiditate. Ut curo communis veritas cunae vitiosus admitto.\nAttonbitus tametsi eaque vulpes nobis conduco ullam tamdiu. Cur sapiente tener termes depopulo. Cilicium verto deinde.",
+    "trainingType": "workshop",
+    "skill": 30,
+    "difficultyLevel": "intermediate",
+    "duration": 6,
+    "sessions": 2,
+    "startDate": "2026-04-05T01:43:43.259Z",
+    "endDate": "2026-04-07T01:43:43.259Z",
+    "instructor": 47,
+    "capacity": 22,
+    "price": 487.4140978459568,
+    "isFree": false,
+    "isOnline": false,
+    "location": null,
+    "prerequisites": [
+      "Vestrum clam inventore acquiro benevolentia convoco vere iste.",
+      "Quos thesis ullam delinquo compono totidem victus ullus canis.",
+      "Debitis alius curvo valens at."
+    ],
+    "learningOutcomes": [
+      "Defluo conventus sodalitas arto deripio avarus vulgivagus tempore absorbeo.",
+      "Patruus at usus absconditus infit."
+    ],
+    "materials": [],
+    "status": "in_progress",
+    "isPublic": false,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-05-24T05:33:26.846Z",
+    "tags": [
+      27,
+      25,
+      28
+    ],
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "amo desolo"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-01-07T19:23:18.622Z",
+      "updatedAt": "2024-07-28T15:03:49.682Z",
+      "createdBy": "system",
+      "updatedBy": "admin"
+    },
+    "publishedAt": "2025-05-06T15:29:51.877Z",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "name": "Formación en SLA 1 5",
+    "description": "Theologus convoco autus adficio amo. Coruscus certus certus dolor caries sortitus velit. Spiritus trepide surgo adaugeo.\nCustodia arbitro sumptus. Tergeo crebro speculum beatus desino vitiosus derelinquo. Fuga solvo sufficio.",
+    "trainingType": "other",
+    "skill": 22,
+    "difficultyLevel": "expert",
+    "duration": 4,
+    "sessions": 1,
+    "startDate": "2025-11-26T09:08:16.958Z",
+    "endDate": "2025-11-26T09:08:16.958Z",
+    "instructor": 33,
+    "capacity": 15,
+    "price": 0,
+    "isFree": true,
+    "isOnline": false,
+    "location": 1,
+    "prerequisites": [],
+    "learningOutcomes": [
+      "Alveus utilis totus adaugeo curto ademptio vicinus adipiscor summisse cunabula.",
+      "Delicate solium ter.",
+      "Conforto adhaero solium tui cogito allatus animi soleo.",
+      "Ducimus tener ager suus aegrotatio degenero vivo claustrum."
+    ],
+    "materials": [
+      "Totam speculum alter cimentarius aduro amplexus.",
+      "Altus blandior creptio.",
+      "Comminor comes amet consequatur tamquam conduco defendo."
+    ],
+    "status": "in_progress",
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-05-31T00:49:21.922Z",
+    "tags": [
+      12,
+      14
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "aduro terga"
+      },
+      {
+        "key": "difficulty",
+        "value": "bos hic"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-07-30T01:13:09.653Z",
+      "updatedAt": "2024-11-19T04:01:11.543Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.877Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Aprendizaje de C++ 1 6",
+    "description": "Patrocinor infit denuo antepono commodo. Tenax demulceo tergum ipsam esse capillus crux. Arcus sub crastinus demitto infit alveus cupiditas amet usque defaeco.\nSuus comminor volubilis tollo defleo virtus audeo adflicto vulgus tribuo. Cunae adversus defluo bene altus coepi ademptio. Adulatio minima vulnus constans acervus cicuta tutamen.",
+    "trainingType": "other",
+    "skill": 11,
+    "difficultyLevel": "beginner",
+    "duration": 9,
+    "sessions": 3,
+    "startDate": "2025-11-29T16:27:38.771Z",
+    "endDate": "2025-12-05T16:27:38.771Z",
+    "instructor": 21,
+    "capacity": 5,
+    "price": 457.3930444749521,
+    "isFree": false,
+    "isOnline": true,
+    "location": 2,
+    "prerequisites": [],
+    "learningOutcomes": [
+      "Vomer cursim coepi repellendus ventosus delego.",
+      "Quam sustineo bardus vitiosus.",
+      "Adicio deficio ceno teres."
+    ],
+    "materials": [
+      "Antepono tondeo vesica quos vestrum quo."
+    ],
+    "status": "scheduled",
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-10-20T04:53:14.153Z",
+    "tags": [
+      24
+    ],
+    "metadata": [
+      {
+        "key": "source",
+        "value": "aequitas vos"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-05-25T06:19:38.903Z",
+      "updatedAt": "2024-09-15T00:07:50.085Z",
+      "createdBy": "system",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.877Z",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "name": "Tutorial de SLA 1 7",
+    "description": "Patrocinor tantum aduro balbus verto. Animadverto adiuvo atrox victoria ultio degero. Cavus blanditiis terra barba aedificium abundans cotidie dapifer vigilo.\nCuppedia amet tutis apto uterque admitto sub aetas theatrum odit. Adfero conatus cura deprimo. Appositus voluptas tersus succurro thalassinus somnus accedo tactus.",
+    "trainingType": "tutorial",
+    "skill": 22,
+    "difficultyLevel": "beginner",
+    "duration": 31,
+    "sessions": 8,
+    "startDate": "2025-11-29T22:54:19.527Z",
+    "endDate": "2025-12-06T22:54:19.527Z",
+    "instructor": 21,
+    "capacity": 22,
+    "price": 434.37237349288097,
+    "isFree": false,
+    "isOnline": false,
+    "location": 7,
+    "prerequisites": [
+      "Similique illum vis valens defaeco concedo.",
+      "Atavus unus eveniet demulceo speculum addo abduco peccatus beneficium.",
+      "Celo tardus earum cilicium deficio ventito denique creber."
+    ],
+    "learningOutcomes": [
+      "Atrox venia umbra.",
+      "Vespillo assumenda sublime beneficium venustas accusator tendo usus.",
+      "Thema tepidus expedita pariatur cognatus repellat fugit consequatur tenus solus."
+    ],
+    "materials": [],
+    "status": "scheduled",
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-06-04T22:29:49.199Z",
+    "tags": [
+      2,
+      13
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-05-19T02:22:29.933Z",
+      "updatedAt": "2024-04-24T07:09:46.856Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.877Z",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "name": "Aprende Ruby 8",
+    "description": "Autem cervus testimonium. Ambulo repellendus cunctatio adipiscor. Amicitia coepi trucido amaritudo nihil bene umbra spectaculum aperte voluntarius.\nConstans caste voluptatem delicate congregatio valeo cum totus varietas. Asper statua vomito pax fugiat ciminatio veniam subvenio omnis animadverto. Suffragium velit iusto civitas utilis consequatur ulterius sufficio sursum.",
+    "trainingType": "course",
+    "skill": 8,
+    "difficultyLevel": "intermediate",
+    "duration": 10,
+    "sessions": 3,
+    "startDate": "2026-02-21T16:05:39.906Z",
+    "endDate": "2026-03-03T16:05:39.906Z",
+    "instructor": 34,
+    "capacity": 16,
+    "price": 105.45871814069591,
+    "isFree": false,
+    "isOnline": false,
+    "location": 8,
+    "prerequisites": [
+      "Demulceo temeritas certe angulus.",
+      "Deserunt vivo triumphus."
+    ],
+    "learningOutcomes": [
+      "Adipisci tenax magnam calculus.",
+      "Tremo deripio decipio ex clibanus vehemens consectetur.",
+      "Pectus corpus viduo cubitum."
+    ],
+    "materials": [
+      "Quisquam tego cavus non solum tenetur adeo.",
+      "Conculco acer conservo turbo somnus succurro creta cenaculum.",
+      "Eaque coerceo uxor odio.",
+      "Corpus curtus casus."
+    ],
+    "status": "cancelled",
+    "isPublic": false,
+    "registrationRequired": false,
+    "registrationDeadline": "2025-08-29T16:47:13.073Z",
+    "tags": [
+      6
+    ],
+    "metadata": [
+      {
+        "key": "popularity",
+        "value": "combibo credo"
+      },
+      {
+        "key": "department",
+        "value": "vesco tripudio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-09-15T14:18:14.066Z",
+      "updatedAt": "2023-12-16T15:13:57.757Z",
+      "createdBy": "admin",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.877Z",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "name": "Coaching de PCB 2 9",
+    "description": "Vulariter arcus ustulo. Animadverto virgo nihil fugiat curiositas damno quo tertius basium tenax. Temeritas canis toties teres mollitia traho auctus adaugeo.\nDecerno cimentarius aperte libero contego. Sequi sunt depraedor valens aperio velociter calculus crur adficio trado. Iure suppono adduco aptus colligo adhaero cena facilis ambulo totidem.",
+    "trainingType": "mentorship",
+    "skill": 24,
+    "difficultyLevel": "intermediate",
+    "duration": 19,
+    "sessions": 5,
+    "startDate": "2025-09-25T02:20:24.108Z",
+    "endDate": "2025-10-07T02:20:24.108Z",
+    "instructor": 27,
+    "capacity": 30,
+    "price": 0,
+    "isFree": true,
+    "isOnline": true,
+    "location": 10,
+    "prerequisites": [],
+    "learningOutcomes": [
+      "Ab varietas cubo demonstro coma cribro cilicium.",
+      "Cotidie terga sollers praesentium.",
+      "Decor a conqueror delectatio cura sint."
+    ],
+    "materials": [
+      "Adicio votum inventore creptio.",
+      "Suus vigilo triumphus abstergo tibi aestus tumultus cinis error tot.",
+      "Impedit natus valens derideo asperiores copia aliqua.",
+      "Defendo totus pecto theatrum sortitus cerno annus demulceo ulterius."
+    ],
+    "status": "completed",
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-09-22T13:01:28.451Z",
+    "tags": [
+      18,
+      27
+    ],
+    "metadata": [
+      {
+        "key": "priority",
+        "value": "damnatio decipio"
+      }
+    ],
+    "audit": {
+      "createdAt": "2024-04-19T02:50:28.702Z",
+      "updatedAt": "2024-09-27T19:27:14.849Z",
+      "createdBy": "admin",
+      "updatedBy": null
+    },
+    "publishedAt": "2025-05-06T15:29:51.877Z",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "name": "Hands-on FDM 10",
+    "description": "Somniculosus strues sequi damno teres aiunt conor odit. Calco vero neque corrigo defetiscor nemo surculus auctor. Eum vitiosus thalassinus clam adeptio tepidus hic ancilla deripio angulus.\nCiminatio ventosus absorbeo adinventitias aduro subnecto. Conturbo asporto depraedor. Stella ascit tametsi sufficio compono curia sulum audacia.",
+    "trainingType": "workshop",
+    "skill": 27,
+    "difficultyLevel": "advanced",
+    "duration": 8,
+    "sessions": 2,
+    "startDate": "2026-04-22T16:33:47.413Z",
+    "endDate": "2026-04-23T16:33:47.413Z",
+    "instructor": 40,
+    "capacity": 14,
+    "price": 0,
+    "isFree": true,
+    "isOnline": false,
+    "location": 2,
+    "prerequisites": [
+      "Caveo carcer supra asporto depraedor voluptas arto theologus uterque."
+    ],
+    "learningOutcomes": [
+      "Caritas brevis blanditiis maiores curtus culpo.",
+      "Labore argumentum debitis."
+    ],
+    "materials": [
+      "Vestrum deprimo est altus denuncio concedo pariatur."
+    ],
+    "status": "in_progress",
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2026-02-17T02:21:19.446Z",
+    "tags": [
+      10,
+      13,
+      6
+    ],
+    "metadata": [],
+    "audit": {
+      "createdAt": "2023-05-14T05:19:02.351Z",
+      "updatedAt": "2024-02-23T01:52:33.289Z",
+      "createdBy": null,
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.878Z",
+    "deletedAt": null
+  },
+  {
+    "id": 11,
+    "name": "Introducción a Automatización 11",
+    "description": "Ceno vulnero calcar virtus capitulus ipsa. Laborum amplexus antiquus incidunt. Deludo talio beatus ullus veniam callide utroque aggredior desino.\nDepulso compello volva aut baiulus taceo pax. Comminor stella atavus conservo alioqui. Audeo accusamus deprimo aranea vehemens blanditiis sordeo.",
+    "trainingType": "workshop",
+    "skill": 21,
+    "difficultyLevel": "beginner",
+    "duration": 38,
+    "sessions": 10,
+    "startDate": "2025-06-06T17:18:36.146Z",
+    "endDate": "2025-06-15T17:18:36.146Z",
+    "instructor": 2,
+    "capacity": 19,
+    "price": 464.03691135507665,
+    "isFree": false,
+    "isOnline": true,
+    "location": null,
+    "prerequisites": [],
+    "learningOutcomes": [
+      "Vox denuo thesaurus velum velut sponte delicate.",
+      "Copiose curis tenuis ipsum ab vulnero tamquam clibanus.",
+      "Teneo aro defungo delibero.",
+      "Delego asporto triumphus acceptus.",
+      "Absum deputo damnatio summisse deorsum saepe totus tremo."
+    ],
+    "materials": [
+      "Chirographum tertius pecto absens accusamus repellat theatrum certe valetudo tenus.",
+      "Cursus demens adsum at solio venia.",
+      "Voluntarius carmen numquam suggero defleo pax patior spero coma.",
+      "Varietas provident asper sophismata umbra desolo inventore."
+    ],
+    "status": "in_progress",
+    "isPublic": false,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-05-08T19:40:31.145Z",
+    "tags": [
+      24,
+      2,
+      4
+    ],
+    "metadata": [
+      {
+        "key": "difficulty",
+        "value": "degenero caput"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-07-19T18:43:27.497Z",
+      "updatedAt": "2024-12-25T11:04:12.713Z",
+      "createdBy": "admin",
+      "updatedBy": "system"
+    },
+    "publishedAt": "2025-05-06T15:29:51.878Z",
+    "deletedAt": "2025-05-06T14:05:55.907Z"
+  },
+  {
+    "id": 12,
+    "name": "Workshop de PCB 2 12",
+    "description": "Maiores comminor adduco blandior. Animi ulciscor curtus vociferor deludo alius sortitus. Strues sollers demo ambitus vulgaris thorax delego arx damno.\nPecco damnatio tibi caterva cras comes soluta atqui. Patior unde conor cupressus quo. Clibanus atqui crustulum blandior voco depromo tres stella spoliatio acies.",
+    "trainingType": "workshop",
+    "skill": 24,
+    "difficultyLevel": "beginner",
+    "duration": 26,
+    "sessions": 7,
+    "startDate": "2025-09-07T11:59:23.047Z",
+    "endDate": "2025-10-07T11:59:23.047Z",
+    "instructor": 37,
+    "capacity": 17,
+    "price": 0,
+    "isFree": true,
+    "isOnline": true,
+    "location": 2,
+    "prerequisites": [
+      "Sub officiis speculum.",
+      "Vestigium decretum amoveo deputo admitto basium adaugeo optio summopere volo."
+    ],
+    "learningOutcomes": [
+      "Conscendo numquam porro colligo.",
+      "Impedit sulum tum."
+    ],
+    "materials": [
+      "Temeritas officiis calculus cenaculum deleniti trado.",
+      "Commodo voluptate decumbo vorago corroboro animus.",
+      "Sollicito theologus repellendus celebrer iure inflammatio vespillo."
+    ],
+    "status": "scheduled",
+    "isPublic": true,
+    "registrationRequired": true,
+    "registrationDeadline": "2025-06-13T16:14:31.581Z",
+    "tags": [
+      21
+    ],
+    "metadata": [
+      {
+        "key": "relevance",
+        "value": "comparo harum"
+      },
+      {
+        "key": "tag",
+        "value": "autem auditor"
+      }
+    ],
+    "audit": {
+      "createdAt": "2023-11-16T11:00:28.038Z",
+      "updatedAt": "2024-02-25T14:46:55.336Z",
+      "createdBy": "system",
+      "updatedBy": "member"
+    },
+    "publishedAt": "2025-05-06T15:29:51.878Z",
+    "deletedAt": null
+  }
+]
