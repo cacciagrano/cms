@@ -1,0 +1,3155 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "CAD",
+      "description": "Diseño asistido por computadora",
+      "icon": "computer",
+      "color": "#4285F4"
+    },
+    {
+      "id": 2,
+      "name": "Electronics",
+      "description": "Electrónica y circuitos",
+      "icon": "chip",
+      "color": "#EA4335"
+    },
+    {
+      "id": 3,
+      "name": "Woodworking",
+      "description": "Trabajo en madera",
+      "icon": "saw",
+      "color": "#FBBC05"
+    },
+    {
+      "id": 4,
+      "name": "Programming",
+      "description": "Programación y desarrollo de software",
+      "icon": "code",
+      "color": "#34A853"
+    },
+    {
+      "id": 5,
+      "name": "Metalwork",
+      "description": "Trabajo en metal",
+      "icon": "hammer",
+      "color": "#8F8F8F"
+    },
+    {
+      "id": 6,
+      "name": "3D Printing",
+      "description": "Impresión 3D y fabricación aditiva",
+      "icon": "printer3d",
+      "color": "#FF6D01"
+    },
+    {
+      "id": 7,
+      "name": "Laser Cutting",
+      "description": "Corte y grabado láser",
+      "icon": "laser",
+      "color": "#FF0266"
+    },
+    {
+      "id": 8,
+      "name": "CNC",
+      "description": "Control numérico computarizado",
+      "icon": "cnc",
+      "color": "#673AB7"
+    },
+    {
+      "id": 9,
+      "name": "IoT",
+      "description": "Internet de las cosas",
+      "icon": "wifi",
+      "color": "#03A9F4"
+    },
+    {
+      "id": 10,
+      "name": "Robotics",
+      "description": "Robótica y automatización",
+      "icon": "robot",
+      "color": "#009688"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "Fusion 360",
+      "description": "Vomica accommodo ipsum.",
+      "slug": "fusion-360",
+      "icon": "brush",
+      "color": "#6c5a0a",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": null,
+      "parentSkillId": null,
+      "categoryId": 1,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 1
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 1
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "SolidWorks",
+      "description": "Cupiditate tyrannus celebrer textus.",
+      "slug": "solidworks",
+      "icon": "brush",
+      "color": "#010618",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Natus dignissimos vacuus autus coniuratio. Arbor voluptatibus currus vigor. Velum eum perspiciatis delego copiose cavus.",
+      "parentSkillId": null,
+      "categoryId": 1,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 2
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 2
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 2
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "AutoCAD",
+      "description": "Vulgaris advoco modi vitium audeo.",
+      "slug": "autocad",
+      "icon": "build",
+      "color": "#242b4f",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Aperio cursus deporto dolores dens adeptio cometes porro. Suffragium cotidie tempore virga. Cilicium aggredior asporto aeger voro a accedo.",
+      "parentSkillId": null,
+      "categoryId": 1,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 3
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 3
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 3
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 3
+        },
+        {
+          "id": 5,
+          "name": "Master",
+          "description": "Maestría",
+          "value": 5,
+          "icon": "auto_awesome",
+          "color": "#9C27B0",
+          "isDefault": false,
+          "criteria": "Reconocimiento en la comunidad y contribuciones significativas",
+          "skillId": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Blender",
+      "description": "Antiquus victus auditor vigor.",
+      "slug": "blender",
+      "icon": "science",
+      "color": "#171244",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Terra adfectus conatus templum. Theatrum nihil comburo defero aegrus utique argentum cavus cresco defleo. Apto consuasor corporis audacia venio suffoco beatus auditor.",
+      "parentSkillId": null,
+      "categoryId": 1,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 4
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 4
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "SketchUp",
+      "description": "Ciminatio placeat ustilo umquam doloremque.",
+      "slug": "sketchup",
+      "icon": "build",
+      "color": "#003a14",
+      "isActive": true,
+      "isVerifiable": false,
+      "verificationCriteria": "Cursim adhaero volutabrum amoveo vesica. Cilicium tenuis vorago quis absorbeo adsum. Sui vulpes vulariter tamisium calculus spiculum voluptatem confido.",
+      "parentSkillId": null,
+      "categoryId": 1,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 5
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 5
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 5
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Rhino",
+      "description": "Dignissimos titulus concido iste colligo deorsum bos combibo centum.",
+      "slug": "rhino",
+      "icon": "settings",
+      "color": "#1c2a1d",
+      "isActive": true,
+      "isVerifiable": false,
+      "verificationCriteria": null,
+      "parentSkillId": 1,
+      "categoryId": 1,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 6
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 6
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 6
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 6
+        },
+        {
+          "id": 5,
+          "name": "Master",
+          "description": "Maestría",
+          "value": 5,
+          "icon": "auto_awesome",
+          "color": "#9C27B0",
+          "isDefault": false,
+          "criteria": "Reconocimiento en la comunidad y contribuciones significativas",
+          "skillId": 6
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "OnShape",
+      "description": "Spero suadeo capto adulatio argumentum ubi officiis crux.",
+      "slug": "onshape",
+      "icon": "science",
+      "color": "#53165e",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": null,
+      "parentSkillId": null,
+      "categoryId": 1,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 7
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 7
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 7
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 7
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Circuit Design",
+      "description": "Delinquo absconditus non cotidie.",
+      "slug": "circuit-design",
+      "icon": "code",
+      "color": "#3f542c",
+      "isActive": true,
+      "isVerifiable": false,
+      "verificationCriteria": null,
+      "parentSkillId": null,
+      "categoryId": 2,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 8
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 8
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 8
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "PCB Layout",
+      "description": "Accedo aestus suffoco.",
+      "slug": "pcb-layout",
+      "icon": "star",
+      "color": "#401778",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": null,
+      "parentSkillId": 5,
+      "categoryId": 2,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 9
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 9
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 9
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 9
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Soldering",
+      "description": "Temperantia claustrum depono tactus cupressus.",
+      "slug": "soldering",
+      "icon": "brush",
+      "color": "#4f7e56",
+      "isActive": false,
+      "isVerifiable": true,
+      "verificationCriteria": "Aliquid causa reiciendis. Sapiente tumultus placeat adfectus voveo. Carus tollo dicta tepidus.",
+      "parentSkillId": 3,
+      "categoryId": 2,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 10
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 10
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 10
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Microcontrollers",
+      "description": "Ante tripudio turpis concedo aestas crebro amicitia vinum cotidie.",
+      "slug": "microcontrollers",
+      "icon": "science",
+      "color": "#1a196f",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Sublime desparatus adnuo arma. Vinum benigne alioqui defaeco. Acsi subseco ciminatio ventosus vestigium solutio iste.",
+      "parentSkillId": null,
+      "categoryId": 2,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 11
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 11
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 11
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Analog Electronics",
+      "description": "Utrimque distinctio cogito nisi aequitas clarus desipio attonbitus quibusdam minima.",
+      "slug": "analog-electronics",
+      "icon": "science",
+      "color": "#033a58",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Reiciendis suus antepono talus dignissimos utroque corrigo capitulus. Cum sub libero altus armarium quasi amplexus aegrus ex itaque. Damnatio vehemens vicinus admitto contigo.",
+      "parentSkillId": null,
+      "categoryId": 2,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 12
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 12
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 12
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Digital Electronics",
+      "description": "Terminatio studio uredo.",
+      "slug": "digital-electronics",
+      "icon": "build",
+      "color": "#1c2c69",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Aequus creator solus tamquam defessus confugo. Surgo bellicus tertius cruciamentum aureus vereor. Aequitas demonstro totus taceo bestia depulso.",
+      "parentSkillId": null,
+      "categoryId": 2,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 13
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 13
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 13
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Power Systems",
+      "description": "Testimonium eligendi communis thymum alienus consequatur deporto subito.",
+      "slug": "power-systems",
+      "icon": "settings",
+      "color": "#392c76",
+      "isActive": false,
+      "isVerifiable": true,
+      "verificationCriteria": null,
+      "parentSkillId": null,
+      "categoryId": 2,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 14
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 14
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 14
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 14
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Joinery",
+      "description": "Totidem error tamdiu sollicito cogo sono cultellus torqueo aequitas.",
+      "slug": "joinery",
+      "icon": "settings",
+      "color": "#5b7f62",
+      "isActive": true,
+      "isVerifiable": false,
+      "verificationCriteria": "Terror coma tempus amplitudo minima alienus decerno eos aggero appello. Cunabula ab vulgo cursus adfectus omnis degenero. Beneficium tamen undique deprecator tredecim pecto sonitus.",
+      "parentSkillId": 3,
+      "categoryId": 3,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 15
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 15
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 15
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 15
+        },
+        {
+          "id": 5,
+          "name": "Master",
+          "description": "Maestría",
+          "value": 5,
+          "icon": "auto_awesome",
+          "color": "#9C27B0",
+          "isDefault": false,
+          "criteria": "Reconocimiento en la comunidad y contribuciones significativas",
+          "skillId": 15
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Turning",
+      "description": "Curtus abeo alter claudeo accusantium sint.",
+      "slug": "turning",
+      "icon": "settings",
+      "color": "#590462",
+      "isActive": true,
+      "isVerifiable": false,
+      "verificationCriteria": "Natus sordeo bonus desolo. Synagoga ipsum magni depromo cupio cuppedia communis voco. Tutamen vicissitudo depopulo aiunt.",
+      "parentSkillId": null,
+      "categoryId": 3,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 16
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 16
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 16
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 16
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Carving",
+      "description": "Somnus trans autem vomer.",
+      "slug": "carving",
+      "icon": "brush",
+      "color": "#093f77",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Consuasor varius confugo patria eius vomito addo concedo substantia. Clarus teres tempore amplitudo conduco alveus. Tabernus pauci audio.",
+      "parentSkillId": null,
+      "categoryId": 3,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 17
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 17
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 17
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 17
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Furniture Making",
+      "description": "Vinum ver tredecim complectus tutis dolorem conforto cruentus.",
+      "slug": "furniture-making",
+      "icon": "code",
+      "color": "#240817",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": null,
+      "parentSkillId": null,
+      "categoryId": 3,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 18
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 18
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 18
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 18
+        },
+        {
+          "id": 5,
+          "name": "Master",
+          "description": "Maestría",
+          "value": 5,
+          "icon": "auto_awesome",
+          "color": "#9C27B0",
+          "isDefault": false,
+          "criteria": "Reconocimiento en la comunidad y contribuciones significativas",
+          "skillId": 18
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Finishing",
+      "description": "Careo harum temptatio tutamen temperantia apud ultra aeger una.",
+      "slug": "finishing",
+      "icon": "build",
+      "color": "#402071",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": null,
+      "parentSkillId": null,
+      "categoryId": 3,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 19
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 19
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 19
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 19
+        },
+        {
+          "id": 5,
+          "name": "Master",
+          "description": "Maestría",
+          "value": 5,
+          "icon": "auto_awesome",
+          "color": "#9C27B0",
+          "isDefault": false,
+          "criteria": "Reconocimiento en la comunidad y contribuciones significativas",
+          "skillId": 19
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "CNC Woodworking",
+      "description": "Adsuesco occaecati verto delectatio sapiente atque condico.",
+      "slug": "cnc-woodworking",
+      "icon": "science",
+      "color": "#08664c",
+      "isActive": false,
+      "isVerifiable": true,
+      "verificationCriteria": "Virtus arto defetiscor adicio coadunatio caveo. Consuasor utilis aspernatur agnitio quas ante. Crebro officiis contabesco cotidie cavus molestias demo aeneus.",
+      "parentSkillId": null,
+      "categoryId": 3,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 20
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 20
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 20
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 20
+        },
+        {
+          "id": 5,
+          "name": "Master",
+          "description": "Maestría",
+          "value": 5,
+          "icon": "auto_awesome",
+          "color": "#9C27B0",
+          "isDefault": false,
+          "criteria": "Reconocimiento en la comunidad y contribuciones significativas",
+          "skillId": 20
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Python",
+      "description": "Strenuus fugiat vobis.",
+      "slug": "python",
+      "icon": "star",
+      "color": "#5b182d",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Corrigo aequus canto dicta. Tribuo spiculum acervus argentum cavus cilicium claudeo arto. Terror sumptus volubilis sopor vindico conforto comminor cupiditas demitto.",
+      "parentSkillId": 1,
+      "categoryId": 4,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 21
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 21
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 21
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 21
+        },
+        {
+          "id": 5,
+          "name": "Master",
+          "description": "Maestría",
+          "value": 5,
+          "icon": "auto_awesome",
+          "color": "#9C27B0",
+          "isDefault": false,
+          "criteria": "Reconocimiento en la comunidad y contribuciones significativas",
+          "skillId": 21
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "JavaScript",
+      "description": "Adiuvo advenio armarium deputo carus ipsa contra tergeo acies tubineus.",
+      "slug": "javascript",
+      "icon": "code",
+      "color": "#656047",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Atque suffragium urbanus ducimus quis commemoro cariosus talio. Cum atque talio admiratio alioqui. Caelum centum demo aveho cometes vinitor venia culpa.",
+      "parentSkillId": null,
+      "categoryId": 4,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 22
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 22
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 22
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "C++",
+      "description": "Calcar conturbo deficio.",
+      "slug": "c",
+      "icon": "code",
+      "color": "#17723b",
+      "isActive": true,
+      "isVerifiable": false,
+      "verificationCriteria": "Abstergo aiunt velociter utpote causa aptus. Timidus cupressus adipiscor crur turba acer quis abeo. Tollo alter tamen adflicto tremo vel volva.",
+      "parentSkillId": null,
+      "categoryId": 4,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 23
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 23
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 23
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Arduino",
+      "description": "Vitae atrox degenero ustilo statim tubineus totidem ratione.",
+      "slug": "arduino",
+      "icon": "settings",
+      "color": "#557121",
+      "isActive": true,
+      "isVerifiable": false,
+      "verificationCriteria": null,
+      "parentSkillId": null,
+      "categoryId": 4,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 24
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 24
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 24
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Raspberry Pi",
+      "description": "Deprimo villa corpus avaritia adipiscor.",
+      "slug": "raspberry-pi",
+      "icon": "star",
+      "color": "#093145",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": null,
+      "parentSkillId": 8,
+      "categoryId": 4,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 25
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 25
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 25
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 25
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Web Development",
+      "description": "Timor tamen aufero nostrum defetiscor quam.",
+      "slug": "web-development",
+      "icon": "brush",
+      "color": "#3b553c",
+      "isActive": true,
+      "isVerifiable": false,
+      "verificationCriteria": null,
+      "parentSkillId": 3,
+      "categoryId": 4,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 26
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 26
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 26
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Mobile Apps",
+      "description": "Viridis apud beatae totidem adversus versus aliquam desipio tantillus conservo.",
+      "slug": "mobile-apps",
+      "icon": "build",
+      "color": "#271809",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": null,
+      "parentSkillId": null,
+      "categoryId": 4,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 27
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 27
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 27
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Embedded Systems",
+      "description": "Vinitor copia comes deputo celebrer decumbo cupressus creator.",
+      "slug": "embedded-systems",
+      "icon": "star",
+      "color": "#27167c",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Aqua paens thema exercitationem vesper depraedor ad. Conatus absum sed casus taedium conor bos culpo alias vix. Thermae strenuus aliqua arma concido magnam ubi contigo.",
+      "parentSkillId": 14,
+      "categoryId": 4,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 28
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 28
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 28
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 28
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Welding",
+      "description": "Utroque claro explicabo decretum sperno valde cubicularis aqua.",
+      "slug": "welding",
+      "icon": "settings",
+      "color": "#156900",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Amet quas tumultus civitas. Conatus voco volaticus. Cenaculum abscido desidero explicabo.",
+      "parentSkillId": null,
+      "categoryId": 5,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 29
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 29
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 29
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 29
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Machining",
+      "description": "Deserunt altus dignissimos perspiciatis cui venio curatio ante adficio.",
+      "slug": "machining",
+      "icon": "science",
+      "color": "#256e19",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": null,
+      "parentSkillId": 7,
+      "categoryId": 5,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 30
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 30
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 30
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 30
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Sheet Metal",
+      "description": "Validus ex utor decretum accusamus aut subiungo pectus subvenio.",
+      "slug": "sheet-metal",
+      "icon": "build",
+      "color": "#532d39",
+      "isActive": true,
+      "isVerifiable": false,
+      "verificationCriteria": "Adnuo esse ter defero degero enim bibo. Terreo varietas curatio una cometes ater deinde aliquid ascisco. Aedificium tunc tolero adulescens patria abundans dolor cito tibi tabesco.",
+      "parentSkillId": null,
+      "categoryId": 5,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 31
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 31
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 31
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Casting",
+      "description": "Volup chirographum denique soleo recusandae pariatur tutis civis.",
+      "slug": "casting",
+      "icon": "star",
+      "color": "#0b3950",
+      "isActive": false,
+      "isVerifiable": true,
+      "verificationCriteria": "Appono uberrime vetus depromo careo illo aqua spoliatio. Aeneus vitae auxilium careo virtus. Curatio vesco altus taceo conitor.",
+      "parentSkillId": null,
+      "categoryId": 5,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 32
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 32
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 32
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 32
+        },
+        {
+          "id": 5,
+          "name": "Master",
+          "description": "Maestría",
+          "value": 5,
+          "icon": "auto_awesome",
+          "color": "#9C27B0",
+          "isDefault": false,
+          "criteria": "Reconocimiento en la comunidad y contribuciones significativas",
+          "skillId": 32
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Forging",
+      "description": "Arbor absconditus demergo arguo charisma.",
+      "slug": "forging",
+      "icon": "build",
+      "color": "#115c46",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Apparatus tricesimus corroboro adstringo nobis tener armarium blandior adulescens. Subvenio tempora abbas. Vulgivagus ventus vitiosus acidus non cito subito alii aurum.",
+      "parentSkillId": null,
+      "categoryId": 5,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 33
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 33
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 33
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 33
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Metal Finishing",
+      "description": "Tredecim quidem illo accendo tenus confero umquam cerno.",
+      "slug": "metal-finishing",
+      "icon": "brush",
+      "color": "#462e0c",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Pax desidero assentator conitor cursim voco curatio bene subiungo. Terror texo dolore dolores. Ara utroque dedico apostolus patrocinor.",
+      "parentSkillId": 20,
+      "categoryId": 5,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 34
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 34
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 34
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 34
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "FDM Printing",
+      "description": "Inventore amo barba arx ascit advenio.",
+      "slug": "fdm-printing",
+      "icon": "code",
+      "color": "#1d6e34",
+      "isActive": true,
+      "isVerifiable": false,
+      "verificationCriteria": "Circumvenio volo tersus canis accedo celer acquiro delego vae. Dolorum ad theologus trado vester sustineo eligendi. Textilis admitto curvo sub beatus.",
+      "parentSkillId": null,
+      "categoryId": 6,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 35
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 35
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 35
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Resin Printing",
+      "description": "Voluptatum temptatio deprecator cavus corrupti utpote custodia blanditiis verumtamen.",
+      "slug": "resin-printing",
+      "icon": "star",
+      "color": "#102a1a",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Provident optio administratio vulticulus aspernatur suscipit trado. Statim adsidue talis vox. Tenus soleo taedium terreo aegre absum.",
+      "parentSkillId": null,
+      "categoryId": 6,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 36
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 36
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 36
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 36
+        },
+        {
+          "id": 5,
+          "name": "Master",
+          "description": "Maestría",
+          "value": 5,
+          "icon": "auto_awesome",
+          "color": "#9C27B0",
+          "isDefault": false,
+          "criteria": "Reconocimiento en la comunidad y contribuciones significativas",
+          "skillId": 36
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Multi-material Printing",
+      "description": "Eos pel temporibus provident torrens cauda porro thermae acsi.",
+      "slug": "multimaterial-printing",
+      "icon": "science",
+      "color": "#114105",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Animus thermae sollicito vir ducimus. Termes validus denuo virgo caries perferendis. Adstringo vulticulus degenero dolorum suffragium quo odit.",
+      "parentSkillId": null,
+      "categoryId": 6,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 37
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 37
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 37
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "3D Modeling for Print",
+      "description": "Tempora ventosus conitor stillicidium quia abbas deripio.",
+      "slug": "3d-modeling-for-print",
+      "icon": "build",
+      "color": "#2d7478",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Delicate textor omnis careo cursim. Maxime spero tepidus valens praesentium uter tardus coniuratio timidus ocer. Vilitas deleo umbra deficio cernuus aro contabesco cauda in.",
+      "parentSkillId": null,
+      "categoryId": 6,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 38
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 38
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 38
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Print Finishing",
+      "description": "Cohibeo certus depraedor velum tredecim facere conor.",
+      "slug": "print-finishing",
+      "icon": "settings",
+      "color": "#352f35",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Deputo cohibeo benevolentia qui degenero cedo taceo. Decor pauper cibus clarus villa circumvenio taedium defessus alioqui tunc. Spero apto abutor decretum.",
+      "parentSkillId": null,
+      "categoryId": 6,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 39
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 39
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 39
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 39
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Print Repair",
+      "description": "Adhuc torqueo desino eaque adfectus audeo barba crapula utroque.",
+      "slug": "print-repair",
+      "icon": "settings",
+      "color": "#174d0a",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Cicuta coepi blandior cras spero audacia aer talis ater sustineo. Audio quo carmen benevolentia curriculum suffoco capitulus. Demulceo cursus balbus nemo totus vacuus.",
+      "parentSkillId": null,
+      "categoryId": 6,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 40
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 40
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 40
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Vector Design",
+      "description": "Versus carmen dens comprehendo consectetur argumentum agnosco capitulus aeneus quibusdam.",
+      "slug": "vector-design",
+      "icon": "build",
+      "color": "#49621d",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": null,
+      "parentSkillId": null,
+      "categoryId": 7,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 41
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 41
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 41
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 41
+        },
+        {
+          "id": 5,
+          "name": "Master",
+          "description": "Maestría",
+          "value": 5,
+          "icon": "auto_awesome",
+          "color": "#9C27B0",
+          "isDefault": false,
+          "criteria": "Reconocimiento en la comunidad y contribuciones significativas",
+          "skillId": 41
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Raster Engraving",
+      "description": "Vulariter celebrer claustrum sol.",
+      "slug": "raster-engraving",
+      "icon": "brush",
+      "color": "#3c7773",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Solio tardus delicate textilis. Callide optio voluptatem valens torrens stipes accendo. Vomito videlicet vitae suffragium.",
+      "parentSkillId": null,
+      "categoryId": 7,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 42
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 42
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 42
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Material Selection",
+      "description": "Non defero quidem.",
+      "slug": "material-selection",
+      "icon": "build",
+      "color": "#6f7210",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Laboriosam tenax sum articulus spiculum cuppedia volva. Basium vado aeternus caste et. Tam baiulus tempora delego addo vaco audeo.",
+      "parentSkillId": null,
+      "categoryId": 7,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 43
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 43
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 43
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Laser Safety",
+      "description": "Statim dolor pecco tergum despecto degero aut.",
+      "slug": "laser-safety",
+      "icon": "build",
+      "color": "#452a6f",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Constans atrocitas arbitro adimpleo cruentus sed crebro cometes bellum. Inventore totus nobis. Adimpleo alius toties maiores aliquid sequi soluta defero causa vehemens.",
+      "parentSkillId": null,
+      "categoryId": 7,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 44
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 44
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 44
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 44
+        },
+        {
+          "id": 5,
+          "name": "Master",
+          "description": "Maestría",
+          "value": 5,
+          "icon": "auto_awesome",
+          "color": "#9C27B0",
+          "isDefault": false,
+          "criteria": "Reconocimiento en la comunidad y contribuciones significativas",
+          "skillId": 44
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Multi-layer Design",
+      "description": "Ventosus enim aiunt uberrime dolor coadunatio.",
+      "slug": "multilayer-design",
+      "icon": "science",
+      "color": "#136b1f",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Stabilis teneo tempus rerum crux adulescens defleo torqueo. Tracto textilis aestivus auditor tepidus. Campana tribuo votum voro cubo concedo deleniti defendo vigor.",
+      "parentSkillId": 17,
+      "categoryId": 7,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 45
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 45
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 45
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 45
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "CAM Programming",
+      "description": "Aperio thymum appello ustulo amiculum adhuc contigo.",
+      "slug": "cam-programming",
+      "icon": "star",
+      "color": "#202a54",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Consequuntur aegrus peccatus tubineus assentator territo verumtamen concido. Antepono labore maxime modi avaritia dolor voluptatibus demulceo venio. Amaritudo perspiciatis blandior verbum succedo.",
+      "parentSkillId": null,
+      "categoryId": 8,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 46
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 46
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 46
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 46
+        },
+        {
+          "id": 5,
+          "name": "Master",
+          "description": "Maestría",
+          "value": 5,
+          "icon": "auto_awesome",
+          "color": "#9C27B0",
+          "isDefault": false,
+          "criteria": "Reconocimiento en la comunidad y contribuciones significativas",
+          "skillId": 46
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Tool Selection",
+      "description": "Cur tredecim accendo defetiscor cupiditate defetiscor caelum deprimo.",
+      "slug": "tool-selection",
+      "icon": "settings",
+      "color": "#50600d",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Tutamen cerno confero surgo facilis capitulus amo cogo. Sortitus communis ventito verbum vix aggredior. Appello adsidue solium tepidus.",
+      "parentSkillId": 42,
+      "categoryId": 8,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 47
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 47
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 47
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 47
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Material Fixturing",
+      "description": "Candidus spero sequi absorbeo verto ipsam aedificium adfero aequus accusamus.",
+      "slug": "material-fixturing",
+      "icon": "science",
+      "color": "#7a6373",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": "Tergeo suggero thymbra. Stultus alias vigilo. Itaque aggero vomica aspernatur arcus defendo supellex campana rerum caecus.",
+      "parentSkillId": null,
+      "categoryId": 8,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 48
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 48
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 48
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "G-code",
+      "description": "Placeat laudantium subvenio cibo stips decor atavus.",
+      "slug": "gcode",
+      "icon": "star",
+      "color": "#415f0f",
+      "isActive": true,
+      "isVerifiable": false,
+      "verificationCriteria": null,
+      "parentSkillId": null,
+      "categoryId": 8,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 49
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 49
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 49
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "CNC Maintenance",
+      "description": "Verbera molestias turpis vicinus alienus vigor cur.",
+      "slug": "cnc-maintenance",
+      "icon": "star",
+      "color": "#310b04",
+      "isActive": true,
+      "isVerifiable": true,
+      "verificationCriteria": null,
+      "parentSkillId": null,
+      "categoryId": 8,
+      "levels": [
+        {
+          "id": 1,
+          "name": "Beginner",
+          "description": "Conocimientos básicos",
+          "value": 1,
+          "icon": "star_outline",
+          "color": "#4CAF50",
+          "isDefault": true,
+          "criteria": "Comprensión básica de conceptos fundamentales",
+          "skillId": 50
+        },
+        {
+          "id": 2,
+          "name": "Intermediate",
+          "description": "Conocimientos intermedios",
+          "value": 2,
+          "icon": "star_half",
+          "color": "#2196F3",
+          "isDefault": false,
+          "criteria": "Capacidad para trabajar de forma independiente en tareas estándar",
+          "skillId": 50
+        },
+        {
+          "id": 3,
+          "name": "Advanced",
+          "description": "Conocimientos avanzados",
+          "value": 3,
+          "icon": "star",
+          "color": "#FFC107",
+          "isDefault": false,
+          "criteria": "Dominio de técnicas avanzadas y resolución de problemas complejos",
+          "skillId": 50
+        },
+        {
+          "id": 4,
+          "name": "Expert",
+          "description": "Conocimientos expertos",
+          "value": 4,
+          "icon": "stars",
+          "color": "#FF5722",
+          "isDefault": false,
+          "criteria": "Capacidad para innovar y enseñar a otros",
+          "skillId": 50
+        }
+      ]
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "memberCode": "M00001",
+      "firstName": "Micah",
+      "lastName": "Schinner",
+      "displayName": "Micah Schinner",
+      "joinDate": "2024-07-21",
+      "memberStatus": "active",
+      "contactInfo": {
+        "email": "Micah.Schinner74@yahoo.com",
+        "phone": "(830) 412-5832 x52282",
+        "website": null,
+        "socialMedia": {
+          "linkedin": "https://linkedin.com/in/micah-schinner-e2t6bO",
+          "twitter": null,
+          "instagram": null
+        }
+      },
+      "profileInfo": {
+        "pronouns": null,
+        "occupation": "Principal Branding Executive",
+        "organization": "Legros, Corwin and Lowe",
+        "education": null,
+        "languages": [
+          "Chinese"
+        ]
+      },
+      "emergencyContact": {
+        "name": "Miss Iris Gulgowski",
+        "relationship": "Friend",
+        "phone": "719-315-0680 x962"
+      },
+      "preferences": {
+        "notifications": {
+          "email": true,
+          "sms": true,
+          "app": true
+        },
+        "privacy": {
+          "showProfile": true,
+          "showSkills": true,
+          "showProjects": false
+        },
+        "theme": "system",
+        "language": "de"
+      },
+      "bio": "Desidero viscus tenuis praesentium abscido. Dignissimos condico stabilis damnatio timidus vester cogo triduana creptio. Cubicularis damnatio callide delectatio accusantium depraedor.\nUsitas turbo comedo ventosus caelum adfectus sol adduco aperiam. Decerno accusantium suasoria chirographum curia libero curvo advoco. Tot aspernatur cito curriculum.",
+      "interests": [
+        "Technology",
+        "Education",
+        "Environment",
+        "Science",
+        "Community"
+      ],
+      "isPublicProfile": true,
+      "skills": [
+        {
+          "id": 1,
+          "skillId": 20,
+          "skillName": "CNC Woodworking",
+          "levelId": 1,
+          "levelName": "Beginner",
+          "levelValue": 1,
+          "isVerified": true,
+          "verifiedBy": 3,
+          "verifiedAt": "2025-04-15T18:25:44.359Z",
+          "yearsExperience": 5.083190878604082,
+          "isPublic": false,
+          "isAvailableForProjects": false,
+          "notes": "Somnus solus porro denego stillicidium voluntarius territo aranea ambitus."
+        },
+        {
+          "id": 2,
+          "skillId": 43,
+          "skillName": "Material Selection",
+          "levelId": 3,
+          "levelName": "Advanced",
+          "levelValue": 3,
+          "isVerified": true,
+          "verifiedBy": 8,
+          "verifiedAt": "2025-01-17T10:35:54.502Z",
+          "yearsExperience": 9.041787413267219,
+          "isPublic": true,
+          "isAvailableForProjects": true,
+          "notes": "Nemo vilis sordeo terra possimus."
+        },
+        {
+          "id": 3,
+          "skillId": 15,
+          "skillName": "Joinery",
+          "levelId": 4,
+          "levelName": "Expert",
+          "levelValue": 4,
+          "isVerified": true,
+          "verifiedBy": 3,
+          "verifiedAt": "2025-03-31T00:02:17.676Z",
+          "yearsExperience": 2.2572948108369766,
+          "isPublic": true,
+          "isAvailableForProjects": true,
+          "notes": "Ascit vester uredo."
+        },
+        {
+          "id": 4,
+          "skillId": 6,
+          "skillName": "Rhino",
+          "levelId": 5,
+          "levelName": "Master",
+          "levelValue": 5,
+          "isVerified": false,
+          "verifiedBy": null,
+          "verifiedAt": null,
+          "yearsExperience": 3.466155941162736,
+          "isPublic": true,
+          "isAvailableForProjects": true,
+          "notes": "Eum clamo amoveo."
+        },
+        {
+          "id": 5,
+          "skillId": 13,
+          "skillName": "Digital Electronics",
+          "levelId": 3,
+          "levelName": "Advanced",
+          "levelValue": 3,
+          "isVerified": true,
+          "verifiedBy": 6,
+          "verifiedAt": "2024-09-24T19:07:38.170Z",
+          "yearsExperience": 7.884376712480787,
+          "isPublic": true,
+          "isAvailableForProjects": true,
+          "notes": "Auditor titulus adsum acerbitas."
+        },
+        {
+          "id": 6,
+          "skillId": 36,
+          "skillName": "Resin Printing",
+          "levelId": 4,
+          "levelName": "Expert",
+          "levelValue": 4,
+          "isVerified": true,
+          "verifiedBy": 8,
+          "verifiedAt": "2024-12-21T09:17:53.855Z",
+          "yearsExperience": 7.626592542847224,
+          "isPublic": true,
+          "isAvailableForProjects": false,
+          "notes": "Tunc adfero vicinus cuppedia copiose causa molestiae."
+        },
+        {
+          "id": 7,
+          "skillId": 7,
+          "skillName": "OnShape",
+          "levelId": 1,
+          "levelName": "Beginner",
+          "levelValue": 1,
+          "isVerified": false,
+          "verifiedBy": null,
+          "verifiedAt": null,
+          "yearsExperience": 2.320273660138212,
+          "isPublic": true,
+          "isAvailableForProjects": false,
+          "notes": "Calco commemoro velociter angelus ulciscor facere auxilium tyrannus excepturi."
+        },
+        {
+          "id": 8,
+          "skillId": 38,
+          "skillName": "3D Modeling for Print",
+          "levelId": 3,
+          "levelName": "Advanced",
+          "levelValue": 3,
+          "isVerified": true,
+          "verifiedBy": 3,
+          "verifiedAt": "2024-08-24T12:43:25.754Z",
+          "yearsExperience": 8.43737821261129,
+          "isPublic": true,
+          "isAvailableForProjects": false,
+          "notes": "Volutabrum cupiditate cotidie cresco solio decipio benevolentia aestas."
+        }
+      ],
+      "ownedProjects": [
+        1
+      ],
+      "projects": [
+        1
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "separate Luxurious Plastic Sausages",
+      "slug": "separate-luxurious-plastic-sausages",
+      "description": "Doloribus patior arguo aduro aurum dolorem. Creator crustulum aegre quibusdam fugiat urbs vesica arguo. Adduco trado antepono creptio ultra optio.\nVere thema aegrotatio cunabula atrocitas angustus adipiscor. Depopulo crebro tonsor mollitia conventus amplitudo thymum consuasor. Tot conor careo arma turbo.\nPauper credo sustineo antiquus. Ulciscor earum reprehenderit. Calamitas dolorum vivo.",
+      "shortDescription": "Comitatus delectus mollitia uxor decet.",
+      "projectStatus": "completed",
+      "visibility": "public",
+      "startDate": "2024-08-19",
+      "endDate": "2024-12-18",
+      "estimatedDuration": "1 month",
+      "category": "business",
+      "tags": [
+        "innovation",
+        "technology",
+        "education",
+        "community",
+        "sustainability",
+        "social"
+      ],
+      "website": null,
+      "repositoryUrl": "https://github.com/user/separate-luxurious-plastic-sausages",
+      "budget": 2306.04840962052,
+      "currency": "EUR",
+      "isFunded": true,
+      "fundingSource": null,
+      "isOpenSource": true,
+      "license": null,
+      "ownerId": 1,
+      "memberIds": []
+    }
+  ],
+  "metadata": {
+    "generated": "2025-05-06T12:27:25.069Z",
+    "counts": {
+      "categories": 10,
+      "skills": 50,
+      "members": 1,
+      "projects": 1
+    }
+  }
+}

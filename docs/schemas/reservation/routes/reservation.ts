@@ -1,7 +1,0 @@
-/**
- * reservation controller
- */
-
-import { factories } from "@strapi/strapi"
-
-export default factories.createCoreRouter("api::reservation.reservation")

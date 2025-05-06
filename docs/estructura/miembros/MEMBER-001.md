@@ -81,4 +81,4 @@
 | 2023-07-01 | Space Usage | Used 3D printing area | 3.5 | Printed project parts |
 | 2023-07-05 | Workshop Attendance | Advanced Fusion 360 | 2.0 | Completed all exercises |
 | 2023-07-10 | Volunteering | Space cleanup day | 4.0 | Organized electronics area |
-\`\`\`
+
